@@ -3,7 +3,7 @@ name: Generate Reuters RSS
 on:
   schedule:
     # 每小时执行一次，GitHub 使用 UTC 时间
-    - cron: "17 * * * *"
+    - cron: "30 * * * *"
 
   workflow_dispatch:
 
