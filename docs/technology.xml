@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 16:10:41 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -36,6 +36,13 @@
       <description>Nvidia partners with Wall Street giants to raise $500 billion for AI buildout Reuters</description>
       <guid isPermaLink="false">7537f486404a3168b9424f5ad7199f16f597e0ac</guid>
       <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg</link>
+      <description>XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools Reuters</description>
+      <guid isPermaLink="false">4daf517c3075c0616972037567b9a927530d8f67</guid>
+      <pubDate>Tue, 11 Aug 2026 16:10:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
