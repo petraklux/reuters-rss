@@ -1,0 +1,41 @@
+# 站点级配置
+site:
+  base_url: "https://petraklux.github.io/reuters-rss"   # ← 改成你的
+  output_dir: "docs"
+  max_items: 50           # 每个 feed 保留条数
+  request_timeout: 25
+  retry: 2
+
+# 每个板块生成一个独立 feed
+sections:
+  - slug: world
+    title: "Reuters · World"
+    arc_category: world
+    html_url: "https://www.reuters.com/world/"
+    google_query: "site:reuters.com/world"
+
+  - slug: business
+    title: "Reuters · Business"
+    arc_category: business
+    html_url: "https://www.reuters.com/business/"
+    google_query: "site:reuters.com/business"
+
+  - slug: technology
+    title: "Reuters · Technology"
+    arc_category: technology
+    html_url: "https://www.reuters.com/technology/"
+    google_query: "site:reuters.com/technology"
+
+  - slug: markets
+    title: "Reuters · Markets"
+    arc_category: markets
+    html_url: "https://www.reuters.com/markets/"
+    google_query: "site:reuters.com/markets"
+
+# AI 生成的 HTML 选择器（Source 3 用；Reuters 类名带哈希，需定期重生成）
+html_selectors:
+  item: "li[class*='story-collection'] , div[class*='media-story-card']"
+  title: "a[data-testid='Heading'], h3 a, a[class*='text__text']"
+  link: "a[href^='/']"
+  summary: "p[class*='text__text']"
+  date: "time"
