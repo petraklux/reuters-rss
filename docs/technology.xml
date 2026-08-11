@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Reuters · Technology</title>
+    <link>https://petraklux.github.io/reuters-rss/technology.xml</link>
+    <description>Unofficial personal RSS mirror of Reuters technology headlines. Headlines &amp; links only — full text at reuters.com.</description>
+    <atom:link href="https://petraklux.github.io/reuters-rss/technology.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>reuters-rss / feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Aug 2026 08:12:07 +0000</lastBuildDate>
+    <item>
+      <title>AI News | Latest Headlines and Developments</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
+      <description>AI News | Latest Headlines and Developments Reuters</description>
+      <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
+      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defense tech firm Lyntris targets $2.5 billion valuation in US IPO</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzV0N25xdmF5V190aE50NklZTkxJRzhvYUoxU09ycXpxSHJ4VnNUcGcwVzNjZ09KLWRqb2dGMEpRS05IbVVHTlhRWHg1ek1pRnJiR0tRaktsazR0QjkxWENZbFNVdlQzdHdJRTlOMW54RGdUTDZSeGhGcjE4VzN3UmNwN0xObmpfVGZmVUZIRnI2NHBGSFlYcWZGT2hVb0JvQ2RQMmZKUGVQMVBKT3Vtcg</link>
+      <description>Defense tech firm Lyntris targets $2.5 billion valuation in US IPO Reuters</description>
+      <guid isPermaLink="false">a8f1d6ecec56b6ed8fe2da4f078ee1c2d9a2bb00</guid>
+      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teledyne to acquire Varex Imaging in $1.1 billion deal</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNZS1tc1Myekp4eHhXQ3prQ1Q1dF84N2g4TmExbWlhY3FlZTRMUHU4M0dkZVV1czZGNG1HUmQ1WUFTWG5vQXNwX2pGaHFTLVVKc0drTDNkd3pmcGxPdkczTmxBSEF3Vk9yOWoyU0o3bkJYd0ZwMmIwd0VjcHNhUUFvS2otbHNlTHExTGxZR2V0d3lTeTY1ZDhOWg</link>
+      <description>Teledyne to acquire Varex Imaging in $1.1 billion deal Reuters</description>
+      <guid isPermaLink="false">52aec6b25b6e73a105168c6c586338db114b4b48</guid>
+      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia partners with Wall Street giants to raise $500 billion for AI buildout</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY</link>
+      <description>Nvidia partners with Wall Street giants to raise $500 billion for AI buildout Reuters</description>
+      <guid isPermaLink="false">7537f486404a3168b9424f5ad7199f16f597e0ac</guid>
+      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
