@@ -1,0 +1,49 @@
+name: Generate Reuters RSS
+
+on:
+  schedule:
+    # 每小时执行一次，GitHub 使用 UTC 时间
+    - cron: "17 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate RSS
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/generate_rss.py
+
+      - name: Commit RSS file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add docs/reuters.xml
+
+          if git diff --cached --quiet; then
+            echo "RSS 没有变化，不提交"
+          else
+            git commit -m "chore: update Reuters RSS"
+            git push
+          fi
