@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:08:53 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -73,11 +73,18 @@
       <pubDate>Tue, 11 Aug 2026 22:03:56 +0000</pubDate>
     </item>
     <item>
-      <title>Nebius beats estimates as customers race to secure AI computing power</title>
+      <title>Nebius powers past estimates as customers race to secure AI computing power</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj</link>
-      <description>Nebius beats estimates as customers race to secure AI computing power Reuters</description>
+      <description>Nebius powers past estimates as customers race to secure AI computing power Reuters</description>
       <guid isPermaLink="false">67aa06bc1a2d2d7c977ff9514e1b6e47b9b2e563</guid>
       <pubDate>Wed, 12 Aug 2026 13:45:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI code review platform CodeRabbit valued at $1.5 billion in latest funding round</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVpwRkdGZzNfNjRzOXlvbDZ2Wm50RlMyZFNMT0M5bE9MSzdocDdJWmV1cmVSNHhhdmFZU3RyZkgwazREdVNhbm5qSmswZ0pDd3lhU2dMOFlYdDBvcXVSdXpzWm90Y2dkZzJFalNhbW1BdndQWm55b3FfTzMyYjR1azQ5b2tKS2lNeThwWlBPd0lFVUp1YmFSOTgzSWNJUjVnd1JablFKZ2RJWGZ2Vzc5S3BOWFJSVjF6aVJNYw</link>
+      <description>AI code review platform CodeRabbit valued at $1.5 billion in latest funding round Reuters</description>
+      <guid isPermaLink="false">a9d880a2c995b0b6c46ba9f8378b4c2353de5083</guid>
+      <pubDate>Wed, 12 Aug 2026 16:08:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
