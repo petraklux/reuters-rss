@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:45:15 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -71,6 +71,13 @@
       <description>CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge Reuters</description>
       <guid isPermaLink="false">73d3167ac0927cdbab0d88a5b2055f4abdbca95e</guid>
       <pubDate>Tue, 11 Aug 2026 22:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebius beats estimates as customers race to secure AI computing power</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj</link>
+      <description>Nebius beats estimates as customers race to secure AI computing power Reuters</description>
+      <guid isPermaLink="false">67aa06bc1a2d2d7c977ff9514e1b6e47b9b2e563</guid>
+      <pubDate>Wed, 12 Aug 2026 13:45:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
