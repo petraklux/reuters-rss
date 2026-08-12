@@ -8,54 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 02:43:09 +0000</lastBuildDate>
-    <item>
-      <title>Ukrainian military says it attacked oil refinery in Russia's Orsk</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEQwVHhsc1RpSXlkM3llOUlsR1RmN1dtZ0V5SmJHdDlzQjJaaEVQSnFTUmlYQnh3SEVSSXlDYkxYMVFubXpNYlpGOGFIWGdlY0M0ZjJDNEJMM29qdE4wZTNnZUhINmF3MHo4ZEtwdjlIeVBSSGkwSVpYejY3SGFDaElCRnh6QjRUaFhSTjVEbkZVZ2RqN1JpRmpTR0lNVVFPVEhhOWVoVmtkWldqN1p1dmJWaw</link>
-      <description>Ukrainian military says it attacked oil refinery in Russia's Orsk Reuters</description>
-      <guid isPermaLink="false">d0823504dfc36200bf3a26ea7bb2f5d3f3d42db1</guid>
-      <pubDate>Tue, 11 Aug 2026 10:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congo Ebola deaths surpass 2,000 as spread shows no sign of slowing</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3pfM25pNkNVYV91OHFhX1BvQWFpWHJDOGVGZktHdlAySTFzR1N3QzFWUmcyLVRrU1Q0ZWR4UVVNaHpyVDdFY1o5T1IySzAzUGUwVmZhVlRyMU41a080SW1ybU4xYkZGX3BHNHBqX2t5UENZektubXBLc0hUSmNyTmczQ0xsSEVqcTJuenpGeEJLTVpIaDlkMjhYR2dOUkdWaEZ5ZkdPN0JkSXMwRlpmdk9aN2ZMYWl1TXdfUVpiWTI</link>
-      <description>Congo Ebola deaths surpass 2,000 as spread shows no sign of slowing Reuters</description>
-      <guid isPermaLink="false">7a6fede862a655982c337926f71f5f43fac86a6a</guid>
-      <pubDate>Tue, 11 Aug 2026 10:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Romania could shut down nuclear reactor on Thursday as Danube levels fall</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcER4RXBhdDI4TUFTVGVuMWhWcm5Yd21hMkJ5RzZXT2c0VG0wWTU1Z0phY3ctVzRfMXFMWVI3TFZvT3pnM0NvLVdxamxxQmh5WE04bG9IX0dvbXlFLW9zYUdNMk5uekM2LXYwZ2lvTHh2UGNaakRpZ0Nnbmp6U05mWHZpTEF0ZHkzc3FEZUcxUWdDeFRpMDNHazJoUkdQR1VjRUItVHRfWmJGMUtNNzhSSXpqZGVuLUtrNjhJ</link>
-      <description>Romania could shut down nuclear reactor on Thursday as Danube levels fall Reuters</description>
-      <guid isPermaLink="false">b139e58c83c9200a4bb0375d4559800fc99878bd</guid>
-      <pubDate>Tue, 11 Aug 2026 10:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decades of farm gains, inventories strengthen food system against 'super' El Nino</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFRtbEEzaXI2c1BXTF9iZUNwdzJCeWs1UUtBd2Q0d0pxNG40eXlkNVh3dm9fSmVKX3I2bE43dGE2dzhVMHpkMV9pOVMtWTZCSkM4S3hfME9WZ2JoeHFKbDRKWE9YaWdEZ3ZYVzVGUmx3T044SmhmYmxTVHFYdTU2ZFh0eHNiX2M1UWFPRGZoWm9OU1prNVdZa1ZRcmlXWmxUNmVQU1NCZ2NyZldoNktlX3hPdk1sVlNCU0hSWkFOVDdXaXNydGctWFFubXk</link>
-      <description>Decades of farm gains, inventories strengthen food system against 'super' El Nino Reuters</description>
-      <guid isPermaLink="false">a49261a8137130b2a1a046aa1b7b0f73274c594c</guid>
-      <pubDate>Tue, 11 Aug 2026 10:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>State Bank of India returns to dollar debt market, bankers see strong demand</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmtBOUgwYTNYSnh2YVBqcDlvQlFoejR1Rk00Y1ZoTWg5ZUhUV3NJN3hUWXEwdGRnUmpJakxGOHVjMlVwUlJMdTgzNjZLYjdneDNmUF93WENLYVJPMVl0Uk1wUXhKME1iSjBkVURNY0s1UmNqcDRNQk9VTXBJcG90X0NlM3hZdmFETEl1ZzJMMVctakJWU3gta1lpUWJ1bURtVDRPMnNjN2N3RUZYSlhjWXJ0Uk0</link>
-      <description>State Bank of India returns to dollar debt market, bankers see strong demand Reuters</description>
-      <guid isPermaLink="false">c8088475b63be1b275fcaa31018fa277ee51a7ba</guid>
-      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 05:00:20 +0000</lastBuildDate>
     <item>
       <title>Coal India weighs buying Canada's Wealth Minerals unit for Chile lithium assets, sources say</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQZzFUNVV1TEMybkJvZWZiT0V1YjZIenpsMlY4b1lpdjZjcV9aZmlCVHJsUjd1dUV2N2dabFdKMjFBZ1lmTTdvZG1Ndnh2WmVnRDhETWZrMlpUTlNUN08xMjd5LTM5TVkxWDN1TGlHanBxd3NhLXZ6Zk9PNEZWanFxNEJKMEJTNHczdF9tcWtDaWFWQVpHam5kclIyOGJyd3ZDOEpMZzdxV2hrQkJPdHo3NGotMkV1YlBYYXIwVFFNQkdYMVZT</link>
       <description>Coal India weighs buying Canada's Wealth Minerals unit for Chile lithium assets, sources say Reuters</description>
       <guid isPermaLink="false">ee9130e5e95851bb5e56a2818917c36042a9c1eb</guid>
-      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venture Global misses quarterly estimates as lower LNG prices, higher costs weigh</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXVyNVladjdOU21WWEhOZFhjWnFyNkk1MEZNVXJLT3EycVE2Vm90b0lSRVlaMDBDNlZfWUZjYl93WEZqaU5QZUJhZFNQSFRWcFRXWkVFOXprdEgzYzU4dHJGbWV0THNRUG93ekhwakpvUmF2NFVDc1ZiOXAzd2F0d21oZHZZNGMtNGFiWld3R1c2OEZSNTBBV3pXbXBROWJQRGFuMDBNM2REQ1NxNXZGMkgtX0Z2TXJPRjFNN2dPZw</link>
-      <description>Venture Global misses quarterly estimates as lower LNG prices, higher costs weigh Reuters</description>
-      <guid isPermaLink="false">8e5751abce00144cc473fd9f37430f5fc31a4067</guid>
       <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
     </item>
     <item>
@@ -66,17 +24,17 @@
       <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
     </item>
     <item>
+      <title>Venture Global misses quarterly estimates as lower LNG prices, higher costs weigh</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXVyNVladjdOU21WWEhOZFhjWnFyNkk1MEZNVXJLT3EycVE2Vm90b0lSRVlaMDBDNlZfWUZjYl93WEZqaU5QZUJhZFNQSFRWcFRXWkVFOXprdEgzYzU4dHJGbWV0THNRUG93ekhwakpvUmF2NFVDc1ZiOXAzd2F0d21oZHZZNGMtNGFiWld3R1c2OEZSNTBBV3pXbXBROWJQRGFuMDBNM2REQ1NxNXZGMkgtX0Z2TXJPRjFNN2dPZw</link>
+      <description>Venture Global misses quarterly estimates as lower LNG prices, higher costs weigh Reuters</description>
+      <guid isPermaLink="false">8e5751abce00144cc473fd9f37430f5fc31a4067</guid>
+      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Smithfield Foods trims full-year forecasts as consumers rein in spending</title>
       <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFpCNWs1WHdkWGhVeEN6VmczWm1sNndYVlFQV2dXX05XYWlVY2RuSGFqVVJEWURiYlFtSjkzY0xPUHk5N0FEMXRvVnBLcDlRdndpUzdseGt0cGVDZWlsMWhmOWNPZGVSMW5QVi1vcktRVlk4U1AybF9TZjdNcWRMM0lFSzFGLTJmZ0NwWXhhYlkwNjhDYkFzaGItbUdiVV82TWFkRXlFVnNQaVZTZnIxaXN6eGFRY0oybHFIQm1oa1EtUmlpa0E</link>
       <description>Smithfield Foods trims full-year forecasts as consumers rein in spending Reuters</description>
       <guid isPermaLink="false">210bcdb60e37526995973c0fbe718c50ef142334</guid>
-      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaUk4OEtuQkJoalZXZFBfS0RPVHhicHktZkwwN3VoOTZPV0JUR0wxakVueUpUU1g5V21HcERUOTg3ekxGSjNhQjFwZnY0aU5uRWsySDVBRkpLUmNHZm9jNWd2NFJxZU1rc3JsT2k2X3ZrcFlDaXpXQ0tveXJMSWVNWU90Znlla1V6YVc0bndkWWlMMEk4MmpjbUdBTFdTTS0zenFQY1VMT3I4RVpCUzNCWkQ3WlNQYnpmd1p4VExobWdXSlU</link>
-      <description>Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say Reuters</description>
-      <guid isPermaLink="false">43bdffc1d14937fd6436684bb503ba23ef59f0bb</guid>
       <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
     </item>
     <item>
@@ -101,13 +59,6 @@
       <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
     </item>
     <item>
-      <title>Dogs can distinguish between emotions in a human face, study shows</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3o5b3pQVm5DS05uLUFkdDJjblZDYy00MEhQRjdReVFURXpoMjNDQURDOTJiNjVnRk9RcG1YcjdvbzQyU3dlNHltS0lhY0hQNHk2Nk9TbEp1ZUFuaVIxOWp6OEFzVjhyYjNKaXd5TmZwbXFiS2toQjdycXFvUXN3S3ZWLTNRSlJxUDRORW1WTkZBcDFTME9EaFRyXzh5aE5oSFhpMTNfcnRwVnNvTzBYZG4wSUdPSDRrZmQ0</link>
-      <description>Dogs can distinguish between emotions in a human face, study shows Reuters</description>
-      <guid isPermaLink="false">37f81334178c5023514398ac73107cef15cabc62</guid>
-      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Rhine water levels fall to new lows, some ship sailings halted</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPcWxpMnlUVF9ULW9EVktXWEs5SU9PR0l3b2Ffb3ZFZV9Wb3pYeTdxWVBHWjF3Tll5dTI4YVFCbkZSSEdPRHA1Vnc0VjhyM0I4OC1VdW9rQXdWUmEwOGpVeHBRQVNIMjd2aUstVnN6YzVpeUh5eVBBZmpJX2RJSkNOdnoyanlnUmI5Q0NZb3JNdDlTUWlIWkRoTHBFRmRpUUV6Uko0RjJISUo4Tlo1WWFTQTBnX0FMdw</link>
       <description>Rhine water levels fall to new lows, some ship sailings halted Reuters</description>
@@ -129,17 +80,17 @@
       <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
     </item>
     <item>
-      <title>Jellyfish-hit French nuclear plant shuts down three reactors</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0JNQkc1NWxqWmlmZHVxVzlsczhwZEJxZHFENkVBMWU0M0pIWjVLRU5vQzVrbW02SXl2ancxN1RmVFNUNE5nYW9sUWZjTVR0dE5aM0xCS0xJZktkY1MwYlZaZjNXR01XVHNyN3RyeV95Z2hvYm1Vd1FockZxUWd2NW5WenE0MXJNRkNmWE4xMTZEam03S2NfMmZidjE1dnd1NldLanJDbnN6WEgwaGJSOHpB</link>
-      <description>Jellyfish-hit French nuclear plant shuts down three reactors Reuters</description>
-      <guid isPermaLink="false">a3531521df30a64b19ca4e5100e99cddb29f25ab</guid>
-      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
-    </item>
-    <item>
       <title>US fuel exports to Cuba spur chaotic black market</title>
       <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn</link>
       <description>US fuel exports to Cuba spur chaotic black market Reuters</description>
       <guid isPermaLink="false">260330a56cb185cb25d825393fadb8ef65ca3217</guid>
+      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jellyfish-hit French nuclear plant shuts down three reactors</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0JNQkc1NWxqWmlmZHVxVzlsczhwZEJxZHFENkVBMWU0M0pIWjVLRU5vQzVrbW02SXl2ancxN1RmVFNUNE5nYW9sUWZjTVR0dE5aM0xCS0xJZktkY1MwYlZaZjNXR01XVHNyN3RyeV95Z2hvYm1Vd1FockZxUWd2NW5WenE0MXJNRkNmWE4xMTZEam03S2NfMmZidjE1dnd1NldLanJDbnN6WEgwaGJSOHpB</link>
+      <description>Jellyfish-hit French nuclear plant shuts down three reactors Reuters</description>
+      <guid isPermaLink="false">a3531521df30a64b19ca4e5100e99cddb29f25ab</guid>
       <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
     </item>
     <item>
@@ -175,6 +126,13 @@
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXM4c0FCQ01mNlZ0S2RJNVZWdnBiNHFSYjRnWFFEZ0VYR3U2WWw2bjFkdWwybkEwZDJjeTI1aE9rQ1ZRTUVrVWFuN1FaYXdBSUllVVZZeWlmUEVBd0FIbHM4TElBd3FKUnlpalJSR2NxaVBidjJ6VFN6dXNUZmlKQWhMREZvZnVheEk3VDRrTXNyOVhCT3pCQndxZEFkeXdrVUVVeTBpWkt3TGVLaTMzVFhnWW51UVp6Rnd3YQ</link>
       <description>Norway wealth fund CEO says fund's entire value could be lost if market collapses Reuters</description>
       <guid isPermaLink="false">ce0a10e8ab79d13d3b59af6c66622722dd8d26f6</guid>
+      <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaUk4OEtuQkJoalZXZFBfS0RPVHhicHktZkwwN3VoOTZPV0JUR0wxakVueUpUU1g5V21HcERUOTg3ekxGSjNhQjFwZnY0aU5uRWsySDVBRkpLUmNHZm9jNWd2NFJxZU1rc3JsT2k2X3ZrcFlDaXpXQ0tveXJMSWVNWU90Znlla1V6YVc0bndkWWlMMEk4MmpjbUdBTFdTTS0zenFQY1VMT3I4RVpCUzNCWkQ3WlNQYnpmd1p4VExobWdXSlU</link>
+      <description>Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say Reuters</description>
+      <guid isPermaLink="false">43bdffc1d14937fd6436684bb503ba23ef59f0bb</guid>
       <pubDate>Tue, 11 Aug 2026 16:10:25 +0000</pubDate>
     </item>
     <item>
@@ -262,13 +220,6 @@
       <pubDate>Tue, 11 Aug 2026 22:03:39 +0000</pubDate>
     </item>
     <item>
-      <title>US Treasury yields seen heading lower but strategists' conviction wavering</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDExTU5zM21TYmxjTGVKcXpONnA0WlRuTDJjdmplWXA3Z3BWaDlsWGZOdU0xd3lqc0NRQTJQV2hycXJGV0F3aVBTMm1KQk43VHlUM0FRazdGTTZVMnRUY3lyQzVsQWtkX2FPV2ZkN0ktVENJaFIyZUVkVHd2UDVGNVdDcFpOOXBMT3pvVXAzNUI1aVdvTXRwWnhpYUZ6cVJYbHM5UXNjZEFubFV6MXpxbzVIRmM</link>
-      <description>US Treasury yields seen heading lower but strategists' conviction wavering Reuters</description>
-      <guid isPermaLink="false">f9d4eedce065e9a3dcfbd92f73175587ea778a69</guid>
-      <pubDate>Tue, 11 Aug 2026 22:03:39 +0000</pubDate>
-    </item>
-    <item>
       <title>EU packaging rules take effect with limits on 'forever chemicals', plastics curbs</title>
       <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGYyZ2lqVDNPcU55TXU5dlozM21zb1l6aHR3YlE5a3REX2gyNkRZVEg2NmgxU0oyLW5qMWJscElRd2lxaWVpaG1mZjRqa0EtZ2NVaUFLbUQ0ZTA3amtrZWlYR2lvLUs4WGNyY0s5UnlBMlNxZEdBc281ZVRweUR5Tl9VQkM5S2NYcWhhTy1JU1lSVTI5M3lMQS1sQ0pxR3IyVllsV013OHZQR3hJQ1NTUjVZQjZld0loZnpsZ0poamszUDQxUEdxTWtLLWk</link>
       <description>EU packaging rules take effect with limits on 'forever chemicals', plastics curbs Reuters</description>
@@ -283,10 +234,10 @@
       <pubDate>Tue, 11 Aug 2026 22:03:39 +0000</pubDate>
     </item>
     <item>
-      <title>Spotify to slap 'AI Persona' badges on AI-generated artist profiles</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWRqZlVVZVlHNlhTSjRPV19sWE1IWDdsVEtFUktMdVRMcnI2WWl2Vm5KZy16WWtyS3hqbllpeGgtX2xidXoySUE1TFBCZkIwUk42WTFCWmltRnVKUkJOdHRjcDZBUkUxaDhWei11SURjOFJyWmpPcjFiQlctd184TWFzeEJIM3VDSHN1WmxLazJfNE1oWi1nWENuR2lDWnVXdmd6S053OA</link>
-      <description>Spotify to slap 'AI Persona' badges on AI-generated artist profiles Reuters</description>
-      <guid isPermaLink="false">f026f265333f99c8849c741dad98b8f4346797f4</guid>
+      <title>US Treasury yields seen heading lower but strategists' conviction wavering</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDExTU5zM21TYmxjTGVKcXpONnA0WlRuTDJjdmplWXA3Z3BWaDlsWGZOdU0xd3lqc0NRQTJQV2hycXJGV0F3aVBTMm1KQk43VHlUM0FRazdGTTZVMnRUY3lyQzVsQWtkX2FPV2ZkN0ktVENJaFIyZUVkVHd2UDVGNVdDcFpOOXBMT3pvVXAzNUI1aVdvTXRwWnhpYUZ6cVJYbHM5UXNjZEFubFV6MXpxbzVIRmM</link>
+      <description>US Treasury yields seen heading lower but strategists' conviction wavering Reuters</description>
+      <guid isPermaLink="false">f9d4eedce065e9a3dcfbd92f73175587ea778a69</guid>
       <pubDate>Tue, 11 Aug 2026 22:03:39 +0000</pubDate>
     </item>
     <item>
@@ -297,6 +248,13 @@
       <pubDate>Tue, 11 Aug 2026 22:03:39 +0000</pubDate>
     </item>
     <item>
+      <title>Spotify to slap 'AI Persona' badges on AI-generated artist profiles</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWRqZlVVZVlHNlhTSjRPV19sWE1IWDdsVEtFUktMdVRMcnI2WWl2Vm5KZy16WWtyS3hqbllpeGgtX2xidXoySUE1TFBCZkIwUk42WTFCWmltRnVKUkJOdHRjcDZBUkUxaDhWei11SURjOFJyWmpPcjFiQlctd184TWFzeEJIM3VDSHN1WmxLazJfNE1oWi1nWENuR2lDWnVXdmd6S053OA</link>
+      <description>Spotify to slap 'AI Persona' badges on AI-generated artist profiles Reuters</description>
+      <guid isPermaLink="false">f026f265333f99c8849c741dad98b8f4346797f4</guid>
+      <pubDate>Tue, 11 Aug 2026 22:03:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Super Micro forecasts upbeat annual revenue on data center adoption</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNemJyeGtwLU1oZUFlRktXdmpLWGc5bEZHcEdBQjVxRUFlY1pueGt1WWYtVXQ2dDRhbldWRUhmSzFmVzRPZlcyVVROQnZFN3dEemRvOGRwcHpldHFJS3ZMR0toUS0xVi1NUnFYbll4WWpHendSU1paWTc2NGJuR09sdXVibzdLTERnSWN1anFKMDJVZw</link>
       <description>Super Micro forecasts upbeat annual revenue on data center adoption Reuters</description>
@@ -304,17 +262,17 @@
       <pubDate>Tue, 11 Aug 2026 22:03:39 +0000</pubDate>
     </item>
     <item>
-      <title>Australia's CBA posts record cash earnings, but flags cooling mortgage demand</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlFOaFRBcWtVOWFWS3hrak04SWNwQ1RIR1V6R29RaF9DYTVQSWlnaG0teVduQWs4ZnRpSFVRUk1OcThGTzhKbng5VUthUks1WHlLdU9YZlEtQm96VVFxNWdkeHl3OFRVWFBJaG9LdzFFV0pFanFoX0pIZllBV2sxYndTLTdhSUlVVjY5SjI2bVJtb3owSGtjSkZxbkwtTUI4aWxWUS1R</link>
-      <description>Australia's CBA posts record cash earnings, but flags cooling mortgage demand Reuters</description>
-      <guid isPermaLink="false">2353099d451c48510a6b5ee68456ad4c694f55a6</guid>
-      <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Low Rhine levels begin to disrupt German industry</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHVCREVKdnd5QUpaVEkxTjhEZHZaaDZka3JpVk1oRzg0emZuRjR4UGk2VXNEMVNpYWc0blBGMjdpdTBGSDEwS1JpcTV4VGl6X1YxVkZOZlJRWFNVWlFHUmNfWWlvMm0xMU5FZllHZzczMldrY1lfemg5M2I3cWY1dFV4QmJEb0l6SkdFUDE0ZXdQRW5oZ1E</link>
       <description>Low Rhine levels begin to disrupt German industry Reuters</description>
       <guid isPermaLink="false">1546105bbb471b2d78351298980b9f3f00aba5d6</guid>
+      <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia's CBA posts record cash earnings, but flags cooling mortgage demand</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlFOaFRBcWtVOWFWS3hrak04SWNwQ1RIR1V6R29RaF9DYTVQSWlnaG0teVduQWs4ZnRpSFVRUk1OcThGTzhKbng5VUthUks1WHlLdU9YZlEtQm96VVFxNWdkeHl3OFRVWFBJaG9LdzFFV0pFanFoX0pIZllBV2sxYndTLTdhSUlVVjY5SjI2bVJtb3owSGtjSkZxbkwtTUI4aWxWUS1R</link>
+      <description>Australia's CBA posts record cash earnings, but flags cooling mortgage demand Reuters</description>
+      <guid isPermaLink="false">2353099d451c48510a6b5ee68456ad4c694f55a6</guid>
       <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
     </item>
     <item>
@@ -332,17 +290,17 @@
       <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
     </item>
     <item>
-      <title>Some Middle East oil output will stay shut through next year, US EIA says</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWlNYzVsY3A5RnNPQ19HWUd6dmJKUlBVMjlLS3pPQ2FZa21mbGs4U2dPQm8zdzlCSDlhbW0tem96QXk5Vl9XM012OTFsV3l2eGR2bkNTREJYNDMtcUgzY2VBZkRMSkZHN2lmRzNQX3lqUU0xTGtzbUpMLVd1emRicW10N29ZQkxqZExLQ2R0RVdwWU0wSlk0UGdQQXlJWmYzdVRoVEJIb3I3cllGSDRQbjczMFZROXRZX3A1TGNVRm1VQQ</link>
-      <description>Some Middle East oil output will stay shut through next year, US EIA says Reuters</description>
-      <guid isPermaLink="false">fb07bf2526282b129b37869f226882bd6179b736</guid>
-      <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
-    </item>
-    <item>
       <title>GM inks deal to guard against future parts-supply shocks</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSXVtaERmSXQwVElnMGNyVVhMNklMTTNzZnJEa1JNam01bF9oRm1SeDhtS0trR0ljMXV1NC13RlNwam5EZGtEV25KNjNzcE84bVc0Wk1JMXpaTjFLVHNmY013Rm1nQU5YM1F1VkxJemxhV2M4TWdVczZtVExURzQ2X01SU1FxRE11OUdFMklqMF9ZVEtoSncwRF9tY01WazVCbmhmLXRNRjVheEpodEZaUFhNRWFXWF96aEJR</link>
       <description>GM inks deal to guard against future parts-supply shocks Reuters</description>
       <guid isPermaLink="false">7d3dac0fddadfb88e9d069415782684bbcf3d7ce</guid>
+      <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Some Middle East oil output will stay shut through next year, US EIA says</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWlNYzVsY3A5RnNPQ19HWUd6dmJKUlBVMjlLS3pPQ2FZa21mbGs4U2dPQm8zdzlCSDlhbW0tem96QXk5Vl9XM012OTFsV3l2eGR2bkNTREJYNDMtcUgzY2VBZkRMSkZHN2lmRzNQX3lqUU0xTGtzbUpMLVd1emRicW10N29ZQkxqZExLQ2R0RVdwWU0wSlk0UGdQQXlJWmYzdVRoVEJIb3I3cllGSDRQbjczMFZROXRZX3A1TGNVRm1VQQ</link>
+      <description>Some Middle East oil output will stay shut through next year, US EIA says Reuters</description>
+      <guid isPermaLink="false">fb07bf2526282b129b37869f226882bd6179b736</guid>
       <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
     </item>
     <item>
@@ -358,6 +316,48 @@
       <description>Oil rises as doubts over US-Iran deal heighten supply concerns Reuters</description>
       <guid isPermaLink="false">5c681da977552be0c5b9ddd639c66ba92b71fe1a</guid>
       <pubDate>Wed, 12 Aug 2026 02:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boeing jet deliveries drop 17% in July</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOWmpfQkxmUzUwZDZ3LWczRTJpcDRUOXdWM0V2Y1NhcFBOa3c1MzdhaE5veHROdE1qNU5HYzlWVHAzaEZmOXNTS1E3cXhDcVY0azVtRjEyeFN1SmRiZWJyc3piOEQ0OGxfTUwyVFFrXzRfejBGRDhYb0JnOU1ZM3F3ODU0UFBoMExKMHVtbVlWNkc5eHB4UWdDbFEzUmNZQQ</link>
+      <description>Boeing jet deliveries drop 17% in July Reuters</description>
+      <guid isPermaLink="false">64c6b628fa225179090f0e1629340be17b1ad33a</guid>
+      <pubDate>Wed, 12 Aug 2026 05:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia's oil exports to Asia via Arctic route start strongly, sources say and data shows</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXd3MVNoWU1YN2ZHRjMyZFd0QnhubUVsUXo2SElYUzg1WHdtMmNGOHAteHJXa1lFeUtRTWJ3N2ZvYnA4dGdxZnRuYVpBMV9tOThLMG9wRk5zTnJQR2daaDBid0EydlpWVUVybmRsRVRGZm8xQk9IVDRBejdmZ1dqYkhzVkhqRVFwNjloYTFOaGR3WDRGOHJwTjczc3gwd18tdGcyQ3BQNVJlZG5rS0tvOUR1MDRZLWNhNzRKelJjRktJZVdHNXFVS040QQ</link>
+      <description>Russia's oil exports to Asia via Arctic route start strongly, sources say and data shows Reuters</description>
+      <guid isPermaLink="false">1e098f9d87a5d399ef3e5eecbabd8734b31a578f</guid>
+      <pubDate>Wed, 12 Aug 2026 05:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Typhoon Dolphin's remnants brings torrential rain to Beijing</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXA4N3otU1Q0YUNmTExjeTloMHpfRFZQWVFHbkJUdUMyVTE4T255YkpkamZPb0lKUmpGNEpXMnJmYWlyVzk1MHlzNldLSzhqY0t0UkV1V0FEbl9KZGZYeXJmSi1JVEhSYlJYSy1GX0RvNmNNWWcxUmJDUmtORkJ6TXRBUkZtUjR3Wi1CLUxxdEoxUnRoUnpvaG92cWZmZ1FPd2hoblhpZjFNTWNOLV9ZdFRsUQ</link>
+      <description>Typhoon Dolphin's remnants brings torrential rain to Beijing Reuters</description>
+      <guid isPermaLink="false">3842f75df6fd735f69abdf9694a363ae09474773</guid>
+      <pubDate>Wed, 12 Aug 2026 05:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E</link>
+      <description>Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers Reuters</description>
+      <guid isPermaLink="false">2caf04e8e475a341ee363476220934bbe6f53844</guid>
+      <pubDate>Wed, 12 Aug 2026 05:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dollar drifts as markets await US inflation data for Fed clues</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ</link>
+      <description>Dollar drifts as markets await US inflation data for Fed clues Reuters</description>
+      <guid isPermaLink="false">8445ed282781ca2bcb5e6a43f83ee6f986e02a22</guid>
+      <pubDate>Wed, 12 Aug 2026 05:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump says his plane faced 'greater risk' in secret flight change</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U</link>
+      <description>Trump says his plane faced 'greater risk' in secret flight change Reuters</description>
+      <guid isPermaLink="false">bd7b24a72e61f28924dcf1fe8954e7a90d86a9d3</guid>
+      <pubDate>Wed, 12 Aug 2026 05:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
