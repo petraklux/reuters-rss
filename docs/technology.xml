@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 19:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:01:30 +0000</lastBuildDate>
+    <item>
+      <title>AI News | Latest Headlines and Developments</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
+      <description>AI News | Latest Headlines and Developments Reuters</description>
+      <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
+      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
     <item>
       <title>XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg</link>
@@ -57,6 +64,20 @@
       <description>AI code review platform CodeRabbit valued at $1.5 billion in latest funding round Reuters</description>
       <guid isPermaLink="false">a9d880a2c995b0b6c46ba9f8378b4c2353de5083</guid>
       <pubDate>Wed, 12 Aug 2026 16:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEWSLETTER: American AI model makers smell an opportunity</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjdFeGZSYlRfS0Z2ajQwNkNMQm1vUDE2SFJiRkF2NlNMTnVMRjdDaWlSOG9BTDZhWXZ5R3M3MENRbGpBaUFrRVptYmxEbmstQXBhdEVIYmhYQUJSQmRONzcxTG9MVlhmOFRxc0Y5QUdKMF9wRkZvaS10VUc4WFNuWjNPdlE3YVV5cjRoNnUtZ3VvSnJWd3BpVWl6X1BFMUptNzBTNDBYTGNCLXhFLUZ4YkVFMHpRNFE</link>
+      <description>NEWSLETTER: American AI model makers smell an opportunity Reuters</description>
+      <guid isPermaLink="false">cc95adf0f265704e5a9bbee8b171a678642e59ed</guid>
+      <pubDate>Wed, 12 Aug 2026 22:01:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco forecasts annual revenue above estimates on sustained AI spending</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFNjVWhZOGJVZzBrMDdXRC13NkM3cW9lMjlicDZZc3duZXNTLWlZTEhBTDJuWTJvV3pkbEdoUWd2VVFmTWlCTTFCVlJjOFFsTXB3Y0JBZHROZExiUU4xZm1mbkhOSHF4MVRfdXpEdWp3NFdlbnhpQk5kSklmX3Y3cW5ockRIT0VSeWdWMQ</link>
+      <description>Cisco forecasts annual revenue above estimates on sustained AI spending Reuters</description>
+      <guid isPermaLink="false">129ec52a278e53d161bb4742fb2d7f2e9067db89</guid>
+      <pubDate>Wed, 12 Aug 2026 22:01:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
