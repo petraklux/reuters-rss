@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 19:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:01:49 +0000</lastBuildDate>
     <item>
       <title>Disruption Technology News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jRnZZSWNyamQzMUlsUzZhYUVkeVJpbUJFSHJ6bXgtRWYxMy1Dc1BSbEZmbHVTVVhpMmNOVEdnMnZMTzR0WmVBWTFjYW1rN0ctMnVKTGNEaU4</link>
       <description>Disruption Technology News | Latest Headlines Reuters</description>
       <guid isPermaLink="false">8c4f10b7eba33e256a6a0775eb34a6a212918b40</guid>
       <pubDate>Tue, 11 Aug 2026 19:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senior OpenAI executive Brad Lightcap to leave for new venture</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOaW9tVHl4S3FDMjB1RzBIbTdSZzN0OERJeE10VVNoelUwUDFGczV3R2lOR1FidVNJY3FqS0xGeFhEOFphV19NQkhtOE9MdEpyTC1kOXJtYWM4eFlZcFpUOG9JTVZiU0V1Rkhnd0pYM0ZjX0ZWMUdtQnFNdWlXbVJicw</link>
-      <description>Senior OpenAI executive Brad Lightcap to leave for new venture Reuters</description>
-      <guid isPermaLink="false">7f27610f9022c4c9080785d368dc9e3f4def27eb</guid>
-      <pubDate>Tue, 11 Aug 2026 19:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle, Quantinuum partner to bring quantum computing to cloud</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkNpOTRmeU9LVTNtWFRYcHVnMHc4SU9hN2pRVk5rdUYtLTJMLUNRV2tXWjRRQXJCSVBrOFZDUTQtT1RIMjI3T2EtUFJKUTVTR0poNVB6YlZTWW9KRkVaVUU2U0dYUmJuX0NhRUI3RGpKUWZvZGhqd3NLOVRyMzlYUEpBNDNZU28xV3VMSE1nR1E4SDJLc0ZSOVVoZy1WdWg1MVE5bQ</link>
-      <description>Oracle, Quantinuum partner to bring quantum computing to cloud Reuters</description>
-      <guid isPermaLink="false">27b3bfa3b5a294473f4fbaa838e919b1a5ef4f78</guid>
-      <pubDate>Tue, 11 Aug 2026 22:03:56 +0000</pubDate>
     </item>
     <item>
       <title>CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge</title>
@@ -99,6 +85,13 @@
       <description>AMD looks to raise $4 billion to $5 billion in debt offering, source says Reuters</description>
       <guid isPermaLink="false">214022c5756490f46d829a2ac2f546c0b0e68c49</guid>
       <pubDate>Thu, 13 Aug 2026 19:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip equipment maker Lam Research to invest more than $3 billion to expand R&amp;D labs</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTAzWkJRRjI1TklLTWV2Uk1lUHluMVBpaHplU1VneUpVZjZaNnBKdmtoMWhoamxwXzljUGUzOGh3VGpjTTNIeWxRQVVzUjlCZnRGUFUwemJrMHV1T1ZiSl9OOFBNYkttYmplQWtaZDRPVlp3aHp1UUFmLWstS1NJejYyRWszZUExUFhCNXVtMnE4ekUycXVoMlZ1dUFEdEJ3Nl9GbGp6Ml9Fc0tERGtZUzRyZWlLWlM2WWRORmI2cw</link>
+      <description>Chip equipment maker Lam Research to invest more than $3 billion to expand R&amp;D labs Reuters</description>
+      <guid isPermaLink="false">a5121bf658cda1aa3d1de3ba4256daac4723f2f3</guid>
+      <pubDate>Thu, 13 Aug 2026 22:01:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
