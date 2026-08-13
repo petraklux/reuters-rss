@@ -8,27 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:03:31 +0000</lastBuildDate>
-    <item>
-      <title>AI News | Latest Headlines and Developments</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
-      <description>AI News | Latest Headlines and Developments Reuters</description>
-      <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
-      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 07:51:58 +0000</lastBuildDate>
     <item>
       <title>XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg</link>
       <description>XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools Reuters</description>
       <guid isPermaLink="false">4daf517c3075c0616972037567b9a927530d8f67</guid>
       <pubDate>Tue, 11 Aug 2026 16:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disruption Technology News | Latest Headlines</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jRnZZSWNyamQzMUlsUzZhYUVkeVJpbUJFSHJ6bXgtRWYxMy1Dc1BSbEZmbHVTVVhpMmNOVEdnMnZMTzR0WmVBWTFjYW1rN0ctMnVKTGNEaU4</link>
-      <description>Disruption Technology News | Latest Headlines Reuters</description>
-      <guid isPermaLink="false">8c4f10b7eba33e256a6a0775eb34a6a212918b40</guid>
-      <pubDate>Tue, 11 Aug 2026 19:18:39 +0000</pubDate>
     </item>
     <item>
       <title>Senior OpenAI executive Brad Lightcap to leave for new venture</title>
@@ -92,6 +78,20 @@
       <description>Anthropic in talks to buy Decart AI, source says Reuters</description>
       <guid isPermaLink="false">6a6aef5eb40f1c37625b68d52d3acdf35cad38c4</guid>
       <pubDate>Thu, 13 Aug 2026 05:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adyen lifts 2026 revenue outlook after strong first half</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDZha3pOVEZhTEdYZXo4QzBWbDhHcTRGby1xM3ZKalg2WTZmbHRkeVF3Z09fcEs4OVl3cmVwWHp3aldiWkJaNUtiUUNNQkdBbGdvR212WnFRYzJ6NU1ucm9yZjI4djVkanRGVHpVOHd6TDVUVXFrZ3R1TDJ4eGRFMU92NEhPdmlXbTFnRldnLTJRN21lTDhMazBPUHk3dzFiZzZqMWxB</link>
+      <description>Adyen lifts 2026 revenue outlook after strong first half Reuters</description>
+      <guid isPermaLink="false">1e2ec879d678682d7557ac73838208872efa8fab</guid>
+      <pubDate>Thu, 13 Aug 2026 07:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's Black Box secures $131 mln data centre order from U.S. hyperscaler</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQcUk0N3F3cnZ2X3k5TmdRZnAybmd6Sl9tV19Cd3BhZWU2WE9rX01ST0hDcUJ5T2FEdE1DSm5XTG1TMTNxNEc5Nk9zQWEweVVVcENRcHpmd3R4QTJNRlRxX0NlZGREYkNYOGxhdFYzZzlWZzJtMG5yNnVqalZILUprdkdqT0FBWnhmSFR1b3RBNFZMNDZoZzNVRVJTQ05BcUpZRUIwVGE4ZmNPRzdzVkpyV2Vn</link>
+      <description>India's Black Box secures $131 mln data centre order from U.S. hyperscaler Reuters</description>
+      <guid isPermaLink="false">495629944d0a14e8942256ab6d7c041797fc6a10</guid>
+      <pubDate>Thu, 13 Aug 2026 07:51:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
