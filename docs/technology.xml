@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 22:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:44:31 +0000</lastBuildDate>
+    <item>
+      <title>AI News | Latest Headlines and Developments</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
+      <description>AI News | Latest Headlines and Developments Reuters</description>
+      <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
+      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
     <item>
       <title>Disruption Technology News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jRnZZSWNyamQzMUlsUzZhYUVkeVJpbUJFSHJ6bXgtRWYxMy1Dc1BSbEZmbHVTVVhpMmNOVEdnMnZMTzR0WmVBWTFjYW1rN0ctMnVKTGNEaU4</link>
       <description>Disruption Technology News | Latest Headlines Reuters</description>
       <guid isPermaLink="false">8c4f10b7eba33e256a6a0775eb34a6a212918b40</guid>
       <pubDate>Tue, 11 Aug 2026 19:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA</link>
-      <description>CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge Reuters</description>
-      <guid isPermaLink="false">73d3167ac0927cdbab0d88a5b2055f4abdbca95e</guid>
-      <pubDate>Tue, 11 Aug 2026 22:03:56 +0000</pubDate>
     </item>
     <item>
       <title>Nebius powers past estimates as customers race to secure AI computing power</title>
@@ -92,6 +92,13 @@
       <description>Chip equipment maker Lam Research to invest more than $3 billion to expand R&amp;D labs Reuters</description>
       <guid isPermaLink="false">a5121bf658cda1aa3d1de3ba4256daac4723f2f3</guid>
       <pubDate>Thu, 13 Aug 2026 22:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTFjbGtTXzEyN0FWNms5M1Z5ZnlDZXA1Qlktd3ZFOWk3N01FQXNPdFlNaFBRNGotM295YkhCWkh5WDh5WjByaUc3MlN4N3hnYTlVVlB6SW81elB0M0dFeldIcFMyQ2ZkQTFvVjFpMlNVd3otMVJFWlpjTGlOMW5LWVNtOUJreDNhNjBvRXY3cV9sMDAzMGE0djRCWUJwTnp2Y3pXVkVYemdaS00</link>
+      <description>China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe Reuters</description>
+      <guid isPermaLink="false">2add4ecc1a770509e3577e9b4afd46f7de1cd96a</guid>
+      <pubDate>Fri, 14 Aug 2026 02:44:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
