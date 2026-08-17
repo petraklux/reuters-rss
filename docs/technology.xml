@@ -8,18 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 18:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:39:18 +0000</lastBuildDate>
     <item>
-      <title>AI News | Latest Headlines and Developments</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
-      <description>AI News | Latest Headlines and Developments Reuters</description>
-      <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
-      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wispr Flow valued at $2 billion in latest funding round</title>
+      <title>Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw</link>
-      <description>Wispr Flow valued at $2 billion in latest funding round Reuters</description>
+      <description>Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups Reuters</description>
       <guid isPermaLink="false">536f5290d49ce42b3871fa01a1ce450fe6e0b7f6</guid>
       <pubDate>Mon, 17 Aug 2026 15:37:50 +0000</pubDate>
     </item>
@@ -29,6 +22,13 @@
       <description>Pentagon pressure to move AI faster drives Smack's new funding round, CEO says Reuters</description>
       <guid isPermaLink="false">45fc098f546fa22b7404664c7ddc024ecd9839cb</guid>
       <pubDate>Mon, 17 Aug 2026 18:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic revenue run rate tops $65 billion, source says</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEJ6S2RpblVGQzhVS083a3dqR3JpajJOUkJIVUZIS1ZkQ05PeW9TdkJUazFpRXNybXNDUUNnV3dfWTllcFdsYms2Mm53dGJwY1VyYnVYb0xYSTNwZWoyaC1vM0FDVWJtTlh6VjFyTGxGUUNaYkg0VDdzNlhjMDJ4dUxJVHQzY0dUaWdKd2t3d0NoWk5IQU52bDRXWTJxZWNFdThJ</link>
+      <description>Anthropic revenue run rate tops $65 billion, source says Reuters</description>
+      <guid isPermaLink="false">325593ca89b9145de4856c37339b41b58a7093e3</guid>
+      <pubDate>Mon, 17 Aug 2026 21:39:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
