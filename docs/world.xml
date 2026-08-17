@@ -8,84 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:56:01 +0000</lastBuildDate>
-    <item>
-      <title>Hawaii News | Today's Latest Stories</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UTERabjdLMXYySHZyOV9sRHpiSVI0RTUzMDBQd28xR1pka0pqMFlLb2NMbnVQUHJ6bFRqXzFkN1ZudXlOQ3VIVXBaNDNOUmU2Nnc</link>
-      <description>Hawaii News | Today's Latest Stories Reuters</description>
-      <guid isPermaLink="false">acf7afe6a90b2bf788ea438d78f036fdc00f014b</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 Midterm Elections News | Top Headlines, Latest Polls &amp; Analysis</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FODZUeC1XeExCS1RiczJpQkJLSVEzc2U1T3RYRF9pSktKU2s3RzZzazlTTjNKcFR5WjE3NE5WOGVBU0tYTUNrazBSN2pmZkJ0c3JlUkZ3</link>
-      <description>2026 Midterm Elections News | Top Headlines, Latest Polls &amp; Analysis Reuters</description>
-      <guid isPermaLink="false">f5ad4862dd7be7882493214c5234f7cfed67e05c</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Latest Donald Trump News | Top Headlines on Donald Trump</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xRlp2aXZEZHZXOTFMS3B2aU0zQU5jZUV2bE9Pc1RWRXZYZzhWYTlUR3dSOUROdUJHdnlMUS1BaTJDb3BIdlpPWW1GT2VzZHp5NWdSTDVFdlpSQQ</link>
-      <description>Latest Donald Trump News | Top Headlines on Donald Trump Reuters</description>
-      <guid isPermaLink="false">bd2d200bab7a5171d3d5c5363345ece11c624453</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>First Philippine rejects KKR proposal to buy stake in power generation unit</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOElzY3hfUzFFeVhObEVuQjJwaEo4WW91RFVCOHd2bjVlMVoxdzhCeENFNEFfYWRFZlBlUDRNUmNXeURreE1RRFpQdGdDeWhjMDh0Ui12UjZhQ291SDg3eWNweGJNc0xFM00yWFV2d2gzYTQwZU5GVGs4YnZWa1dSMnJhOU9qQkNJNFE4ZHN2aXM3US1HT2hRYkFNOEtYYmlFYzFPRmJnTk5nbnRKbmV3N1MyeGk0Z2dUSzJOb2VIS3ZDQQ</link>
-      <description>First Philippine rejects KKR proposal to buy stake in power generation unit Reuters</description>
-      <guid isPermaLink="false">fefd77482f696342a62fd25a213e724c1b5aa45a</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan's economy expands annualised 1.1% in April-June</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2J1OVNhX2RRdk1MSm4zZTRNdnE3ZWJMOGN5RFJYVFdyT3Nqa0FOX2phYzRoNl9zNW5NOEV1a2ZoX0lwT1BuMkFsaDh4ZzdYcDdTVWZZbkYwd21MaVQ2eGc4Umxpc3hMX0FYelgwR1M3TmpvYVQ1c295YlMtUHBwTEVEWnlMWDVGcFM1S2Q5cm5Jd2lxVTlwMFhuekYyb2N5N0ZBMA</link>
-      <description>Japan's economy expands annualised 1.1% in April-June Reuters</description>
-      <guid isPermaLink="false">28e3564a614f9c15d98a53242022a2e2a9b06806</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volodymyr Zelenskiy News | Today's Latest Stories</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bDd6aDNfM2hLX0FIVGxYNTR3VWc5eTM0U2J2NUtaMndTN1UyVk1kaTQtMDh6c0JPSFNfNXR0SURaS3daTVZhZ2otaEQ4b3EwY1IzMzdEZVNsQUN3Q0J3</link>
-      <description>Volodymyr Zelenskiy News | Today's Latest Stories Reuters</description>
-      <guid isPermaLink="false">de930b574a7e5095ed4526dce3de4643f48ac76d</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asking prices for UK homes show biggest August fall in 8 years</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOVy16LUxQUElCOFR3TXpGTDEwLTNWbXFLSHE4U1I2Q1NETHBSZDMtQXVscDdxZk50ZWJPbGhkMmdtSkc4S2FQQTVtRE9WSUhxYjNzWmlidk96THZzajU4bV9hOVB2d0hrR1lDTHoxV0NCem5qQTZfTWFwTzhWLTVSOWxCNWFrZzE5aGg0WlRQMlVKQ2V2SDl2NVVST3hXckVENlE</link>
-      <description>Asking prices for UK homes show biggest August fall in 8 years Reuters</description>
-      <guid isPermaLink="false">6e849f7a69479fdba0edaf25fb528001af658085</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump orders Pentagon to cut back military exercises with South Korea</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw</link>
-      <description>Trump orders Pentagon to cut back military exercises with South Korea Reuters</description>
-      <guid isPermaLink="false">20d6f481b5d7071df3aa52fb1b2475f37f289329</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shipping slows through Strait of Hormuz after tanker attacks, data shows</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE</link>
-      <description>Shipping slows through Strait of Hormuz after tanker attacks, data shows Reuters</description>
-      <guid isPermaLink="false">439d8ce24e204db4c27cd58d4d21a27b07c49f99</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag</link>
-      <description>EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says Reuters</description>
-      <guid isPermaLink="false">8f150d7e008d9fdcb236fdee02540b4bd0511ec5</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan Q2 growth misses forecasts on weaker spending, investment</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E</link>
-      <description>Japan Q2 growth misses forecasts on weaker spending, investment Reuters</description>
-      <guid isPermaLink="false">97e82e928884921edca182be19a80ca5ed518c72</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 13:04:24 +0000</lastBuildDate>
     <item>
       <title>Dollar falls to lowest since early June as rate hike bets fade</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ</link>
@@ -94,18 +17,11 @@
       <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
     </item>
     <item>
-      <title>Shares rise, dollar slips as markets pare Fed rate risks</title>
+      <title>Shares steady, dollar slips as markets pare Fed rate risks</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw</link>
-      <description>Shares rise, dollar slips as markets pare Fed rate risks Reuters</description>
+      <description>Shares steady, dollar slips as markets pare Fed rate risks Reuters</description>
       <guid isPermaLink="false">919599d3c90009e76d52be5d41d7695934b0a182</guid>
       <pubDate>Mon, 17 Aug 2026 01:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Philippine central bank says inflation to ease gradually, risks remain on upside</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1l3bmJqOFZpVE8yZklkMVZaRWxKbWM4WTJSVEF0WjVKbk1aS25nY2tXckdQVTJ4M1ZUbzhKMXlfdUFCSDdIVWNIWWd0OExWaXpJQnBPNUVpWGxlSGp1aDZOVEZ4Q2FFSG9TaGxST21Lb094bXR5V0JNZEt0WXh0akpYbTRQVGtUXzBscEpQLTU1Q2tIM01sS0ZkZ2JRTHpQQzhBUjJXRHRuZW8wX0VFOTVaMy1XZU02MkV0MlRZRG1pOS1rNmFN</link>
-      <description>Philippine central bank says inflation to ease gradually, risks remain on upside Reuters</description>
-      <guid isPermaLink="false">ef02a064e8e6564ee531489f03814397e7cd98ff</guid>
-      <pubDate>Mon, 17 Aug 2026 04:01:08 +0000</pubDate>
     </item>
     <item>
       <title>Yen edges up as traders push back Fed rate hike bets</title>
@@ -122,17 +38,17 @@
       <pubDate>Mon, 17 Aug 2026 04:01:08 +0000</pubDate>
     </item>
     <item>
+      <title>Philippine central bank says inflation to ease gradually, risks remain on upside</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1l3bmJqOFZpVE8yZklkMVZaRWxKbWM4WTJSVEF0WjVKbk1aS25nY2tXckdQVTJ4M1ZUbzhKMXlfdUFCSDdIVWNIWWd0OExWaXpJQnBPNUVpWGxlSGp1aDZOVEZ4Q2FFSG9TaGxST21Lb094bXR5V0JNZEt0WXh0akpYbTRQVGtUXzBscEpQLTU1Q2tIM01sS0ZkZ2JRTHpQQzhBUjJXRHRuZW8wX0VFOTVaMy1XZU02MkV0MlRZRG1pOS1rNmFN</link>
+      <description>Philippine central bank says inflation to ease gradually, risks remain on upside Reuters</description>
+      <guid isPermaLink="false">ef02a064e8e6564ee531489f03814397e7cd98ff</guid>
+      <pubDate>Mon, 17 Aug 2026 04:01:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Indian central bank likely steps in to defend rupee, traders say</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ010dFJUYlJkLTY2TUltNTN1LVkyZ29ieHpISnpmdVNqdjV1aDRLS0dWTUhzYm1BcS1aSURkckctY0g1dW91WEktR3M4VU80Y0cwZDV4cGNIOHpZbDVjNlB6ZHYzZDVyMXN6QUpqejN1SGtNb0dnWE5wV29ZUVZJbWxvQnBBVVZORGhkM2xmTjBTRkM4YmtzMlU1cnh6clVtOGJ3aS1UUF8</link>
       <description>Indian central bank likely steps in to defend rupee, traders say Reuters</description>
       <guid isPermaLink="false">1069331fb195e285fa3cf213db1aff3de92ffe96</guid>
-      <pubDate>Mon, 17 Aug 2026 04:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rupee slips as sentiment drags on central bank curtailing FX inflow window</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlNNRW5YN0k3UXF6ZXlYdXltd0V0d1VocVNzSjNsVGVadUZCOUVuUkxWSEp6TVdwQ0pndVlBdU9PWDJUa21mVFpFZm5UaW1RMmdTT3cyZ09mSXU1T2dzSzhmMm1ZbUwteUp4REUzOUFONFlWbTc0R3hqd1N0MVdCUy15UVJoN0FxLU9LWkI3SlVhZ29vaW5fVVRpaVY1Tk14enYzZE8zX0FNcDJhN3NZMjJzdw</link>
-      <description>Rupee slips as sentiment drags on central bank curtailing FX inflow window Reuters</description>
-      <guid isPermaLink="false">e7335c9fbe2177d26a1a8c47e6269780c4a6bb76</guid>
       <pubDate>Mon, 17 Aug 2026 04:01:08 +0000</pubDate>
     </item>
     <item>
@@ -147,6 +63,13 @@
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M</link>
       <description>Indian shares fall as crude remains at elevated levels Reuters</description>
       <guid isPermaLink="false">2639bf08e23c94ec3a488ff8c5b35addda8d7bf4</guid>
+      <pubDate>Mon, 17 Aug 2026 04:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil pangs, FX swap window closure drags Indian rupee to two-week low</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlNNRW5YN0k3UXF6ZXlYdXltd0V0d1VocVNzSjNsVGVadUZCOUVuUkxWSEp6TVdwQ0pndVlBdU9PWDJUa21mVFpFZm5UaW1RMmdTT3cyZ09mSXU1T2dzSzhmMm1ZbUwteUp4REUzOUFONFlWbTc0R3hqd1N0MVdCUy15UVJoN0FxLU9LWkI3SlVhZ29vaW5fVVRpaVY1Tk14enYzZE8zX0FNcDJhN3NZMjJzdw</link>
+      <description>Oil pangs, FX swap window closure drags Indian rupee to two-week low Reuters</description>
+      <guid isPermaLink="false">e7335c9fbe2177d26a1a8c47e6269780c4a6bb76</guid>
       <pubDate>Mon, 17 Aug 2026 04:01:08 +0000</pubDate>
     </item>
     <item>
@@ -171,13 +94,6 @@
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>India should bring back fuel with lower blend of ethanol, chief economic adviser says</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnFTenctaXdDekZ0NFZtVkpCdzdaa2RzODhSWUlBU093b1U2b2UwdFpvU0Zpa0lPaGI4SzNzc0V0eEhCb3FZT0RuSkl3c2ZTWGdBTkNWOG55YkhVLXdtTG5FNm5ETzNGYk9vMGFpLW5NRVpxTDJaVE04Vm9CcHFFZ1lZdmYwX0pZQ0JrNy01eUwxbmRXVHdhU0pSUVE1Q0dkdFM1dmZfaVdKU0RKaGJIRTF3NDNhb0ZQN1pXZmRIZEowdw</link>
-      <description>India should bring back fuel with lower blend of ethanol, chief economic adviser says Reuters</description>
-      <guid isPermaLink="false">acc9e9d2dc05e156684609381f92095a175774a8</guid>
-      <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Malaysia's July CPI rises 1.8% y/y, slightly less than forecast</title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPejRmWUxDNUcwbXNycU4xS3R6OWdWVWFsVXYxVUNneXhWYzdvYktKcmFreThCZk9JakVLLTRIdkRPZjRFUUhrRUVJS1JINk1uSTEtanNERkctNEVPODFBQl9qUEh5X0NfdVRKV2ppOGtkX0o4b29EcF9URWk5T0M3UG5Kbi1YMXk3clk0dFc3cWUyQWhxQkNuY2ZYZDhxVGNVS0ZaeGx0MUlra05uT2pVRlIzUQ</link>
       <description>Malaysia's July CPI rises 1.8% y/y, slightly less than forecast Reuters</description>
@@ -192,10 +108,10 @@
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>India RBI's heavy FX footprint revives memories of a tightly managed rupee</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjE3TGZfaGdTbHJZNEZ4VmgzQWFmSGNRWTdJUERnbWE4YjVxd2dKWWhJaG1xWE9sb1pJRXVNLUFvbUdldEdxbFNQT3hBb3VWV2E5X0plbHFWbzZRS3NqUUMtZkRLdVFVQWRuTHlLTjlQWnpXYS1hSjBieWdzTFNSVVlhZWpYU1U5VV9qWXBhdWJCalZNZ3M5NHotakZDQUVPc05EMVlWR3RkbDUtQXFqOUJCOHFXdXM</link>
-      <description>India RBI's heavy FX footprint revives memories of a tightly managed rupee Reuters</description>
-      <guid isPermaLink="false">6a27f729e32e4ff5895494cf4be9c40793feee0b</guid>
+      <title>India should bring back fuel with lower blend of ethanol, chief economic adviser says</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnFTenctaXdDekZ0NFZtVkpCdzdaa2RzODhSWUlBU093b1U2b2UwdFpvU0Zpa0lPaGI4SzNzc0V0eEhCb3FZT0RuSkl3c2ZTWGdBTkNWOG55YkhVLXdtTG5FNm5ETzNGYk9vMGFpLW5NRVpxTDJaVE04Vm9CcHFFZ1lZdmYwX0pZQ0JrNy01eUwxbmRXVHdhU0pSUVE1Q0dkdFM1dmZfaVdKU0RKaGJIRTF3NDNhb0ZQN1pXZmRIZEowdw</link>
+      <description>India should bring back fuel with lower blend of ethanol, chief economic adviser says Reuters</description>
+      <guid isPermaLink="false">acc9e9d2dc05e156684609381f92095a175774a8</guid>
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
     </item>
     <item>
@@ -213,6 +129,13 @@
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
     </item>
     <item>
+      <title>Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNSExSQWVmRjh4WXd2YVlVdlRkX2pzRlhXT3I1Vmh6dlRwQTB2ZDhaSVJFcERxWW9LbEhsb0FRczFPYVJzSlFFM0pOUnZFS0I4TXhfbVpVYlVabDEtdElhV3dTRExUbUxMLUlJVTl0MUNKeDdrcXpycmtrUE1XQnc5MHNJUTFUeUpfYWdwZDc4b0FnZUQ0Zm5aQXFrVXJoOWM5YXQ3ZVlqeDFrWGMzYThoVG1yajJHelM0Ykl6eWYwdHpSd1ZjVHc</link>
+      <description>Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports Reuters</description>
+      <guid isPermaLink="false">84e01b9ccfbd8b79c25630a42c74219fabfbe517</guid>
+      <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation</title>
       <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr</link>
       <description>Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation Reuters</description>
@@ -224,13 +147,6 @@
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n</link>
       <description>Trump seeks cuts to US-South Korea drills, reviving earlier objections Reuters</description>
       <guid isPermaLink="false">507ff487bf369c8071ecc2b0c7dd4b6dbf2c6b5c</guid>
-      <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNSExSQWVmRjh4WXd2YVlVdlRkX2pzRlhXT3I1Vmh6dlRwQTB2ZDhaSVJFcERxWW9LbEhsb0FRczFPYVJzSlFFM0pOUnZFS0I4TXhfbVpVYlVabDEtdElhV3dTRExUbUxMLUlJVTl0MUNKeDdrcXpycmtrUE1XQnc5MHNJUTFUeUpfYWdwZDc4b0FnZUQ0Zm5aQXFrVXJoOWM5YXQ3ZVlqeDFrWGMzYThoVG1yajJHelM0Ykl6eWYwdHpSd1ZjVHc</link>
-      <description>Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports Reuters</description>
-      <guid isPermaLink="false">84e01b9ccfbd8b79c25630a42c74219fabfbe517</guid>
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
     </item>
     <item>
@@ -248,39 +164,18 @@
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>Somalia federal troops and armed opposition clash in Baidoa city</title>
+      <title>Somali troops push militiamen out of Baidoa after fierce fighting</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW5uSlZTUGQtUkI3SzdjVW9jV0pDa0RRY2lEeEJWMDFuZThtZW9Jc2VRTG5NcHRiVWsxVHBjR2FGSF9hSlVLM1pvb1FTTnpJRWJTNURnbHB1eURISWJDREdGOGpRcmRINlRHS1VYMWZCRW5OX1Q3cnNZX045UFRaX3N1Z0JPUm9fUTNhQnFxdm5nM0dfV2doRGdLTWtiRXB4</link>
-      <description>Somalia federal troops and armed opposition clash in Baidoa city Reuters</description>
+      <description>Somali troops push militiamen out of Baidoa after fierce fighting Reuters</description>
       <guid isPermaLink="false">c0535af5ca40c2a5c1e6137bffd98acaf13e0a78</guid>
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>Kushner to hold talks with Netanyahu after rare meeting with Hamas</title>
+      <title>Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL</link>
-      <description>Kushner to hold talks with Netanyahu after rare meeting with Hamas Reuters</description>
+      <description>Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting Reuters</description>
       <guid isPermaLink="false">038413bf7b3442beec5762a9afa1491258939822</guid>
       <pubDate>Mon, 17 Aug 2026 07:15:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>South African rand starts week stronger with inflation data in focus</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUJ6cWdmR3IzemRmUVBPZ0lwcUdkZk9yLWFndHAxU0MycVFNMjZsd1ZMMXVZQmh5S0NlRkJwLVJkRC0zOHQyREswUlNBZzNfRDJZVE1CQUdBN21fZWJvNnVzRFJwVExqYXBGU1dIRU5zRWlZbUc4SUVqUC02MDd6Smo0Mm5ib1oxcnJWQTdwUmpLcEN6eml6SllEamFhZXd6XzJxZ3ZqNENpTG1DNUtlT3Z4OHo</link>
-      <description>South African rand starts week stronger with inflation data in focus Reuters</description>
-      <guid isPermaLink="false">b0625aaeff75f684543630a0a792ad9b0fbda06d</guid>
-      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>India's dollar-raising blitz cut short on BoP comfort, policy trade-offs, analysts say</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPdV9xanlGemUxaW5LVDRvNE1ueEtnM1lWZzc4NkNhMG1mNlBEd3NTQ0VnUFV1Z1FJUE5GU3lrR1VYUkVWUXQycG1sWjdJd0t6WDRwemJuWjNwd1ZDUFpiX3pZdEY3Njd4RW9QT1VYU0I4eElvbl9wN1JpX1VNcG5fZWRTb3FVSmN4Q0Z3V3ZZR25aUVJVQVRCdDFWendnMWQ0Sm80VTFtTFhGOEhFQ1ZRQXlFajI3LVV6ZGVEUGRQZ1JwbHdPYmVV</link>
-      <description>India's dollar-raising blitz cut short on BoP comfort, policy trade-offs, analysts say Reuters</description>
-      <guid isPermaLink="false">266c3e7e16deaa6e6136ea35e1184eb095375482</guid>
-      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>China new home prices stagnant in July as demand stays weak</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQNEJMaGRKWnMtQ2laZ1AyZmtwREVwZDQ2cDBNUkktdlN2dDhxcjh3Z3B2dDhwVGF3U1N0N21hMzhMVWotUllGYkJyME5ZWWhOZFQ2MUhxbXdReURJM05XSlFkVUlyMWRPUERrZ1BaZ3FhZkU5Z3ZxNU1CTjdIYXZzamZtSks5OU1MUFRsSEctdW84U0s0VHR2cVlXMk1pQQ</link>
-      <description>China new home prices stagnant in July as demand stays weak Reuters</description>
-      <guid isPermaLink="false">424cd9799b3284b0370c311e21fca6c7834b3612</guid>
-      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
       <title>Most Gulf markets ease as Iran tensions, Hormuz shipping disruptions weigh</title>
@@ -297,16 +192,9 @@
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
-      <title>Iran says two French embassy employees barred from returning</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc</link>
-      <description>Iran says two French embassy employees barred from returning Reuters</description>
-      <guid isPermaLink="false">d832c466bdeae8e79d00721146b3e0e704e00588</guid>
-      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abu Dhabi wealth fund L'IMAD plans to take port operator AD Ports private</title>
+      <title>Abu Dhabi wealth fund L'IMAD plans to acquire full ownership of AD Ports</title>
       <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTNPQWFzci1BU0JmdnRyUHdOVHhEcG9RMWszemY3bjNoRWZ3MmRpUlA0N2FkZ0FZZV8yVUFKQkV1YnVZeTk2dmdJeFJWdWE2TThmMzFjQU5RR1p6QjJaeFItd1pPQlFCeXVsRFB0R1YyNDZPTkFBUjJRTC1XV19PSUpxVVZBc2g5M3dHbGpRQkVSWVctRVJocTZ0cHl2UjVmUDlHX2pxRk9TY01oSjBpOWFRSllhMnZwWFFLZDB3Q0s</link>
-      <description>Abu Dhabi wealth fund L'IMAD plans to take port operator AD Ports private Reuters</description>
+      <description>Abu Dhabi wealth fund L'IMAD plans to acquire full ownership of AD Ports Reuters</description>
       <guid isPermaLink="false">073ef3fe9d4bdd0eb1dd03da1a95725ac71ea63f</guid>
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
@@ -318,6 +206,13 @@
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
+      <title>India's dollar-raising blitz cut short on BoP comfort, policy trade-offs, analysts say</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPdV9xanlGemUxaW5LVDRvNE1ueEtnM1lWZzc4NkNhMG1mNlBEd3NTQ0VnUFV1Z1FJUE5GU3lrR1VYUkVWUXQycG1sWjdJd0t6WDRwemJuWjNwd1ZDUFpiX3pZdEY3Njd4RW9QT1VYU0I4eElvbl9wN1JpX1VNcG5fZWRTb3FVSmN4Q0Z3V3ZZR25aUVJVQVRCdDFWendnMWQ0Sm80VTFtTFhGOEhFQ1ZRQXlFajI3LVV6ZGVEUGRQZ1JwbHdPYmVV</link>
+      <description>India's dollar-raising blitz cut short on BoP comfort, policy trade-offs, analysts say Reuters</description>
+      <guid isPermaLink="false">266c3e7e16deaa6e6136ea35e1184eb095375482</guid>
+      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
+    </item>
+    <item>
       <title>IMF to visit Uganda next month for negotiations on new programme</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVBscy1kSG5IMVlvVVhzVkR2azRtWWwwTXBPbjdnakFlclJHa1NMLU1mS1FNcEdyLXI4R2FXaVdtWlVVMXBLVUdBclJtald2QmYwSEg1bGlYTVE4U1FQUUc3NjdEcHFVa2F6RUFycFptU0pEQy1tdmlCN2tJc0lzVjRpakt3bVU4bzhwZ2dOUmhFT3IyMHFmUUF1elkzM2RKYWxEYlln</link>
       <description>IMF to visit Uganda next month for negotiations on new programme Reuters</description>
@@ -325,17 +220,24 @@
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
-      <title>In Bangkok's gun district, traders say Thai crackdown misses the mark</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGlhOEl4SXZIT09Lcl9vSTU5VnlHMlBramFtN1lCdTFvNDc4bG9XNWdMdkpudlR4Um5zMnFyTThPdHVKVjlMdGlMbk1pam9OOTdzUDFvbHRWT0I0STFyRFhVVDVmTDlnbW5OclZJUzRndlRhREtnVTM5X1AtWllvNUQwOGdHRjltRmdBdGpEbGhCSFYzWm9MRUZfazU0elkyb2VDLTZYNGdvU1RQb3d1VWt0ZmFNQQ</link>
-      <description>In Bangkok's gun district, traders say Thai crackdown misses the mark Reuters</description>
-      <guid isPermaLink="false">766fee21fbb9b8498ab101295d9a08833fd9aec7</guid>
+      <title>South African rand starts week stronger with inflation data in focus</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUJ6cWdmR3IzemRmUVBPZ0lwcUdkZk9yLWFndHAxU0MycVFNMjZsd1ZMMXVZQmh5S0NlRkJwLVJkRC0zOHQyREswUlNBZzNfRDJZVE1CQUdBN21fZWJvNnVzRFJwVExqYXBGU1dIRU5zRWlZbUc4SUVqUC02MDd6Smo0Mm5ib1oxcnJWQTdwUmpLcEN6eml6SllEamFhZXd6XzJxZ3ZqNENpTG1DNUtlT3Z4OHo</link>
+      <description>South African rand starts week stronger with inflation data in focus Reuters</description>
+      <guid isPermaLink="false">b0625aaeff75f684543630a0a792ad9b0fbda06d</guid>
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
-      <title>Bollywood stars told to drop surrogate ad in Indian state's food safety drive</title>
+      <title>Bollywood stars told to stop appearing in surrogate ads in Indian state's food safety drive</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQNm1TWHhEVVdIQllJZ3REVGY5a24yd1ZGMHlwNHAwTDE1QUFremdXLTFEZ1R2RW1PZG1FUTNpX2cxdzlCNWJiZjBHNjJ0enBUbl9nZHZBTW16anB0TTJBVWt0aVAxbGxja1lhYUxJRFA3Q3R0MXMzTTI3aC02bW84VXlUbkVQN1BHODhRWFR6a21ZbDZFcXdPSWVYNlhiSXFSSlBaUnM0a054VDdnZS1uU28zcDlxUEZ5UWc</link>
-      <description>Bollywood stars told to drop surrogate ad in Indian state's food safety drive Reuters</description>
+      <description>Bollywood stars told to stop appearing in surrogate ads in Indian state's food safety drive Reuters</description>
       <guid isPermaLink="false">7c4d5a03a237db53b79131fa65fd70a215a817fd</guid>
+      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>China new home prices stagnant in July as demand stays weak</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQNEJMaGRKWnMtQ2laZ1AyZmtwREVwZDQ2cDBNUkktdlN2dDhxcjh3Z3B2dDhwVGF3U1N0N21hMzhMVWotUllGYkJyME5ZWWhOZFQ2MUhxbXdReURJM05XSlFkVUlyMWRPUERrZ1BaZ3FhZkU5Z3ZxNU1CTjdIYXZzamZtSks5OU1MUFRsSEctdW84U0s0VHR2cVlXMk1pQQ</link>
+      <description>China new home prices stagnant in July as demand stays weak Reuters</description>
+      <guid isPermaLink="false">424cd9799b3284b0370c311e21fca6c7834b3612</guid>
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
@@ -346,18 +248,116 @@
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
-      <title>China's economy loses steam as consumption, output miss forecasts</title>
+      <title>China's recovery sputters as consumption, output lose steam</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw</link>
-      <description>China's economy loses steam as consumption, output miss forecasts Reuters</description>
+      <description>China's recovery sputters as consumption, output lose steam Reuters</description>
       <guid isPermaLink="false">772da26bc18aeeba6c3fbfcff155786a81169523</guid>
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
     </item>
     <item>
-      <title>Drones attack the Kurdistan Regional Government prime minister's office in Iraq</title>
+      <title>In Bangkok's gun district, traders say Thai crackdown misses the mark</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGlhOEl4SXZIT09Lcl9vSTU5VnlHMlBramFtN1lCdTFvNDc4bG9XNWdMdkpudlR4Um5zMnFyTThPdHVKVjlMdGlMbk1pam9OOTdzUDFvbHRWT0I0STFyRFhVVDVmTDlnbW5OclZJUzRndlRhREtnVTM5X1AtWllvNUQwOGdHRjltRmdBdGpEbGhCSFYzWm9MRUZfazU0elkyb2VDLTZYNGdvU1RQb3d1VWt0ZmFNQQ</link>
+      <description>In Bangkok's gun district, traders say Thai crackdown misses the mark Reuters</description>
+      <guid isPermaLink="false">766fee21fbb9b8498ab101295d9a08833fd9aec7</guid>
+      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drones target office of Iraqi Kurdistan's PM, no casualties reported</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM</link>
-      <description>Drones attack the Kurdistan Regional Government prime minister's office in Iraq Reuters</description>
+      <description>Drones target office of Iraqi Kurdistan's PM, no casualties reported Reuters</description>
       <guid isPermaLink="false">af0a33ebf330d51d79dacfd3edab3dda71cba231</guid>
       <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran says two French embassy employees barred from returning</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc</link>
+      <description>Iran says two French embassy employees barred from returning Reuters</description>
+      <guid isPermaLink="false">d832c466bdeae8e79d00721146b3e0e704e00588</guid>
+      <pubDate>Mon, 17 Aug 2026 09:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian wiring firm says factory reopened after submitting evidence against child labour allegations</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPdTdjOGF2RGRRRkU4TGx1MFFqcEc0TWw2SWVGelRRYUVfRUVsY2xJS1lyeVcxak0ydEJxMUxnZlg5ejF2SWNHdmdkSTdlYkt3Ri1HbVRrS2FPaDZ3VzBfSGpCMWxicjdCcnZJNXNhdGNFcG40QWpVMGNvcUx6WHRLV1lCek1NTmJVdlRCLV9QNEZFUTlNQzE0MHBGOVhyekxKVnhQbnpKY3F6QzFqSTNXZE1YU2NyUW1IcU03RnlFal9sazItcGdR</link>
+      <description>Indian wiring firm says factory reopened after submitting evidence against child labour allegations Reuters</description>
+      <guid isPermaLink="false">38d3c9f8dd7c5b6d4965dc32ea66a06b9cde4c70</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kenya's competition regulator seeks reserve fund in Diageo's EABL sale</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzdGOUpwRHpnY0E2WkJ6LTNhaU5MVDdmZnljd1RmWVVfcUtFRTFXa1V3X1hBN1lkV21rTGJQRGs4QmJhUzVNNTU0N0FtcjItMlphU08zTlRoOE1VRGxYYkl5VUlQdWRMcUdra3J1dk5nUEFUU0Vuc2FEdFZBQzBsa00xVWdNQzZ3RnUtYWFlV0VoSXB2S0hCTTlQWnpFNzFVUUlYQ1FlejdraVdCcGc3RElKTXo</link>
+      <description>Kenya's competition regulator seeks reserve fund in Diageo's EABL sale Reuters</description>
+      <guid isPermaLink="false">113e2c3f0873dfdbea33cf637c53b3f181bae1b8</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>FTSE 100 set to snap six-day losing streak as miners gain</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUR0RjdfMVp0QlRfby1EcmdQSzZvZ2hzT0xJZVdKUjF2QlRhS2p1WGU0dC1xalpqSVp0dV9HYURDTF9yNnVHLTRwZktnZlZXVjNsaWRwTGpIYWdkYUNjV2FaREZmbEpJeUcwZU4zaUVhQm4zQ3VrcDNrWjFxdHQwRXk4SzZwUU9yLWFpMUhrSlJTTFZvNUxOREc4OXY</link>
+      <description>FTSE 100 set to snap six-day losing streak as miners gain Reuters</description>
+      <guid isPermaLink="false">2d7378187c6266e75e9fa2ad7b8a636fd8c5ef1a</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's jobless rate slips to four-month low of 5.1% in July</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzVNWmZSM2RkaElYbXoxVTdNdHhqd0dtOHRHa0RueVdYeXh0TGo4ZU4zVUNHeTN4a3ZNYmNPRVUwS3BRTzJCM2lVTUlSd0RiNFRKb3lPS2N6dlRReGhHTE44bFZncEhRVl9xRjBBNnJWdUJjR3hlQnpwQnNOS2dsV3pQWDJiRU8zXzg0</link>
+      <description>India's jobless rate slips to four-month low of 5.1% in July Reuters</description>
+      <guid isPermaLink="false">40bf0a6d8531c075f696b7eaeb845d87addaef91</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected gang leader's mother-in-law and sister killed in drug-related shooting in Spain</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV8xSndxWmQxMWcwSVVVNXc0MThTSHV0dV92SVgyTWJjekxwSGFQcEIxNW5XSDI1VnU4LVliM2JqcngzclF1S1NMbFEybnlBd1dIUDhjLU9hUktOYmV0Q29Eejc2ZlduZU5LN25BaDloenFFY19LTjNqWDlVQ0tFcFo5dHNSb2hnTDFxYjJVbjFEWDQ2NHo2VnhJRDUxandTZTZHNDR2Nm0zZ09qZzFhVEIycUhIUGVzQ1ZGVg</link>
+      <description>Suspected gang leader's mother-in-law and sister killed in drug-related shooting in Spain Reuters</description>
+      <guid isPermaLink="false">28e56cbe264118840ff8e85f393baaf02b7694aa</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian banks fast-track dollar fundraising after RBI moves FX swap window deadline</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFc4cHg1RGFYUFh6WHh6T0YtLU5IdUFObUhmYkR5YkVoRjR5UkJOMzk0N05sTi1aVF90a1p4aWxjUlVLbWN4YWFEb1FrMTRzRHl1MVpQdmJwRkVtV29wQXMtMW5KeVl3R0x6S056eDFQSzVHZ3hnc1FDRjMyV2xVbklLNHFtM1F6MUJFMG0tdUZlZXhiM3FVVi1oSW1VZHJnYURVQzA5QTZjSW5Bci1iWHdkNElFZUxVYmo0LTB3</link>
+      <description>Indian banks fast-track dollar fundraising after RBI moves FX swap window deadline Reuters</description>
+      <guid isPermaLink="false">a50516b790d2ceeb8a6a841e54df18d979f42e1a</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada's July annual inflation accelerates to 3% as gasoline rebounds</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNTG5YMWhMdXdoTXlxNnhCajl1V0pXWWI5UEdRRWJzTjNRMVVVbUtrUHZ4RXNKWWotUXlpQXZaX2dldDR1MXQtNU9aZGJRc2pQQXV0M2NpSWsxOHpwMW1yR0pxVjVfQURkVmxjeHI3cE5kNUVCRUk3R2FaWVlZLXBWb05KakFDZnRqenAycGJWM1JVaWluaFFXSzhrTWF4eGZ6UnM5blRzUllQZXVXVEoxZGx3</link>
+      <description>Canada's July annual inflation accelerates to 3% as gasoline rebounds Reuters</description>
+      <guid isPermaLink="false">f4f196823ccc42c603a5eff3b4d0a12f43682c8b</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's Airtel Payments Bank names Shabnam Sinha chairperson</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkx2RU9WN0xzWE9pNXEtQ3FETEtZendkZmdSZWdQZ1BHQ0JiMTZBQjJoMzlNa3I5cWYxLUsxRldqN25NS0ZDRDN2cFlGcGQwLVNLU3ZFeUZmQlpwbWtwM0VOVVE3SV9iUDFRdXU3bmRwWEt6YnNVZ0Fud0VwVzhlVkZfUV9XbGtvTE1lMXBvM0d6MWFPdGlZc04zQTZzcVQzTE96TGdTV18tWEk</link>
+      <description>India's Airtel Payments Bank names Shabnam Sinha chairperson Reuters</description>
+      <guid isPermaLink="false">e03e669f4d6a3d67083f236cf68a26e514f406bd</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's Nifty 50 falls for fifth session on Mideast worries</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDFGMU9XOHEwcERRUDJTdzd2VDF4Q3VyczdobTVRV2R1d1gtbHlRM2tFTUlGRVBaVURuTzEzYm5ZWUdGdVo1dEJYX1QtaDRvVGozdjBQOGM2Q0t0ZGpjelpUdTU1ZFNyMlVVU3lKYVlKNWswQVgyVEVhOWYwcEoxbE9SR3B3ZGJVTWFRdXFkZlhPS3hnOGpoaTFQSjR4NHl6</link>
+      <description>India's Nifty 50 falls for fifth session on Mideast worries Reuters</description>
+      <guid isPermaLink="false">2a770d8e4e0fce3459106a264d8c7468c23dbb69</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>At Beijing AI-themed bar, DeepSeek tokens come with the pints</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRfS09TOFIza3VWYzJ2bHJwa25BOThFODJFdTlFWF9LWWtYNGp3S0VaTkltQ214ckZrMFBZTXFFLVhST1k2UFZqLTNiUGR2WEo0Y2ZLaU9Id1F0TXFLbWdBd0ZSRDU0QUhnVzR4RTVmWXU3Sy02dkxzaUpPLXhOOWN4V2E3VThNd1pwQ3J3cThNX3NYY1hQU1k0dXlZeGR0eTlYME9pRjV2ZlJj</link>
+      <description>At Beijing AI-themed bar, DeepSeek tokens come with the pints Reuters</description>
+      <guid isPermaLink="false">3d734e5a4066dbc6a5a46841885232cf86e58764</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zambia says it arrested opposition figures on night of elections</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0tLQU1YY1lkdGk0MWxCLVJUT1h3QnNMMnQybGZyamtqdHkweEFoZ0huazZpY2tLZThybGhxS2t2YlItbmVXYW9ieDNXZDFpaGJVLVFwM1NCb0NfU1ZpWG9JSWRaZzV5Mk1NNGRZR0FSRmlyTkJkS0FhNjE1eUhnUzdqOFhtNllsaWNlcTIzejdTN1phT2dweDEzMlMzN0R6WG1YRzVHbFNhams</link>
+      <description>Zambia says it arrested opposition figures on night of elections Reuters</description>
+      <guid isPermaLink="false">66020537c574d8288adec57af2ab358a878dfd3a</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump crypto firm backs venture offering AI from restricted Chinese companies</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ</link>
+      <description>Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters</description>
+      <guid isPermaLink="false">7eae0b58c405ae163ca346ba47a20e93a9aa2e3d</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
