@@ -8,49 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 15:38:05 +0000</lastBuildDate>
-    <item>
-      <title>(GHXI.OQ) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9zU3pYRnN1Wlc3c2tFS0NXU3BBZ1ltcWxfdFlURm4yclBYemFDSkdYN1pCOVdlWDUzM0RtRndmY0p3WExnNGppNzRkSHBSWlNsUmZhNFFQRkY0aVIyRk5TYVE1U2YzMDNmQmxiLUpaaW9HREk</link>
-      <description>(GHXI.OQ) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">75d2edc81c0612e022422d3bfdf0627dd26ecf17</guid>
-      <pubDate>Sun, 16 Aug 2026 21:34:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(TAVIR.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mRFhrdmtFdElLMGZ0VHB3Q3Y5dEVvZ3Z2UFN3S3RuUnppdVpNZ3dxbHJrbjI2NVVSbkZvTlEzd0g0Q0JWbFdWRU9vUDk1aDdLbW96V3NDTlo1M01Ma2twUENQWVg</link>
-      <description>(TAVIR.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">86719f3a2324c10e68e7a3fe1f78e7f7df4aea7f</guid>
-      <pubDate>Sun, 16 Aug 2026 21:34:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(SHOP.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBZNG43aFBoWWdZcDBzU09GSmQ5Z0dYX0tQNVJiNEtEZGtaXy1QYkV1WkFtVU1sR2FXa0ZTMU5XTURwNkFubnB0VWRZUHNzNHdFTm5nWFplMnRQMFdyN1JERUhMUnIxeWhld3VfTzFzX19DQQ</link>
-      <description>(SHOP.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">eae7b25a29f5ec8f4ddd70328c274325a62eebe8</guid>
-      <pubDate>Sun, 16 Aug 2026 21:34:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(KBWP.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xcnByOUxySEQ0MEhxaWhjdXVMNHB5X2xXX2ZZMWpkYVYyb3dZaGU4RV9sUDYteDFFczExLVFFZmZudmd3eERzTzNUVTlkME82aXVnUk5pekdnUTg0RXhDbUtFcw</link>
-      <description>(KBWP.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">02364099304d1e8e342391cc4494e0e6fffc935d</guid>
-      <pubDate>Sun, 16 Aug 2026 21:34:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(TSEC.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JZTdsRnBVel9VcjZoZVViWTlLTUF6bEtBZ01qejNlMWVWMnIxbFlNOHJXbTZSQVdCX3lidHhhbjFFQk5sUWZxdDU1MG5GS2FfSFpVMHBDVHJXazhtTzNldWVvdw</link>
-      <description>(TSEC.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">7dde23dbfc00cb6ef3aed195f0f9b09790c636a3</guid>
-      <pubDate>Mon, 17 Aug 2026 01:55:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSLQ.O - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5TRkEzdHN3T0RxQWtUMjloSERIbE1nQjBDWG9yM1I5bUU1dDlxV3hjUFEzTE5CcXNaQmNoTEVKYlVyX1pILU8zZHNrRWNXY0N0TzZQNk9LUE1zaE0wOXFDLWpHMDN5dXp3d0lpZl92T1ctTXVNRlZqRWFzRGtSQQ</link>
-      <description>TSLQ.O - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">f3a60587cbf4b18933fef52c1f1477beaaac4fa1</guid>
-      <pubDate>Mon, 17 Aug 2026 01:55:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 18:56:42 +0000</lastBuildDate>
     <item>
       <title>EAGL.N - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWpxY25EeC1NZEhXYnJ2QWkzQjdGQWlUZ1RPeTc5SnU0dUY4b0RMU21rekZPd1l3SkcyZ2hQZmQ1aE5vMmdHdVhLYm5VVnFuTUp2cm5nckMxbnVvdS1hc2NhZjhNOVMweVFXTmZ3ZFBoeS15RGZPdTNGdDJfQ2RRc2NkWG1rUjhV</link>
@@ -63,20 +21,6 @@
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hd1F4S3JSVGRfNmhyejNlM3R3ODliTjU2SkdGOFZQTVRDN2hfSDJyYTE3VFA1ckRrMXZPREpBRU04dVpNV0xRdG5BWFVmcW5JZHlYRFdkU0sxQ3d2U2c</link>
       <description>(HYNE.O) | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">dc73110d1456a7b40850834e8db3d9e75fe38769</guid>
-      <pubDate>Mon, 17 Aug 2026 01:55:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>(JOBX.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HNU9VcHhXMFAtbzVqb1dKZWhJSE1hVUNWMk54N3hDbWtGSU9aa3hnTjdXZGlvRVVNWl9nbEg4cHJ6cFZzMGg1alVQNDVGU1YzU1JBcWtWZ0Y5Y2pWNnc</link>
-      <description>(JOBX.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a826339d029bdeab4e03c79336eb0594f063b7b5</guid>
-      <pubDate>Mon, 17 Aug 2026 01:55:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>E0UA.DE - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHpHaF9SQXZrWXJQQzhESGpuM0pLdWpEUDdfamUwM2RMOUNMWk5HMEIyQzdZT2hTaDVnSzVnQ00yeVFoNmhDdUd6N0J6WmdtNXRmaDBkUHUwR0c0YUJJSDQxVnNKamxhMG50N3o0Z0cySHhNdDU0ZEc1Wk9Dc2t0SUNSdkNyYm9fT1E</link>
-      <description>E0UA.DE - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">1dd2d18c29a10dbb6b0579a6115457b21f8fb357</guid>
       <pubDate>Mon, 17 Aug 2026 01:55:33 +0000</pubDate>
     </item>
     <item>
@@ -234,6 +178,27 @@
       <pubDate>Mon, 17 Aug 2026 07:16:07 +0000</pubDate>
     </item>
     <item>
+      <title>About TrueShares Quarterly Bear Hedge ETF (QBER.N)</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MMlhSRE01ODc4cGJoVW11dHIyaVJheXE5OE1EcDN3aGJrazF5NE1kY0lsZmVTSlVhTEM0RG9JNlN5TGpvOGIwZ2N2V1JJMENVSlRGS2JhUlFoTXpCc1E</link>
+      <description>About TrueShares Quarterly Bear Hedge ETF (QBER.N) Reuters</description>
+      <guid isPermaLink="false">3b4154b867ed6860bc79eddddce2787dba271afe</guid>
+      <pubDate>Mon, 17 Aug 2026 09:56:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(HDLV.MI) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYUlvc3hpZjE1TDdyamdaMjJwYS0zaGR2d2JrSWh2Sk5OdV83bk5RZWsydUtrUHhWS0ZsQlpNd1BDVklfWXJpZF83aTBoMVJFdnl1RVpsWVhOMGFUTzRGcnRseVFrS1RSb0RoamNB</link>
+      <description>(HDLV.MI) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">eca19397be0b8f18587936582a4cf439915c912f</guid>
+      <pubDate>Mon, 17 Aug 2026 09:56:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SUPP.O) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fMUZCeWZvMkhRZV9RaGZNczlkc0lscnQtZnpDSTRacUh4RDZKS1QyeVdtZ3JxN2pSTHRuYkplV2pkYW1JZDNPUHNkdnZ2amc5dUk2c1dmZ3k0VHRBaEE</link>
+      <description>(SUPP.O) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">26bde242b6c60bad4ef3a6b9c8d1a5dbfc78973b</guid>
+      <pubDate>Mon, 17 Aug 2026 09:56:50 +0000</pubDate>
+    </item>
+    <item>
       <title>4444.T - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWwwUTdKUFU1QkRYLXZOX0JBZjd1cU5yY1NVQ2FBWlJlY05jUGdVSHQ2bU9CZ05RempSWFFWMC14UFA4WUNjWUNWWEhjZUY3S3o5SkMwUGdENS1mSEFNb3dWTmIwTkxzR3dwR2lnX1JPWi12M2hPY2ExSWo3R3FlV2hORXFIel9qY2pYalo2UnM3Ry03bTBjYWxZNGVvUXRTT1k1RWZRNU52VTkzeXQ4Q1N4Yw</link>
       <description>4444.T - | Stock Price &amp; Latest News Reuters</description>
@@ -358,6 +323,41 @@
       <description>ACEI.N - | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">9e500e9bfff93cd7c80e49eee6ebf20f08acb3da</guid>
       <pubDate>Mon, 17 Aug 2026 15:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>VOGX.OQ</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPSklONVFJYXJoeWM0TlZ2azVlbGRucEFyMEs2b2RNNFRBZ21wNzdNMHN3ZlcyZzhod2JnYVh1ZC1OYU5QM2kxMDRVbzEzUWdYb2dITXFCTWZFdzJxMkotSDF1RXdGeDdKUmRodFFuTEJ4ZlR2UlVPX3ZHMV9McXZ2UXk1WU4</link>
+      <description>VOGX.OQ Reuters</description>
+      <guid isPermaLink="false">985d1710087effc2affb793a543f7debe1076980</guid>
+      <pubDate>Mon, 17 Aug 2026 18:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>4850.F - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBtajFvX1hEdjJvU3VHWnRINU9Rd09xcy0zODY5NXV6ZkRMdXpjclNIUGh0TFRHUWR0NWxWRWliaVhYQTVRblFLQU1mUk42ZHRYM0VrYWt4QkFQaThNZDRZbFdDamxxV2JtQTlQeQ</link>
+      <description>4850.F - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">857650c0f213104ea1ede2656717dec08f0c5c9b</guid>
+      <pubDate>Mon, 17 Aug 2026 18:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>(KLIP.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuTkhFR1lYVUJYM2VDTEptbnFiS1U1b2EtcVU3YjZfTkN2R1VHOV9WekN0STg5R3VvanpfZ2RDQndZNm9SNW0wMUVBNnd0Qk5tRFJXVVBJck1KLXNxVW9QUGdBVQ</link>
+      <description>(KLIP.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">f9b88143836b50b6415d040c629253e613ee57fa</guid>
+      <pubDate>Mon, 17 Aug 2026 18:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIAI.O</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE5UTGtXZ0FiMmo4QUhJQnNBYUZsX2lqb3hIUmt4RWFOOHRFdHN0R1p2ejJVbF85U1lqbVlQYllRX2JNU3NmVXdmNEYtbFhEMnlEOW1wSElZZ1BnRFpORlV6amRmdFdicG9FVEhyX3ZKNUVNZw</link>
+      <description>AIAI.O Reuters</description>
+      <guid isPermaLink="false">521b3c6658456884561b1459f4403d36df1ac5e0</guid>
+      <pubDate>Mon, 17 Aug 2026 18:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>(TSLT.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMXhJUThneVBVZlQ0Rl9WcVNUZ0VHS2xxc3RKRTk1bklDa3MzcU03c0ZQanpyRlZsOHZTU0xmRFNEN1pBUmVoanhqQVFRWU5mTmQxdUtmQ3ZVejFQODdKckNTakdPQUltb3FISA</link>
+      <description>(TSLT.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">a356b4df2e9fe708bd4236beef0e0e8c47eb22b6</guid>
+      <pubDate>Mon, 17 Aug 2026 18:56:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
