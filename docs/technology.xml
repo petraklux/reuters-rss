@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 09:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:07:01 +0000</lastBuildDate>
     <item>
       <title>Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw</link>
@@ -29,6 +29,13 @@
       <description>Anthropic revenue run rate tops $65 billion, source says Reuters</description>
       <guid isPermaLink="false">325593ca89b9145de4856c37339b41b58a7093e3</guid>
       <pubDate>Mon, 17 Aug 2026 21:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE</link>
+      <description>OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls Reuters</description>
+      <guid isPermaLink="false">b8dc5a5376546248db5887e20ead9890add017d9</guid>
+      <pubDate>Tue, 18 Aug 2026 13:07:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
