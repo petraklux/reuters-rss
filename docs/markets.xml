@@ -8,42 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:07:19 +0000</lastBuildDate>
-    <item>
-      <title>AIAI.O</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE5UTGtXZ0FiMmo4QUhJQnNBYUZsX2lqb3hIUmt4RWFOOHRFdHN0R1p2ejJVbF85U1lqbVlQYllRX2JNU3NmVXdmNEYtbFhEMnlEOW1wSElZZ1BnRFpORlV6amRmdFdicG9FVEhyX3ZKNUVNZw</link>
-      <description>AIAI.O Reuters</description>
-      <guid isPermaLink="false">521b3c6658456884561b1459f4403d36df1ac5e0</guid>
-      <pubDate>Mon, 17 Aug 2026 18:56:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>DRGN.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2xEX0tjX1RXcnVaUnI5ZFViclVWWmxlY2YzbGQ3Mm9WZkVOWXB5TWZ1d1lFMENqc3dQVW01Y3hLVjdYaGYtWmNLVXRYQVdjV1RWZS0ybTNSUThTODg5alhRQjBoYzFFYkppZlZhZkdOYnZkSVQwandTY2N2b3M5eWFPTQ</link>
-      <description>DRGN.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a4a37cb27b494998d53f22bc28515c1eb40a1c1a</guid>
-      <pubDate>Mon, 17 Aug 2026 21:39:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>About Tradr 2X Long ACHR Daily ETF (ARCX.N)</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE94MXRYclRFNFhHQ0VDRmZuck4yV0E4bEZDVnd1cEQxUjJ2d0NFS3BCNFVaVFUtOU9wMVhGd0JoSVM5WWxlUjB6NkNMQWc1c1AteDNpbDVKQVBXeUJYNWc</link>
-      <description>About Tradr 2X Long ACHR Daily ETF (ARCX.N) Reuters</description>
-      <guid isPermaLink="false">ca870cc3decb90673c2822b3d1d313147da62c0f</guid>
-      <pubDate>Mon, 17 Aug 2026 21:39:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>MYCH.O - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5SLWtrSFBvY3N4MkhrSDZaTUh5UVpxaGQ2dlBLV3NYWnNVQlRwUWhCVjQ4NmMxeV83cWpLQWpEVDRNbmxGYVpreEs4RHBESFdaY2pmdnM5OWh3U0RqQjVVV19fYmNUS3FhaWlpYkg2UVJDQnl6cTU1dWhmVW44Zw</link>
-      <description>MYCH.O - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">ec3a901846a6565d78d436f945de68c031d59692</guid>
-      <pubDate>Mon, 17 Aug 2026 21:39:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>EFIV.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE94cUlRZ1R2bTlEbDFEVXd3TzBkRTBhbjNxX2lOeVFDRmdZQTNfRjBOLU92ZG5MTTVOdi1xeGx6R2s2c0o5bjdiZi1YTlgtNndLR0xjcW9SYXZWWlZnSngzMGs1Tk1NcVM3VnhiSUg3U0puamQ1YkFjX2FWSDV3cjA</link>
-      <description>EFIV.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">57dce6b02af682f01a264acc49819d773fa8773f</guid>
-      <pubDate>Mon, 17 Aug 2026 21:39:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 15:45:49 +0000</lastBuildDate>
     <item>
       <title>TPIF.N - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXBTdDhFZXctMVZTQnVkeV9jTWhfdVY4bG5Cd3dZT2hGTlZTYXBwMG1qN2w3RGhIX0FLd1RRYkptSFZ1ZFBBLVBUQkFBMlo0RXRFSElpNnZtNTB0Mjh3YnI1cGZFMjVweGtPcWxPZTREeXhBQ2NISjZjSk9FMzVwYmFpQlhfaUE</link>
@@ -234,20 +199,6 @@
       <pubDate>Tue, 18 Aug 2026 09:48:28 +0000</pubDate>
     </item>
     <item>
-      <title>TSLT.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPem96c2NoMHdQUjFkaDBGMzdHVExXNUNVMzVLSWlPcFR1eWU5bzFRMmdMUFF0S0llc0M3WXpqYVQ4LTM3S00wZDRTcUMzOFpTQXF0SlhjUFlrRnpyQkxDeTNiY0p3RkVHd3ZNOENtM0tyU2Ixdm8yS29oWjluV0pUcWVoYTZhd1kx</link>
-      <description>TSLT.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">afa2a48435015d718cae86a43ce19421970825fe</guid>
-      <pubDate>Tue, 18 Aug 2026 13:07:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>SCNX.O</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE84ZDg1LXJYRWo4N21Qa1R3emNYSFF3QnZkd2VBazM0N05uVlpMb3BnNWRpMUxhVkRJTmFsUkl2RnFXSUxBdTBXa3RXU3FJUHFHYU93N3lHODdyMWZIbkdLSWdyRlctQmtWQjhaenNDSQ</link>
-      <description>SCNX.O Reuters</description>
-      <guid isPermaLink="false">99266758d7c1de8b22ea4c542766ad582dd6dac7</guid>
-      <pubDate>Tue, 18 Aug 2026 13:07:19 +0000</pubDate>
-    </item>
-    <item>
       <title>About Spacsphere Acquisition Corp (SSACR.O)</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFdjJOMWtwdnVGT3ZYV1h1enJkNTdsRUhfb28ydEV1MG9VWXZDeXRSRjU2SEpwLWV3NHJDUTFnc0JQUkVkR3NFRHdndmwycE5Pdk1MX29LZVpPMlo4OF84</link>
       <description>About Spacsphere Acquisition Corp (SSACR.O) Reuters</description>
@@ -353,11 +304,60 @@
       <pubDate>Tue, 18 Aug 2026 13:07:19 +0000</pubDate>
     </item>
     <item>
-      <title>(SEIV.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMb3pRY0JoNDBoNmRkYW1jRXAxakR5NlBHS0NWZVdZX2loLUJqeFV2YWxGS0liY3BBVXl4aFlrdjg4WWowZXVqS2VST290cHZLb1VOZDRYOHV0ZUZQZ3c</link>
-      <description>(SEIV.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">995fe504328c7acfd4e31d647daf0a4630acc46d</guid>
-      <pubDate>Tue, 18 Aug 2026 13:07:19 +0000</pubDate>
+      <title>ZIG.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNWS1MT294bUhNWV8wVkZ0RU5HeU1fZlVyNC1TMHZsV3Z3YXBaemJIOTZnZGx3bU5salZOc1lYWE1wZ081OExYbzFTWnY4Uy1hX0JaLVg2c0NtcU9zMTVXcy1aWnAzUVkzOWc3Y2gxNUFJVzVoU3huYXB5LVVyeVJHMUVn</link>
+      <description>ZIG.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">1e69a4a9ed2609f9ec4340d78ff555eab90f6776</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>FNG.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5PTXg1bWRjOFpCQ3V1dnNoQjNUSWpHbUVmQUtzNVg2Mlg3a2d4bjhQdmJMb0NDNkxWM2VxbHpIbzlMcUdnNW9VRDBIbVNTU2hEWGVmM2JiLUpSdUY5MUFsbVBIa01uUEJLM1d5MjBoVnpfSEJPNlhIZlNSMlA</link>
+      <description>FNG.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">e102ad9eeb0504a9bd8081b812469e470024f89a</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>LGGA.DE - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxONlBXWExBcVA1cnQ2VTUzXy10VmwwVVJiTUR3RXB5czR0X1FoeWVZU0U5RHBYRGRKcTR1UXZJWDRvcWhqSksxZGRNWFg5WURVNXI2YXJxckhnTngxeENsNjIwUzFXZFRBSmhfU0pXa1RoWFdhWEdHMlZHQXpOVXVfcWNPSzZ1Sm5xQXc</link>
+      <description>LGGA.DE - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">05be8017b0c780e7de9e8b705ed068ff858c032c</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>BUCK.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1RBZ3VXcWxMT1ZDd0dySlhsUXpSNkFCLS1SREZXSFRUc0JhQ1B5N0MtaWxwSy05TWNTNjAyc1ltTDNXRmRFYllMTzZubFFQRUtuU2Z0dVU1UWtuSzAteUswdTQ3UTNfRWFZUkJIQkFtZk1RZmd0cHB3UW5kVTVfaVlid0ttNmM</link>
+      <description>BUCK.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">a59ab7e34a333aeee75da1faadc5ed6452c11a1e</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ROKT.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXhPOUgyelo3YkFGYURYamtmNXAyQ3gyVVk0elMzdnNXaF9CMExWOTFwS1VETXlhOW51V3JBU0NVZTRfdmk4U2hYV0tRR1FqYjFGcFhGS2VWazN5dDJJNGQ2THBHZWd2N0JuOE05emJoVjBVc1RaNE81d3BvN2N5VGt3VQ</link>
+      <description>ROKT.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">4768f5ba13a5cc0a63cd6539db7fc0e3591ca30a</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>About Leverage Shares 2X Long FN Daily ETF (FNG.N)</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kclNkem9PN2ljQ0dqZmdDaDg2X0lYYXYybmgzb3NMWUc2RWowUUI5SEYtdXMzeUxGeXdhblQ1cnZuc1FDOExRWHVsYmhyVEZsWlV3NEpadGwyU1E</link>
+      <description>About Leverage Shares 2X Long FN Daily ETF (FNG.N) Reuters</description>
+      <guid isPermaLink="false">0cd71dd1066190137d4c7b42321124de2e9730cd</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>About State Street SPDR S&amp;P Kensho Final Frontiers ETF (ROKT.N)</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9McXI1Zk13aVFsaVU2UURGREVLZXo0ZVdfYTV6SG5ZcmpuNnVSeEt2dkFFeWtqWjZRbFJzVk9tLUtucVBCczdkZjFJbjFlbEVWd0ExUkV4V1p5d0NtT1E</link>
+      <description>About State Street SPDR S&amp;P Kensho Final Frontiers ETF (ROKT.N) Reuters</description>
+      <guid isPermaLink="false">cb1e680deed706e7271607ed52f8375523655152</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(JUNC.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE56R003V2o3WHhqZXFybjAzNTVpeE9wOTZYaTNYOElxWFNpckthY051ci0yUndzTTU3NTlwWHJoN2t6dWVTYUgyUzEyUXhtejBheHM4ODl3Q1J2eVVBaHAtNy1idw</link>
+      <description>(JUNC.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">1b594350a810e7963822eb3d80fe2edf2610f3f4</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
