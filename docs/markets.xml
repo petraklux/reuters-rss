@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:05:20 +0000</lastBuildDate>
-    <item>
-      <title>MYMF.O - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBUR0VjcGJCRU02c2gwaV81emdvTUZaQk4wYU5JNzBKcXJlRU8tVGhJc2hkNTZWenhEbVJwNTRYdGRCQzNNWlU4UndYSXRNYTE2eWthOW5nLVNYZEFIZnRYMk03ZjI3UUVxczBTVVIxUmNYWVlqSDJvSEZDWDByZnM</link>
-      <description>MYMF.O - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">ff3df02c6d86b2d4240e838756032d3ef12fd1cc</guid>
-      <pubDate>Wed, 19 Aug 2026 07:04:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 09:50:06 +0000</lastBuildDate>
     <item>
       <title>SVIVW.O - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1CV0ZDVV9vRVkxa2Y2YW1lZ1d1MGZFUEZ2czZWbWpwb2ZMZXJrTlN1X3V3dlAyWkNZbHFLUXZranpKbndDMFdKVzJUT1hNMjA3LU9MQlRFdnY4bEYyUm4yOWw5N0g3Rjd4Y0RpdnZjMDhsNVZ5WGdVX3dRaV9kc2s</link>
@@ -358,6 +351,13 @@
       <description>SPGM.N - | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">1377545b0f23461e958851c327bd67b826c32494</guid>
       <pubDate>Thu, 20 Aug 2026 07:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>STRN.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTNnZ3dGNzhLTW9iM1BuR0ZjN1FZYjRPU0JoYVlteDlPalY1eUJiUE1DVU53ekdXMWo2M003Q1FKYjhtd2gza1p0bENlSDZxdEJHNlpZS25halhiS2lxRjU1UDFDM0hXZ3pFMWlKWENxal8wYXpMeHJpNWtQdkpnWnhn</link>
+      <description>STRN.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">c557cd26a986a2f21fae7d1fc927bca1fe863e21</guid>
+      <pubDate>Thu, 20 Aug 2026 09:50:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
