@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:50:41 +0000</lastBuildDate>
     <item>
       <title>OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE</link>
@@ -59,17 +59,17 @@
       <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
     </item>
     <item>
-      <title>The unexpected winners of America's data-center boom</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWF2UHNGVmlnWmFBVlBPc1hVNERmWnh4TFhKSUVKWHlqZWNEVjVvOTYteFJuV1BOcmtUNnpqRXVILWhWSTNINWZrN3ptMkd0NExiNjJHdnlzQ0NaRkZGeTJDMmVRei1LX2U0UFVudU8tTE9IcFYxMnFrUVpxVnBrSHY1UUJ3M3lfRHBXTElyRmhZbU1Kdml3OFVwSm9EamZsWE5NV1dNdk9MOU1PMF9vRUtZOUVXdkE</link>
-      <description>The unexpected winners of America's data-center boom Reuters</description>
-      <guid isPermaLink="false">7788d4b5d553f554013f56848a4dc0d1a794d54a</guid>
-      <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Nebius plans $4.5 billion convertible debt sale to fund data centers, AI platform</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzJYSUdqcjEzbl9LMlh2LVpNV0FwUzh2elNlelR5azB1X0lLM2wyVlg0RGl2cGJPSE5wUFRmQmVSV2V2UEpLcDFuQzJjVnljM1YyQVhiSUFoc0lwSFNxVVdacm9yeVZ3TWEtcWtOVDlKeXZDOFFOUDk5dnA3SVkxdmRQeXJKUEVydmgzRHF1eHVWaUNuRXItdHV6MVRVMnlGdU9fMzREUW9wVUxxcXhMVkZ5NTU4N2NScEJmMUMxVQ</link>
       <description>Nebius plans $4.5 billion convertible debt sale to fund data centers, AI platform Reuters</description>
       <guid isPermaLink="false">fb898f4e8b10de312adb3d7b11654329bab953fd</guid>
+      <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The unexpected winners of America's data-center boom</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWF2UHNGVmlnWmFBVlBPc1hVNERmWnh4TFhKSUVKWHlqZWNEVjVvOTYteFJuV1BOcmtUNnpqRXVILWhWSTNINWZrN3ptMkd0NExiNjJHdnlzQ0NaRkZGeTJDMmVRei1LX2U0UFVudU8tTE9IcFYxMnFrUVpxVnBrSHY1UUJ3M3lfRHBXTElyRmhZbU1Kdml3OFVwSm9EamZsWE5NV1dNdk9MOU1PMF9vRUtZOUVXdkE</link>
+      <description>The unexpected winners of America's data-center boom Reuters</description>
+      <guid isPermaLink="false">7788d4b5d553f554013f56848a4dc0d1a794d54a</guid>
       <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
     </item>
     <item>
@@ -99,6 +99,13 @@
       <description>Uber launches autonomous rides in Zagreb, its first in Europe Reuters</description>
       <guid isPermaLink="false">a73b27d11e1e7763f2a51709369b7ac5819a800d</guid>
       <pubDate>Wed, 19 Aug 2026 21:39:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEWSLETTER: AI firms can't yet contain what they've built, study finds</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1</link>
+      <description>NEWSLETTER: AI firms can't yet contain what they've built, study finds Reuters</description>
+      <guid isPermaLink="false">b62944bb94335970fd0f45eb16629e6d5d655e1e</guid>
+      <pubDate>Thu, 20 Aug 2026 01:50:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

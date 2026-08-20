@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:39:25 +0000</lastBuildDate>
-    <item>
-      <title>(STRD.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SYlRFMUM1TnFUeVp0OEo5RXNMQmEzcDMtNVVKWjFGNHV6XzQ1Z0NTR3JhMlVzX0FONGN0U1ZjaHI4Z2ZxY3U1MWg4RnRNb0tvcERmXzdheENNTENIcXc</link>
-      <description>(STRD.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">7ef2eb05c1eedc8647926c9055c17d1dd3d7b121</guid>
-      <pubDate>Wed, 19 Aug 2026 03:58:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(MYHC.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ha3p4SGtDc3dJdzRDWFhVTWNVTGpGQVFZVjgyaGV3bGVEb1R6M0szR1YxMkt1S1pTb0NNTEE5NG84dndyRVloT19oUmEwWndPSjlMczNkMWFLNWRUNFZMc1dXQQ</link>
-      <description>(MYHC.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">80aa936f5518bb976e03060a5ce0edd4432d5e4f</guid>
-      <pubDate>Wed, 19 Aug 2026 03:58:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 01:50:59 +0000</lastBuildDate>
     <item>
       <title>MYHC.O - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWJWRXVwSEY1aWxCYWU1M3ZNWHhMRlp1UmdCXzJjV1NfMldNOE9SYXByRXVQSnVrQms3RG9GdlVGTmNHci1yZFBIcjh6Y1JUd1htV01MQjNEZEVaSlczQmFNOEFnM1pORjZDRzJWWThlRjRUNHlJTHA5Vy1nVHdyT3hzRkozMGs</link>
@@ -36,13 +22,6 @@
       <description>SABSW.O - | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">ad0fbd2caddec912c4a019fed201d96163f67280</guid>
       <pubDate>Wed, 19 Aug 2026 03:58:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>About SWP Growth &amp; Income ETF (SWP.O)</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0M0hqNVRWa3pMa25hLXd6UlFfNlp2MTBIZXVEMGtweUVFRDV5RG51RjV5OVE5OUc4U2pCVlFrNnlNZWVCQmhtZkpJZGV5MG9QbG1hbWRGZTFWTHZu</link>
-      <description>About SWP Growth &amp; Income ETF (SWP.O) Reuters</description>
-      <guid isPermaLink="false">ab8b1175b83fba48447d31d96d766f6ee8f876ba</guid>
-      <pubDate>Wed, 19 Aug 2026 07:04:54 +0000</pubDate>
     </item>
     <item>
       <title>About SHF Holdings Equity Warrants 28th Sep 2027 (SHFSW.O)</title>
@@ -143,13 +122,6 @@
       <pubDate>Wed, 19 Aug 2026 07:04:54 +0000</pubDate>
     </item>
     <item>
-      <title>PRIV.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWQ1VFhIX3N0dTNYUkJrZlNNdThkN3pRUm9KZHRlODB3cy11SVhUcUJ2N2FPYzhUQ0R5ZTZYNjI3LS1DNTEzTkRwVGNnZHpfUFo4cERnQXZRdGJjVXlqcVVGR1RrYmYxRy1nSG1DUFpidGlJMFFhdTRnRlZfeU96YW9B</link>
-      <description>PRIV.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">3fb91474e774ac114cbccc0d028755407d7b77ed</guid>
-      <pubDate>Wed, 19 Aug 2026 09:48:56 +0000</pubDate>
-    </item>
-    <item>
       <title>XHE.N - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUZpLTdER2FrVTdEbnVlcTVZSjFORmFkUzNjTVljeVZSNVFTMXlNeUhjYmg4US1fUzF6WmotSHVmUklHay1HYnFkSDlJRGd0YWNRSkZnWDhlZmFhWEU3NmNZQTdFbVVmTjVWSjQ0SkFqc3NtX3hLMnVMcldyMUdzUG9UbEZEdw</link>
       <description>XHE.N - | Stock Price &amp; Latest News Reuters</description>
@@ -248,18 +220,11 @@
       <pubDate>Wed, 19 Aug 2026 18:52:49 +0000</pubDate>
     </item>
     <item>
-      <title>European shares muted as energy stocks gain amid Mideast jitters; Fed minutes in focus</title>
+      <title>Europe's STOXX 600 near three-week low as inflation worries weigh</title>
       <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOWk13UTJrNGdtRnNqUllEdDlZYklQYzlVbElWcmZNaVJVNXFiVUY3bHBJM0dDSFh0SGQ1REdxc3BBS05aVGlnZXNRX0JqMFRVb29QeFgyVkhMcWZYbjFqX2hMS0xrM0w0TGhNXzRwc1dwWFRVT21aak4zSFVTTkdMSzRBbjlJWjFPRzRYMFhueXZMX2hzYXR5ZWpnckNicVF2UjRWOUhsU01mcFZMcjVUMi13</link>
-      <description>European shares muted as energy stocks gain amid Mideast jitters; Fed minutes in focus Reuters</description>
+      <description>Europe's STOXX 600 near three-week low as inflation worries weigh Reuters</description>
       <guid isPermaLink="false">a010c1a3a9f66c20c99788d271a09f09145fe0e7</guid>
       <pubDate>Wed, 19 Aug 2026 18:52:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>SCCR.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHZDMzRwbWdiRnBfazdhMWQ2a3doeTdaaklTZEdNczh1eGxuM19VeXZSSHVucU5BQ3ZyOGljdlBqSFBSYjlseDZTSkZ3VnBoeWtsSWY1YlVZWE9Kb0FNX1RWTW50bUF6cWpLcUdTMmpuQnQtV3N5dGNhMUdNdU84T1pR</link>
-      <description>SCCR.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a8a78ea7783336ae1a63fcb2157c82b66db7435b</guid>
-      <pubDate>Wed, 19 Aug 2026 21:39:25 +0000</pubDate>
     </item>
     <item>
       <title>MMAR.N - | Stock Price &amp; Latest News</title>
@@ -358,6 +323,41 @@
       <description>(MRK.N) | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">e4e6fdd68cf179dc72bc12ee03572a8997e15d84</guid>
       <pubDate>Wed, 19 Aug 2026 21:39:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>UMCU.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHd1QnVxNlo0cDg4cWtVUUtrSTk2OGZfYjU4MUstVGtkNjJTbld0ZnNJTGRmcW9hXzRwVmFicU9VaTA4YlFORDBxY1MxekZ4Q0w3TzdRNTZXbmxFM3NrZVRjODJSTW5RQUp4SFoyZlFfV3g2eGJvSnlqMTB3NWtCamZOUVhONjg</link>
+      <description>UMCU.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">81343dc20a808db666bfb802829fdda7e17625cf</guid>
+      <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SPIP.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZRkpXenlzX3g2QmFWNTFYVFJrelNvYXhWcTAycXNScktHNlhibnRIazNMOWFURWp1cEhUcGQ0Zk9Ra3pwRjNuXzVoZ3R0Vko3akRjaWdZbDZIVDlJZVpQc3hrUEo3bElmejkxSzByX1hVb29xd3BSeHNUU3ZZb0U</link>
+      <description>SPIP.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">4a0955b7cf8f403e1ec92e4ebfe1591c464f0040</guid>
+      <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SATA.O) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE92ZXBJcnJpSENLSkR0VzFlRzhZbzd6TVFUcnhpeUJUV09KTlI3d3VRdEFGTVhkc2kzWkZ0M2h0WjFEbkQtMHF5X2pjajdVSUZXZ1gyWkhtcXU</link>
+      <description>(SATA.O) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">040663f4ac4f99c1c81cf7f7e42a0d807efa2df5</guid>
+      <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICUCW.O - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0kwcnBhbVN2SXRlOW9pWURSbmxvYmV3YURtR25OS2JQSmVfMW0wcWdocTg5Q21BU0FXZkxQU01ETTRzWVJtNl9qTkZPMTFEa1FzQnhZVXoxbnN0dzBBdXAxa2dVMUo4Sjc5aTNCcmU0aEVrODdkLTFCY2tOOG5qeDZmUGQ</link>
+      <description>ICUCW.O - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">655d8ac1586dcba513d5b88a01c101eb6ed7b700</guid>
+      <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>About HCM Hedged Equity ETF (HAWG.N)</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YNEY5enhIOVB2c05Keng0S0hLSzV5M2hDWlU1Z05JMUpoemoyUmlESm9wcXg5QkVOcmMteVlGTnpLWl9GSmx1d3lOTHdoRGllR2lvaUdWVGtKU20x</link>
+      <description>About HCM Hedged Equity ETF (HAWG.N) Reuters</description>
+      <guid isPermaLink="false">40f53b49b6817a65998f2bb1cfb3ab058de912ec</guid>
+      <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
