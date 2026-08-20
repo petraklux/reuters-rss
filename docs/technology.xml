@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:05:04 +0000</lastBuildDate>
     <item>
       <title>OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE</link>
@@ -59,9 +59,9 @@
       <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
     </item>
     <item>
-      <title>Nebius plans $4.5 billion convertible debt sale to fund data centers, AI platform</title>
+      <title>Nebius upsizes debt sale to $5 billion to fund data centers, AI platform</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzJYSUdqcjEzbl9LMlh2LVpNV0FwUzh2elNlelR5azB1X0lLM2wyVlg0RGl2cGJPSE5wUFRmQmVSV2V2UEpLcDFuQzJjVnljM1YyQVhiSUFoc0lwSFNxVVdacm9yeVZ3TWEtcWtOVDlKeXZDOFFOUDk5dnA3SVkxdmRQeXJKUEVydmgzRHF1eHVWaUNuRXItdHV6MVRVMnlGdU9fMzREUW9wVUxxcXhMVkZ5NTU4N2NScEJmMUMxVQ</link>
-      <description>Nebius plans $4.5 billion convertible debt sale to fund data centers, AI platform Reuters</description>
+      <description>Nebius upsizes debt sale to $5 billion to fund data centers, AI platform Reuters</description>
       <guid isPermaLink="false">fb898f4e8b10de312adb3d7b11654329bab953fd</guid>
       <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
     </item>
@@ -106,6 +106,13 @@
       <description>NEWSLETTER: AI firms can't yet contain what they've built, study finds Reuters</description>
       <guid isPermaLink="false">b62944bb94335970fd0f45eb16629e6d5d655e1e</guid>
       <pubDate>Thu, 20 Aug 2026 01:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>China puts robocops on traffic duty, minus the arrest powers</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz</link>
+      <description>China puts robocops on traffic duty, minus the arrest powers Reuters</description>
+      <guid isPermaLink="false">99861cf0fae26e86499a4de28ebe9a35573b33df</guid>
+      <pubDate>Thu, 20 Aug 2026 07:05:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
