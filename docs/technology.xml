@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:58:41 +0000</lastBuildDate>
-    <item>
-      <title>Keysight forecasts quarterly profit above estimates on strong data center-led demand</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXFLSkJzM01IeFlHSlBMOEw5SGh5UFU2dVowRWxMNGZrMm14NV9jSF9TbXFrdlNDcnhvc1Npa0pBcDRNOFh1UG9waVhiN1NYcExVaXFCREVCb1ZRdVRYOF9PaUNvajl2RV9aS1Zpb1pGQlljT2NXa0xqNlp4cFYxbml3bUtBXzZpOG9hMDB4NmJJNXVmZHNZeTJzcGtBS01SRm1VZXIxYTllc1dRY282YWgzUTNJUGZUS1Nzb1Bn</link>
-      <description>Keysight forecasts quarterly profit above estimates on strong data center-led demand Reuters</description>
-      <guid isPermaLink="false">89fe9cba6c19f9d92453b8ff066dbcc2e75d3990</guid>
-      <pubDate>Tue, 18 Aug 2026 21:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI slows model training to bolster security after Hugging Face hack</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw</link>
-      <description>OpenAI slows model training to bolster security after Hugging Face hack Reuters</description>
-      <guid isPermaLink="false">9bf501a85d5b697037a2ba7d02ac14a424b7bdc4</guid>
-      <pubDate>Tue, 18 Aug 2026 21:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fintech Jack Henry beats quarterly estimates on strong demand</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYURvcEY4SkROeldmTTdxOVJPdFpqU0VaQkRSMHVlbl9JaVJZb3REUWE3aWh5d1RPWEJMU0o5NS1FUURoazRFOGhsX293OXJuY1pOaF96VXhrYl9XSmZHcmZkTHZ0b0d3akZ6N2RyN25zeExNOGRBUEtSYVNjTlV3Mm8ycy1CY1hJVVNieURYeTNDTjZrMXRyTGt5Y1Z2ZGg0LWc3TEUwUzc</link>
-      <description>Fintech Jack Henry beats quarterly estimates on strong demand Reuters</description>
-      <guid isPermaLink="false">06823ae4ac9f0c2124b0a43a22e7e6af0374cbb0</guid>
-      <pubDate>Wed, 19 Aug 2026 01:52:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 21:42:55 +0000</lastBuildDate>
     <item>
       <title>Cerebras launches new server chip and system designed to speed AI chatbots</title>
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU13WV9BblNQekV2Z3RoeUQ2dzFVQkkwQkZWVk5CSVA0LVVBZk16cnJ1YmNOeG9laGpSbTdqU2NNY212dlFYbnl4TjNVaUhOWmxVT0FXZDVjaGdvdGZxWW1mTFhtLWNiTmpUeEtiRUhSUnBPSUExYkE1aFd3VXFvajliLWxlRk9uSWdzbHZBWmxkRXZfcG5ucjc1TWJuR1Zod21zMjROT29TbjZHbWI5VHFtU1o</link>
@@ -106,6 +85,13 @@
       <description>Ant Group quarterly profits rise 1% on year Reuters</description>
       <guid isPermaLink="false">dd77f9e57130f10670813f327901f210b3ff60c6</guid>
       <pubDate>Thu, 20 Aug 2026 13:10:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU</link>
+      <description>Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports Reuters</description>
+      <guid isPermaLink="false">653971d1f8833f9cdfdb73deb00dbc74c6e50191</guid>
+      <pubDate>Thu, 20 Aug 2026 21:42:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
