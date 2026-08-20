@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:50:59 +0000</lastBuildDate>
-    <item>
-      <title>MYHC.O - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWJWRXVwSEY1aWxCYWU1M3ZNWHhMRlp1UmdCXzJjV1NfMldNOE9SYXByRXVQSnVrQms3RG9GdlVGTmNHci1yZFBIcjh6Y1JUd1htV01MQjNEZEVaSlczQmFNOEFnM1pORjZDRzJWWThlRjRUNHlJTHA5Vy1nVHdyT3hzRkozMGs</link>
-      <description>MYHC.O - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">7d30a4d085fef7ca34fb1c97487d8498d57dfe1a</guid>
-      <pubDate>Wed, 19 Aug 2026 03:58:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 03:58:08 +0000</lastBuildDate>
     <item>
       <title>SABSW.O - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnFsY2kwbXhTX3MxNndvZ296TXo0M2tURTZJVS04THZLdUpyZndhRW9WMWtCdzlKVmRWRkJuSkR0QmtFSDk4WGhEcmoza05fQ0pJNlFhejJqNVBNanFFUlJOUkEwdXRMRHdzOTU2Uk56SlNfWTE0MEVnZ3FqUXpTQVhHMA</link>
@@ -318,13 +311,6 @@
       <pubDate>Wed, 19 Aug 2026 21:39:25 +0000</pubDate>
     </item>
     <item>
-      <title>(MRK.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5YV9QMVhVakdVNmh5enB1VEpTV0Qwbno0a190OS1ZVDloN1pvVVFMX0R5b0k5Tzd1TWpTU2hMOEU1ZHRnV3hXR1d5X3RKeDFwbU9tWmt0NnI0ZjlN</link>
-      <description>(MRK.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">e4e6fdd68cf179dc72bc12ee03572a8997e15d84</guid>
-      <pubDate>Wed, 19 Aug 2026 21:39:25 +0000</pubDate>
-    </item>
-    <item>
       <title>UMCU.N - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHd1QnVxNlo0cDg4cWtVUUtrSTk2OGZfYjU4MUstVGtkNjJTbld0ZnNJTGRmcW9hXzRwVmFicU9VaTA4YlFORDBxY1MxekZ4Q0w3TzdRNTZXbmxFM3NrZVRjODJSTW5RQUp4SFoyZlFfV3g2eGJvSnlqMTB3NWtCamZOUVhONjg</link>
       <description>UMCU.N - | Stock Price &amp; Latest News Reuters</description>
@@ -346,18 +332,32 @@
       <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
     </item>
     <item>
-      <title>ICUCW.O - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0kwcnBhbVN2SXRlOW9pWURSbmxvYmV3YURtR25OS2JQSmVfMW0wcWdocTg5Q21BU0FXZkxQU01ETTRzWVJtNl9qTkZPMTFEa1FzQnhZVXoxbnN0dzBBdXAxa2dVMUo4Sjc5aTNCcmU0aEVrODdkLTFCY2tOOG5qeDZmUGQ</link>
-      <description>ICUCW.O - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">655d8ac1586dcba513d5b88a01c101eb6ed7b700</guid>
-      <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
-    </item>
-    <item>
       <title>About HCM Hedged Equity ETF (HAWG.N)</title>
       <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YNEY5enhIOVB2c05Keng0S0hLSzV5M2hDWlU1Z05JMUpoemoyUmlESm9wcXg5QkVOcmMteVlGTnpLWl9GSmx1d3lOTHdoRGllR2lvaUdWVGtKU20x</link>
       <description>About HCM Hedged Equity ETF (HAWG.N) Reuters</description>
       <guid isPermaLink="false">40f53b49b6817a65998f2bb1cfb3ab058de912ec</guid>
       <pubDate>Thu, 20 Aug 2026 01:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>About Simplify Chinese Commodities Strategy No K-1 ETF (CCOM.N)</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EV3FMNG9QeFpGR3VLY0NpZ3NoMXNFWWhHVnZadTY4aks1TVpXdXMzNnRCX2dfdkY4NENCajZjMVcxZVQxZDdsS3R3REVJc2w0aWY5MDF0TG1kNFdTYlE</link>
+      <description>About Simplify Chinese Commodities Strategy No K-1 ETF (CCOM.N) Reuters</description>
+      <guid isPermaLink="false">a7848e750c799aa8f8e421a876787de57661313c</guid>
+      <pubDate>Thu, 20 Aug 2026 03:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CCOM.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1lpWjJIY0RfdmhKSDdRbHEyVERkNHZya20tZE5tWk1RSkFMVkVfYjljN0o1MzFjVE1ENXoxRVVQNUpBNnpWczJ2dkxGcVc5UUFGREpqd0Y4Ny1XOGw3bkR5QXExY3lzYklpS0Y3eHZtS19KSS15Z2M2REhmMTdiRGpn</link>
+      <description>CCOM.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">42bdbdbc794b0406303b5650b119771c6dcd4704</guid>
+      <pubDate>Thu, 20 Aug 2026 03:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>About Schwab US Mid-Cap ETF (SCHM.N)</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uaTJhUWRCVzV1d2c5TFY5Qmd3VTRjUjhrU1RHLTN1U3RZa041WWVXQ3pPa1BGaUNubFE4NE10M2lqMzgzNlBlZElER2pnN2J6MVdad3BPYWxCQldVd2c</link>
+      <description>About Schwab US Mid-Cap ETF (SCHM.N) Reuters</description>
+      <guid isPermaLink="false">e0ded5f4b96c051f81bca8c1dd5346a9ba9c261e</guid>
+      <pubDate>Thu, 20 Aug 2026 03:58:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
