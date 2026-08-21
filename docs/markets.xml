@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:55:06 +0000</lastBuildDate>
-    <item>
-      <title>(SOLZ.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9WYkQtZHlQQ015OVY1cHMwbnJaNTNVRkkwZ2JkQ3ZDT0EyYXBPV3RiQl9uNjRZRVJYLU5FYjVRdWZESG9ydElsOG5wV1A3Vy1BWUJHYXdXNVdWd0JFdUVQMXhDYlc2N1NNMEttYQ</link>
-      <description>(SOLZ.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">0c86e42d5e8abd79393681d76f5f99d2d48d1155</guid>
-      <pubDate>Fri, 21 Aug 2026 01:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>(PRXI.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wMnBRdUdHY0I4ME5ILXRfd3pSb0F6OXpxOFJ6VWRaWF9LbV91QUN4eDItLUp6ZjVRREltQnJiU2cyMUV2eVdzbDA1cTBaNDFpelVQR0E5bEVHVmFrWnl3b0pjbw</link>
-      <description>(PRXI.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">61c6a3381e94c6aa05c6477b3846e8e566dd36f5</guid>
-      <pubDate>Fri, 21 Aug 2026 01:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>(ARKY.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kbUZuSFZ1bFVzREo3NEdBX3hES0FvSm8xdmstaUd1S3oyUWRyWnhqM3hXZy1QdThWNElheFNYd3NHY0pLZDBBZmx4YlZIdUNvblpBMlktN0twOGVSakRyQkVMNA</link>
-      <description>(ARKY.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">e40cb88a63921cb2ca1279b0ed014d771d002c58</guid>
-      <pubDate>Fri, 21 Aug 2026 01:57:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 21:37:43 +0000</lastBuildDate>
     <item>
       <title>(AGIQ.N) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1hNkIwenJZcUJxR2x1OGRTb3cxdC1CYk5sRC1wUTNZNU92bE1CWnVnNVpQSEl5QXM3bHd0TUF6azg1WEs2MkZMTnBkUExyZWVwbG1kbDFzcVU1QnZ6UnRsZkpfSDVheWdpT25OYw</link>
@@ -92,20 +71,6 @@
       <description>About SMI 3Fourteen REAL Asset Allocation ETF (RAA.O) Reuters</description>
       <guid isPermaLink="false">d69b81b15026231c310700669e4d232f30cb349c</guid>
       <pubDate>Fri, 21 Aug 2026 07:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>(MYHA.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSXdPRnNNckhyY0RkanVWQnU5RzhweEFxUl91TU1OTU5URGpKN2JKRGd1dEFRN3FfQk9yUl91S0poTjNvUVFZOUZWU1JqYnlJRzFVVW1CMDVmRmM2N1BRbFlUbw</link>
-      <description>(MYHA.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a1008ae3aed252cc8b911d3aa46e76bb595499c9</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(SQS.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqZ3NGQVhsTzdTejN5c2h3ZC1XTnNfcEpPM2poMzNEaGoyN1RwY0JOLURmTEdsRUV5MXF3UlVlaXJBQUk5MDVKSW9ZckNhR0l2MVBtcy1FdGVoVTZTOHhSYUF3</link>
-      <description>(SQS.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">c346919202a171ece28b9de4a021635b35e47ebc</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
     </item>
     <item>
       <title>(BJLW.DE) | Stock Price &amp; Latest News</title>
@@ -325,13 +290,6 @@
       <pubDate>Fri, 21 Aug 2026 15:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>(MYMH.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wVFhkbnVjbU41eGhva25MTG1ya3JEa2VzTnBjQzlFMDV6QksyZXZwOWxXTndkYVpSWkZqMENHd0c0VVEwNHUyQUhmV2hHVG5aOWsxQU93WnVpaUNDZ3VPeEtTOA</link>
-      <description>(MYMH.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">5c4befbb7bcf3e1c846ecba0e7d20f18fb07c331</guid>
-      <pubDate>Fri, 21 Aug 2026 18:55:06 +0000</pubDate>
-    </item>
-    <item>
       <title>(STXG.N) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aQzFVaEdtZU14Q21mNjJlQ0pTdHI2cU5DNVJvQXR1ZG5zbzVNWTdfYVFJLWlvUVBnLWNnZmpxZ0U2S0VrLWswWEhVYVdRQkdPVVhBemE0c1JZeGRsU2c</link>
       <description>(STXG.N) | Stock Price &amp; Latest News Reuters</description>
@@ -358,6 +316,48 @@
       <description>(SGLC.N) | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">7c9418672185b03cffcbac0fe44723b792540c76</guid>
       <pubDate>Fri, 21 Aug 2026 18:55:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SATLW.O) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CXzlkdTcxODRYSFlmMUw1VUdOa3V4VnBxOGRtX0l2N1F4TVNnV3hPUkFSQXpqNWlEczkwNEFqdFJLQ0ZySEtBSVpVS1BvQjRkY2Z6aTVpRXI1WWpFX1NETG9icGU</link>
+      <description>(SATLW.O) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">28eaa9ffdea955eb9e45f158bd5dbee4db0dfc35</guid>
+      <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(TRUU.OQ) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xVkNnRXBMaTUtLTdhTGdla3Y2M3lLYzJnRS10T2dXdnBLX3ZvNE9jaHlQaHkxeWVUaF9jTmlUbDhVSUpDRXRfOFF2N3ozVGNnMkpyeWpRWnlraDVEMjVveVBWMWk</link>
+      <description>(TRUU.OQ) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">2b93e11d644b01146b411d861f109c787f517d26</guid>
+      <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(XLSI.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyRF8wamt3WlNIR0xIZGJ3MksyVjlHVDdJM2JEaHo4UmhONjN0NGZ4eVlhck5vTzFxNklCYmtWZk5vZkk2QVdkZktkT2x2T09IMjZHYzZoekhObV9aVmc</link>
+      <description>(XLSI.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">73980fc02467c2c84f35f3c28dc301439d7f394d</guid>
+      <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SPTI.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSHhTb3BwTG5Rc2p4YnhkMElhcGF1QjdDN01oRjhfVWpwY2NndDFGTnJQdVZrQ3FPTl8xNk1XMndMN0xBcldkV3VVZGU3M0tabjIyWGxHVmhTMEJwQjVNcXBvQThNN2hibGpieg</link>
+      <description>(SPTI.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">8e3add4400856e1d36ca9c88d68415099c353a6a</guid>
+      <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SBIL.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBwbzA0Q3F1c1NkeHB4X0VZdUp1N295a0Z4MUtJYllnQkd4LVR4cDJZQjRrRDVsbmZfSUVsR0ozQjdTUlNGbmVYOUNJcUdYbFZhYnNacjlzaVczTWRjcFNzY09oYTVra1JrLXZzVg</link>
+      <description>(SBIL.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">85bf396c57120eac482250a756ea14d7152f0167</guid>
+      <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guggenheim fund hits 17-year low after short-seller claims</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHF4WVVLUFB2cjZqdld4cWRuUDZyc0lqZzhzUE8xdTViNUlLNFlxS0dJNUtJd1hQdlZvQmhGaTJqMHU2bm9BM1dCNC1fM1VmNGQzbFdEdEs0LUEyR2N2ZTJXZ1B6UHpjQmc5TlFERjdqZUJsRUw0RTE4WHBLTnFVczdlQXVNODdpb1BLQnJzOGFoaFktX29UYTBNamJlc1Q1anRYb0k4bW9HZ1Rkenc</link>
+      <description>Guggenheim fund hits 17-year low after short-seller claims Reuters</description>
+      <guid isPermaLink="false">219784b177384680702e8c60d8082ceccdff4ca9</guid>
+      <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
