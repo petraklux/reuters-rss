@@ -8,27 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:47:43 +0000</lastBuildDate>
+    <item>
+      <title>Nebius says its $5 billion convertible underscores data centre demand</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzJYSUdqcjEzbl9LMlh2LVpNV0FwUzh2elNlelR5azB1X0lLM2wyVlg0RGl2cGJPSE5wUFRmQmVSV2V2UEpLcDFuQzJjVnljM1YyQVhiSUFoc0lwSFNxVVdacm9yeVZ3TWEtcWtOVDlKeXZDOFFOUDk5dnA3SVkxdmRQeXJKUEVydmgzRHF1eHVWaUNuRXItdHV6MVRVMnlGdU9fMzREUW9wVUxxcXhMVkZ5NTU4N2NScEJmMUMxVQ</link>
+      <description>Nebius says its $5 billion convertible underscores data centre demand Reuters</description>
+      <guid isPermaLink="false">fb898f4e8b10de312adb3d7b11654329bab953fd</guid>
+      <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
+    </item>
     <item>
       <title>The unexpected winners of America's data-center boom</title>
       <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWF2UHNGVmlnWmFBVlBPc1hVNERmWnh4TFhKSUVKWHlqZWNEVjVvOTYteFJuV1BOcmtUNnpqRXVILWhWSTNINWZrN3ptMkd0NExiNjJHdnlzQ0NaRkZGeTJDMmVRei1LX2U0UFVudU8tTE9IcFYxMnFrUVpxVnBrSHY1UUJ3M3lfRHBXTElyRmhZbU1Kdml3OFVwSm9EamZsWE5NV1dNdk9MOU1PMF9vRUtZOUVXdkE</link>
       <description>The unexpected winners of America's data-center boom Reuters</description>
       <guid isPermaLink="false">7788d4b5d553f554013f56848a4dc0d1a794d54a</guid>
       <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw</link>
-      <description>Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal Reuters</description>
-      <guid isPermaLink="false">7766753295a44bbd8d083555bb76cf42bb2a89df</guid>
-      <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irish lawmakers summon TikTok over videos glorifying dangerous driving</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWVrbHVpaUNRTFdoeUVLY3BuYWNiNWkxaU5hTDdEWGk0cGhvd0Zrc0NrUldXODNxUHhNZ2JUU0lweVgzU180MkpPYWx3bTVnUXBPbzBfNUNybmJLSXpoNUw2MW5pMklzd3UwRkZWOG1VUUUzaU9WejFNM3RUalprOVBHRnpWcTZnc2Y1NFBFWl83UnJnSTMzTnZlSDBLZVFkZVNNYlFXSHdPNTR5QWNDaUdnMlo3MjlG</link>
-      <description>Irish lawmakers summon TikTok over videos glorifying dangerous driving Reuters</description>
-      <guid isPermaLink="false">c43b4476b7191997a74a9609fe53d3e8482a4820</guid>
-      <pubDate>Wed, 19 Aug 2026 15:45:06 +0000</pubDate>
     </item>
     <item>
       <title>Payments firm Stripe to buy marketplace OpenRouter in AI push</title>
@@ -78,6 +71,20 @@
       <description>ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 Reuters</description>
       <guid isPermaLink="false">93ee7ae509c4f2c04c2af95ed4378a2f6bddc9fd</guid>
       <pubDate>Fri, 21 Aug 2026 13:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia invests in data center developer Cloverleaf Infrastructure</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE</link>
+      <description>Nvidia invests in data center developer Cloverleaf Infrastructure Reuters</description>
+      <guid isPermaLink="false">a67a39623811443dd7c9a553cf4a99175472869f</guid>
+      <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apollo Global reveals data breach after hackers target financial firms</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE</link>
+      <description>Apollo Global reveals data breach after hackers target financial firms Reuters</description>
+      <guid isPermaLink="false">481b2f829f0c602a1cf771ba9a0ccd0a7e2419e3</guid>
+      <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

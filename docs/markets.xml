@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:48:00 +0000</lastBuildDate>
+    <item>
+      <title>(AHBM.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpYzhXeVU2MzZaaG1ENWh5NlFKMnZQazVacWhrMFJ2Q0lMY2l4RXhKNEZESldwOXZmNU9iTUstZUxRdEVDbDJxT085Q3ZId21yUV9DeTZ6eV92VVF4MWkzNDMtVQ</link>
+      <description>(AHBM.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">24d94c153f118373ee82879cf65aa8da911f90a1</guid>
+      <pubDate>Thu, 20 Aug 2026 21:43:11 +0000</pubDate>
+    </item>
     <item>
       <title>About Strive 1000 Dividend Growth ETF (STXD.N)</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE40anhwOFJfZzRaVzRNOS1jb1BSazVKSWthbHE2OERxdGtYNFh6UnRYckE5Q2s0M2FwSDVpQ0RBbU94NHVWSEp3VXlabGpUelFTa2swRkYzODkwaU92MkE</link>
@@ -134,34 +141,6 @@
       <description>About SMI 3Fourteen REAL Asset Allocation ETF (RAA.O) Reuters</description>
       <guid isPermaLink="false">d69b81b15026231c310700669e4d232f30cb349c</guid>
       <pubDate>Fri, 21 Aug 2026 07:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>(MYHA.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSXdPRnNNckhyY0RkanVWQnU5RzhweEFxUl91TU1OTU5URGpKN2JKRGd1dEFRN3FfQk9yUl91S0poTjNvUVFZOUZWU1JqYnlJRzFVVW1CMDVmRmM2N1BRbFlUbw</link>
-      <description>(MYHA.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a1008ae3aed252cc8b911d3aa46e76bb595499c9</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(SQS.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqZ3NGQVhsTzdTejN5c2h3ZC1XTnNfcEpPM2poMzNEaGoyN1RwY0JOLURmTEdsRUV5MXF3UlVlaXJBQUk5MDVKSW9ZckNhR0l2MVBtcy1FdGVoVTZTOHhSYUF3</link>
-      <description>(SQS.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">c346919202a171ece28b9de4a021635b35e47ebc</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>About Schwab Fundamental Intl Equity ETF (FNDF.N)</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNX2hsVGtXNG5DUWE3U0IwT21QQmRJdVBuS3RfWnZySEJlcW55UHRzQmJWUExLajlobTRGN0oyOVNpWWVYcnRxaXRYM25OVlI4TVFYdVBSSGpvSndoblE</link>
-      <description>About Schwab Fundamental Intl Equity ETF (FNDF.N) Reuters</description>
-      <guid isPermaLink="false">242561ca727ad71212b40c4ac9c3f92420ea9572</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(BJLW.DE) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9QSVI4SkVwTDlLVXZLeW5aU0J6WXhhVWRCTWlqYi1VZFNFaThYSlBOaGtNTEFKNDk5cTlzUDI4WHdYc2NTM29SVlpNT3g1YmFBS1Z2aFRZV0VGQmtOT3EybERqYUYyS3FQZmtraTJR</link>
-      <description>(BJLW.DE) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">cfe82466213d64615d4ade938cb8be7ffebe0889</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
     </item>
     <item>
       <title>About SMART Trend 25 ETF (STRN.N)</title>
@@ -358,6 +337,27 @@
       <description>About Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1C (XYPL.DE) Reuters</description>
       <guid isPermaLink="false">e0d306953fab96e64c10f8e5ded088d4350801e5</guid>
       <pubDate>Fri, 21 Aug 2026 13:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SPIN.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9KMkl0S2wxcW5hOUpoXzU2SnJ3TE5DcVBGTUtNMDF5RUFJdkdMR0pwc0hKNkpqLVdYcEJtcm1jTUxvemR6V0ctcF9yaWNKT3diRktldUNreFVrblFwSlQ3Mko4TGxRUDhVeWVVdw</link>
+      <description>(SPIN.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">6086a401e2cbcc9afbcef709b7e502494e6f8e66</guid>
+      <pubDate>Fri, 21 Aug 2026 15:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XYPL.DE</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tU1R1eEdESDFDaFFncUhFcjdDWVBKZ2NrZmNoTTNVdUY1aWNuSlR0YklEdmdYbjhDbm1zczlBMzZVWk51eHdIUEtnUDlxSjFlQkVOYzFPVXlXc3BmQ01UeFhpT1A</link>
+      <description>XYPL.DE Reuters</description>
+      <guid isPermaLink="false">fb9d283951bc25fa7ddd807211bf8d479a6d62d4</guid>
+      <pubDate>Fri, 21 Aug 2026 15:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citadel sheds over 80% of aggregate risk from Situational Awareness portfolio</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmNZWnNmT3RLM3Zkb0o4eTN5WEQ0dkVqbl9xSklVblBwUjFfVXVZdTZ6Y1dYOGx1aG1mUE9kMGRRMERjOWtYN1hwVkFRLV9BTVhxNU1LdG9TMXFSZXp4eGJEeUhRYWNvUUNTLTA0UVQ0Rm5rUXYwSXRibmpMeXlHeUs1RVJQS1o0TS1TRVh6aDlISXl5bjJGcnFEYnpkVGxFaHhZSHJxSHc4REpYVkh3eFpDM205RnRGTDJZ</link>
+      <description>Citadel sheds over 80% of aggregate risk from Situational Awareness portfolio Reuters</description>
+      <guid isPermaLink="false">5c3c73d9c29fb6dff1bac60dac1adedd58104131</guid>
+      <pubDate>Fri, 21 Aug 2026 15:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
