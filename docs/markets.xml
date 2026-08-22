@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:58:39 +0000</lastBuildDate>
-    <item>
-      <title>(QALT.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xS214RHdIRGZLOC1fTkRxdjVoU2gzc0Rib2pCLWtXaXBGay0tdkRKQVVSV3Y4UjJOX19uUXJCOGZ0UnFIYmJ5QmVXa25teDkwSEVGT0dFNGVhanlFVnFKcEtLSQ</link>
-      <description>(QALT.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">4d0eca4989ceef1e2cdd912c53d428d28efd02ca</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(SVREW.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWHNJZDNCWGNWQ0RtanJjdjg5TTFPN1J6SmNqY29vYXVXSE5QRTBDMVVJQlYtakh5dDVPM3JodFJ2Tm11QUF5VnloQzlBLWNwVmphZnY5RnVRS3g5c2hnRV9FSjI</link>
-      <description>(SVREW.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">029e1e34821358a24e15cb92274f14a2f0f956d9</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 09:41:00 +0000</lastBuildDate>
     <item>
       <title>(USDX.O) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSVNDU3FMWXFWUXN5UlQ0MDFmeV9ITDVyejh3Q1RFdjJzQmxsUDI0QzZjb3kxcE5CX0ROeWhoVVhvTjQtdllFQ25qajRZNTFHNTFFSUhVOWNLYTF5MWJncDF4Zw</link>
@@ -220,13 +206,6 @@
       <pubDate>Fri, 21 Aug 2026 18:55:06 +0000</pubDate>
     </item>
     <item>
-      <title>(SGLC.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMHZMWkFRSGNTRGNydzl3dkRpMVRsZXdnS1cwMnd0VjJCNVh3T1hiRjBLTHpxUWtJVlRQWjl5LUtIRnNsQ0hqa3BncUxNWXB6QWVGUVlSTkdhSGRLMWkxWnhmc2tQQml2WXA1RQ</link>
-      <description>(SGLC.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">7c9418672185b03cffcbac0fe44723b792540c76</guid>
-      <pubDate>Fri, 21 Aug 2026 18:55:06 +0000</pubDate>
-    </item>
-    <item>
       <title>(SATLW.O) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CXzlkdTcxODRYSFlmMUw1VUdOa3V4VnBxOGRtX0l2N1F4TVNnV3hPUkFSQXpqNWlEczkwNEFqdFJLQ0ZySEtBSVpVS1BvQjRkY2Z6aTVpRXI1WWpFX1NETG9icGU</link>
       <description>(SATLW.O) | Stock Price &amp; Latest News Reuters</description>
@@ -253,6 +232,13 @@
       <description>Guggenheim fund hits 17-year low after short-seller claims Reuters</description>
       <guid isPermaLink="false">219784b177384680702e8c60d8082ceccdff4ca9</guid>
       <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SMBS.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nOEJjUk5ZaTIyb3duOXB2eVJYdDg2TjkzZTBXaDFmTWZ5YTdWQ3N2Z3VUdUZYOUF3OV9CNUZUTUJpZm5tc0M3bElYd2ZsdHBJRnNOYndyZDNKVHNMV2dUNlhmOA</link>
+      <description>(SMBS.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">f2e7595503794fd4d5c289c9f0e6006ded88489d</guid>
+      <pubDate>Sat, 22 Aug 2026 01:49:36 +0000</pubDate>
     </item>
     <item>
       <title>About Scilex Holding Equity Warrants Exp 10th Nov 2027 (SCLXW.O)</title>
@@ -346,18 +332,32 @@
       <pubDate>Sat, 22 Aug 2026 06:58:39 +0000</pubDate>
     </item>
     <item>
-      <title>(DFNSW.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5BUHFpTE53NFZiNXVOTEMzZXhLZnh3VVZ3TmpxcFprQWNEVDlTb21TNlpUZWtSc0J5cEFxT0dGSHF5ZFl0VTVNZ05laktKb3hSSk02Z0QzZ2xxRk4wNmtFc21teEU0RWNtUDBJeE1n</link>
-      <description>(DFNSW.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">66631c73e139f50a9bcdd14a0a5f259d6a454a17</guid>
-      <pubDate>Sat, 22 Aug 2026 06:58:39 +0000</pubDate>
-    </item>
-    <item>
       <title>SEIE.O</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE91b3lTUUkxd0xyVVpLaXBDT1BPZUVjSFRLaTdaX1RNZ2ZOT1BMTkhFc2E3QzVaaHBxTkRYQnpMNVV3V2dDQTB0akZUVjFMVU5SaG5vSmJaVWlHdlI4d3dNVVlmYmQ5UG5ILUNYXw</link>
       <description>SEIE.O Reuters</description>
       <guid isPermaLink="false">9a6ee6afec027111fea93fe09dbbfdc3f80e59d7</guid>
       <pubDate>Sat, 22 Aug 2026 06:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>MYHE.O - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmpBS24zT1lpZjZUMEU1dHU3bzVaSXd2Y05fY2hLVXVsTzdpLUdsY1RsQmwzY2ZVMEJtR2hZWTZvM0k2Sk5jOGdxallyUVNSRlRka3locGRiWDVycmZnRmFLOEptVWY2MFNMLUN1LXg4ODNBS19IQWhfdElwUmY3YllEZw</link>
+      <description>MYHE.O - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">d670c3460d29b53e24a4674e0740b8cad54d278f</guid>
+      <pubDate>Sat, 22 Aug 2026 09:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>About Mast HedgeIndex Adaptive Equities ETF (HXE.N)</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFByS1NHWTVVaElhUE44WEZJcFVFQ0J2dTRqcmtUQjNCVzdZdFM4Qjd6SXdRc1hCMndVdGNGOGJsYlVXdW9TZFhDeFBYWnB0Rk13OHVpc3JSa0hXMEk</link>
+      <description>About Mast HedgeIndex Adaptive Equities ETF (HXE.N) Reuters</description>
+      <guid isPermaLink="false">6cf2436318b543f4bea2aeb69fdeaba8917550ee</guid>
+      <pubDate>Sat, 22 Aug 2026 09:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>(HXE.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyVlpfMllsS2tBS0RHeFFzQVQzN1FjTG4ycHNyemFzV2JfLUItajdNbzFnczRwalhENzlyOXpfQzU4Vlp0WW5kclJYNUR0WTQ0MlNVWHl0NHJnMDBqVGxUeEp3</link>
+      <description>(HXE.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">ed8f3848c26d847b893ba2ef98969fee78289f82</guid>
+      <pubDate>Sat, 22 Aug 2026 09:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
