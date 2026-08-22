@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:49:20 +0000</lastBuildDate>
     <item>
       <title>Nebius says its $5 billion convertible underscores data centre demand</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzJYSUdqcjEzbl9LMlh2LVpNV0FwUzh2elNlelR5azB1X0lLM2wyVlg0RGl2cGJPSE5wUFRmQmVSV2V2UEpLcDFuQzJjVnljM1YyQVhiSUFoc0lwSFNxVVdacm9yeVZ3TWEtcWtOVDlKeXZDOFFOUDk5dnA3SVkxdmRQeXJKUEVydmgzRHF1eHVWaUNuRXItdHV6MVRVMnlGdU9fMzREUW9wVUxxcXhMVkZ5NTU4N2NScEJmMUMxVQ</link>
       <description>Nebius says its $5 billion convertible underscores data centre demand Reuters</description>
       <guid isPermaLink="false">fb898f4e8b10de312adb3d7b11654329bab953fd</guid>
       <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Payments firm Stripe to buy marketplace OpenRouter in AI push</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ</link>
-      <description>Payments firm Stripe to buy marketplace OpenRouter in AI push Reuters</description>
-      <guid isPermaLink="false">3f999566c197813035c098d896b9bdd4bfa57ce5</guid>
-      <pubDate>Wed, 19 Aug 2026 18:52:33 +0000</pubDate>
     </item>
     <item>
       <title>China puts robocops on traffic duty, minus the arrest powers</title>
@@ -52,13 +45,6 @@
       <pubDate>Fri, 21 Aug 2026 13:10:07 +0000</pubDate>
     </item>
     <item>
-      <title>Nvidia invests in data center developer Cloverleaf Infrastructure</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE</link>
-      <description>Nvidia invests in data center developer Cloverleaf Infrastructure Reuters</description>
-      <guid isPermaLink="false">a67a39623811443dd7c9a553cf4a99175472869f</guid>
-      <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Apollo Global reveals data breach after hackers target financial firms</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE</link>
       <description>Apollo Global reveals data breach after hackers target financial firms Reuters</description>
@@ -66,17 +52,17 @@
       <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
     </item>
     <item>
+      <title>Nvidia invests in data center developer Cloverleaf Infrastructure</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE</link>
+      <description>Nvidia invests in data center developer Cloverleaf Infrastructure Reuters</description>
+      <guid isPermaLink="false">a67a39623811443dd7c9a553cf4a99175472869f</guid>
+      <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc</link>
       <description>OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% Reuters</description>
       <guid isPermaLink="false">36744752c7ec0427f3a8e51ccc42da2211f63b5c</guid>
-      <pubDate>Fri, 21 Aug 2026 21:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Space News | Latest Headlines</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
-      <description>Space News | Latest Headlines Reuters</description>
-      <guid isPermaLink="false">eb9cf5282ed126000f97b8af97291727e3a43204</guid>
       <pubDate>Fri, 21 Aug 2026 21:37:28 +0000</pubDate>
     </item>
   </channel>
