@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 01:49:36 +0000</lastBuildDate>
-    <item>
-      <title>About State Street SPDR S&amp;P Pharmaceuticals ETF (XPH.N)</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nOWxHLTFNR3NSX2pobUU2TnVJdVZMcTNFZkJTa1B5U1M5SWhINF84bFU0VDJQbzZCWVdWaGZ4YmxPZlFqYzNDRnlsOF9MdEhCWjNfem15eTNUSk5v</link>
-      <description>About State Street SPDR S&amp;P Pharmaceuticals ETF (XPH.N) Reuters</description>
-      <guid isPermaLink="false">e8bf5a287d0402d2c5431086c86bb5cc24e2c135</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(MYHA.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSXdPRnNNckhyY0RkanVWQnU5RzhweEFxUl91TU1OTU5URGpKN2JKRGd1dEFRN3FfQk9yUl91S0poTjNvUVFZOUZWU1JqYnlJRzFVVW1CMDVmRmM2N1BRbFlUbw</link>
-      <description>(MYHA.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a1008ae3aed252cc8b911d3aa46e76bb595499c9</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(SQS.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqZ3NGQVhsTzdTejN5c2h3ZC1XTnNfcEpPM2poMzNEaGoyN1RwY0JOLURmTEdsRUV5MXF3UlVlaXJBQUk5MDVKSW9ZckNhR0l2MVBtcy1FdGVoVTZTOHhSYUF3</link>
-      <description>(SQS.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">c346919202a171ece28b9de4a021635b35e47ebc</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 03:55:28 +0000</lastBuildDate>
     <item>
       <title>(BJLW.DE) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9QSVI4SkVwTDlLVXZLeW5aU0J6WXhhVWRCTWlqYi1VZFNFaThYSlBOaGtNTEFKNDk5cTlzUDI4WHdYc2NTM29SVlpNT3g1YmFBS1Z2aFRZV0VGQmtOT3EybERqYUYyS3FQZmtraTJR</link>
@@ -311,13 +290,6 @@
       <pubDate>Fri, 21 Aug 2026 21:37:43 +0000</pubDate>
     </item>
     <item>
-      <title>(SBCWW.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdGMwNzhXMFRfNm5mSzdLZmREcGFETFk2UXprWUF6WnlZTnR6ZnVxV1dBTjlFUW8yVlFJYV9fMTU5Qm16aW00aUpwbWEySC1NQjA4aXoteHhCbzg2SjgxQVFoLW16bzhsQTJEOE1n</link>
-      <description>(SBCWW.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">fc78930fdc20cecb4d1dff0d07926aa6b1a4593f</guid>
-      <pubDate>Sat, 22 Aug 2026 01:49:36 +0000</pubDate>
-    </item>
-    <item>
       <title>(SMBS.N) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nOEJjUk5ZaTIyb3duOXB2eVJYdDg2TjkzZTBXaDFmTWZ5YTdWQ3N2Z3VUdUZYOUF3OV9CNUZUTUJpZm5tc0M3bElYd2ZsdHBJRnNOYndyZDNKVHNMV2dUNlhmOA</link>
       <description>(SMBS.N) | Stock Price &amp; Latest News Reuters</description>
@@ -358,6 +330,34 @@
       <description>(FSTRX.O) | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">907324ca15cda74fa892bacd2570155de6e9e91b</guid>
       <pubDate>Sat, 22 Aug 2026 01:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>SVIV.O</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZT213QXFyY2NaZGhwWlBZel96TVYtdUNmUDlGOWFua294blJBS2w2ODNpUjB5VVpaeFhQVkxzWlRIWVVBUmxNbVBzZFFqa29jbE1VRkgyZDVLZm94SWc</link>
+      <description>SVIV.O Reuters</description>
+      <guid isPermaLink="false">4c05ef99829bb14914a771cf84240e358e11d632</guid>
+      <pubDate>Sat, 22 Aug 2026 03:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(TDAX.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mSnRJUVlLek1TRE5wNDZkTktJcmNQZ0QtMGZZdUdNUXNrU1NjV2NXZ3BGb2RxTXBST3JTeUFtYmo2QWVMT2VXYzY1cV9Sb1IxbjZHTkJVdUJIYTRvOUE</link>
+      <description>(TDAX.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">e166f0198f8a8c247163c7b434de193485f5f67a</guid>
+      <pubDate>Sat, 22 Aug 2026 03:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(XLSI.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE40QmtDSWRfT0FBUllMYWtYN21rRF9kdXBSVFVtSXEtWDNQYm84Y1ktcjRibC04Sl9VODJ3TmdEdzNxX0ZuMXB0ck1ISkZESHdjYmpXR1dnX3lvX0VSTjEwN3pRMk9nVHlESTNCeA</link>
+      <description>(XLSI.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">096393c0d8645fc4afe48a6c813f87b4af564550</guid>
+      <pubDate>Sat, 22 Aug 2026 03:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(SGQL.L) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xWmNSUl9VREctSTRWeW9uQ2w5M21EQjFweHZkMGRHVDBEbDNwbzR3aVNmSmNKQUJob0h1ZUtIdWJtTU9sVnREbEt4Sko3MWdaNXlWQ1hPZHgzSUpoWDdyNjNYZw</link>
+      <description>(SGQL.L) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">8d7e8b8d5a815fd7ac58bc0b46f200bad7ead3cb</guid>
+      <pubDate>Sat, 22 Aug 2026 03:55:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
