@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:59:22 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -24,13 +24,6 @@
       <pubDate>Wed, 19 Aug 2026 13:08:12 +0000</pubDate>
     </item>
     <item>
-      <title>Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU</link>
-      <description>Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports Reuters</description>
-      <guid isPermaLink="false">653971d1f8833f9cdfdb73deb00dbc74c6e50191</guid>
-      <pubDate>Thu, 20 Aug 2026 21:42:55 +0000</pubDate>
-    </item>
-    <item>
       <title>ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc</link>
       <description>ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 Reuters</description>
@@ -38,17 +31,17 @@
       <pubDate>Fri, 21 Aug 2026 13:10:07 +0000</pubDate>
     </item>
     <item>
-      <title>Apollo Global reveals data breach after hackers target financial firms</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE</link>
-      <description>Apollo Global reveals data breach after hackers target financial firms Reuters</description>
-      <guid isPermaLink="false">481b2f829f0c602a1cf771ba9a0ccd0a7e2419e3</guid>
-      <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Nvidia invests in data center developer Cloverleaf Infrastructure</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE</link>
       <description>Nvidia invests in data center developer Cloverleaf Infrastructure Reuters</description>
       <guid isPermaLink="false">a67a39623811443dd7c9a553cf4a99175472869f</guid>
+      <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apollo Global reveals data breach after hackers target financial firms</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOckFDMU1aVk1ReUYzSy1vOFB5VWVEUUQwZlNGdjl3bUo1SU1IdGVVZTlVQW1DZld5Xzk5cndVTjBnVkJGOGphUVpwSnBNWl9NUVdaeVo1dlNrc2VSODFKTzFpTkNtdzQydEpjMnp3dmRaaEZGZlN6T1NIRGNrWEJQbnl1UzZrc0hkYzIyVUpiUm45MkZHUWEyams5RGk3ak53RDZYWjh6S0RuOVhuV2FDeVlISU5FQk5YZVE</link>
+      <description>Apollo Global reveals data breach after hackers target financial firms Reuters</description>
+      <guid isPermaLink="false">481b2f829f0c602a1cf771ba9a0ccd0a7e2419e3</guid>
       <pubDate>Fri, 21 Aug 2026 15:47:43 +0000</pubDate>
     </item>
     <item>
