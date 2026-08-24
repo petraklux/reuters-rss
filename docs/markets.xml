@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:20:07 +0000</lastBuildDate>
-    <item>
-      <title>About Leverage Shares 2X Long FORM Daily ETF (FOMG.N)</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XUmVSOXNITmFVaGRRbkotU0xSYWh2eU9ITTdDUkh3ZWpubWdwd292QktyUXJhMjJiX1NrQWZwMXB0ZmtEVERHbTYxbnJaaE4tLVdvb2dLQ2owdUVi</link>
-      <description>About Leverage Shares 2X Long FORM Daily ETF (FOMG.N) Reuters</description>
-      <guid isPermaLink="false">1b2b55c95a0325afea3dd7fcf509d8be211b25b8</guid>
-      <pubDate>Sun, 23 Aug 2026 21:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(SJCP.O) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkWlNnR2ZqZm5qM1o1WFJVOUZqT3ZuYXh0M1dRaXZyei1CTGFGazViNXlsSl9HaWd0bUlmU2lCbjQxc24zNzgxcWZlSDd0SHdmQlgyZkx2ZGdpbUtaQTluZnBNRQ</link>
-      <description>(SJCP.O) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">100a2c7bc6d7ca5af149b54b75806ec338af0282</guid>
-      <pubDate>Sun, 23 Aug 2026 21:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(EPWKF.PK) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnSXh3czNmUDAwSDNRRTNPWm9Od1Bkck1VVkozSzJNcThOUGozT0ZPUE51NXhGSUdpQlMyVGl0QUdPUVp0N09VWHhuaWNvcWVpRDBoMmFLNUpkMkNub1RTRw</link>
-      <description>(EPWKF.PK) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">8912f016c59382926ffa60a2044225de5e88c113</guid>
-      <pubDate>Sun, 23 Aug 2026 21:35:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 10:02:59 +0000</lastBuildDate>
     <item>
       <title>About Schwab International Dividend Equity ETF (SCHY.N)</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE15ai12eWZISmZZRXdETVo1Z2pESUNXLUhLd1ZLWXhDeU9uSTJuUHk2NU1NejV1REJIRnplWXRzZHlpcnJCdUVhUFV3N1lYdVlvRXVMRUFUNEVrS1dBWkE</link>
@@ -358,6 +337,27 @@
       <description>(STXV.N) | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">8c731069d9eb5d290e3b2c6c7aaed2914a1613a5</guid>
       <pubDate>Mon, 24 Aug 2026 07:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(KAT.O) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxS3BJQkZlSTZuUmhvRmlLajVoWGhnZ0Vla2lvNlhaVzR0ZUItcXdkdXliUXRnS0k3R3RkZzc1QkY2a19FSXNYX1hOaTdpTldRSG5xN1FHblcweEFVMVFSUmhR</link>
+      <description>(KAT.O) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">f75f032229687beb14f6e4e57db7b002d43993c6</guid>
+      <pubDate>Mon, 24 Aug 2026 10:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SVCCU.O - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE80MGZCTF9aOUVQWll2NjJOVHRtakdlWXdGaDZ2VUNVcE9rLXRaWDNZejQwWFlRU19nRkZ5VHBVcE9FdHM3OFVQcHE1WVRJMVFnczJJQ0l6czBZWVFrdks3TEdfSGVFdFRaVlIyVEpB</link>
+      <description>SVCCU.O - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">4265729f191d7805ac47389fbf34531d3d3b1f94</guid>
+      <pubDate>Mon, 24 Aug 2026 10:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>About Xtrackers MSCI World Industrials UCITS ETF 1D (XMIW.DE)</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlODI1NHV3Q3JreGtrQTZCMzF0dGI2RU03YUY2U2RoWllDWFFuTzNqbWoxQzBKNUczYnl0bXFVOVRiYVFHaHhHeGpIZjVYSlFWZWdNalJYZ3Y1NnFVZFE</link>
+      <description>About Xtrackers MSCI World Industrials UCITS ETF 1D (XMIW.DE) Reuters</description>
+      <guid isPermaLink="false">8b2e9856fd99734a1655054af92416dcd9e1229e</guid>
+      <pubDate>Mon, 24 Aug 2026 10:02:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
