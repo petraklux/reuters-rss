@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:43:46 +0000</lastBuildDate>
-    <item>
-      <title>H41X.DE</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Sd0NXcUpNRUsyUm9KTWg3VnhrRmw3ZWtkV1FJOFMyemFodzRlQ3RhQTNrc0pBN1UxN3hDVnQyMm5saTVvMm9iMklNUlNXRHRuVTZLeDZEVFFQSXhTeWtKSWRLeHU</link>
-      <description>H41X.DE Reuters</description>
-      <guid isPermaLink="false">e4b03e7f6fd7ab1594dbfb344eda2d04ed4173dc</guid>
-      <pubDate>Mon, 24 Aug 2026 01:57:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 01:51:53 +0000</lastBuildDate>
     <item>
       <title>(AGDY.PK) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZUFRb0JQbEIwckYwWmxwbmxTY21GRW1HYjYzOHRNY2FleW5jMjdIcWpIdGZTQVRid1hVV1lwSV9mbFRpQldkOXlvZXFQWVhxVHg0eXh0WjVEc2JMWFE</link>
@@ -185,13 +178,6 @@
       <pubDate>Mon, 24 Aug 2026 21:43:46 +0000</pubDate>
     </item>
     <item>
-      <title>NEWZ.O - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE10em1UTVBoOG9uM0xmWEVZUU9wek8xTkFCSkJOa2JVWWRZeFByRkN5ZHl4M2ZkVXk2X2p0QnhWTXRocDd0RTBPR0ljc3V6QjVjRWVIZXBWQXlMU0JyeTdqbnpuR1lZNTZjemdwMkZCN0pfaUFudVlJdWVranpSeG8</link>
-      <description>NEWZ.O - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">db9fcbf3fcd04d88c67f908478ad23e14e7bd6c4</guid>
-      <pubDate>Mon, 24 Aug 2026 21:43:46 +0000</pubDate>
-    </item>
-    <item>
       <title>MOLI.SG - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzlFV1ByWm9YR3RTUnVabElPcGNuZ1Z3MWtLMTFhMjFxUnlhNW5KNGgxenI2Wms5VW5HRzJGTlpacUJLeW1aeGRKNGlYRzFqb1dRYVJxNjE1aTF1SmlxUEhzb0NMWWdaenpfbU5SSjBwZnFBeGxGdmxaTFAtaDB0MA</link>
       <description>MOLI.SG - | Stock Price &amp; Latest News Reuters</description>
@@ -290,24 +276,10 @@
       <pubDate>Mon, 24 Aug 2026 21:43:46 +0000</pubDate>
     </item>
     <item>
-      <title>DWUS.OQ - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBjVEtUdHJUdWJ3alZnRWpXeFBsSVI2eWFJNkVGV3U2UWhZX1NIY21yeGtsNXJwLURsWVhPa1pISkppS2FHcjloTHlTU2txVzVoUjZNYVJMOWxYRC1xQjNwX0tzRW1WWV9vN3ZmRVJaRzJWTkFtSEYycTJqaU9xTzg</link>
-      <description>DWUS.OQ - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a595176190561e7ed35494e0410efc83b111c19a</guid>
-      <pubDate>Mon, 24 Aug 2026 21:43:46 +0000</pubDate>
-    </item>
-    <item>
       <title>EMSC.OQ - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNazlpYTRkQV9sTmRsSWJLaGlrd1BvN2lJbU9RS1dVM3ZVcmhxcGtRQndLd2NlbXVlTmhJMjVNTmZaUWJhaHFHWG54alhxMUNyb1VKUmhURzNNSW5WaVVPWHBhc2liSEpoelpkaTdiODhrYzQ3RS1veVVHVm5ITFNqZHZKT1g</link>
       <description>EMSC.OQ - | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">0ceda6dbcdfb2b72a60d10c5241748a55143b2c9</guid>
-      <pubDate>Mon, 24 Aug 2026 21:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>SFYI.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjZ6SWNxbk1EWEw1MjBVVkRtckJWRTBnVGxvSXJ1ekxScnhyR1owQnBwdGEyLVA0dDg0NFBJMnpQR2EtZjR6eU9KS19CNGJ6UUExWWF6SUJjU2JySUVralUwb0d0WkRkWXozUHhpM215NW5vMG9CeUZZb3JuUkliVzRmaWNGTG1P</link>
-      <description>SFYI.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">516ebb203e0337c6a4ec832e8943bc2fea001e79</guid>
       <pubDate>Mon, 24 Aug 2026 21:43:46 +0000</pubDate>
     </item>
     <item>
@@ -358,6 +330,34 @@
       <description>(NEQT.TO) | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">164334edf8176d9262e0b33a6c49c7d1c8ec3c76</guid>
       <pubDate>Mon, 24 Aug 2026 21:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(CLEMO.ST) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE84OFNfXzFTNTNXZFlZN1BGVktERFNoMmJGN0VvYUE4SFVsMmhkdmZnYUNjejlBY3ZiaHY3dUJkeUxOZm9mMXNxQ0t1SGkteTZwWG5zSzA4X3V4cjE2bDZqOQ</link>
+      <description>(CLEMO.ST) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">aab6e9132d26a5536bbafeb2fd5c03eacb07c0f0</guid>
+      <pubDate>Tue, 25 Aug 2026 01:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>STXV.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcGdQcTkwVjB5MzlJRlpmcWk0RTdwVUVMY2pjM3hrSktkNEF2OU1keV83WWRJZ2lYRFplN2w1S0F5Ml9Ga0pYdUsteG1wODdSa3NIRTNvdmJPdFI2TTVkZUFrQTVRV0MwaVJxaGJ6VVVoZmZoMDN0c3VxU2JYT1E</link>
+      <description>STXV.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">690b2edb06e54fc42a3606729c564e3fac858a8d</guid>
+      <pubDate>Tue, 25 Aug 2026 01:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>RATU.JK - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ba3oyOXVoNjlTeENaNDJwdGlheFYxem04d0hBMkFNMDFYaW45d1RRdmJqLUZYUUZjb1h6SXZ1bEg3TXhXUkp6VVpfZExSWFkzaE1kTHJqU2pCenp4d2luZVN5cC1JM3JtSTd6am1VazY</link>
+      <description>RATU.JK - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">2c6264bdf8bcb5311adea3229d9f471a371eed2d</guid>
+      <pubDate>Tue, 25 Aug 2026 01:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>XLEI.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5mRDdBWExfZ2x3SjhfT0FwMGlibjZXZWxRMmUxV2FEczVGenhreGlHYlJkaWJBYlZxTVNueVNtRVJGN0Rod1hRVXB5R2F6NjlYV2RtMGxEclNqclVYX01NQW96aVlaS25lQmVjQXJoclg3OEMwOVAzckN2dG9sWkE</link>
+      <description>XLEI.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">9c4d0e1f01f7963ddcf8f98d6ffa821ec3a43b5b</guid>
+      <pubDate>Tue, 25 Aug 2026 01:51:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
