@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:56:44 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -38,17 +38,17 @@
       <pubDate>Mon, 24 Aug 2026 13:12:13 +0000</pubDate>
     </item>
     <item>
-      <title>Waymo to begin testing autonomous vehicles in Munich</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQRC1OMDk3WEdNWnBwQkxLLVhxTVdWdkxFNm44akx5eXZYc2NpSHBwUUR0OGhGaW1zUXk4bmdqVGlpeUdvVEl3V2prSVpVUzZsWlJlcnpFVWlEUlprNTF0RXV0NWlvVVBVRURNT3RnRjNzYkNsWVFRSnZZVHh5WU9qWlpxT05CTDdSM3FROHpoWE9DUk5PSnk0Tw</link>
-      <description>Waymo to begin testing autonomous vehicles in Munich Reuters</description>
-      <guid isPermaLink="false">4d3d061cd3141e1898222d3e998f16df36ebc16e</guid>
-      <pubDate>Tue, 25 Aug 2026 15:59:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Emerald AI valued at $1.05 billion after Series A funding round</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1ptX1Y2YVprNWFLTWJ4RUZCMXBOZ2Q2QVJ5MlpMc2JQNGRLbV9tSkphZzVQQWZhUll4TkI4UXdWcDM4ZWVYX3NpWGFQbTcwMmdoSWhZejl6bGNIWnB6NHFzNEJ1MEN4VzBlQkVpRUlUVDNDOGs3SG9wbTktd0h1cUd0WDRNdHZkUnlGOWtJeUFRalNOSVVlS0M3MjIxOWZiX19nOWFR</link>
       <description>Emerald AI valued at $1.05 billion after Series A funding round Reuters</description>
       <guid isPermaLink="false">4b39a0c9295cb92eadfca0efa541ad2c07441247</guid>
+      <pubDate>Tue, 25 Aug 2026 15:59:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waymo to begin testing autonomous vehicles in Munich</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQRC1OMDk3WEdNWnBwQkxLLVhxTVdWdkxFNm44akx5eXZYc2NpSHBwUUR0OGhGaW1zUXk4bmdqVGlpeUdvVEl3V2prSVpVUzZsWlJlcnpFVWlEUlprNTF0RXV0NWlvVVBVRURNT3RnRjNzYkNsWVFRSnZZVHh5WU9qWlpxT05CTDdSM3FROHpoWE9DUk5PSnk0Tw</link>
+      <description>Waymo to begin testing autonomous vehicles in Munich Reuters</description>
+      <guid isPermaLink="false">4d3d061cd3141e1898222d3e998f16df36ebc16e</guid>
       <pubDate>Tue, 25 Aug 2026 15:59:12 +0000</pubDate>
     </item>
   </channel>
