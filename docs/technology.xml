@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:08:12 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -50,6 +50,13 @@
       <description>China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal Reuters</description>
       <guid isPermaLink="false">bbf1a69161199f770f0b61ad7815272c6fdc461b</guid>
       <pubDate>Wed, 26 Aug 2026 04:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>CD Projekt RED to launch remastered version of 'The Witcher 3' ahead of new expansion</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFRMc1JpOURTNEZGYTJlMm9OSmppOTlLWVg3NmVVYVo3OVpDU2hrMm1RWlRjREh4TVdSZmRUeW9UOUR6QVpTYl9sdmVwU2ZlTldXWVYyS3l5QVVOa0ZtR0JtSXp5QWo4Vnp1Z1lVZUZaRm5qNHU0aTNDdmktdFpkaEpSMk5MbXd4c1c2Sno1SFVxclhZSko2aVZTck8xNTJTVm13MkZ6bG5iUXBqZ1Nucm05QjU0bG94cUhVeFl3</link>
+      <description>CD Projekt RED to launch remastered version of 'The Witcher 3' ahead of new expansion Reuters</description>
+      <guid isPermaLink="false">b1020d5853a0c4181d768d3d1c2cb9c48d9efda4</guid>
+      <pubDate>Wed, 26 Aug 2026 07:08:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
