@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:02:15 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
       <description>AI News | Latest Headlines and Developments Reuters</description>
       <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
       <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFhTZEFZTUhYaHB6bUtnVVg0Q2hMT19aV3MxMkJEX3IySC04dWlZaFlWYjJqdDJ0Y2s5RmZtTk9HNDluQ2tGT2cwRkpkYm5xQ2pmbDJBV1hRSkwtTE5zeDcxdEx3VThSV3cxcXM1RTAyUl9pcEw2OExWNm9oZkpwUWdvRXVCWUtNMkRDd2s2eXU3a3VMeDZua1UwYi1wbzljV2Zqd0tESlRjMzVjUUJVQnVfb2I1VUNHWWFWRTJtZWg</link>
-      <description>Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters</description>
-      <guid isPermaLink="false">982e7811194ab0b59286ca48b9a8874c2fa8a019</guid>
-      <pubDate>Mon, 24 Aug 2026 04:04:25 +0000</pubDate>
     </item>
     <item>
       <title>Sonova unveils new AI-powered hearing-aid platform to support growth targets</title>
@@ -50,6 +43,13 @@
       <description>Waymo to begin testing autonomous vehicles in Munich Reuters</description>
       <guid isPermaLink="false">4d3d061cd3141e1898222d3e998f16df36ebc16e</guid>
       <pubDate>Tue, 25 Aug 2026 15:59:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1NWcXYyNEtyV1V5OHpSX3p1SUxvQmJHX0JYQVF6R2JBZkhJMmdpU3N6cDdQMkF5VFBuSlhRaGQ2LVM3VlYtTzBVTjlHZXFtRHZZZlA0ZEdTT2V4NWVReHZGNVpCV2VXMEhnZm91djRGYnJqWGlYMkh3UHVsMDUtRjNzWm0tVlg0TW1jVTZudVRlck1qSUV2SGR2NjNNczZUZURKMUJLZGlDZUZuM0E</link>
+      <description>China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal Reuters</description>
+      <guid isPermaLink="false">bbf1a69161199f770f0b61ad7815272c6fdc461b</guid>
+      <pubDate>Wed, 26 Aug 2026 04:02:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
