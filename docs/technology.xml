@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:02:25 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -59,11 +59,18 @@
       <pubDate>Wed, 26 Aug 2026 16:34:59 +0000</pubDate>
     </item>
     <item>
-      <title>Apple sets Sept. 9 date for next iPhone launch event</title>
+      <title>Apple to launch next iPhone on September 9 in first major event under new CEO Ternus</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3</link>
-      <description>Apple sets Sept. 9 date for next iPhone launch event Reuters</description>
+      <description>Apple to launch next iPhone on September 9 in first major event under new CEO Ternus Reuters</description>
       <guid isPermaLink="false">71d0207a62a0c92ef3d418ef7908ea8e6c7fe553</guid>
       <pubDate>Wed, 26 Aug 2026 16:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic to rent AI computing power from Nscale for $45 billion, source says</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEZ0RVh4UE8tSXpXc3F4VXU2N0k1dk93YWNPMFNnQV9ucTU1bi0zZnJqTTJxNFpjTGczVmItNVhicEpTZmN3X2JySUlMZXo0c2RKcVQ3NkEzb0tGeHRKNXBFMWFqeXppMDF3ZVRjWjc5NTZqaUVRMm1adzFCOU96QzFGaGhYbm5PQ1RBc3lLcVpWbUZ1bDhwekV3X0NUQmpodW9iTUo1aFNJNkJhWHFPRE94Z3RIVzgzZEVycVpWbERvcVk</link>
+      <description>Anthropic to rent AI computing power from Nscale for $45 billion, source says Reuters</description>
+      <guid isPermaLink="false">9bfce9c478193dc4d2f87f76d1738f674dba11d8</guid>
+      <pubDate>Wed, 26 Aug 2026 20:02:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
