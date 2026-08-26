@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:15:41 +0000</lastBuildDate>
-    <item>
-      <title>JAYGF.PK</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ3NtQUF2bHlWS1FCT1dRMUNSMGRsdmVJNzBTZG1BekhfeDFtdzVlMjR4U0Vjai0xTEVwRFc3MGJGOHpoaEV5MHIzMXRLWUhVTmY5bEwxdFdXODViTHJMdXZTcnU3OVJXM0ZkNXBLOUVWUGxXOGVvTWVycnRuVnR1cEItVW9tUUpIVWc</link>
-      <description>JAYGF.PK Reuters</description>
-      <guid isPermaLink="false">ba522e0a842c365da6154bd6402470b1d02b7fd0</guid>
-      <pubDate>Tue, 25 Aug 2026 21:43:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>PRTCY.PK - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlVDVmtuWnZtZ1hOMHV4VXdOcU5ncE9qY0FNazI3OVJmS2pSRUNscEhYQzF0cUdoYnpRclNKZU9LRlBKRTdyNzdyc2F3T0h5LXZzc1lMaVQ1Sk9FM0hYamRzc2JCU0ZmWEVPLWtpa1pqaU5xUkdoRWJKX0pRVDBIVDROZXc5ek0</link>
-      <description>PRTCY.PK - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">3c09e9d2bd1cd35c7634d11170ea5bb69b88ff05</guid>
-      <pubDate>Tue, 25 Aug 2026 21:43:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 16:35:16 +0000</lastBuildDate>
     <item>
       <title>PROO.BO</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFA4SjlwZUE2LTZYaVVKU1I3dGRJSkpzaEpZNDQxeGpvQWdicncwSEtjWGhFQnRTOEtRUzZ4dGRoWmo0RkxURENZcGFId2Z6VWRVbXNweVdwTzFrdlVxcjZ0V3VJNk5vUHA5M3U5c0FuVTA</link>
@@ -358,6 +344,20 @@
       <description>TXBC.N Reuters</description>
       <guid isPermaLink="false">794f25729bffc81a8b43e2b538af544bfe25ac98</guid>
       <pubDate>Wed, 26 Aug 2026 13:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>SCUS.N</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9TVzNzNlZLRGUyWFZuUTgwQmVoUVZyM28xU08wcnVweDZNRHU3Y1o5S1kwZ05ldnktZjduN3k5anJOVG5feFAxcFFZZURFMWJnQVpOd1c0cnlsS3NYVWFQNEUyWXBJbThZSWUwZg</link>
+      <description>SCUS.N Reuters</description>
+      <guid isPermaLink="false">6e312357f115857f7adca256ee73ef6ebd4d5480</guid>
+      <pubDate>Wed, 26 Aug 2026 16:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>SPHY.N</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQV83NGF3T2RYRTIwS040TV9GakNTNGZ2NkVtblAwZ2E0R2xzODZkUWkwV0dXZWdRSlIyd1JlSnh1Zk5NbkI5RVFBQ1BMTS10Z0kwQUdXeTB6TzJBblU4Q2VfSERGUW1VQjE1QQ</link>
+      <description>SPHY.N Reuters</description>
+      <guid isPermaLink="false">54738bc7356b3a9b34ea41014f5ac3497ce7daa7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:35:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

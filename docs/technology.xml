@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:34:59 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
       <description>AI News | Latest Headlines and Developments Reuters</description>
       <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
       <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sonova unveils new AI-powered hearing-aid platform to support growth targets</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTNacWNnb056NS1MRi1lMnJydTVMR3JoT2FVNmZTQU9tWjdUTEVsZW5ZRXQ3djIwbG1tWkVENEhLeVdVTHNGcmpjSExfNEFJQmxnVmJBdDIwdDBSUkxlUmNsSEdQSkVxSktmYlpENC14aW5aaXNKVUhVRFRsMzVDT0lrakNyMXE2dkhHS0NKY3RRRUt6ajB0QkJpLVNmVnBsRFdsejF5YjMyemVlZ002Y3QzRWxKZmxEdDV2ZA</link>
-      <description>Sonova unveils new AI-powered hearing-aid platform to support growth targets Reuters</description>
-      <guid isPermaLink="false">060e63626d244a547dd6a2965dedae7a5d2f5cb9</guid>
-      <pubDate>Mon, 24 Aug 2026 07:19:52 +0000</pubDate>
     </item>
     <item>
       <title>nVent Electric to buy Maverick Power for $1.75 billion to expand data center offerings</title>
@@ -57,6 +50,20 @@
       <description>CD Projekt RED to launch remastered version of 'The Witcher 3' ahead of new expansion Reuters</description>
       <guid isPermaLink="false">b1020d5853a0c4181d768d3d1c2cb9c48d9efda4</guid>
       <pubDate>Wed, 26 Aug 2026 07:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slovak government proposes banning social networks until age of 16</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPemoxQ3QySWpUUl9BRVR4Q19oOVNlY1k5aTV1akdxN1U3R0IzZzNmNWVaRDhob2JENEtDLVlCdWRleGRfUUJkaFVBOVEzVGVJWGFwZE1OdzdlSzFQdS1fYnpHYnB0cHFHcjBnLXAxbkFJNWpLTk5NT2J6Q2NwT2VoaTIxMnBVTkIxZTVWcENiQkhFRGxPTnJ6ZFFaOEZ1M0tqYk94MmNVN21lYmU1ZU5N</link>
+      <description>Slovak government proposes banning social networks until age of 16 Reuters</description>
+      <guid isPermaLink="false">04e6d5f1715c60cbc2d0ef1212c41944c2ce124d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple sets Sept. 9 date for next iPhone launch event</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3</link>
+      <description>Apple sets Sept. 9 date for next iPhone launch event Reuters</description>
+      <guid isPermaLink="false">71d0207a62a0c92ef3d418ef7908ea8e6c7fe553</guid>
+      <pubDate>Wed, 26 Aug 2026 16:34:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
