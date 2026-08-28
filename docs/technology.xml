@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:19:29 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
@@ -22,20 +22,6 @@
       <description>China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal Reuters</description>
       <guid isPermaLink="false">bbf1a69161199f770f0b61ad7815272c6fdc461b</guid>
       <pubDate>Wed, 26 Aug 2026 04:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>CD Projekt RED to launch remastered version of 'The Witcher 3' ahead of new expansion</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFRMc1JpOURTNEZGYTJlMm9OSmppOTlLWVg3NmVVYVo3OVpDU2hrMm1RWlRjREh4TVdSZmRUeW9UOUR6QVpTYl9sdmVwU2ZlTldXWVYyS3l5QVVOa0ZtR0JtSXp5QWo4Vnp1Z1lVZUZaRm5qNHU0aTNDdmktdFpkaEpSMk5MbXd4c1c2Sno1SFVxclhZSko2aVZTck8xNTJTVm13MkZ6bG5iUXBqZ1Nucm05QjU0bG94cUhVeFl3</link>
-      <description>CD Projekt RED to launch remastered version of 'The Witcher 3' ahead of new expansion Reuters</description>
-      <guid isPermaLink="false">b1020d5853a0c4181d768d3d1c2cb9c48d9efda4</guid>
-      <pubDate>Wed, 26 Aug 2026 07:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slovak government proposes banning social networks until age of 16</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPemoxQ3QySWpUUl9BRVR4Q19oOVNlY1k5aTV1akdxN1U3R0IzZzNmNWVaRDhob2JENEtDLVlCdWRleGRfUUJkaFVBOVEzVGVJWGFwZE1OdzdlSzFQdS1fYnpHYnB0cHFHcjBnLXAxbkFJNWpLTk5NT2J6Q2NwT2VoaTIxMnBVTkIxZTVWcENiQkhFRGxPTnJ6ZFFaOEZ1M0tqYk94MmNVN21lYmU1ZU5N</link>
-      <description>Slovak government proposes banning social networks until age of 16 Reuters</description>
-      <guid isPermaLink="false">04e6d5f1715c60cbc2d0ef1212c41944c2ce124d</guid>
-      <pubDate>Wed, 26 Aug 2026 16:34:59 +0000</pubDate>
     </item>
     <item>
       <title>Apple to launch next iPhone on September 9 in first major event under new CEO Ternus</title>
@@ -66,17 +52,17 @@
       <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
     </item>
     <item>
-      <title>NEWSLETTER: How Meta’s AI layoff plans went kaput</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjY5eWhaSGFuNFFCTVVVQWNXZDhFM2FOUEFLNUo5QjY0QWl6OWtVRmlrU3F0YVRSZTA5NFpteUdlUHBPTGlNTThXYlNfTV9PX0UyaVh0Y3oyMkIxSDJGRDJZLXJLQ1hQeWFzZkJWQnBqVHBGTVU4Z0VXR3FlWmtEZmM0dFRJczNvNFlweEdEc3E4NWRGZl90NVZrWjJWam9ZYXpZQ3R5WWphVXhNUWZMcmF1LUZmLThQMkdVUy04d3FVUU0</link>
-      <description>NEWSLETTER: How Meta’s AI layoff plans went kaput Reuters</description>
-      <guid isPermaLink="false">e4b71b66ef50c6f50cc7b9ac7b94800802c8f0c7</guid>
-      <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Salesforce raises annual forecasts, expands AI partnership with Anthropic</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDN3Q0RQRENZTDF5TE95YURuRTZiczNvdTJ3ZzBRQjBGNkxRUnBlSWpSd2p3MUpJQzJoamNOR084RzU2dXRFM3ZEUXVBYWRLaVc5UXFza0VRcWNvS3ZvZGowVWdkbG9ROGVIVUt6bE9nN05VRk8zVng2b3JHT0Vub000Y2lDMzBMaWdBd1RmYVlJdw</link>
       <description>Salesforce raises annual forecasts, expands AI partnership with Anthropic Reuters</description>
       <guid isPermaLink="false">65bfb4cd967093a8b026d7562c26cf04b14af2f3</guid>
+      <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEWSLETTER: How Meta’s AI layoff plans went kaput</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjY5eWhaSGFuNFFCTVVVQWNXZDhFM2FOUEFLNUo5QjY0QWl6OWtVRmlrU3F0YVRSZTA5NFpteUdlUHBPTGlNTThXYlNfTV9PX0UyaVh0Y3oyMkIxSDJGRDJZLXJLQ1hQeWFzZkJWQnBqVHBGTVU4Z0VXR3FlWmtEZmM0dFRJczNvNFlweEdEc3E4NWRGZl90NVZrWjJWam9ZYXpZQ3R5WWphVXhNUWZMcmF1LUZmLThQMkdVUy04d3FVUU0</link>
+      <description>NEWSLETTER: How Meta’s AI layoff plans went kaput Reuters</description>
+      <guid isPermaLink="false">e4b71b66ef50c6f50cc7b9ac7b94800802c8f0c7</guid>
       <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
     </item>
     <item>
