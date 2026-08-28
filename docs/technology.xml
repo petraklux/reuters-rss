@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:25:18 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
       <description>AI News | Latest Headlines and Developments Reuters</description>
       <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
       <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waymo to begin testing autonomous vehicles in Munich</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQRC1OMDk3WEdNWnBwQkxLLVhxTVdWdkxFNm44akx5eXZYc2NpSHBwUUR0OGhGaW1zUXk4bmdqVGlpeUdvVEl3V2prSVpVUzZsWlJlcnpFVWlEUlprNTF0RXV0NWlvVVBVRURNT3RnRjNzYkNsWVFRSnZZVHh5WU9qWlpxT05CTDdSM3FROHpoWE9DUk5PSnk0Tw</link>
-      <description>Waymo to begin testing autonomous vehicles in Munich Reuters</description>
-      <guid isPermaLink="false">4d3d061cd3141e1898222d3e998f16df36ebc16e</guid>
-      <pubDate>Tue, 25 Aug 2026 15:59:12 +0000</pubDate>
     </item>
     <item>
       <title>China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal</title>
@@ -92,6 +85,27 @@
       <description>Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports Reuters</description>
       <guid isPermaLink="false">63502a2fb7615326c3b7c87ed3fbe052d2bb2f34</guid>
       <pubDate>Thu, 27 Aug 2026 14:09:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia to start employee-funded US political action committee</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2RIV3JCTFFfTXJMcF9qcUJjRVNkaUFiN01rZHFEZHlXMEtnV0RVeHduNWhlNWNoRk11MHFUNkswWG42YThwZUlnYmt1bExwUTdyaXlPejkya3plQ28ycFc0NFhSRkFMY1FZNG1UcTZOd0N2WEhhSkMzOWlpNlFScFZLd3d4NnF1cXZrTHZuODRLREVJbUNBb0dkcGpjZGJ6YnVVYkJpZFA</link>
+      <description>Nvidia to start employee-funded US political action committee Reuters</description>
+      <guid isPermaLink="false">86ef5e3214ef88b528d64018bb863e90b2b2c963</guid>
+      <pubDate>Fri, 28 Aug 2026 00:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic unveils new framework allowing AI agents to operate physical devices</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWhmNnhIejBEcG1zQWRzeWtHbVZCOUtZZmtraGJiNHdjVzdpU3liY2VfZTF0X3pUUl8tNWN1TXMxcTNqRk9xRXRTZ3VGQUV2MVl1MllqWHpCby1ua2R2VWJJR1hRUi1aTWJxQ1lXWHBEcklUb1hZS3dkTEZkSDFxUjNzbFFiZUktaXJ3WGJRUjF5RHROREJSd2c3N0RfRkNIbzNxd05GdnJ4VnZma0R5QU5QTEJwOG1aUmZuaERmMA</link>
+      <description>Anthropic unveils new framework allowing AI agents to operate physical devices Reuters</description>
+      <guid isPermaLink="false">084dc5a09f0f6997629038e49c859cfb20730c2f</guid>
+      <pubDate>Fri, 28 Aug 2026 00:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marvell raises annual forecasts, but shares fall as Google deal questions linger</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE</link>
+      <description>Marvell raises annual forecasts, but shares fall as Google deal questions linger Reuters</description>
+      <guid isPermaLink="false">b1fa5622d4a63644a13c4b57e5c45ca2bcf75005</guid>
+      <pubDate>Fri, 28 Aug 2026 00:25:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
