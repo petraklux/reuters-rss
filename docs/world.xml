@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:53:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:17:23 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware group says it stole Berlin data, offers it for auction</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEU2bXFCTHFZZXA0dDVYaG9JR1NpQjRkcUZnTVkwa1JRRjB2UVFkNUxMOUI2WGc2M1BDNU5vUjh2bG9iNVlDdGh4MkFYNUpPc05aWXhSeWVYY0oyTWEwczh0elFoNkRfelZIbFJjVlZGajl0aXZMamVTaDR2MTliSGNucjh3LVVWdU9BeTd6Q2JSTDdzeHpBalVxbU50dnVMeDZENVRXSlZpQmx5RXg5STdiMA</link>
+      <description>Ransomware group says it stole Berlin data, offers it for auction Reuters</description>
+      <guid isPermaLink="false">b865edbd2bbeb532c6f2887c58e5e02a319e11cc</guid>
+      <pubDate>Sat, 29 Aug 2026 01:44:40 +0000</pubDate>
+    </item>
     <item>
       <title>Moody's revises Nigeria's outlook to 'positive'</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnkwWFlwbHdGeDR0UEFwd3d3V1RDU1ZzaWtfbWhhRWVoVXQ2MUNUMlY3RS04c2s5eDQ4bUxJMEFKcmNoaEZsV0hmWWRwWlpJaDBMREpyQ2Fnc3pKdlV5VFhiZ3JralEyc2cxenNURjFBS0xZX0pQamhpMHF1MzF5ZjVpR2ltMjVnd041SUxPaXlheXM</link>
@@ -38,13 +45,6 @@
       <pubDate>Sat, 29 Aug 2026 01:44:40 +0000</pubDate>
     </item>
     <item>
-      <title>India's forex reserves hit record $729 billion on sustained capital inflows</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE</link>
-      <description>India's forex reserves hit record $729 billion on sustained capital inflows Reuters</description>
-      <guid isPermaLink="false">5ae1a3efb4cdabddeca2fa4fd1e3ac3797a7144c</guid>
-      <pubDate>Sat, 29 Aug 2026 01:44:40 +0000</pubDate>
-    </item>
-    <item>
       <title>US academic who accused Jason Arday of plagiarism allowed to resume some work</title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQczdaTzJUYzZPd3F6MjZaU2lscEJGS3BtNEhqUGpBRmU4eW51NTFPalRva0xYbmRKeU9qbUZzOUdna251UVc1QmN4cmtobXBoWmRJaUg5c1FoZUdSTFpFa3ZBYkV5LUtvVjlJVmFrdlZUai1OUEMtODRTQlZhS0JSU25WTDdCNnp3SUlxdWlxbm9hM3lhakNiRzRVS0RsZXpZbzk4c20wdFBYbU1GcW53c3Z0Yw</link>
       <description>US academic who accused Jason Arday of plagiarism allowed to resume some work Reuters</description>
@@ -52,10 +52,10 @@
       <pubDate>Sat, 29 Aug 2026 01:44:40 +0000</pubDate>
     </item>
     <item>
-      <title>Canada to loan quantum startup Xanadu $140 million to build manufacturing plant</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnRzcWtqWkpITVFZLUZmLW50MmtTenpmYXJMLWdpZ2tZdjZDMDFjYzJaakhCc08tOHFTTVZJN3BZcndUeWNmOEhTU0QwTlVfNnFtZzAtbWFUWVVUZUVueEpHUWFQcTVOUElGSlhrMjFtUkI2TU1UMERrZkh2VWJIdTJGVlNERHlBaWZIYVd4V2hUckh0dGJFN3BaNlZHbXlEd2VXY0Njc0ZHcFhURjZlelVBa1ZFWXBvMzlRemtrZUw</link>
-      <description>Canada to loan quantum startup Xanadu $140 million to build manufacturing plant Reuters</description>
-      <guid isPermaLink="false">efc254d0ad9ed529260261c95850233a89a35edd</guid>
+      <title>India's forex reserves hit record $729 billion on sustained capital inflows</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE</link>
+      <description>India's forex reserves hit record $729 billion on sustained capital inflows Reuters</description>
+      <guid isPermaLink="false">5ae1a3efb4cdabddeca2fa4fd1e3ac3797a7144c</guid>
       <pubDate>Sat, 29 Aug 2026 01:44:40 +0000</pubDate>
     </item>
     <item>
@@ -171,17 +171,17 @@
       <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
     </item>
     <item>
-      <title>Iceland votes in tight referendum on whether to start EU membership talks</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGtFSVlzUEFyMVhTNThSd2V4a29sUUtlZVdHeC1pc2ZnaWVwVjFGNW5OQjg4MHZNaTNHc29QRXcyT2ZJN29xNDdmQVBQaDRtX0N4N1lJeTc3Q1c0NU5VWldFSkJLSG1yMzBhLVI4cHRrQlVRZlNWVHA4d0NXRVBPLURxd09aNVJWSkpNV3JaUlpXU3Q0VHp0UDgza0M</link>
-      <description>Iceland votes in tight referendum on whether to start EU membership talks Reuters</description>
-      <guid isPermaLink="false">5f68a4ceb09e8ba72d5d5513d493aca79e5436bf</guid>
-      <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Chipmaker CXMT sues Pentagon over 'Chinese military company' designation</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ</link>
       <description>Chipmaker CXMT sues Pentagon over 'Chinese military company' designation Reuters</description>
       <guid isPermaLink="false">2f4ce441697e692458e2d625929db16857a2cc97</guid>
+      <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iceland counts votes in tight referendum on EU membership talks</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGtFSVlzUEFyMVhTNThSd2V4a29sUUtlZVdHeC1pc2ZnaWVwVjFGNW5OQjg4MHZNaTNHc29QRXcyT2ZJN29xNDdmQVBQaDRtX0N4N1lJeTc3Q1c0NU5VWldFSkJLSG1yMzBhLVI4cHRrQlVRZlNWVHA4d0NXRVBPLURxd09aNVJWSkpNV3JaUlpXU3Q0VHp0UDgza0M</link>
+      <description>Iceland counts votes in tight referendum on EU membership talks Reuters</description>
+      <guid isPermaLink="false">5f68a4ceb09e8ba72d5d5513d493aca79e5436bf</guid>
       <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
     </item>
     <item>
@@ -199,17 +199,17 @@
       <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
     </item>
     <item>
-      <title>Temasek backs Singapore Airlines' Air India investment amid growing scrutiny</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3</link>
-      <description>Temasek backs Singapore Airlines' Air India investment amid growing scrutiny Reuters</description>
-      <guid isPermaLink="false">02f9eea7db74c8c16927ffc4ea2e2a70e1d6da8f</guid>
-      <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Nepal resumes flood rescue, seeks technical help and billions of dollars</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg</link>
       <description>Nepal resumes flood rescue, seeks technical help and billions of dollars Reuters</description>
       <guid isPermaLink="false">94c30a28ed2f33e3285dc9f549f98e9aa6636d58</guid>
+      <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temasek backs Singapore Airlines' Air India investment amid growing scrutiny</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3</link>
+      <description>Temasek backs Singapore Airlines' Air India investment amid growing scrutiny Reuters</description>
+      <guid isPermaLink="false">02f9eea7db74c8c16927ffc4ea2e2a70e1d6da8f</guid>
       <pubDate>Sat, 29 Aug 2026 10:01:08 +0000</pubDate>
     </item>
     <item>
@@ -269,13 +269,6 @@
       <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
     </item>
     <item>
-      <title>US judge rules Pentagon blacklisting of Anthropic unlawful</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNUDBMcUFmSmZqdE53T3hrZWlVbHBnMmlfY0FIeXUtS2t2YkRKR3dMOEVPOVhHQkxhQVNfZDhyaFhlTUlYWE11dDRLVkZ3MkhJVG00eUpIajliNEpYdlZVdzJFc2pvdUhVbHZWV0lfaUY1RThXNUZJNFNkSjh0UU03YVYxVGliSnBPT2dCWWljTUZOT21GLVBibWt5S0s1dw</link>
-      <description>US judge rules Pentagon blacklisting of Anthropic unlawful Reuters</description>
-      <guid isPermaLink="false">92c35db0606f2006e9ee7bcfb8bb9f764b454737</guid>
-      <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Senator Flavio Bolsonaro vows to respect Brazil election outcome</title>
       <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQSlJ6WnE4LUhtaG5tMWlQSm54MUowbHl2U2U3VFo4TXBaTEhmcHhBUllmT3dRZ0NQbWhQUnpxS19RTlI1QlJxVTBLeVZjZGVfRU5FR3F4NEVJMlFaaF9ubWtZUTBHMlZGc3VCM3NwLWpSeVRscG1xWXM3Ymc1QmJHMXpMb1RVRVkzdWlYTncweFMyMU94TUpkdnRTbEFySjVOM3VWbUsyTWNkT3RZaTRrNUxR</link>
       <description>Senator Flavio Bolsonaro vows to respect Brazil election outcome Reuters</description>
@@ -283,10 +276,10 @@
       <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
     </item>
     <item>
-      <title>US military families ride 'roller coaster of emotions' over six months of Iran war</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1PUndmMHEtR2czS0pLUHRwMXhjcG5mZzNjWDdQQ3I3cTlpaW5EdTFVc3BJUjBldmlZR0RJM09CZFhycFFlSmExRC05SEFvR0N1cHdaNWt4LUMxRmFpY2cyVjRfalFlT09EQXZ1XzlqaWt0SEphZFVVNGxDMmtKNUJmN090SFgwY2pfMFRBSXZ2TFpNTGJzRFlmS2ZwZlo4TThGQjhPLWJLa0ZJdmVXUm1OZldxY1hWNFoxYlJXUzF4NTJVMWZv</link>
-      <description>US military families ride 'roller coaster of emotions' over six months of Iran war Reuters</description>
-      <guid isPermaLink="false">d8ca076a255b94cafaf4f8756a09c4404a043f95</guid>
+      <title>US judge rules Pentagon blacklisting of Anthropic unlawful</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNUDBMcUFmSmZqdE53T3hrZWlVbHBnMmlfY0FIeXUtS2t2YkRKR3dMOEVPOVhHQkxhQVNfZDhyaFhlTUlYWE11dDRLVkZ3MkhJVG00eUpIajliNEpYdlZVdzJFc2pvdUhVbHZWV0lfaUY1RThXNUZJNFNkSjh0UU03YVYxVGliSnBPT2dCWWljTUZOT21GLVBibWt5S0s1dw</link>
+      <description>US judge rules Pentagon blacklisting of Anthropic unlawful Reuters</description>
+      <guid isPermaLink="false">92c35db0606f2006e9ee7bcfb8bb9f764b454737</guid>
       <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
     </item>
     <item>
@@ -297,10 +290,10 @@
       <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
     </item>
     <item>
-      <title>Hungry bears wander into US West homes, shops in record numbers</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU5IX3Yzc05iZ3RZa1NRb21rRnhCeEZ4akF5OHdHTE5rc0V2UEl6aWVZb21wcXg5cEx3Qjdib1BxYnJCQXFMa3JXbXYwRzE1NklZaU5WeXZZTTltZ2xMOWJDZ01ibndWR0k4c2gtQmdoUGJsdVBScDRkUjI5VzJnLWRLa1RyWndwTF9jR0hMWUFJUGRSaHdqUGVoZW1PVlFOU05Pa0lwdw</link>
-      <description>Hungry bears wander into US West homes, shops in record numbers Reuters</description>
-      <guid isPermaLink="false">46f82b0a9ed50958a0a66f26ba17c55e628af4c8</guid>
+      <title>US military families ride 'roller coaster of emotions' over six months of Iran war</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1PUndmMHEtR2czS0pLUHRwMXhjcG5mZzNjWDdQQ3I3cTlpaW5EdTFVc3BJUjBldmlZR0RJM09CZFhycFFlSmExRC05SEFvR0N1cHdaNWt4LUMxRmFpY2cyVjRfalFlT09EQXZ1XzlqaWt0SEphZFVVNGxDMmtKNUJmN090SFgwY2pfMFRBSXZ2TFpNTGJzRFlmS2ZwZlo4TThGQjhPLWJLa0ZJdmVXUm1OZldxY1hWNFoxYlJXUzF4NTJVMWZv</link>
+      <description>US military families ride 'roller coaster of emotions' over six months of Iran war Reuters</description>
+      <guid isPermaLink="false">d8ca076a255b94cafaf4f8756a09c4404a043f95</guid>
       <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
     </item>
     <item>
@@ -311,11 +304,11 @@
       <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
     </item>
     <item>
-      <title>Blackstone offers to sell up to 25% of India's Knowledge REIT for over $1 billion</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEFfV0tiR1JsMGxmdVlyeUNsMHhUVmt3VDl1bDNWSmpTMzRoZjE2a1JGUEdYeGFqcVUwWGpFZ1d6MDVQSDNCZTl5TXlTZmktNjdWYTlvS2N4WmZuM1FmZm1CNGM3RmxyZVgyNGIyelY0ZXVMWTdKbUFrTERHaDQ2SzhET1VDZEU3ZEM3WUI3c2ptRU1wbU1kd3FtckpfZks5YkJHSlRzZk04Vnl5eHkwREF4QQ</link>
-      <description>Blackstone offers to sell up to 25% of India's Knowledge REIT for over $1 billion Reuters</description>
-      <guid isPermaLink="false">198e8cb75a8b628ffa619ac3c2e313b8a8be06ba</guid>
-      <pubDate>Sat, 29 Aug 2026 20:53:42 +0000</pubDate>
+      <title>Hungry bears wander into US West homes, shops in record numbers</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU5IX3Yzc05iZ3RZa1NRb21rRnhCeEZ4akF5OHdHTE5rc0V2UEl6aWVZb21wcXg5cEx3Qjdib1BxYnJCQXFMa3JXbXYwRzE1NklZaU5WeXZZTTltZ2xMOWJDZ01ibndWR0k4c2gtQmdoUGJsdVBScDRkUjI5VzJnLWRLa1RyWndwTF9jR0hMWUFJUGRSaHdqUGVoZW1PVlFOU05Pa0lwdw</link>
+      <description>Hungry bears wander into US West homes, shops in record numbers Reuters</description>
+      <guid isPermaLink="false">46f82b0a9ed50958a0a66f26ba17c55e628af4c8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:42:15 +0000</pubDate>
     </item>
     <item>
       <title>Bank of Canada to hold rates for another year, wait for more stability on trade: Reuters poll</title>
@@ -332,17 +325,10 @@
       <pubDate>Sat, 29 Aug 2026 20:53:42 +0000</pubDate>
     </item>
     <item>
-      <title>China automakers target South Africa's EV buyers, pickup market at auto show</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHk0Z3BTeS13ZVl6ZkttYkZKUnNnYWZuUEhzc0NXUWJrajBEaXRNbU8yNzhXSGxnTE1PYklBb09LbUFJbk1ja3NhSTBJZkhLLUhiOUxjOEdvdUZOSzllZUhXckNheDlySGFKVzZPb3pINERmSzNNVTU3eFF5UEtTQ3NqZUhGNHNlNzlnaXNWa1JTVXZNNF9Vc0VXWFFIQ25RSHNWYXIxMmJpU3VrOVUtXzFObTNjWDJZaUJ3RmJkQVZacU1z</link>
-      <description>China automakers target South Africa's EV buyers, pickup market at auto show Reuters</description>
-      <guid isPermaLink="false">64b37ace39382d3b036363ed3ef9fb022b653030</guid>
-      <pubDate>Sat, 29 Aug 2026 20:53:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0pnZTh4TDQza0pNT3V2NURsRUhHVndPcmtBY3U0NWx5YlRtSUFQdHRVX1o1SldnWHlxNFZrMy1uQUVKSkVSdXdwNlpjaUxWdjV2a2x3VVB3c3BKVktZY2hjMm1NdV9fNGV6UDd4VWtxT3A5a0g1X2x2Qk13SUNPckZWbGFDdVdoZVlfYm9XRnl6b0lpM0hXRTVZUmxRcmhuaC01dnItSmNBYWtyV2swa0V6TzJwS3lzZmZuSkdyZzFkLUxodkdXZw</link>
-      <description>Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output Reuters</description>
-      <guid isPermaLink="false">41b2551c55376451697c400a3ed7b306a739b90f</guid>
+      <title>Blackstone offers to sell up to 25% of India's Knowledge REIT for over $1 billion</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEFfV0tiR1JsMGxmdVlyeUNsMHhUVmt3VDl1bDNWSmpTMzRoZjE2a1JGUEdYeGFqcVUwWGpFZ1d6MDVQSDNCZTl5TXlTZmktNjdWYTlvS2N4WmZuM1FmZm1CNGM3RmxyZVgyNGIyelY0ZXVMWTdKbUFrTERHaDQ2SzhET1VDZEU3ZEM3WUI3c2ptRU1wbU1kd3FtckpfZks5YkJHSlRzZk04Vnl5eHkwREF4QQ</link>
+      <description>Blackstone offers to sell up to 25% of India's Knowledge REIT for over $1 billion Reuters</description>
+      <guid isPermaLink="false">198e8cb75a8b628ffa619ac3c2e313b8a8be06ba</guid>
       <pubDate>Sat, 29 Aug 2026 20:53:42 +0000</pubDate>
     </item>
     <item>
@@ -358,6 +344,20 @@
       <description>Far-right commentator Milo Yiannopoulos deported to UK Reuters</description>
       <guid isPermaLink="false">9210f2fd219c09b28082bfea488e54370b039a07</guid>
       <pubDate>Sat, 29 Aug 2026 20:53:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four men plead guilty to arson attack on Jewish ambulances in London</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUNCU0xoakV2RHBrUWZOTGE4NGVvcVdIYUxFdmhONVVnTGVrbFlKODJ5cnlwRklndGhVOEQzeEhXbk43bDBkeUNjdVBTQXhtQ3ZueXJWRjlBdzVsaHlQNmZ5Ukc4MU1oYXVLSjRZX1c5d1VKQnYxTHF2eVAxajhlc0N5WWlGR3h1aE8zYi0zWTA3Z3B5YWRDd2ZEMExuTlI0b1VDc1VFT3p5TWNWTS1fNERYbw</link>
+      <description>Four men plead guilty to arson attack on Jewish ambulances in London Reuters</description>
+      <guid isPermaLink="false">2b024292c75af3d521a5d963247949c845a21b2a</guid>
+      <pubDate>Sat, 29 Aug 2026 23:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's HDFC Bank CEO Jagdishan to step down in October</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjQ0ZEltU3JVMEN5SGdYRUpKRk5oaWlCbjZXb2hBbFljdURWWmxNOHE5cURZU1YtNWVhSnN6WDJCdVBOOGxaZ2JBSjlZQTBYYU1ITnJma1h0RVBQTU1tTHVWOFljQURVeW5zamEyMHdLX2FEdHdjR1FFOTdfUmFLTm91dWJtVHROZ0RuOFMyUGwxLXZZSGtHMmxnWDQ</link>
+      <description>India's HDFC Bank CEO Jagdishan to step down in October Reuters</description>
+      <guid isPermaLink="false">f5f93a9ddf03fd5b6ed0dcf6748086205da0e87a</guid>
+      <pubDate>Sat, 29 Aug 2026 23:17:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
