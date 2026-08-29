@@ -8,69 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:45:14 +0000</lastBuildDate>
     <item>
       <title>AI News | Latest Headlines and Developments</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
       <description>AI News | Latest Headlines and Developments Reuters</description>
       <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
       <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1NWcXYyNEtyV1V5OHpSX3p1SUxvQmJHX0JYQVF6R2JBZkhJMmdpU3N6cDdQMkF5VFBuSlhRaGQ2LVM3VlYtTzBVTjlHZXFtRHZZZlA0ZEdTT2V4NWVReHZGNVpCV2VXMEhnZm91djRGYnJqWGlYMkh3UHVsMDUtRjNzWm0tVlg0TW1jVTZudVRlck1qSUV2SGR2NjNNczZUZURKMUJLZGlDZUZuM0E</link>
-      <description>China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal Reuters</description>
-      <guid isPermaLink="false">bbf1a69161199f770f0b61ad7815272c6fdc461b</guid>
-      <pubDate>Wed, 26 Aug 2026 04:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple to launch next iPhone on September 9 in first major event under new CEO Ternus</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3</link>
-      <description>Apple to launch next iPhone on September 9 in first major event under new CEO Ternus Reuters</description>
-      <guid isPermaLink="false">71d0207a62a0c92ef3d418ef7908ea8e6c7fe553</guid>
-      <pubDate>Wed, 26 Aug 2026 16:34:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic to rent AI computing power from Nscale for $45 billion, source says</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEZ0RVh4UE8tSXpXc3F4VXU2N0k1dk93YWNPMFNnQV9ucTU1bi0zZnJqTTJxNFpjTGczVmItNVhicEpTZmN3X2JySUlMZXo0c2RKcVQ3NkEzb0tGeHRKNXBFMWFqeXppMDF3ZVRjWjc5NTZqaUVRMm1adzFCOU96QzFGaGhYbm5PQ1RBc3lLcVpWbUZ1bDhwekV3X0NUQmpodW9iTUo1aFNJNkJhWHFPRE94Z3RIVzgzZEVycVpWbERvcVk</link>
-      <description>Anthropic to rent AI computing power from Nscale for $45 billion, source says Reuters</description>
-      <guid isPermaLink="false">9bfce9c478193dc4d2f87f76d1738f674dba11d8</guid>
-      <pubDate>Wed, 26 Aug 2026 20:02:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike raises annual revenue forecast on strong cybersecurity demand</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb21wcWlqdWgwUmh0blFmSWdkLVRJeUdwZzVMX1d3MmhCMmYzT1pyVDBQcldLV1dwS2k5LWFpRmxXWklxWktjU2hmMzExSjBmNnNIdW5fSUlVOWNsc3RiSWh1R0RWX1ZyRjRSRktJd3gtRlFZdU1zZV9qWTZpQW01YjR2TnBXdkQ4N0dtV1U5MnRlaFh0Mmg2ZHJSOFQ3anNXVVc3THVxV21iU2h5NEozNXZ4cDdXWTFh</link>
-      <description>CrowdStrike raises annual revenue forecast on strong cybersecurity demand Reuters</description>
-      <guid isPermaLink="false">79e041e7ffeb044e0a9746f0549b4facf3651912</guid>
-      <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigators say hundreds of OpenAI agents hacked Hugging Face and tried to cover their tracks</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmp1Sm45YlVSVElnTE1FdlZuWnZDWW1RRFRDdzRxUmEwYXNlWktadzMxYXN0UmFqZERGbkhOWU1xZlVZRnp1YmUxMHlNbWw3c2NfZUp2cUJEaDl4MWdzX3VpdmNneklCanFvRWx6TUpzbUJ4S20xZDY5WUE1cmstam1TWjVzQnBuSXVvblZSeTNUSDlNVHZVNHZCdmpBVTBJa3dCcDJ3Q3BYNlA2dXVGVWgtV3dwbE1TNHpCdDVzaXROdk0</link>
-      <description>Investigators say hundreds of OpenAI agents hacked Hugging Face and tried to cover their tracks Reuters</description>
-      <guid isPermaLink="false">c03f72ec727ef645a5a155d1919ca500f1828e70</guid>
-      <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforce raises annual forecasts, expands AI partnership with Anthropic</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDN3Q0RQRENZTDF5TE95YURuRTZiczNvdTJ3ZzBRQjBGNkxRUnBlSWpSd2p3MUpJQzJoamNOR084RzU2dXRFM3ZEUXVBYWRLaVc5UXFza0VRcWNvS3ZvZGowVWdkbG9ROGVIVUt6bE9nN05VRk8zVng2b3JHT0Vub000Y2lDMzBMaWdBd1RmYVlJdw</link>
-      <description>Salesforce raises annual forecasts, expands AI partnership with Anthropic Reuters</description>
-      <guid isPermaLink="false">65bfb4cd967093a8b026d7562c26cf04b14af2f3</guid>
-      <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEWSLETTER: How Meta’s AI layoff plans went kaput</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjY5eWhaSGFuNFFCTVVVQWNXZDhFM2FOUEFLNUo5QjY0QWl6OWtVRmlrU3F0YVRSZTA5NFpteUdlUHBPTGlNTThXYlNfTV9PX0UyaVh0Y3oyMkIxSDJGRDJZLXJLQ1hQeWFzZkJWQnBqVHBGTVU4Z0VXR3FlWmtEZmM0dFRJczNvNFlweEdEc3E4NWRGZl90NVZrWjJWam9ZYXpZQ3R5WWphVXhNUWZMcmF1LUZmLThQMkdVUy04d3FVUU0</link>
-      <description>NEWSLETTER: How Meta’s AI layoff plans went kaput Reuters</description>
-      <guid isPermaLink="false">e4b71b66ef50c6f50cc7b9ac7b94800802c8f0c7</guid>
-      <pubDate>Thu, 27 Aug 2026 00:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB</link>
-      <description>Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports Reuters</description>
-      <guid isPermaLink="false">63502a2fb7615326c3b7c87ed3fbe052d2bb2f34</guid>
-      <pubDate>Thu, 27 Aug 2026 14:09:10 +0000</pubDate>
     </item>
     <item>
       <title>Nvidia to start employee-funded US political action committee</title>
@@ -92,6 +36,13 @@
       <description>Marvell raises annual forecasts, but shares fall as Google deal questions linger Reuters</description>
       <guid isPermaLink="false">b1fa5622d4a63644a13c4b57e5c45ca2bcf75005</guid>
       <pubDate>Fri, 28 Aug 2026 00:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pinterest finance chief Julia Donnelly to step down in October</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUxIRk1zU3FvRnFtbXd6ZURTOVJvVFVSd2J5NXlMby10NzhoeGUwWmZoU3JsQk5XSkZWQTZkMEZCZTcwck5yNVo0RXZ6WlVNal9HNWktVW5hWmxXN3owSFEtdUNJWVNldWRqdFp3cF9NUXV1d3hLTXlsNktYRFB0R0hYUUdiN09wZmtqRzNvaXhOX1NWTUpGekVJczk4UlN3QzNfZ253</link>
+      <description>Pinterest finance chief Julia Donnelly to step down in October Reuters</description>
+      <guid isPermaLink="false">78e9ebfcabbef3b2cdd6b9679bf7f6c447f6c964</guid>
+      <pubDate>Sat, 29 Aug 2026 01:45:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
