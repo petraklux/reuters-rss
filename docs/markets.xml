@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:03:32 +0000</lastBuildDate>
-    <item>
-      <title>Price and Volume</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXNkQ2FiQkNuMXp0eUdJbjcxTVFzd2UzenVIVUhGaGdUZUlBdThtNlEwUW9lZEpTM1pQTHUtWVA1VHhWX0xkcWE1dldxOGtCU3d6VFkzcnNKVkhicnlTd0owT3FMVXZjc0dVX1VMdllWTlBuV3BaWXd5NzA1VUdzZzYySQ</link>
-      <description>Price and Volume Reuters</description>
-      <guid isPermaLink="false">74810151313753b5f7c6c49c5a732c51f0563c55</guid>
-      <pubDate>Sun, 30 Aug 2026 11:53:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>IACO.O</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5HR2tqMEpCRERNaGs4QmxLNnBGd0FXUUdJZ2pMcEszQVZNaXRvajJCY0pqOVpoTXBTRWFFZHBsaHRGdmNRWG9pbU1uejlneDVoVXZoSEM4cVlKVVR0QTcwQTJteXNpNWtHWnZnM2FqQWdncG5qWEtUQk13</link>
-      <description>IACO.O Reuters</description>
-      <guid isPermaLink="false">5d384db56c83d64ec8f950f55aea0b1e995b35fd</guid>
-      <pubDate>Sun, 30 Aug 2026 11:53:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 23:29:17 +0000</lastBuildDate>
     <item>
       <title>(FPSX.N) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSkQ2ZTNCT0hIbDZiN2RXLUswTkc1VWExQV9DZVZmem45OTJDNmp1elZfNG5fbGpLYV9IX1R1NUdvTGNtLW5Bb2N6bzl3VlBFVmFhTDJFWGhIWFJjU3c</link>
@@ -150,6 +136,20 @@
       <pubDate>Sun, 30 Aug 2026 16:39:53 +0000</pubDate>
     </item>
     <item>
+      <title>C2AC34.SA</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE50ZzlKUXlEYmxlNjFfT2JzeTczQWxiZm9UNjl2SV9iUUNGcmF2RHhUaE50SjJaLUc3LWZ0cVhXeUU2U0VQR25YVERiV29qVk8yMTN3ZC1yMm5PY3dJTEdNYWVVUnFWWVQyTE0wS3dMSWhiUm9tdThOZkJmOEtjbWs</link>
+      <description>C2AC34.SA Reuters</description>
+      <guid isPermaLink="false">3f4536c1a77364c8cf3b7e9369acfa192f0888be</guid>
+      <pubDate>Sun, 30 Aug 2026 16:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>IRIS.M3 - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzZEeG9Ia1pKSkdqejRISGJ1eWNvSFdfZ040enA4dlJSZ1VNVi11aTJYQmd3QU5Dbml6emNzczlNMVp3N0dXV25QM0tSeEp2eFJPWlp2N3lZcDI4Z1AxdU5oM0l2ZGpHQzZUYThJNG5QUmRZa0h3aWg2akN6YjZOOE9RU01jckUt</link>
+      <description>IRIS.M3 - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">231edbf511dfd39eb255d8c026e719884e33423a</guid>
+      <pubDate>Sun, 30 Aug 2026 16:39:53 +0000</pubDate>
+    </item>
+    <item>
       <title>About iShares Core MSCI World UCITS ETF USD (Acc) (EUNL.DE)</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GeW1UYzlBZVdqSjdvOEJuaXVLeVMtaTE1WmcxM08xVWdVRnNHU0VIa19DSFRtZkNJeE9tOHNMS3lWampQWkFyNnFmSlMyLTJqbDRnWVFUbzloUG1Lbmc</link>
       <description>About iShares Core MSCI World UCITS ETF USD (Acc) (EUNL.DE) Reuters</description>
@@ -178,32 +178,18 @@
       <pubDate>Sun, 30 Aug 2026 16:39:53 +0000</pubDate>
     </item>
     <item>
+      <title>OTEC.BO - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXJJVFpCZl9ZZUlzcGtDS09vcWpHNmgtZVZqVTF4NFBSTkRTdWE4SGtSOHdyY1hQYTNjRXBxc2hubUgxNHRYckJVQ3BYeHg2TVdHaEJVb0d4RG9qZzR2YzZ6VXZBVlZRZm5kNlg1dDRnanRCZlFkWjFudmJZbzA0RFBZQXhaQQ</link>
+      <description>OTEC.BO - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">74aba5cf0ce7679b4be87783bbe26341e1455152</guid>
+      <pubDate>Sun, 30 Aug 2026 16:39:53 +0000</pubDate>
+    </item>
+    <item>
       <title>About Iron Bear Resources Ltd (IBR.AX)</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMSVRod1NFVTdrdy1La2RqRnFxLWhMMjFEV3RzQVo5WG1qYkJEOGRLbkdxeVk3Um1pRFRWdWthVDBBYko5MEVOcThCZS02cTEzR01BOWNaX1VjUEhnQUE</link>
       <description>About Iron Bear Resources Ltd (IBR.AX) Reuters</description>
       <guid isPermaLink="false">0861461a5bec69ae46ee6f981842cfa759b1c8ea</guid>
       <pubDate>Sun, 30 Aug 2026 16:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>SELV.N</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMU8xSmtUVENLbUhKeFlITEpScktueG9rczFOQmdPNlhobm93WUVpRlZBdFhiZ2JDUnByVWQ2cU9tVDlFM1NZR0Q0TmgwZU5rV1hVdkJDQ1ZRT0RtaWtZX1BYclEzSVIzTDU0eQ</link>
-      <description>SELV.N Reuters</description>
-      <guid isPermaLink="false">d51b9e81f92b09d99588fa78cc4df0c88035d12c</guid>
-      <pubDate>Sun, 30 Aug 2026 21:03:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>CIEX.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9sRjFTb3RFOThMTXM5VVRGd1FHRlk5S1pBeW45TUZucjJMcVNpalVmem5tWGZ6QVJ2V2hGaTdJQlgyN2RfZnllQllkdmR1Q1FSZGdsNmNjR3QtcXE2bFNiMHdYYzNTUU4tdUxkd3NiSXh1dkJraUFFZjlIMVptR1k</link>
-      <description>CIEX.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">9dc537eda3b83d962d02a3cda0738f0d65b550dd</guid>
-      <pubDate>Sun, 30 Aug 2026 21:03:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>(QAU.AX) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XS0xsUVZkMktQV3Nxdkd2NGY5OXJzQ1lONnUtYzhjSnppcVFMMl9ZeXFDYURkb3FTRl8wUmd6Z3FzT2tfOUFpUHFkTXVWVFMwZ0hPbGI1blc1aVkwLVlGTHZnbw</link>
-      <description>(QAU.AX) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">eecd5c0780b3ae7e511f2542c56d094eba239c91</guid>
-      <pubDate>Sun, 30 Aug 2026 21:03:32 +0000</pubDate>
     </item>
     <item>
       <title>MVE.AX</title>
@@ -358,6 +344,20 @@
       <description>EUNL.DE - | Stock Price &amp; Latest News Reuters</description>
       <guid isPermaLink="false">558d869cc236c77a3001856d9dd04196409e0ef7</guid>
       <pubDate>Sun, 30 Aug 2026 21:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>MMPI.NS</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5hVmtQSEUwRnlzeV83cnpiNVFBNElfUFlzckNTZW9YaWhMY3IyTGMtUTBxSk5jVWxLWVEwaHBrOFRzNnJJVWlIbmY5T0tBTk9wZEZIUHY5OGNyT0M5aWI2VVZiVGUzT19zeUhpaW4tMlAweWJNSTV3SFRJZlI</link>
+      <description>MMPI.NS Reuters</description>
+      <guid isPermaLink="false">b01bc268e6896d9b1c5a508239253f378a83d803</guid>
+      <pubDate>Sun, 30 Aug 2026 23:29:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>About Defiance Daily Target 2X Long PURR ETF (PUR.OQ)</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE04RkdMcW1TNmhQSERlUHF0VEFZVC1FTXMzUThyRG4ycmdIUWdtSDVXOXNSejVUcUlwc1ppNzNFdEo4SXRWOVQ3SEFKM1AyeGFtZlZLcU5idk8tSWRr</link>
+      <description>About Defiance Daily Target 2X Long PURR ETF (PUR.OQ) Reuters</description>
+      <guid isPermaLink="false">f67e62f36a9eaefcac8a31830e545882e38de482</guid>
+      <pubDate>Sun, 30 Aug 2026 23:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
