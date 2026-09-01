@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:37:10 +0000</lastBuildDate>
     <item>
       <title>OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHZHakZmR3NodC1Ea3c3U2oxdzR5anY2NEhZX0ZvMUpSWEdIU2pwX0F0RjJDaG55ZlRyLVRzMHo0QnE0YUV1NFltaHBvSTB3aTFzNXZPYkxJcDBuNlYzQkstaEhaQzF1S2xUcU1YZlNrM2xjbWxQTlBqRGhLR0E0UTUyVENnOUJTN2pTWE1HNi1mSzZJVmtZWnN6am51aG83TkRPWVdIZFFlelBq</link>
@@ -29,6 +29,20 @@
       <description>GameStop expects lower quarterly sales on store closures, France exit Reuters</description>
       <guid isPermaLink="false">ef39cd9d66d23bc4b8386c3f9cfad76cd6f399b4</guid>
       <pubDate>Mon, 31 Aug 2026 13:44:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic to resume external testing of AI models following security incidents</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Y5eFQ4dWtTbDlKWE1yeXpuR25wNXBRMzVpeTJMM01vdzBiREpsR1IxSTVTWTU0YUxTNzZyZjBsQUVfS1I2bzJQRWtUcGVLaUJKbmxhLUJhQ2RGaWdjN3c4ZjZvcWVQdExIbWlHb3hpQ3lXXzlRcUZhNlVkLVBRMlFpRWFySk1XVzlSbmxNNkx4bTZhMXZMR3FpTVU4bTg2dzQtVG14b3FNZXZvcVM1QWV2Yk5BMllIMkxV</link>
+      <description>Anthropic to resume external testing of AI models following security incidents Reuters</description>
+      <guid isPermaLink="false">9e749f61a4f3b19ec2481deebb2b51c71158453e</guid>
+      <pubDate>Tue, 01 Sep 2026 00:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw</link>
+      <description>Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says Reuters</description>
+      <guid isPermaLink="false">ca224cb4255203aae3d36533e6653b518e185824</guid>
+      <pubDate>Tue, 01 Sep 2026 00:37:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
