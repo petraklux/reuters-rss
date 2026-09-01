@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:08:52 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
@@ -50,6 +50,13 @@
       <description>Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says Reuters</description>
       <guid isPermaLink="false">ca224cb4255203aae3d36533e6653b518e185824</guid>
       <pubDate>Tue, 01 Sep 2026 00:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>OVHcloud gets French security certification for public cloud, plans European roll-out</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm9qTmZ1NTg1dmc4QUpJdWkwWnNuSi01LWhkcm1ERDRydW9HcUdpeDJEbU1pc2FFRVFjZEstQVZLY3ZqeGJOVDI2b3RKem1mb0N3TmVTQzRmb2tnc2ZNWXBLN1ROU2g0Y2RrTC1YU3NZcTY5aG1SaF9qZDhFLWRNWXpxb0xOWUJaS0djYXdnWDZyUlZfNEE0Tmx0NU8xQXJ0S21wWWRRZnU1U1ZrWnE2QUhDRmhMUDkwRUpUaktDb2J0X3AwUVE</link>
+      <description>OVHcloud gets French security certification for public cloud, plans European roll-out Reuters</description>
+      <guid isPermaLink="false">397a29fe9b5882dfca14c8ec3cab9563250c9433</guid>
+      <pubDate>Tue, 01 Sep 2026 14:08:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
