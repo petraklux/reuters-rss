@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:18:46 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
       <description>Space News | Latest Headlines Reuters</description>
       <guid isPermaLink="false">eb9cf5282ed126000f97b8af97291727e3a43204</guid>
       <pubDate>Fri, 21 Aug 2026 21:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic resumes external cyber tests after Claude AI hacks</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Y5eFQ4dWtTbDlKWE1yeXpuR25wNXBRMzVpeTJMM01vdzBiREpsR1IxSTVTWTU0YUxTNzZyZjBsQUVfS1I2bzJQRWtUcGVLaUJKbmxhLUJhQ2RGaWdjN3c4ZjZvcWVQdExIbWlHb3hpQ3lXXzlRcUZhNlVkLVBRMlFpRWFySk1XVzlSbmxNNkx4bTZhMXZMR3FpTVU4bTg2dzQtVG14b3FNZXZvcVM1QWV2Yk5BMllIMkxV</link>
-      <description>Anthropic resumes external cyber tests after Claude AI hacks Reuters</description>
-      <guid isPermaLink="false">9e749f61a4f3b19ec2481deebb2b51c71158453e</guid>
-      <pubDate>Tue, 01 Sep 2026 00:37:10 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</title>
@@ -52,13 +45,6 @@
       <pubDate>Wed, 02 Sep 2026 16:33:24 +0000</pubDate>
     </item>
     <item>
-      <title>Mamdani imposes one-year ban on AI for most NYC students</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE</link>
-      <description>Mamdani imposes one-year ban on AI for most NYC students Reuters</description>
-      <guid isPermaLink="false">d417a6e575685b4ccc2eada721e37e7c8c1c5372</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:46 +0000</pubDate>
-    </item>
-    <item>
       <title>CD Projekt H1 profit jumps 37%, beats estimates</title>
       <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPWENjbUhzNVA5bXZSbzk0dUQ4MnBJcTVnbi1uRkVJSDAtUGI0Nk5fMGxIbkd0eEJIaWtWVWJlWUlrTDFHVXVfOXgtTjUwZjAzdGV6VWxJcGl5dE9QdjFlbEtoblhZbU16c28xOFRja3hQRi04ZExzU3RELWl6UXZDV3FCWW9IcjdoMVNLQk5RQ1cxbVhsMUVJ</link>
       <description>CD Projekt H1 profit jumps 37%, beats estimates Reuters</description>
@@ -71,6 +57,20 @@
       <description>Thoma Bravo's Proofpoint in talks to buy cybersecurity firm Varonis, source says Reuters</description>
       <guid isPermaLink="false">363060a8786ddff6cde1409db51cd55330dea271</guid>
       <pubDate>Wed, 02 Sep 2026 21:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mamdani imposes one-year ban on AI for most NYC students</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE</link>
+      <description>Mamdani imposes one-year ban on AI for most NYC students Reuters</description>
+      <guid isPermaLink="false">d417a6e575685b4ccc2eada721e37e7c8c1c5372</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEWSLETTER: Anthropic was cautious on mega infra deals. Then demand surged</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM3Vra0t2YkJEa2JoRGtXbkZMamFHN2QzTEtGRGEweEVhTktmWEx0TkpheHltTzFwLXpnSE05WWs2aW01WkVQeEV6cFVwbVZCV19pZ1pTeHUyaW01Ym0xWTA4RkxXYUwyWXpVWjlKTVdpeFl4Y05id3h3TUNtSVp4NlNKQUpxVERqR0dldE9IcGFJZXdlR2ctWWtDWVRqVXg4UFhCS2k1UFBoNGdUZ1o4RWp2OEtJelRDU1FhMFpZdjYtV0NVYThTUw</link>
+      <description>NEWSLETTER: Anthropic was cautious on mega infra deals. Then demand surged Reuters</description>
+      <guid isPermaLink="false">79670cdb6da2dfca7742a7e30b7d184509745e35</guid>
+      <pubDate>Wed, 02 Sep 2026 23:18:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
