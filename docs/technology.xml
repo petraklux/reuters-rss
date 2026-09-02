@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:29:57 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
@@ -57,6 +57,13 @@
       <description>OVHcloud gets French security certification for public cloud, plans European roll-out Reuters</description>
       <guid isPermaLink="false">397a29fe9b5882dfca14c8ec3cab9563250c9433</guid>
       <pubDate>Tue, 01 Sep 2026 14:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dropbox says about 5,000 accounts compromised in August hack</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2N4VUxVS3hXWS1sYmZNQnF0WUJhd2xNU1FzZHBwWmNnTFRBT0FJTTlkVEhqVXJQMEN6T1RvcTY3NkNvWE5KY3FPV1lOYjVHc29wZlU1YmtXV2NrQ0l3b1lsbFpDZmFyRmNLaDNYQWVDalZNYTVINDZJc1NtVkcwcGhMamI3TE1yaXlVZ3ZlMDBRYXRaVXgyUzVJNEZTcEZ5OTJtYVRR</link>
+      <description>Dropbox says about 5,000 accounts compromised in August hack Reuters</description>
+      <guid isPermaLink="false">e6c2600d08e65286292f14e0234b189fd2bfaa22</guid>
+      <pubDate>Wed, 02 Sep 2026 04:29:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
