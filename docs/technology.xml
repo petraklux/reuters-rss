@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:11:22 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
       <description>Space News | Latest Headlines Reuters</description>
       <guid isPermaLink="false">eb9cf5282ed126000f97b8af97291727e3a43204</guid>
       <pubDate>Fri, 21 Aug 2026 21:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>OVHcloud gets French security certification for public cloud, plans European roll-out</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm9qTmZ1NTg1dmc4QUpJdWkwWnNuSi01LWhkcm1ERDRydW9HcUdpeDJEbU1pc2FFRVFjZEstQVZLY3ZqeGJOVDI2b3RKem1mb0N3TmVTQzRmb2tnc2ZNWXBLN1ROU2g0Y2RrTC1YU3NZcTY5aG1SaF9qZDhFLWRNWXpxb0xOWUJaS0djYXdnWDZyUlZfNEE0Tmx0NU8xQXJ0S21wWWRRZnU1U1ZrWnE2QUhDRmhMUDkwRUpUaktDb2J0X3AwUVE</link>
-      <description>OVHcloud gets French security certification for public cloud, plans European roll-out Reuters</description>
-      <guid isPermaLink="false">397a29fe9b5882dfca14c8ec3cab9563250c9433</guid>
-      <pubDate>Tue, 01 Sep 2026 14:08:52 +0000</pubDate>
     </item>
     <item>
       <title>Dropbox says about 5,000 accounts compromised in August hack</title>
@@ -66,6 +59,13 @@
       <pubDate>Wed, 02 Sep 2026 23:18:46 +0000</pubDate>
     </item>
     <item>
+      <title>ByteDance gets $30 billion loan, Bloomberg News reports</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUxla0Q0MVNPbkFNVTlqdmJJQkREd3gzSFByX24zVkxKU0dLMU5Gb3BUQVNuT2FYc1lvZkJIendHZmxJbFV6aFZFMDZ1NVBiRV9mN2o3Z0J0VmQyRXlzMWM3VDFjZzU5Sl9GbGdlVVZtbXRXeEtPRUpIMGRFU1RQcFh0eFJQa3kyUWZMaTRaSWdTRXI3VUlKeGpBamlNUHRKenc</link>
+      <description>ByteDance gets $30 billion loan, Bloomberg News reports Reuters</description>
+      <guid isPermaLink="false">9179ecf13e9ba40f1b9eb831e286e751f9496671</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:51 +0000</pubDate>
+    </item>
+    <item>
       <title>UNICEF estimates 20 million children suffered online sexual abuse in one year</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPVm1QaUN0M2VlN1lEY0tlVDMyTm5RcTBFaVE4eGpZRUYyQmJXWXZ3bW40aWQ1cmJURVB4Q1J1MTMtaXhoUWNZTnZqWUtYSXllVnh2VnExUDdOZHlqQVpiakJTb3pTX1hvdWNGQ2tOUmREMThvenQtODNfRnEwaVZOUzl1WURuaHRoMFl1Uk9LWUN3UXRHbjhjbl9lTXRTdjFhMExvRWZUZzZYV0ZXRkVuWXViTFBaR2Y2SjZLTmJB</link>
       <description>UNICEF estimates 20 million children suffered online sexual abuse in one year Reuters</description>
@@ -73,11 +73,11 @@
       <pubDate>Thu, 03 Sep 2026 04:20:51 +0000</pubDate>
     </item>
     <item>
-      <title>ByteDance gets $30 billion loan, Bloomberg News reports</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUxla0Q0MVNPbkFNVTlqdmJJQkREd3gzSFByX24zVkxKU0dLMU5Gb3BUQVNuT2FYc1lvZkJIendHZmxJbFV6aFZFMDZ1NVBiRV9mN2o3Z0J0VmQyRXlzMWM3VDFjZzU5Sl9GbGdlVVZtbXRXeEtPRUpIMGRFU1RQcFh0eFJQa3kyUWZMaTRaSWdTRXI3VUlKeGpBamlNUHRKenc</link>
-      <description>ByteDance gets $30 billion loan, Bloomberg News reports Reuters</description>
-      <guid isPermaLink="false">9179ecf13e9ba40f1b9eb831e286e751f9496671</guid>
-      <pubDate>Thu, 03 Sep 2026 04:20:51 +0000</pubDate>
+      <title>France starts tests on Tesla's self-driving tech</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2Z6cHJwdzVFWlFBVTA3ZnZqa2FodnJTVnRRNGNrckx4MHdjdExEZlJMNHE5SS1LT2lRZmxNSmxRcndqbmJUZ3ZDbXJEWU1zQlIxY2lyb19TZ3RLaVpLRHJvWXljbUNyZFBjVzdVUG5vUnpVNy1tM2IzcFVLbm5LUkU0RUpPR2dDcE9kMDYxZXl2Q1FOTmc</link>
+      <description>France starts tests on Tesla's self-driving tech Reuters</description>
+      <guid isPermaLink="false">e829a92458309a547f01d7dbac3c39e8b85fff9c</guid>
+      <pubDate>Thu, 03 Sep 2026 11:11:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
