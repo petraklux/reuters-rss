@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:16:41 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines - reuters.com</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
@@ -92,6 +92,13 @@
       <description>Crusoe signs $13 billion AI cloud deal with Jane Street, Bloomberg News reports reuters.com</description>
       <guid isPermaLink="false">cf3a5f490973dfde7359207446041373809a01c0</guid>
       <pubDate>Thu, 03 Sep 2026 21:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark Zuckerberg had a bold plan to replace Meta staff with AI — and it imploded. Answering readers’ questions on Reddit - reuters.com</title>
+      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMUhhTnFBSEg4VHB4TjZiR3hPeHp3VmJ6UEt0ZTNkWXR6bWE2bElhOHc1SmJNeUdjUW5WSEFmNHFuSEpFc1RzMDA0U0VxNW4wME40OG44emg1TVBtbGxkQXBXMjNqSnRPVXc4R2dyRFVQdUNaM2tfSUdqWkxNYko2aHNGeThEdkdVUzd0c2FnbUlCVzFFcFFRRDRkVnlSbGtfNVRfd3M1bE1WUVNlZmpDaFYzRHktaXZJVXpNZlFCajlrbDFBcTY1NW1uUVZHQW5DSEY1LUFMZlJmY21MN2JPMXVUVQ</link>
+      <description>Mark Zuckerberg had a bold plan to replace Meta staff with AI — and it imploded. Answering readers’ questions on Reddit reuters.com</description>
+      <guid isPermaLink="false">ef39be89771ab091b196fd2b37ec7f3a081a3891</guid>
+      <pubDate>Thu, 03 Sep 2026 23:16:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
