@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:24:15 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
@@ -78,6 +78,13 @@
       <description>France starts tests on Tesla's self-driving tech Reuters</description>
       <guid isPermaLink="false">e829a92458309a547f01d7dbac3c39e8b85fff9c</guid>
       <pubDate>Thu, 03 Sep 2026 11:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI cloud firm Nscale commits compute worth $3.5 billion for Figure's robotics ambitions</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkxWaUZTWUN1WTdnSy1SREFuS1hVQ3N3MS1RV3pROEhrME1MXzNHQU81enhla2E4WmtuVFA3WllLeWhtYVRzSDNPc1JnUXFuY3JVNzdITFo3Rjl1ZU9xaFFyNHhhWW9TR1pNN01aRE9JSHFVbFN5TU1nWWhvTWY3dHRWTVo5aG9nUTJyQTdKRnNvVmtPYmFnZDBxbVlrek5wQThPa1lxa2hoMTlTZFgtRl8wOVBzQ1JuN2ZxSHNSUEVwc3VSc0E</link>
+      <description>AI cloud firm Nscale commits compute worth $3.5 billion for Figure's robotics ambitions Reuters</description>
+      <guid isPermaLink="false">f0b6d5d3e4b3f37579f847a08ee57fb149136d41</guid>
+      <pubDate>Thu, 03 Sep 2026 16:24:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
