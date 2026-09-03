@@ -8,56 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 23:18:14 +0000</lastBuildDate>
-    <item>
-      <title>Morning Bid: Who will police the bond vigilantes?</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1XVFFXcFFuc2l0MlU5N01IWDdVcFhIa21hRkRfNlY5ejNQWjVwRkpLOHVnczFYQ3AzazFIblZib2NVYzRZekUzWEt0TXZvUzNSYUtBNHJrQXhwOHl2V25QVzRKc3FIdTY0aGFWeDk2M2J6UEpEeXhrb3I0Q29TdFE</link>
-      <description>Morning Bid: Who will police the bond vigilantes? Reuters</description>
-      <guid isPermaLink="false">ac8a85da8f2b347ed45f621c8ec089efd2be26b0</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian shares join global slide as Mideast woes mount</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ</link>
-      <description>Indian shares join global slide as Mideast woes mount Reuters</description>
-      <guid isPermaLink="false">f3b5691a37e010dd9dd87966c4ae34d1f41a8c56</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU's Kallas says Leipzig attack had hallmarks of state-sponsored terrorism</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNSk9pYWk1NTFtU3FFWjB5RGF4R1lLbEVGTUJJVjNuN2d1YktKSDZxdDRqTFVISWxwMDdwTUVFT0xERVBHSWpKZzlqSEd3NTR6S1Q0TndpTlhiR2ZhZ2RYYjFNbUNBal82ZDIyYU9fN1pyeVRyTzhaRGNuaVVFMXBjYlh6Z3F5YzloZ0JuXzZXNGROOGUxQks1S2Rub2xaU1NlMmFuR1oyVmM5c2F1VklFU05B</link>
-      <description>EU's Kallas says Leipzig attack had hallmarks of state-sponsored terrorism Reuters</description>
-      <guid isPermaLink="false">738203ba6228701865d84801fa9634599c96ad41</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia, US commit $580 million to support Pacific Island nations</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkVlT3hwbmptNlI5TjJpdTBBamVJSmlsbFpKU3BHV0U3QndwSzNTR0c1SVVxOE40S1VodXd1cmZaU25pMk1YNTJEQUhQRzhrRU1TYnpxRWJMMTNJaDItcTF4V28tSzctamlKOHZrXzR2dkVBYUJBUkcwOElhSnlVZE9uM0JfLUZSYS0ya2lwWE13ZFF4T0pkeUpwZlpaY1MtUkxhQVd3</link>
-      <description>Australia, US commit $580 million to support Pacific Island nations Reuters</description>
-      <guid isPermaLink="false">64b5ef23ada3c849c92ab6f16461c7066e65fca7</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia torments Ukraine's capital with seventh day of strikes</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUZJdVNudXgteTBObUE3dFRXX2FXYzBZS0FURzZMdGpDVk5oelI5RW5XYTltOFlzTVVyWHdXcHNBbG1SZzZoS1JCdEJDb1M1R21pQmVaSW9ueUpYa0g0MnBrOE1NT3M3WlpGbE1XcnczVzlaTVkyNHRqd0pVUnRZOEVONG0ybWtNcmZubUc2MU9vWGJjVmlVdTRLYXRBTjlQRHE1aWZaY1ZBbENFdWNCRzBaVVk4Zw</link>
-      <description>Russia torments Ukraine's capital with seventh day of strikes Reuters</description>
-      <guid isPermaLink="false">e6558304d3a6d2d866bcaf9e4e5cd55ced1f11b2</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan says its companies plan to invest another $20 billion in US</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWV4cXdLS25XYWhtOWpBMV9sTW5GdjRXbERoQlBrWFFXT1pUNnJNRkNiUXRUeWlSLWNycC1tMllJakJvazNPYmpzZHZDZC1yX0NucHByTkNhbGQ1b241dVlDdVRQaFFraDhLZjBaQml2cFNuS20tZllPWGxsbGxCdHBYei1vMURMT0JDVDVkd0NQT01hNmtpb0ZxNnZEaWVzUUc0WFhlZTZCbjQ</link>
-      <description>Taiwan says its companies plan to invest another $20 billion in US Reuters</description>
-      <guid isPermaLink="false">d461c4a7cef5f2e2164ada98bb3914a7d9785c9b</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>China restores access to Tibet disaster zone as highway reopens</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2hxTG5JYmVZR2d0c3pTUEpldXI4MTExcjRZQUQwSUdQSmpzcWpEbG9wVDRZWmRBVGJraWF2Tzl5UkZNcWxJNUFxWmk5M2xVWk90NXlabkFMRGNEdEt5bHVqdDdMNVRHOGNIY01kUkIxbEpnTVAza2Z5Vmhhbk1KcnE1ZkdFbXUtSGJ2NFd4Y0ZYNVpDREJZQ0RoVERGVEhQSE8wck5lMjFKdFJ5ZFVpMFJtQQ</link>
-      <description>China restores access to Tibet disaster zone as highway reopens Reuters</description>
-      <guid isPermaLink="false">14251586d1374befbef853ae0b285b5d23dc5760</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 04:20:21 +0000</lastBuildDate>
     <item>
       <title>India's Yotta targets Jan-March 2027 IPO, seeks up to $1.5 billion amid AI boom</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2JPZFMzeXRYUXlXV2tLb1JGMDNQU3c1N3BiU09HcTRrRTJncW12VEl3SUxOZlBLd3dLMFgxbklwX2ZtTDczVVF0TXR0TzZMdmttRFMxTF9KTFVRcWZMcUNTSmZoM200eFRFV2RZbHNNaHRqMkQtYVhNT1VrNU1mUE5sZnJEWk5xSW9hbi1WVUs3UDZ5ZEJWSFg5NmdtbC0xN3hwamthUGtjMFd5ZGY0TUJ3TUtqZmR4U3hjNQ</link>
@@ -136,17 +87,17 @@
       <pubDate>Wed, 02 Sep 2026 11:14:41 +0000</pubDate>
     </item>
     <item>
-      <title>Greenland foreign minister says dialogue with US to resolve situation is ongoing</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVZqVEtydHhadEkwX0lwU0FMWTE2YmhrcWZ2cG52RHBlMURUNFdMMmEyTkN1QlI1c1Y4VHppQ25aTHNPVU5pZm41RTZPR2JlenFaOENnNVhEcXV0dWdpNWZpLS1sQy11eWkzcnNld1JoT0dnazl1ZjczNXd2VHNkbGowbm5MWGNjWVJHZE5PbFA0bElEUkxQektnQ25UQS1ZZGYxUXZUdGdBU1d6MlBGQVJHNkZEUVlUai1j</link>
-      <description>Greenland foreign minister says dialogue with US to resolve situation is ongoing Reuters</description>
-      <guid isPermaLink="false">402ab5e096c52341e7a66ded87dc9b64a0741fd3</guid>
+      <title>Indian central bank steps up rupee support, soaring NRI deposits bolster firepower</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2lnM0Vjc2F2TlYxaVB4cnlOU20yRGVBUWVNT1lzSFNqajdJMVhpX08zOHRtYTBERUtiZi1nZTFES21mYjZXMGEtOU04dVBvX0ZHN0pPRXI3SDlOSmpKUUpSb05mTElqZFB5dEt6UWZjeF91Vm41aHVMdXJZOVoyc2k2V2hnTmcycGJLTEhLc2JzVW11MVlTSTdPaWQwMlVzQ1lZTmRvN3RkZ3RqX3ZjYS01OWlTVEdIV2U0</link>
+      <description>Indian central bank steps up rupee support, soaring NRI deposits bolster firepower Reuters</description>
+      <guid isPermaLink="false">ebfdd7cb639090089e4219412aa6a946ceb183ff</guid>
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>Moscow vows to avoid airspace disruption despite Zelenskiy's warning</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXpKemhWZ2xURGtiWXd2cVVsRUxFX0NSZ1ZCSEZuUzFkemVyVk9XVU9Da0hVeng0SFhXYVJWNEJ0Vy12VFlkcXB5dFFMZ2NFZHAtUklxSzZ4SkdSNERyakRORXFCem82YXdmSVdGUE9sWmREcGZHUy1SX2tRTVdMNVQwTW1NYnRJRjZCdlhkTFZHcHRoX2Fhb1NjWGpzLVA2b3kyaXlnLTF6TWN2QmhWSl9hWU1BQVVCYjE1aW9OSQ</link>
-      <description>Moscow vows to avoid airspace disruption despite Zelenskiy's warning Reuters</description>
-      <guid isPermaLink="false">dc00624416bcdd833b6b57687e47cc5a5315f6d7</guid>
+      <title>Estonia elects human rights ombudsman Madise as its next president</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGZLUERUSGc1eXFDUTNvb2xyMHlBZUxIYUdVeGxTaTlESlp4YS1xQ0RIQUZuRVF3RndvcC1QeUV3NE1YOU1SMzlOS2dYQ0RENl9GYXFpQ0NJWmEtc2Q5U25mdmdTWVpUdGhoekM4QVNtd1NMSlVMb1JfRzlQakoxbVVfOXhKam9zTTdRSDhDVTM0RDN2clVNXzV2eEVuR1JBblJCVGYtenY</link>
+      <description>Estonia elects human rights ombudsman Madise as its next president Reuters</description>
+      <guid isPermaLink="false">7caa25c75fda7d976da52e4078e73056b784970f</guid>
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
@@ -157,13 +108,6 @@
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>Good chance that trapped workers are still alive in Nepal hydropower plant, official says</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZPXzQxWXM4RUJQaEJBandibmgtV2xrc1RGSXBiUTZ0cmZwYTQxN21KNVlhVVY3V0hEZ0FpYTVWbnNta09ReTNwWGJaMnRrbTlDeU9xQlBTQlJUdXRjUWNWLWdxQkJHOVhpZ0hRZ1JOeDFUYzZWaXhucG9sd29UeDdWVjc0aVBSSWZhQ3VNMTVjOV9ycFVzRzJYTnpOTFJVb0hFYTR4XzBfdGJmeThNUV9zMGVjcHhRcEJMMmd6UmtkRjYtVmhj</link>
-      <description>Good chance that trapped workers are still alive in Nepal hydropower plant, official says Reuters</description>
-      <guid isPermaLink="false">ec999150a74d3c9bb51a6c98e9c02a74d05e7a44</guid>
-      <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Once symbols of war on Islamic State, Kurdish women fighters seek role in new Syria</title>
       <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUtDZFlHcnhzUGRZNG1seV9kZXR5NHk0Q3FvOWhNWUJRdjE0UmRRSFNUUE16T1h3TVk1ZmhPZGw3QzlzT1J1SVNTc2ZGX3ZTT3dqZEFUVGZRczRfQ2lSejM2V0pMOExVVUQwNGptdm0yYWRYTVNjcGxzdFktaDZ0NWRRYXhuS0YxZklNWlB3Z1ZtTEhqcWxTSE9PUnB6MUtBLVQwNHZmb1hHUlJXMGRPbk1ldXE0TEV1cXlWVTd2R0Z3WE1IRVE</link>
       <description>Once symbols of war on Islamic State, Kurdish women fighters seek role in new Syria Reuters</description>
@@ -171,10 +115,17 @@
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>Estonia elects human rights ombudsman Madise as its next president</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGZLUERUSGc1eXFDUTNvb2xyMHlBZUxIYUdVeGxTaTlESlp4YS1xQ0RIQUZuRVF3RndvcC1QeUV3NE1YOU1SMzlOS2dYQ0RENl9GYXFpQ0NJWmEtc2Q5U25mdmdTWVpUdGhoekM4QVNtd1NMSlVMb1JfRzlQakoxbVVfOXhKam9zTTdRSDhDVTM0RDN2clVNXzV2eEVuR1JBblJCVGYtenY</link>
-      <description>Estonia elects human rights ombudsman Madise as its next president Reuters</description>
-      <guid isPermaLink="false">7caa25c75fda7d976da52e4078e73056b784970f</guid>
+      <title>Good chance that trapped workers are still alive in Nepal hydropower plant, official says</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZPXzQxWXM4RUJQaEJBandibmgtV2xrc1RGSXBiUTZ0cmZwYTQxN21KNVlhVVY3V0hEZ0FpYTVWbnNta09ReTNwWGJaMnRrbTlDeU9xQlBTQlJUdXRjUWNWLWdxQkJHOVhpZ0hRZ1JOeDFUYzZWaXhucG9sd29UeDdWVjc0aVBSSWZhQ3VNMTVjOV9ycFVzRzJYTnpOTFJVb0hFYTR4XzBfdGJmeThNUV9zMGVjcHhRcEJMMmd6UmtkRjYtVmhj</link>
+      <description>Good chance that trapped workers are still alive in Nepal hydropower plant, official says Reuters</description>
+      <guid isPermaLink="false">ec999150a74d3c9bb51a6c98e9c02a74d05e7a44</guid>
+      <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erdogan says Turkey would consider full membership of China- and Russia-led security bloc</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmdUcW9tZnRjR1AzRkZoNjJPeTRmQTNIdGVwNGs1eDdDXzZpeTUtQjVKZVI5Ny1pRkJrU3BMMGZ3S0JoR3dic2ExNlVuRzhGS3V5dXZhLXVkbmp4UVRkUncwSnRobnBjQ1RrTFZodF9zLV8tN3Baa0NkQ0FqZzBqMEdrUDMwUUdRaGhPTDk0UzR2YUppVFlIU29RQUJHSklHNmNVTFA2Z3AtVlFCSGR3QTJzeVdLN3pxUnAwSGxDX3d3UQ</link>
+      <description>Erdogan says Turkey would consider full membership of China- and Russia-led security bloc Reuters</description>
+      <guid isPermaLink="false">8af23e45fa0f58c5139229f64a4918d4bef9886e</guid>
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
@@ -199,10 +150,10 @@
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>Erdogan says Turkey would consider full membership of China- and Russia-led security bloc</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmdUcW9tZnRjR1AzRkZoNjJPeTRmQTNIdGVwNGs1eDdDXzZpeTUtQjVKZVI5Ny1pRkJrU3BMMGZ3S0JoR3dic2ExNlVuRzhGS3V5dXZhLXVkbmp4UVRkUncwSnRobnBjQ1RrTFZodF9zLV8tN3Baa0NkQ0FqZzBqMEdrUDMwUUdRaGhPTDk0UzR2YUppVFlIU29RQUJHSklHNmNVTFA2Z3AtVlFCSGR3QTJzeVdLN3pxUnAwSGxDX3d3UQ</link>
-      <description>Erdogan says Turkey would consider full membership of China- and Russia-led security bloc Reuters</description>
-      <guid isPermaLink="false">8af23e45fa0f58c5139229f64a4918d4bef9886e</guid>
+      <title>Moscow vows to avoid airspace disruption despite Zelenskiy's warning</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXpKemhWZ2xURGtiWXd2cVVsRUxFX0NSZ1ZCSEZuUzFkemVyVk9XVU9Da0hVeng0SFhXYVJWNEJ0Vy12VFlkcXB5dFFMZ2NFZHAtUklxSzZ4SkdSNERyakRORXFCem82YXdmSVdGUE9sWmREcGZHUy1SX2tRTVdMNVQwTW1NYnRJRjZCdlhkTFZHcHRoX2Fhb1NjWGpzLVA2b3kyaXlnLTF6TWN2QmhWSl9hWU1BQVVCYjE1aW9OSQ</link>
+      <description>Moscow vows to avoid airspace disruption despite Zelenskiy's warning Reuters</description>
+      <guid isPermaLink="false">dc00624416bcdd833b6b57687e47cc5a5315f6d7</guid>
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
@@ -213,24 +164,10 @@
       <pubDate>Wed, 02 Sep 2026 16:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>As schools re-open, Congo drops remote learning plan in Ebola red zone</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFAxMXpHQ0dGQklUY0xxLWRoLXhrWnhRRXdhODFSNFNDbDNyU2tLZFJ3Rm9EV3IzNUFsSERIZGo3bnlHVjdDeTFjcnZlYnAySV9KUTJTNlZ4X1pYRUk3QjlnU1pyV1VKZWlKVU1BQUotUXljNFlmcE5mODAwdl9RLTRQSzVuQTA0RzBEMDdrN0VZRS1NUWJfeXB5OF9vUjVHdlZ5Mmg5cC15VGE0dXBXS0x3</link>
-      <description>As schools re-open, Congo drops remote learning plan in Ebola red zone Reuters</description>
-      <guid isPermaLink="false">1383db32d3f6df06e0592dea6b557959fbc16c58</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kennedy Center removes 'Blue' sculpture as Trump presses on with Washington makeover</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEtiRmFETGZOLUVKMTNXM0VKb0E1WE1NRHF4eWZYdkhLRFp2aFBZYTJZY1AyYWZkeDJsa0VmSTFGOEtCRnM4d0NxcDVOaVZSUG16WjZlSElSTjdVcHhydWc3V2V4QThCUTVYa2l3ZmMtQ2NacUpEbldxN3VGaFZhV2lqWDRvNmRUSHZhOVN5LU41V3FrczVJaGlYXy0wbC10cXVob3dfU0pIczVpS2N3RGM3dDZOaUR3MXhNSk9n</link>
-      <description>Kennedy Center removes 'Blue' sculpture as Trump presses on with Washington makeover Reuters</description>
-      <guid isPermaLink="false">a7cf65f8851c2c4d03d028c46f4775ae87e12578</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Susquehanna targets Hong Kong expansion to tap Chinese ETF boom, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZxZ3lQY2FMT09xSEh5VXFZeXFZTE9jb1ZXNGlMMUpfVTluUnNpblB4ZzZJWW5zckdvV1lhdEl2SzZYRjktUTBBSjNfaVlkZDJuMFdENFU5X2ZvQmFYaWhTMGNRQWN5dmZzM1U1UmJ1RmdjMjMzbmhxRThHRzFGZG9kYVAwUTd4dnJfcm9YNnd4VW5jV0FPR1d0ZUhVX1A5ZWVRMXJWNi10M2VOQ3lGTlBuQVhGajVobjZvd2Q3a1Y1LW8</link>
-      <description>EXCLUSIVE: Susquehanna targets Hong Kong expansion to tap Chinese ETF boom, sources say Reuters</description>
-      <guid isPermaLink="false">2153dfd3eb1165ab2ed0919470b0faf994095060</guid>
+      <title>Ships adopt makeshift anti-drone defences as Black Sea attacks intensify</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGNJVUV0blJQaTdJN3c4M3BRcVBJMXE0VWhQNzVTN3lVb29HYWFiN0FMUFh2Vm1MYklrV2txdlpfZXI3RVR2UWZpQTNhenV6LXhEdzVtaEhKWElXUjZYZlJvQ0JmeU9XbU1SMEZzYlliaW1USlZuSVFzeTl1UUxWSUUzN3NmdV8yd2xHZWFLNjJLX01ySDRVTWxuX0RMZ0hQR1FjOXp3WnZ1UmUzdTRQNg</link>
+      <description>Ships adopt makeshift anti-drone defences as Black Sea attacks intensify Reuters</description>
+      <guid isPermaLink="false">23d1cf1f8e2430600345a23da80ef8cc3b56ee00</guid>
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
@@ -241,6 +178,13 @@
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
+      <title>EXCLUSIVE: Susquehanna targets Hong Kong expansion to tap Chinese ETF boom, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZxZ3lQY2FMT09xSEh5VXFZeXFZTE9jb1ZXNGlMMUpfVTluUnNpblB4ZzZJWW5zckdvV1lhdEl2SzZYRjktUTBBSjNfaVlkZDJuMFdENFU5X2ZvQmFYaWhTMGNRQWN5dmZzM1U1UmJ1RmdjMjMzbmhxRThHRzFGZG9kYVAwUTd4dnJfcm9YNnd4VW5jV0FPR1d0ZUhVX1A5ZWVRMXJWNi10M2VOQ3lGTlBuQVhGajVobjZvd2Q3a1Y1LW8</link>
+      <description>EXCLUSIVE: Susquehanna targets Hong Kong expansion to tap Chinese ETF boom, sources say Reuters</description>
+      <guid isPermaLink="false">2153dfd3eb1165ab2ed0919470b0faf994095060</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Bank of Canada holds key rate, says multiple hikes might be needed</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHFOOThCcFh0NUJwMnBRVmpuWi1wQ3pXU1c5ejZ6ci1MT3VJOEpsaEgyRURodEVsd2FKaGRQTjhWdUtLai1IZHQwaDQ5Z2JGbTg1b1pra2REcHNWdjg3U3I4TndveUMxemI2VVBiS1BfZ0FCakh2LTR3aHJzSXNrS0NaUlk0WTBDd1g3Q1NxTU04M015SE5feklvWVc0N3R2d3lOSEMyNnRyVDZNSVhkelJCTlNDLTA5</link>
       <description>Bank of Canada holds key rate, says multiple hikes might be needed Reuters</description>
@@ -248,38 +192,10 @@
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
-      <title>Ships adopt makeshift anti-drone defences as Black Sea attacks intensify</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGNJVUV0blJQaTdJN3c4M3BRcVBJMXE0VWhQNzVTN3lVb29HYWFiN0FMUFh2Vm1MYklrV2txdlpfZXI3RVR2UWZpQTNhenV6LXhEdzVtaEhKWElXUjZYZlJvQ0JmeU9XbU1SMEZzYlliaW1USlZuSVFzeTl1UUxWSUUzN3NmdV8yd2xHZWFLNjJLX01ySDRVTWxuX0RMZ0hQR1FjOXp3WnZ1UmUzdTRQNg</link>
-      <description>Ships adopt makeshift anti-drone defences as Black Sea attacks intensify Reuters</description>
-      <guid isPermaLink="false">23d1cf1f8e2430600345a23da80ef8cc3b56ee00</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uber to exit Nigeria after 12 years of operations</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2hNV0dUbTNrV3hwMU9FVDNxSF9vaWE5dHlWeW9PeldOb2R4RkRMTXc3NENOTXhHc19FZ1JxOE1sZXh0MVp0Q1FKdUY5Nm5qa245THJrSjhIQ1YtcXNyRURhRHRjbzNOaVNfQ3lBU291NkpJdmlLb0ZmdDZMOURHajZVNDZqMFRvWjhGbDR5YXNuSW14aWIw</link>
-      <description>Uber to exit Nigeria after 12 years of operations Reuters</description>
-      <guid isPermaLink="false">6cc95e38e5448bca8ca9b032a671bd27d91fe019</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Altria sues FDA over tobacco product review system</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3J6UHVuQUtyczZPUWRFUFBrRTBWc182Wkx2R0dXMExsNWtrdnAtX2RsbGVVbWw2dFMwaFZpc3gzUkl5d2FZMkh4QlEyX2w4WnY3amhYcVU5Z01RSVZMR3VjeUY5SksxMzZrNE85YXRBMGQwaVYyVnFQaW9SVlFyUURKMGo2UQ</link>
-      <description>Altria sues FDA over tobacco product review system Reuters</description>
-      <guid isPermaLink="false">04803fb65295fd3907eb1d86716d92a84128c741</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump to meet with travel industry CEOs on tourism push</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1B1alZrajJXcUVxcXZrWGpibk5aZXZWa3ZRTk9VUE0wVFdZS0FSZ0ZwYU1zVkNsQW5IN1NXQkxuQjZ4N1I0Q2g4ODd2MVRlLXlDUEdocEw5bXVPaWFfVEJDejd0aEljMGw0eXdfSVpKcXFZQkwzYURxbXc0RWRuX09kRkEyNGpx</link>
-      <description>Trump to meet with travel industry CEOs on tourism push Reuters</description>
-      <guid isPermaLink="false">5625d511b9619bb885bcfd3aa9a7fa792fa910c5</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lula's lead over Flavio Bolsonaro narrows ahead of Brazil election, Quaest poll shows</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlBhVWJXVm03cG1NZjZpM1h0Q2EySHNtOFlpblVmZEtCeG92N2JwUFNSS2ZhdDR6T0M1VFY4YTZKTnpUM05yVHNGYjRhMDQtbndnV3BIcE9rSkdVVFF5azVmQk1SMjI5U2pPaU1ISU50OVZsMVk1cFlqNXIxOTlhd1Rpdm5raDQ5dkxCb0tMbUY3cVd4bUU0b2hMNDcwejZSYm9GcUxNZXg0QlI2bERDQTFjQ0pKa3BDTko0Z2FGbHItSS13SE5feVV3SQ</link>
-      <description>Lula's lead over Flavio Bolsonaro narrows ahead of Brazil election, Quaest poll shows Reuters</description>
-      <guid isPermaLink="false">3894c2709f1f80698e1e11548ace4af53942331c</guid>
+      <title>Kennedy Center removes 'Blue' sculpture as Trump presses on with Washington makeover</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEtiRmFETGZOLUVKMTNXM0VKb0E1WE1NRHF4eWZYdkhLRFp2aFBZYTJZY1AyYWZkeDJsa0VmSTFGOEtCRnM4d0NxcDVOaVZSUG16WjZlSElSTjdVcHhydWc3V2V4QThCUTVYa2l3ZmMtQ2NacUpEbldxN3VGaFZhV2lqWDRvNmRUSHZhOVN5LU41V3FrczVJaGlYXy0wbC10cXVob3dfU0pIczVpS2N3RGM3dDZOaUR3MXhNSk9n</link>
+      <description>Kennedy Center removes 'Blue' sculpture as Trump presses on with Washington makeover Reuters</description>
+      <guid isPermaLink="false">a7cf65f8851c2c4d03d028c46f4775ae87e12578</guid>
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
@@ -290,6 +206,34 @@
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
+      <title>US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHBQMU5YZUNBMjNSRS1VaGhzeHFWVVZhZDNpNjltUUNKVHN5TElMeVkyaVp0VU1XQVNsS0xzdGZTZUZnM3N2QTdVUGlJczNQYnE3MTFhYmU3OUJCOHJUZ2tCNWk5cWlheHQzY25Qc2x2RnJRWWhGU2VzbThNWElSWHM0WXlWeTZrbmc3MVVXRlNGWlNkN3RISE1lRGVZU2RjbFBVRE1GTUdON3FkNl9MTmlHOVdPU3ZzUDVpeA</link>
+      <description>US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports Reuters</description>
+      <guid isPermaLink="false">890d59534b162610e9b5dcf1e4365cc30a9b64bc</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump meets with travel industry CEOs on push to boost foreign tourism</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1B1alZrajJXcUVxcXZrWGpibk5aZXZWa3ZRTk9VUE0wVFdZS0FSZ0ZwYU1zVkNsQW5IN1NXQkxuQjZ4N1I0Q2g4ODd2MVRlLXlDUEdocEw5bXVPaWFfVEJDejd0aEljMGw0eXdfSVpKcXFZQkwzYURxbXc0RWRuX09kRkEyNGpx</link>
+      <description>Trump meets with travel industry CEOs on push to boost foreign tourism Reuters</description>
+      <guid isPermaLink="false">5625d511b9619bb885bcfd3aa9a7fa792fa910c5</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Altria sues FDA over tobacco product review system</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3J6UHVuQUtyczZPUWRFUFBrRTBWc182Wkx2R0dXMExsNWtrdnAtX2RsbGVVbWw2dFMwaFZpc3gzUkl5d2FZMkh4QlEyX2w4WnY3amhYcVU5Z01RSVZMR3VjeUY5SksxMzZrNE85YXRBMGQwaVYyVnFQaW9SVlFyUURKMGo2UQ</link>
+      <description>Altria sues FDA over tobacco product review system Reuters</description>
+      <guid isPermaLink="false">04803fb65295fd3907eb1d86716d92a84128c741</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lula's lead over Flavio Bolsonaro narrows ahead of Brazil election, Quaest poll shows</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlBhVWJXVm03cG1NZjZpM1h0Q2EySHNtOFlpblVmZEtCeG92N2JwUFNSS2ZhdDR6T0M1VFY4YTZKTnpUM05yVHNGYjRhMDQtbndnV3BIcE9rSkdVVFF5azVmQk1SMjI5U2pPaU1ISU50OVZsMVk1cFlqNXIxOTlhd1Rpdm5raDQ5dkxCb0tMbUY3cVd4bUU0b2hMNDcwejZSYm9GcUxNZXg0QlI2bERDQTFjQ0pKa3BDTko0Z2FGbHItSS13SE5feVV3SQ</link>
+      <description>Lula's lead over Flavio Bolsonaro narrows ahead of Brazil election, Quaest poll shows Reuters</description>
+      <guid isPermaLink="false">3894c2709f1f80698e1e11548ace4af53942331c</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Mexico presses US on auto, steel tariffs in meeting with Lutnick</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1hNYVRva3ZoSnZOWU9xX1dLdUpsWGtiVGJMQkoyazlFYUNxSDYyS2wtc2M4OHhseTdhaGVDanEzMU45SFlhZmU1NVZ6aEtreklDR2lUMTR1T21CakxPRXJmdUtvb1R4allORENCSnFkYmxsV194b01oc2Vrb2xsQlZrRW8tYmVyLVZLRXdpUkxYemVheHNRUkh4c29rUFE4ZTN5THZpSDdtYmR3</link>
       <description>Mexico presses US on auto, steel tariffs in meeting with Lutnick Reuters</description>
@@ -297,10 +241,10 @@
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
-      <title>US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHBQMU5YZUNBMjNSRS1VaGhzeHFWVVZhZDNpNjltUUNKVHN5TElMeVkyaVp0VU1XQVNsS0xzdGZTZUZnM3N2QTdVUGlJczNQYnE3MTFhYmU3OUJCOHJUZ2tCNWk5cWlheHQzY25Qc2x2RnJRWWhGU2VzbThNWElSWHM0WXlWeTZrbmc3MVVXRlNGWlNkN3RISE1lRGVZU2RjbFBVRE1GTUdON3FkNl9MTmlHOVdPU3ZzUDVpeA</link>
-      <description>US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports Reuters</description>
-      <guid isPermaLink="false">890d59534b162610e9b5dcf1e4365cc30a9b64bc</guid>
+      <title>Uber to exit Nigeria after 12 years of operations</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2hNV0dUbTNrV3hwMU9FVDNxSF9vaWE5dHlWeW9PeldOb2R4RkRMTXc3NENOTXhHc19FZ1JxOE1sZXh0MVp0Q1FKdUY5Nm5qa245THJrSjhIQ1YtcXNyRURhRHRjbzNOaVNfQ3lBU291NkpJdmlLb0ZmdDZMOURHajZVNDZqMFRvWjhGbDR5YXNuSW14aWIw</link>
+      <description>Uber to exit Nigeria after 12 years of operations Reuters</description>
+      <guid isPermaLink="false">6cc95e38e5448bca8ca9b032a671bd27d91fe019</guid>
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
@@ -339,25 +283,81 @@
       <pubDate>Wed, 02 Sep 2026 21:01:10 +0000</pubDate>
     </item>
     <item>
-      <title>King Charles and France's Macron view Bayeux Tapestry at the British Museum</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDNlQ2p2N1poX1d6Ym5lZGhSTExUQThNcUtNWG9yM2pINEZmajM2aEhhQUswMU9yREdNTkRQUTZVTzJXUzhBczRhTmVMNE9qTjFEZEhDR25zaHN1VG9GN3BWazFHeEllb2daY1k3QzNfM1BvMlp2c1NVQVBGZWYtdVdTT2pZVGdLUlhlWkRkZU5WeFdkWXR6Z0cwU18wZ2tZdzNIN1hveTQ3Q3U2</link>
-      <description>King Charles and France's Macron view Bayeux Tapestry at the British Museum Reuters</description>
-      <guid isPermaLink="false">c6e405b374314423d70cccf46bef5195bf355b48</guid>
-      <pubDate>Wed, 02 Sep 2026 23:18:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump says he will make 'a lot of stops' ahead of midterm elections</title>
+      <title>Trump vows to hit campaign trail hard for Republicans in tight midterms</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXVjbk5LSkt5c20yQzZJTUJUVGpYVkJpU0ZuQThtbDBWSUFQeDhfVmY5OHBOVDlaS0I1ZkNBQS01SGVodVVxeDRyUkd1U1g1c1FFQk1fQTVFcEFHYVdzV0k3WER3R1FZZjNXM05fYlRza2xuQU40bXM2YmpKLXdOZF9XQWVrMWRMT2pCa2xGOVdLU0JMWXB6dGJaRHAyMTRvT3pfU2ZJQQ</link>
-      <description>Trump says he will make 'a lot of stops' ahead of midterm elections Reuters</description>
+      <description>Trump vows to hit campaign trail hard for Republicans in tight midterms Reuters</description>
       <guid isPermaLink="false">9e99b8e1142c646f8dd9051cc8b59ad02d847538</guid>
       <pubDate>Wed, 02 Sep 2026 23:18:14 +0000</pubDate>
     </item>
     <item>
-      <title>FBI probes report that data breach exposed millions of US driver's licenses</title>
+      <title>FBI probes report of data breach exposing millions of drivers' licenses in US, Canada</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDItYm9XQjBxZHFNa3JoTEctM0tfbUljV0cyUHo1UEs0RjRaeEVRZXVyZVZCQTV4T3ZnWDFScE1kbEVJZW93Sm5pZWdjZmVaZGM5WUtPZEpkSmRueFZWbk9pTG10MUFZTXFzRTNmNWJDLVl0dks3Vkx1ZWVJcGlTYlVVX1hiTWw4dDFqZTNXcWtVMWs0aG5KMlEwNnY0YTFzVXRoOHhrWnlidUMydF9aTDZNRDV6NE5NR0lSMXdVWQ</link>
-      <description>FBI probes report that data breach exposed millions of US driver's licenses Reuters</description>
+      <description>FBI probes report of data breach exposing millions of drivers' licenses in US, Canada Reuters</description>
       <guid isPermaLink="false">bec6a93feb4ab72851c66bb54bbb3c6466d23528</guid>
       <pubDate>Wed, 02 Sep 2026 23:18:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump to speak on both nights of Republican midterm convention amid turnout concerns</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTM3aTlIVEk4NkF4ME5QaTFFV29CYjFrcTBfT2NrRmN0VG1XU00yM2o2NXlaRU83QWdIZ2ZZMnlhVVQ2RS05em1nT2g4VTdpWG4tYmkxME5zMDNGc3I4NEsxN3RLYUNoNXV5ZWFzQ1lWaVhKWE85NEktNlEtLWs5Y1F3VU1qcjlWQ3JJMEFFN3BGV1IyT1hfTlJJMmpSWFpQY3F1X3ltZ1VGRzVNRzZtUkVXcjZlUm5BUTVteA</link>
+      <description>Trump to speak on both nights of Republican midterm convention amid turnout concerns Reuters</description>
+      <guid isPermaLink="false">e6fa08027ac7ef44859d3c1208a8c4b3aadc4c5b</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pet food platform Golden Pet Brands taps banks for IPO, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFBmTVY0YUZSV0ludEllQ3JhbVBnR3VXRWFacFJsT0hIUWRkUDRtd2pLU1B3ajhwRXFpUDI4TTlEcWhVM3QyaE1zRXE0aUlHWjJDX0tSZTcyNjRxNVU4N3dMY2RSS3lzYjM3b25tZGxfcl9taUJ3eWQyR2RaelkwemJFVndnUUpGMlF6cDlpbXV6QU9HeFRVbnBiaHpGM3BoeGdsaTF0SQ</link>
+      <description>Pet food platform Golden Pet Brands taps banks for IPO, sources say Reuters</description>
+      <guid isPermaLink="false">1eb8770840f918162e911a723c664295838a3691</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>China never deliberately pursues trade surplus, central bank governor says</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNTGFUTUNZa2VjQkp2dG5rZ1huQUxmd05ZcGRIOUhwM2pkdWlvOVFYODNpcEdGaHRSaFNpS21CaVRNQW5TNkpyZUZVN0lGU3NEYVhNY2JPLVlsY0VjSkt0UjFfektTa3RTZXUtb1JObExfSnZfeEZ4d3ZHZzZTRUhEZVBsS1NpUTBuLXVuSERMLWxSVXdrdDgybGtSRUpjbjNFY0NxNmZncmg1REpIalpHZUQ5WHhqNWZJVlFlaTQybUJLWFlnTElJ</link>
+      <description>China never deliberately pursues trade surplus, central bank governor says Reuters</description>
+      <guid isPermaLink="false">e84d3d13949c2b977e8c99fddbd9e10274a0161e</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's GDP revisions reflect new data and methodology, statistics secretary says</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkZaekVIN21ON0N3dUZuWUhYaWwyNmgtQlQxYkhGcHhZc2JVRlctQVJzZDVGcHl2UWl3NlBlZlRZM2VETjM2dGFGMmRScWFrd2tudl9jUlcxNjZTM29Ub0M1ZmNmb3IzeU9IWHFETmtPekRiSFJ1VFFrc3FsQkZMRFN6TkxUbzVoMHctWjZlMC1SZmpBb0N2Uk9NaVFjekd5dDU0V2JTc3oxVnVDM1RySVg1eF92bFktODlhU1d6TnI</link>
+      <description>India's GDP revisions reflect new data and methodology, statistics secretary says Reuters</description>
+      <guid isPermaLink="false">349c409b51aefb29360d35b924ed803181971444</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Jersey takes fight over Kalshi's prediction market to US Supreme Court</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjRqMUR0RmozaFNMRndreUh2cEpXYXowSndYVi15Z0FLNFV5bUgxd2cxTUlpSnVhUlc5SDJvWmV6N2xVOGctanIyUEJXVVVNMUZ4a3h3NDVpUHVsb1pjR1ZKTDVuN05oY0prVVFoUEtxd3lQUUdTdnpQN1lrdHZyNEJqZmhpY0ZVRjVfNjltZTVLWUpfR21iXzlvcFBkbF9EWHdxZGZoTGpvblh4ZFpXTHRuVUFqQQ</link>
+      <description>New Jersey takes fight over Kalshi's prediction market to US Supreme Court Reuters</description>
+      <guid isPermaLink="false">401e1275a30b4fe54c597aaee2687d38de28cbb7</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ali al-Taher ridge emerges as flashpoint in Israel-Hezbollah war</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPakRyMlpkYi00X1dGcXhwdmgzYklaeTFicENLWDJVQ2FJUW1JYURrMThUeFM5RUlzcUtJQmV6c0xuNjl0SG9UYUJUZXpGVWYyNmJpNThfTnAzX0pxeGFyczNYMHFVVEhyN0hQR25ERUhHamVxZHBZVHptdXo2c1pHT2E3NUlacEo2LTlIX3BYMVVJWTRKU3J2RHNYU3NTdnN3dWtSRW4zNmhJaFVRSmkxTWZR</link>
+      <description>Ali al-Taher ridge emerges as flashpoint in Israel-Hezbollah war Reuters</description>
+      <guid isPermaLink="false">432064dbab6fadf13e01500ced208975f3a8d31f</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>US judge blocks Trump's newest order limiting birthright citizenship</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnM5d1FtVlVHTFpHa3FkZ28xNFRMaS11LVZmekt1Nlh3ZXNkbkdEY2tLcWNQWVp5cmZjYVd0SFNWN3M2dXI3LWdKelFoMzJ0dV96c0dHaTl0TlVET1hvaTBJMlp0TXliQlp1N3JISmNLTDh4YmhENk02ZHhuXzlKUTVVRTYxdnRBdTdVb3BaOGFxQndWSHd2VTZPT0VqZ0FoMWJwTlU0cld0NzVJa2c</link>
+      <description>US judge blocks Trump's newest order limiting birthright citizenship Reuters</description>
+      <guid isPermaLink="false">162b19247f020b70b333114d1ca1f0819469c212</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venezuela's Maduro asserts immunity, urges US judge to dismiss charges</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWdhQlFNRmx1cXRlUnBhX25OUUYxS0hWNmc4RXEwVVhYYll1Q2VaeDdQVE1zTVl6UG9Sa2Ewd2JkRlFNY01MQ3BwTURfYXV5c0FWSVVvVXpmbjhjaDdxUk5ic2F6RG5tRW0taEsyUUZxbG14aHdVT2YyeFAzSmktdDBLbFFiTkNKTkhmVjJSVHFHNUFBWU5LRnhnWWlkWU5ZVi1CTldzSTdFNEo0Mzd2U0xEQjhBRjA</link>
+      <description>Venezuela's Maduro asserts immunity, urges US judge to dismiss charges Reuters</description>
+      <guid isPermaLink="false">7cfc4a088a9289cb1af127082bb432ecd1ba0076</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech pilgrims flock to China as global innovation race heats up</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTV1eVp6ajVXRkVyRlFMVXBJNG9UQ1p0UDZuZTh2VldJTDJZSXRPYmVsOWFsVmxMd0dOeGtkWmlkNGpKeXJjMjVoTEV0cjJlQ0N6Rk9sTTFVdWppSWFORVF2Wk0waFZERWNXNXZpbWoteW5JSVdIR1loNnQyR21VODVQU2gyTGl5a1N2TFVFd0RORFpPTjItY0tvTWliNDFZSXZlYkx2c2U</link>
+      <description>Tech pilgrims flock to China as global innovation race heats up Reuters</description>
+      <guid isPermaLink="false">923cb102bd6e1cedcb40bdc1aab409690a6b8b92</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

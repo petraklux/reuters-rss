@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 23:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:20:51 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
       <description>Space News | Latest Headlines Reuters</description>
       <guid isPermaLink="false">eb9cf5282ed126000f97b8af97291727e3a43204</guid>
       <pubDate>Fri, 21 Aug 2026 21:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw</link>
-      <description>Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says Reuters</description>
-      <guid isPermaLink="false">ca224cb4255203aae3d36533e6653b518e185824</guid>
-      <pubDate>Tue, 01 Sep 2026 00:37:10 +0000</pubDate>
     </item>
     <item>
       <title>OVHcloud gets French security certification for public cloud, plans European roll-out</title>
@@ -71,6 +64,20 @@
       <description>NEWSLETTER: Anthropic was cautious on mega infra deals. Then demand surged Reuters</description>
       <guid isPermaLink="false">79670cdb6da2dfca7742a7e30b7d184509745e35</guid>
       <pubDate>Wed, 02 Sep 2026 23:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNICEF estimates 20 million children suffered online sexual abuse in one year</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPVm1QaUN0M2VlN1lEY0tlVDMyTm5RcTBFaVE4eGpZRUYyQmJXWXZ3bW40aWQ1cmJURVB4Q1J1MTMtaXhoUWNZTnZqWUtYSXllVnh2VnExUDdOZHlqQVpiakJTb3pTX1hvdWNGQ2tOUmREMThvenQtODNfRnEwaVZOUzl1WURuaHRoMFl1Uk9LWUN3UXRHbjhjbl9lTXRTdjFhMExvRWZUZzZYV0ZXRkVuWXViTFBaR2Y2SjZLTmJB</link>
+      <description>UNICEF estimates 20 million children suffered online sexual abuse in one year Reuters</description>
+      <guid isPermaLink="false">1c82c71915cb3fb859c0e34d79e4d3c28d04e87f</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>ByteDance gets $30 billion loan, Bloomberg News reports</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUxla0Q0MVNPbkFNVTlqdmJJQkREd3gzSFByX24zVkxKU0dLMU5Gb3BUQVNuT2FYc1lvZkJIendHZmxJbFV6aFZFMDZ1NVBiRV9mN2o3Z0J0VmQyRXlzMWM3VDFjZzU5Sl9GbGdlVVZtbXRXeEtPRUpIMGRFU1RQcFh0eFJQa3kyUWZMaTRaSWdTRXI3VUlKeGpBamlNUHRKenc</link>
+      <description>ByteDance gets $30 billion loan, Bloomberg News reports Reuters</description>
+      <guid isPermaLink="false">9179ecf13e9ba40f1b9eb831e286e751f9496671</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
