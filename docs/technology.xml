@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:45:10 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
@@ -22,13 +22,6 @@
       <description>Dropbox says about 5,000 accounts compromised in August hack Reuters</description>
       <guid isPermaLink="false">e6c2600d08e65286292f14e0234b189fd2bfaa22</guid>
       <pubDate>Wed, 02 Sep 2026 04:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CD Projekt H1 profit jumps 37%, beats estimates</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPWENjbUhzNVA5bXZSbzk0dUQ4MnBJcTVnbi1uRkVJSDAtUGI0Nk5fMGxIbkd0eEJIaWtWVWJlWUlrTDFHVXVfOXgtTjUwZjAzdGV6VWxJcGl5dE9QdjFlbEtoblhZbU16c28xOFRja3hQRi04ZExzU3RELWl6UXZDV3FCWW9IcjdoMVNLQk5RQ1cxbVhsMUVJ</link>
-      <description>CD Projekt H1 profit jumps 37%, beats estimates Reuters</description>
-      <guid isPermaLink="false">e80dc202289297a53893d2d308ca823b34719187</guid>
-      <pubDate>Wed, 02 Sep 2026 21:01:46 +0000</pubDate>
     </item>
     <item>
       <title>Thoma Bravo's Proofpoint in talks to buy cybersecurity firm Varonis, source says</title>
