@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 04:35:20 +0000</lastBuildDate>
     <item>
       <title>Wildfires spread near Indonesia's new capital, prompting calls for action</title>
       <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREx2czNrOGt1b1dYcXRsTUtTYmF6M2RGYXNvX0I1Wjc5TmVhRUs3dkgydWFHUklPN3ppZXVnWjk3ODFrMm9IZ0wyLU82M3RrcHB6eFdYTXQ2UjljSFFVWUZpVkotRnFwbWkzQnBHSkpycU5oUG5PUnZuVGkwU1BIV2FsNjFEV1I3eFNWZjk5Z1k2VkJGUWFSRHVwN29mME5VUzkxRGJiZ2NUeVVLcnF0dVNKeS1CRUYwVVhRUHlFWGtBQQ</link>
@@ -28,13 +28,6 @@
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E</link>
       <description>EXCLUSIVE: Nigeria's SEC approves about $1.6bn Dangote Refinery IPO Reuters</description>
       <guid isPermaLink="false">9653f4b0a1bcc2cb36f732437daabdaad12b8ab5</guid>
-      <pubDate>Fri, 04 Sep 2026 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHFyWjB0QnNONEhxOUtDV3NaZW9vNmY3d3ZGSTVQQjdRWUM5Z2gtSDVtZzl0eFdoV19YSFExaC1oOWZSck1fR1JaUVRVWjRNOUtBUWd0d21yWk9KOUxOVmpORzBqbHhaUHRFTVZjMWFjSUlZc0UzMDJlRkx4Ym4xV2ZCTlZIWFlQN1hCU1owRkJCMm5CMUp6NHl3QnM3OHhwTkdLNnNQaTE</link>
-      <description>EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee Reuters</description>
-      <guid isPermaLink="false">19d9c300929a1d80f99896bab855352c2db76248</guid>
       <pubDate>Fri, 04 Sep 2026 16:20:00 +0000</pubDate>
     </item>
     <item>
@@ -59,6 +52,13 @@
       <pubDate>Fri, 04 Sep 2026 16:20:00 +0000</pubDate>
     </item>
     <item>
+      <title>Trump says if the Fed doesn't cut rates, he'll stop trading with some nations</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ</link>
+      <description>Trump says if the Fed doesn't cut rates, he'll stop trading with some nations Reuters</description>
+      <guid isPermaLink="false">eba020f05d4bfb47a392da31cfdeae3898fb013d</guid>
+      <pubDate>Fri, 04 Sep 2026 16:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title>US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE</link>
       <description>US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% Reuters</description>
@@ -70,13 +70,6 @@
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw</link>
       <description>Strong August jobs report sends yields higher Reuters</description>
       <guid isPermaLink="false">f689dbcb0578f3298bbb34520ce5fb027c8d0d57</guid>
-      <pubDate>Fri, 04 Sep 2026 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump says if the Fed doesn't cut rates, he'll stop trading with some nations</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ</link>
-      <description>Trump says if the Fed doesn't cut rates, he'll stop trading with some nations Reuters</description>
-      <guid isPermaLink="false">eba020f05d4bfb47a392da31cfdeae3898fb013d</guid>
       <pubDate>Fri, 04 Sep 2026 16:20:00 +0000</pubDate>
     </item>
     <item>
@@ -150,17 +143,17 @@
       <pubDate>Fri, 04 Sep 2026 23:02:59 +0000</pubDate>
     </item>
     <item>
-      <title>Malta attorney general set to appeal acquittal in journalist murder trial</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOc25lODJBVVpfdEpqaGVJdGlVRllHNlVadDNoZkd1MnNCYllHLVRkMXUySHZsazNmOVVIU2JQS1p0SEd2NGkwMFlfRGJFUmZ5Y0FJRG9BRjhfWF9TUjRLNXlJOHBsRVdCdGdrREtkM2dYVkNYeUxYSHFLUnNQZ2VrbDQyREp5MWxWV0d6NGJ1ZFpUY0p1MHE1NGdicnZvbFljcHlUaXFjdEVFa3hOMC1qSEZlbFpoa3BxMm44NWl1QXhQV1ph</link>
-      <description>Malta attorney general set to appeal acquittal in journalist murder trial Reuters</description>
-      <guid isPermaLink="false">bf136ca52461bb9e2606431a6bd3ca87ce41dbf5</guid>
-      <pubDate>Sat, 05 Sep 2026 04:23:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Bahamas teachers' union threatens action over government wage dispute</title>
       <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjA1b3dndloxRDhmdmhVb2hWMmJNN2hsYUE1OHRiZjBVTVpKR1ctV0lZRGRObjNPeXpiTXFGSlZaU2NwcGdtTTVNZEFvNlEwS0J1d2xJQXZsYjlibUViQjBWQXpCM2xPSUNVUV9ha051NlZsMHZ1bEJPUUdnY2ZzTXZYZUFrb2d1YlBlOWkzcVBwWVV5Mk4xY1QyVmF5ODFHZXZOOWJqVUV2aGlUeGRUeVhkYzRPaVd4N01WYmpBcHpmaEMwMlE</link>
       <description>Bahamas teachers' union threatens action over government wage dispute Reuters</description>
       <guid isPermaLink="false">0d737cc15f2dd3b10cd55edc91429e82a22a4d50</guid>
+      <pubDate>Sat, 05 Sep 2026 04:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malta attorney general set to appeal acquittal in journalist murder trial</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOc25lODJBVVpfdEpqaGVJdGlVRllHNlVadDNoZkd1MnNCYllHLVRkMXUySHZsazNmOVVIU2JQS1p0SEd2NGkwMFlfRGJFUmZ5Y0FJRG9BRjhfWF9TUjRLNXlJOHBsRVdCdGdrREtkM2dYVkNYeUxYSHFLUnNQZ2VrbDQyREp5MWxWV0d6NGJ1ZFpUY0p1MHE1NGdicnZvbFljcHlUaXFjdEVFa3hOMC1qSEZlbFpoa3BxMm44NWl1QXhQV1ph</link>
+      <description>Malta attorney general set to appeal acquittal in journalist murder trial Reuters</description>
+      <guid isPermaLink="false">bf136ca52461bb9e2606431a6bd3ca87ce41dbf5</guid>
       <pubDate>Sat, 05 Sep 2026 04:23:43 +0000</pubDate>
     </item>
     <item>
@@ -220,17 +213,17 @@
       <pubDate>Sat, 05 Sep 2026 15:11:30 +0000</pubDate>
     </item>
     <item>
-      <title>Greek F-4 crashes during air show near Athens, two pilots dead, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI</link>
-      <description>Greek F-4 crashes during air show near Athens, two pilots dead, sources say Reuters</description>
-      <guid isPermaLink="false">9b079757956e8e1513f4d6ce5a76274916566590</guid>
-      <pubDate>Sat, 05 Sep 2026 15:11:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Tens of thousands rally in Zagreb over Croatia waste cleanup delays</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc</link>
       <description>Tens of thousands rally in Zagreb over Croatia waste cleanup delays Reuters</description>
       <guid isPermaLink="false">06410dfd6129808baf1c5120c3db66e161f994c8</guid>
+      <pubDate>Sat, 05 Sep 2026 15:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Greek F-4 crashes during air show near Athens, two pilots dead, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI</link>
+      <description>Greek F-4 crashes during air show near Athens, two pilots dead, sources say Reuters</description>
+      <guid isPermaLink="false">9b079757956e8e1513f4d6ce5a76274916566590</guid>
       <pubDate>Sat, 05 Sep 2026 15:11:30 +0000</pubDate>
     </item>
     <item>
@@ -252,13 +245,6 @@
       <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNT08yMHZLNUJiRkVCUlVaQW5aQmhqVGd0cGQtTnpWTXVnZEhfZDlxbFh4R2p4QmNRTzFGdVFZMDJLcTI2c2tTcmI3OEhMVW1JRWZHajN2YXhIdVYyeUdJMDVaTl9PXzlOZlRXbUNCMFVab211LTJtckFHVlRTMS1wVTBIcGxsQmpsV0FnOFduSTJaOExESFRXZmMtMlVBWEFBb09aLTNyUVVCOHdkU3hqU1lXTTQ5VTZhaWNDZml3NTE2OTd1UUxYRkZR</link>
       <description>'Knocking down walls': NFL puts global event machine to test in Australian debut Reuters</description>
       <guid isPermaLink="false">fd8d706299023f2c3371dd15b914bae01dc6d9c9</guid>
-      <pubDate>Sat, 05 Sep 2026 20:18:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venice film 'Primetime' probes line between news and showbiz</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2NGZ3R4bVNOcHVWVk1KUnVrekU5OHFacldja2loMzJlRW5VelF2NUV4VGc5Rm40YjQ1OWVld05EbFhyWWliNmdJRFdvTWhmTXNGWnlGRVdMbDFDTWkxR0NBVE5Ddm5YOTNhcWxEREdXZjVudmpNM3ZrZkttVTlnTkEyRjluUEhKUVBLRTY3YUVwQ2l6cnFjVWNkV3ZJb18yeXAyWDU1aGpLLXFmbzJObV9Ibw</link>
-      <description>Venice film 'Primetime' probes line between news and showbiz Reuters</description>
-      <guid isPermaLink="false">03abdc41e3f803ef73400074991d4f9b77a8cb9a</guid>
       <pubDate>Sat, 05 Sep 2026 20:18:35 +0000</pubDate>
     </item>
     <item>
@@ -290,6 +276,13 @@
       <pubDate>Sat, 05 Sep 2026 20:18:35 +0000</pubDate>
     </item>
     <item>
+      <title>Venice film 'Primetime' probes line between news and showbiz</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2NGZ3R4bVNOcHVWVk1KUnVrekU5OHFacldja2loMzJlRW5VelF2NUV4VGc5Rm40YjQ1OWVld05EbFhyWWliNmdJRFdvTWhmTXNGWnlGRVdMbDFDTWkxR0NBVE5Ddm5YOTNhcWxEREdXZjVudmpNM3ZrZkttVTlnTkEyRjluUEhKUVBLRTY3YUVwQ2l6cnFjVWNkV3ZJb18yeXAyWDU1aGpLLXFmbzJObV9Ibw</link>
+      <description>Venice film 'Primetime' probes line between news and showbiz Reuters</description>
+      <guid isPermaLink="false">03abdc41e3f803ef73400074991d4f9b77a8cb9a</guid>
+      <pubDate>Sat, 05 Sep 2026 20:18:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Milei finds unity in pushback against Falkland Islands oil project</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXh6eWxQRGNtakxfbFFRRkVheHRiWmtFQlUwYWRtRHBBMDRFcGdFSllSUDZxeWtzclV6UFpuMHhNVWZ5YWRnVWx3V3NLQ0ZxSzlQQy15QWlrT3BvZy1KVEt5UnhlamY1cU9sTXpROUNzWjdKWmMtcTA3LXZzRGhENTN4MVMyVVhCYk5scXFuMXhvMENraG9xNlZtYTNwNjZuUFlSWW1vU1hMSm15d0R6U3hVZWVRQQ</link>
       <description>Milei finds unity in pushback against Falkland Islands oil project Reuters</description>
@@ -318,13 +311,6 @@
       <pubDate>Sat, 05 Sep 2026 22:53:27 +0000</pubDate>
     </item>
     <item>
-      <title>NEWSLETTER: Psychedelic drug shows promise for preventing chemotherapy-induced nerve damage</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX05YTHNjS013RmlEWlJvUHZrZlplSllNcTN3UWhQX0RoMXJ4QUZvLUM3SXZlZnctSDFHZXlNUlRmY0dzSlA4SHhIXzBLZGt1RWM1bmp5SDcyRkxqLW56Sk1nVmhieXREM185UGVTcFk4RWt0Tmx6Z3pMRkF4cTdseDNzYmFIMUtaUm41UEhrekNILUs1UTZMNjFpTjF4TFhsRHA1YlQ4dWpuZ1phQm1DeFFXcnE4LUxVQ0swSlBSX2R4WmVYT2JxV3pRNVNxQmlLejkxbFVyTXFnVE9ESzV3Mw</link>
-      <description>NEWSLETTER: Psychedelic drug shows promise for preventing chemotherapy-induced nerve damage Reuters</description>
-      <guid isPermaLink="false">33f9da44949cf0dbd7e138a30c63a997537ca50f</guid>
-      <pubDate>Sat, 05 Sep 2026 22:53:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Portugal approves $2.67 billion waste plan as landfills near capacity</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWxCNzA4V0FqR0pHT2JmUUdtQ1NQMy1vVlRRNjFrWlFnekVYSWJ6S1VXLWZjWXg4dmNncHRzSUlyUVM4M2RDMG1MbWlwaXVnNHI2MXVQa2hXOFcxN0w1Qk15amtPcXpFRDdzanRTb1VicEJDRFNneVl1elVLLUZtcmpuV2x6azJfNjNLcm40V3JQZF9INHN4YmxDV1IzZVJPSlJzSV9DNjE3MUFPTFRMUEFmaWtPc0dWb3VxcXZR</link>
       <description>Portugal approves $2.67 billion waste plan as landfills near capacity Reuters</description>
@@ -346,6 +332,13 @@
       <pubDate>Sat, 05 Sep 2026 22:53:27 +0000</pubDate>
     </item>
     <item>
+      <title>NEWSLETTER: Psychedelic drug shows promise for preventing chemotherapy-induced nerve damage</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX05YTHNjS013RmlEWlJvUHZrZlplSllNcTN3UWhQX0RoMXJ4QUZvLUM3SXZlZnctSDFHZXlNUlRmY0dzSlA4SHhIXzBLZGt1RWM1bmp5SDcyRkxqLW56Sk1nVmhieXREM185UGVTcFk4RWt0Tmx6Z3pMRkF4cTdseDNzYmFIMUtaUm41UEhrekNILUs1UTZMNjFpTjF4TFhsRHA1YlQ4dWpuZ1phQm1DeFFXcnE4LUxVQ0swSlBSX2R4WmVYT2JxV3pRNVNxQmlLejkxbFVyTXFnVE9ESzV3Mw</link>
+      <description>NEWSLETTER: Psychedelic drug shows promise for preventing chemotherapy-induced nerve damage Reuters</description>
+      <guid isPermaLink="false">33f9da44949cf0dbd7e138a30c63a997537ca50f</guid>
+      <pubDate>Sat, 05 Sep 2026 22:53:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Greek PM unveils plan to boost incomes ahead of elections</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXZvV3JWV1prNkxEQ0NWbU5LVEhtbHJHbmx5R3Z4UGw5RWhqMmlaLVpuTWEyeHNWUXQyWjg0Q3pZZ2xqNi1fR3c3c0xBZUhFZmhTOUpFQUlsREVXMnhSaVk2Nnl2emFhQXYyd3V0Qy01U3dCNHFDSzJyV0U3ZGQyZ2dCd1dMT0JDdnVDTk1zMjhqemNPVFFvR0VXZmY</link>
       <description>Greek PM unveils plan to boost incomes ahead of elections Reuters</description>
@@ -358,6 +351,13 @@
       <description>German rocket reaches space as Europe enters satellite launch race Reuters</description>
       <guid isPermaLink="false">47236313bd1d31c8d08d4740c67abd5a08cf9ac0</guid>
       <pubDate>Sat, 05 Sep 2026 22:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indonesia's Anak Krakatau eruption halts flights, schools, fishing</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3JKRkt1M2t6MVo4TnpsdXo2aWZiMzltZjR6bjhNTHdsOWkwNE1VWENrdHFoYkJQajB2dFRMZzkzVGlDRENhdlNoeVFfZW1idDNfR1c1b1ZrNEpuSnJjWDBmNVJaRGs3UFdtMmJvdV9rc2ZlblVwaEJBTENIRTVhdnREbGtIYXNXOUFvUDltLTRxZFMtZmpGRms1Q3F1d2pxM21GR0U1SUt6YmVPSGFDYXY0U3RoMnJ5Y1BKNWMyV21BbmNVLXI0</link>
+      <description>Indonesia's Anak Krakatau eruption halts flights, schools, fishing Reuters</description>
+      <guid isPermaLink="false">466aba67fe176d29445f733c2f8baa95d26e55f3</guid>
+      <pubDate>Sun, 06 Sep 2026 04:35:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
