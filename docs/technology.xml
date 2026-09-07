@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:36:46 +0000</lastBuildDate>
     <item>
       <title>Space News | Latest Headlines</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zYzRsSkpGOVlYdFZCMW9wN2hCXzhTbDEyWldNOFVJeE9GS2Z6NUs3V2hqdUdWTkUyZFJLUnJ1ZlFLX2hQdDg4Y2pRY2J2RFdnNzFj</link>
       <description>Space News | Latest Headlines Reuters</description>
       <guid isPermaLink="false">eb9cf5282ed126000f97b8af97291727e3a43204</guid>
       <pubDate>Fri, 21 Aug 2026 21:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitcoin-based Liquid Network says $320 million withdrawn in hack</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM</link>
+      <description>Bitcoin-based Liquid Network says $320 million withdrawn in hack Reuters</description>
+      <guid isPermaLink="false">b715a7f08c2fe321c69f92c88867b6f95ab452a0</guid>
+      <pubDate>Mon, 07 Sep 2026 04:36:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
