@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:07:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:23:01 +0000</lastBuildDate>
     <item>
       <title>Bitcoin-based Liquid Network says $320 million withdrawn in hack</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM</link>
@@ -57,6 +57,13 @@
       <description>US accuses Chinese AI firms of 'malicious' copying of AI technology Reuters</description>
       <guid isPermaLink="false">1ce7aa70529fb6e8bea75f7e38ef4024cd49a9aa</guid>
       <pubDate>Tue, 08 Sep 2026 21:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cognition AI raises $2 billion at $48 billion valuation</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPc3hsV1U1MTdYTkgwaHJhanppVTU1cUZVLW94amhlM3liQjE1SUVFdnJtRFlvcExWRkI5RURMMllzd1djSlhUT09VTGotRHhFZm1NTmdDTXpEYmdNaVhITU1STXdTSVE3NlhQVVAySTE1WUVhXzZSZzdSUl9DRVlmVWVpaEl0cXR5ZzBjYUZlaDRzbkVfSFllNVJEOWlHQQ</link>
+      <description>Cognition AI raises $2 billion at $48 billion valuation Reuters</description>
+      <guid isPermaLink="false">5517e6ac81ce1b56f1bfe25e9986155332a8ade5</guid>
+      <pubDate>Tue, 08 Sep 2026 23:23:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
