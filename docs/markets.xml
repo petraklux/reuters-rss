@@ -8,343 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:16:45 +0000</lastBuildDate>
-    <item>
-      <title>601011.SS - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1g3SUpTeXExTXNhSUxZOFM4aGhUcE94OG9kcXV3Qmd0S0FLeFpsR1hMOW1rQWRpR1pUc0dWbXhlM1phbzZ1NTFzdW5CaURoUWs2RVZNN1AzWkVFdmQ3WnFweHRTUThfQl9rYWttdGplRWRza1NlY3pYM2pra3BQSWIxbHZ4LUtW</link>
-      <description>601011.SS - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">d20bd53af83e8cc0f81c4b16b8ed00c009aa2eee</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>CCLHF.PK</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE12NXg5ZHJtcERneEZ4YWp3c3p1ZFMzUWVkT1NtRTVJcTF1WUNoTTBLTGNEU0t5QVNreXhlWmdUXzJlRGoyWlg1by1jbmFhcXdPNWlReThRdFNBOWpZVDZ2Zy1jVUZuRlIxZFIxSDN0Y3hsT0ZJM0pHZlNNMA</link>
-      <description>CCLHF.PK Reuters</description>
-      <guid isPermaLink="false">2dbe99431f730ef245f45ff54fb19f8ed4fa0392</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>BMBLF.PK</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ3RlM2ZsaWFxMFpFVksybG96WmpGc0dyZENlQlF2LVRRUnFCNmtKTzRYLXRmaEFvUFV1TU1Pa0tsZ25PUDU4ZFZBazJzcldvSkJqOFJfTzdkbk5NLVpUZnZVSkJvdE9wOU1MQVJqY2RsY3pzRVVaNldlUi1Mcmwtc0ln</link>
-      <description>BMBLF.PK Reuters</description>
-      <guid isPermaLink="false">bdc8925002d324ab8e2351133a7e4af22f032de3</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>EVH.P - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRENkSHZ5aktqS1l5OGh4TWtBQ2hJVm9CNFUyWHlQaGdwY2p3QjdEZFNtUWtrQjZwZUM5MGpRQ3ZDTkZhSmJNaFdNSXpzelhJQzFYOHlSdFRVQmZmWHhYUTNhVERVay10T04xZG93RXVlWm1BOFRV</link>
-      <description>EVH.P - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">1e4cd5a9b5c45710342a21f9b1e8fdb8a2f272c6</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>DEL.AX</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNclllQ1h2OUNKc242UXR1ZG1iOFFGaFNIaG1PSFprRHU0YzhhY0tEU1pVSGt6bVh6bkc1Wno1TW1kb25EMjBBalE2eXlmM0hXUnhJT1hkeGpXaUVpRE81QXNpS0hjZmdYaHFzUDlpLUU3Z1B2QTNPbkY2bV9EclhmM3UxLWQ</link>
-      <description>DEL.AX Reuters</description>
-      <guid isPermaLink="false">8147a3c18cdf3c3558a00d9c624f8481c744d703</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>MII.L - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTlhdTY0TDZGYndzblFCc1RPejBMX2VmU3Z3WHVFLTUtUE9pRllXcjV2UGZlU0hINTl6MnozemN6WTBKbl9xelpNQmp1eVF5MG5RbU9TT2pxRm1WLXY0dE01c2tOVHNhTEZkTDFjcC1IR1NheElEM1p6MEdZckVidl9HVnFwZw</link>
-      <description>MII.L - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">b195c5d752a546bb724675a5623ef54d07df8cde</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Death and illness aren't fun to talk about. Ignoring them costs more</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEFYUmpYemF6b0pLUjNHVE5Ibk04MFgwTTExZ0dUR0djck5xSFZWNmZaTVFNRWswMzJvcG1fVERlZmM3NVZ4cklSVjh4MC1EazlqS0RKd1hKMV9ueC1aZC1tYzV0a0toVjd1R21HZFFYLTQyU0lYYUZJWXJrQzNtRlc2VEZHOUxKZzJGNXh3VE05X3BuWjdLRlc2VVVwZjBpNkc1VUZRcEFCS0QyUk1aNzZoZGdsX2M</link>
-      <description>Death and illness aren't fun to talk about. Ignoring them costs more Reuters</description>
-      <guid isPermaLink="false">8c7e1507b088f9e83fe1ca90a8d23a18c83a6648</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want a leveraged ETF but short on time? This one lasts just an hour</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlsblVSanlRYXcwWFBKRVpNSHlLWFNFWDF2QXVUZ3JkRVlBWE9QZjdfTDlLMEpSYzRJb0FyZVkyQVFkckdwa3lyaXhBRlJjUkZnMzc4TVM0NHM2V1I0bWxEdWt1S0tKcjR6dVFxSm9YMGl1eUFuQUlMNVJBVGQwa1BiVVdzN3VmUENBbVZZX2pyUXA0THhxd1dQNUhmcHZ1WnlZM1ZHdFF5VGxl</link>
-      <description>Want a leveraged ETF but short on time? This one lasts just an hour Reuters</description>
-      <guid isPermaLink="false">dbd0547ecb46ac8d80bc20e00631e893ad808a07</guid>
-      <pubDate>Wed, 09 Sep 2026 20:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>DEEJ.NS</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlRUMUZwaVg5ekdxbGFIYXhDV2FGNFB4dW9GelZJOFYxNW9FZkladmMtQWlkS1lXczRaWndQNk9pbm5VTjFDVXZWUG1rQ1psOG56eGduYnV6cW1qSnk2NTlpS2RMUnU4U05hOTJBWV9JRUxtM2twZjQ1WlZFLWpsTw</link>
-      <description>DEEJ.NS Reuters</description>
-      <guid isPermaLink="false">b19eb60d1fa4dfe985125b063a45d44833ab5834</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>SHPH.OQ - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjRYVFNwUUt1VnJqd0pxZGxvQkUxdG1lWXhyYVhyNUJPbGZOUHQ4ZWpwUlBNeGJQUk9WdlB5MllsYWlxRjBPR0gxSjBrLVE2TVZ1TUVBTWl6VktWRG1hb2I5ZDc1cDNCcnZidU5JSmpNdVRDaExwN3diYmhnb2x1VGF3RWM</link>
-      <description>SHPH.OQ - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">5f70fbef0045a72f994a42d82a9d662d6aadcb8e</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>PRFZ.O - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMy1RZlpDM0w2dXh6bWU3YmxmNTlpMHJ0NDk4WFgtWDBLTTVIR2xBVDlDaUlpOXhfQ3IzMHhsX3RVYXE3QkYtc1JIc1AxYWxiUTczanFJcUFoek9rY0VsempSSjhWdU5yZUhNX1NGdzFDWC0tRng1c29Dc2g2ZkZVSGRsaWh0N1h2</link>
-      <description>PRFZ.O - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">50ace5190183e487a11817b5c49e057861de8b29</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>0RCQ.L</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPRS1KcUxsaWZ0VzFmbXp0bmhjT2YwZ0NsTXhOV01qa2p5UDh3OHpNQXVrdTQyQ1NhRFpVcEY3c1RDZUMtTHM2bGtMT0lwdFltOGRaR0pwM0QyNFdINUlDT29YRkxvVkxPa2QxOGUyajJtaXZxeUdBbFhtQ2xtb1UyRmh0bEJEcnc</link>
-      <description>0RCQ.L Reuters</description>
-      <guid isPermaLink="false">a2e28e5463b6791c8af3210604e8a7041a89b5b9</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>(ERNX.DE) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE91UFdqVmZMM082ZzZ6QUhlNTdvbDRZQlNWU01McUlUaVVyaU53LXpoWDlfa0N0WmJsNjMtWnpTVlczSGtvR3YxX3g2THRkVFVnV0hWMG0yODZ2SkZvbG9B</link>
-      <description>(ERNX.DE) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">2e599cf3a57d82f1e055c338278efde1104f57a8</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>TMASF.PK - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzdKblFRM0VaaTRzdjdHYkdVZ2s1RTd5OWJkUklPVkF4UnR3TG5tdnlLSHR0TnNXZ2JpaWpNUXNLMGw4N2F0cFlTbVVaZjhXTVJlVmhmRTdCdXhGVFFGUFR1eUY0dUZPaHI0Y3dNSER5a29zOWs2MnlpMExhUm1YckxwX0ljZw</link>
-      <description>TMASF.PK - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">5e671e2ce64c66f6727258427d5b093f95d62fbd</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>2727.MU - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOSTNuT210bU9UZ1dLTl9hcWU0M2E4dTVIUE81dC1hMlNEb292VG5JM3VEWXVPRWl4dnJwQ3h5anVPcUd4Mmd2M1BRNmVfN3lmcVRwNENrRlZBZVdlZFlmclNRT1gzZzhJcG9VZnl4Y2lmcWlhNHA1cDhYZnVrTXY0UkE2cnZHQQ</link>
-      <description>2727.MU - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">db1505433247634e11d03bbd8ee8d952ef8dac7b</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>5351.T - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQSS1fZGNHeHZYR3d3RWtYNERVTTZqVFVyQ0J5eGw0TEM2Vkd1XzJUemRMLUFkMXlxX1loM3NUemNVRGxQSGRIN1VBUmJmbVVWNFlrVHpRdmRMSFFmTS1fbW5zQ1RrOERKdlJEdTZ5amlSd3lEY2ZUU2ZyNXlBU2Nkd2tZbmc</link>
-      <description>5351.T - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">7f5877ac3fed9417f13b97f2824f8efdd4db1582</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>PTAR.KL - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBuRDBVT01ScjN4RGtRbmpiVk1GVmg0SjJ6RDdSeUNINEp0VGJLR2hycWNKV0ttZEh0cG1keWk4S18talRBdXoycFZWYm1lLXJnU3pSTHFOWWc3eFo2M0J6MjR4bVJZZjQ1UVo3UktLSXQyTk5ad2plR0xn</link>
-      <description>PTAR.KL - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">3c140089fdcbc413765d5a5127382c71ba85c16a</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSPC.JK</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5iTXFCSE8zWnlJVng0VHN3bURnOC0yY055WHVvVC12REpDVjBnRnprUm12dVh4TU5DVVlaODByVTVpblJVbXFZZUVVSjI3aTJ2dS10MG1XRGdKWXRTQnUwNnkwN0gyVlFvOVliTU1GSUpLMWFLazVSZ19n</link>
-      <description>TSPC.JK Reuters</description>
-      <guid isPermaLink="false">a5eef9d466292622f4bf179c3c8445e0e9b29efa</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>VELXQ.PK - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9XZzdZLVQwdUZyalh1REV2bXZaVWtGankzb21DZW1zZWQyYVY1M01QcHpWMUxKWU5vMEQ1MFBrQ21rZHQ3c19QM05vRXBoclBTV3VpdVQzM0JjdTNscGJnZ0JZTXJmU2pSb0ZNeGJQNHNIVTBSN19qbThqX3NxUQ</link>
-      <description>VELXQ.PK - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">3507529d5b2669eca833295a62c311c1c7fc2223</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>WIND.NS - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNcy1zblFEVmhSV0cwZGROcVRPX2NTN3VhYkNyQUx1TmQ5eFRGdnhSN3VpWFRhLXFKMnc1RVVFZzdyX01Odm1vRlhrdUNOVkM0VmxnUUJCb29Cek1jLWV6bnVneVRSU1hJdEg5b1FyNC1ORTdabm8yS05LRThObHlyc0JEeUQwdw</link>
-      <description>WIND.NS - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">92ee20daab24a5d635261b46070b1c3eb9bc546c</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEL.OL - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2FfMUlOYmVqNGVEVlpTekxEMldsQTN1OEJaUVJFVWRwMHJrLWFScmVqeUFOSllqZWlUdDk3OWkydlhaQ2dNVkRYX181a0xyMVg2ZW8ycE56TFA2blVJYVJIQmhsYkdLenI2RFhyM25uVkRLd0Nydmw2bWloTXp6UkdaWmR1Wlk</link>
-      <description>NEL.OL - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">796f747061bac8ab6767df8052041cb56b40d9fb</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>SDHC.N</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5sWWRxVkJwc2JudGJWTTBXWWpOOTFFVEMtNHB1OHIwN0hVYl80SHVHUlR6bHM2OERXNXg2N1huMHpzUUFOTHNMSUE1bU1aaEgzVjFBQlJkNzVpUDVtX2VVUnkxY0tsVXpIZUx0MTdNaEZDZ2RfOHJz</link>
-      <description>SDHC.N Reuters</description>
-      <guid isPermaLink="false">4f715d42d335558465046241138cbdc09683b0c1</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ALPX.OQ</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWRCalJ0cnFXMGU5MUNwaUJ0aURFTml0eW1vY3JEU2g5QVgzWnVqOFBJN0dKaENVTUE2eU5DT1FFU1RCVHdGNHFwZFYtOV95a0Iza0FSMXlDUS1JblhGQk9DMlNXaDc4Qnllb2h3a1ZSV0s1TjBjTEl5c0I2ZUE4eQ</link>
-      <description>ALPX.OQ Reuters</description>
-      <guid isPermaLink="false">38fc1d290d3840b5aad7293b7bd577eff4f5123f</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>HYLB.K - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHQ2Q0FGVkUtbDVDZ2ltcy1BdXBTSWsyWnFpLWFra1c4TDA5cWxsbUNldzN2WmdXM3dnb0ZLWUN3b0hLWmpiYzlaOGJOejh2dlJJZC1lemhBZnUtTm9ONGtuNnI0YUIwOThyeDBmd2xkenJPYi1kXzYtU0trZ0RaOExXZw</link>
-      <description>HYLB.K - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">96f27b86a5ed316a2f5af94f370a5fe02898980b</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>JSPm.BK - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGkwRER5Y0dRN3U4RVZrMWxSNm9UTjF0MC1rVldPdXdUWDNRVU9vZ0N1NVlQNzBneUw0SUxVa20zQ0szcnd5OUZ2UUhqYkdzbkV0LUpoX0p5dlo4bXJ2d09PYzdNMUxEZlJsOTMzVzNzWTZ2SUN3dkRKWXpGVUVxWThhbzc3RnBMLWZpY1EtRnA</link>
-      <description>JSPm.BK - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">ae3b06d9487c557971c5b457f1abf38ca1de01fb</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>PODC.OQ - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNNDJOREN6NHBFbHNpTlB3WGUySW00aDRDWlBVenY1U2J6eWlVWVpJSUJSRzM4V04wUHE4WVQxcjNrSm56NXBKMElCUXVMdVljYjc3ZmI0V3VQM0ZYRWFUaHdsSXZqUTE5aVUxc1hMU1V5dWY1QWtZSzhwQk10NFdrTw</link>
-      <description>PODC.OQ - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a594d9c507f7be858563b7a139f1196c10c800fc</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ALUAV.PA - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBNQkF5TDdVUWlvU091MkhTUTE1UzZTS0VJcXpzMUxMRVpIcEpYdGJZMkFmZmtpNmY3X3Rfdmp0X1AwQVdPZkotaTkyR0FzdU91dWJjNnJvUTAxM3NxSFM5SWhjcGlCRXVxNUlKWUlrOUY</link>
-      <description>ALUAV.PA - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">491a85a652d000a73bd9d0a66c6b545718d31aca</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAYF.NS</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVc4cmNGSWZpbU45LWdMVVNMZXZIWTVBRjR2bXVBc1J1R1FNa2pteW5samJtQ01HSWU1dTJTYkdmMC10TDFETi1BREtxNkJONlZ1Y1E1MWU3bldnX296dUViV3hXOHQwSmc0eTlqYjVuRUZPaEQ1R01icEdUVnFqdkZ1ZG8wajdMTXc</link>
-      <description>RAYF.NS Reuters</description>
-      <guid isPermaLink="false">10be8b6156201558e1d93860175b1ae656b3f02c</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>TVAVF.PK</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPT041NnQwNFBFc3pRREFvR20tUEVHaDlMWHJwMUZtc2FITFRHbUIwTGpaODJhTjhXWkhmN1Nqd1gxcWQ2REV5UVNJNHZJMmI0clhqOWpORGQ2SGcyaEptdFBCSWRvS1BKM1F3RTRId2tjZS1kMDJ6OUxIMVNLUUFVdEpidzRpT1dwQmc</link>
-      <description>TVAVF.PK Reuters</description>
-      <guid isPermaLink="false">271680c1d63f8a5294ae586f69b85555fb8da30a</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>BHGF.ST</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNX3h5bWxBY2pTQm1hMXFORjNzdTZPSlBuakJGT3dBSE82YTYxM21mYnFYTkItZmpvSU50X2tKN1NJbXNHZThGbEMtZlJJN0lWVEFJMnZNeU1YWERuY1hCWm1OSlhsNnk5QVRtaXNvZTJHQ2NBeHo3ME9JUXhWN2NtSldkV3loZw</link>
-      <description>BHGF.ST Reuters</description>
-      <guid isPermaLink="false">3ec8feb3e30b9df6ceb88dd1bcf2965cb98de193</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>About WisdomTree India Earnings Fund (EPI)</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3RzdRTkN5ZXVaZlRTNlVCcXI4WWNLNEkwYUdPZHRwS3RRMGY0VTJ4SmtnYl8yQTJlODRyMEhpSC1QM0xHTkZ1ZF9hTDhjQVd0dzVjRnUyd3A</link>
-      <description>About WisdomTree India Earnings Fund (EPI) Reuters</description>
-      <guid isPermaLink="false">00bd53ed0ae47846da4caaee9c31a609003dcfa8</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLG.BO - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1B4eXZuNjdYSi11eHhsRjJFWUVFT1drdk5YdnY2T0ozOVphQ3JIYzdqSDBRemtqV2FFNTlqdjRqZDd1YmNtdEtUNUh6eUhoeE8tYU8xSmxMOVpFbmYwekp4TGttYmFudDhEY2FEaUNEN1RPci04SEZGRk1fUFp5ZWQtNHhFRjQxOXlweVhfcTE</link>
-      <description>COLG.BO - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">359caa5a9076d4918bc00ac18ce76d1e2c591f15</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>TTEK.O</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0tlaDZWd3g1blJXSTB5N0tMYUVROHhZcDF5akdYLUwxeWVYWGpTcFl5by01MVRvSjg0TGhjdXljdllDU2ltdlh6LTg5R010dWdaWm5zc0owNDdqQ0JqWXlCdEpPTWNOQmhnTkxoMEx5amh4UC1DVm43Y1E5OENZdmhPcVM</link>
-      <description>TTEK.O Reuters</description>
-      <guid isPermaLink="false">5025f2e64fa0e4f42ab1dc08677bd84aea70d70d</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>PEBK.O</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWNjOTJvRzZTVEhzc3RaRkkwU2dNMkRHTGNtYWdiUEZwWTZyQWJJRU0tSnlHU1hVcTZRM0xydnM1djRKcXV0T0JzbWJEaVl3VXQ2djIySDYtZkY5MDdRNU1pU2t5YTV2UU5qdW1DbVYtZ0ozMlVCeFFaWFVXQ3dmM2kwajQ</link>
-      <description>PEBK.O Reuters</description>
-      <guid isPermaLink="false">6bcf05c11108cbd2a38dcfcd0b8e81005f0248be</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>BIRD.L - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1B3cTNJX2lUaWFIRHBrQ3VheWUybnd0UHZ6TmUxN2xMQlh5NmNoclRsZFh2LWpoNjNaSVYyRUhOR3A5d3FTWWQ1REhkSEROOUxNQm0zazdFdmlFRDdZMWVVY0JmWDBOd0tKYTdJWVp5YS16akpXMjBfdDFza0EzdE9SaDRtYVNrSi1CYVNyU3JVR1JMRU1sTjNGaTlHWDFCWkE</link>
-      <description>BIRD.L - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">cd34f06b900fb664b9717d123070ff8c272ccd8d</guid>
-      <pubDate>Thu, 10 Sep 2026 04:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>DRWKF.PK</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjZxcGNnTnEyWVBuNGRCNXBnOVZrY09QWG5KdE1HTThqVkpQYkxMQTRTa1ZKU3l5NlRTUXN4U2FROERyRWxUa3hDTzhqalBvUWhsdVE2WUxhUXBxa2dfXy14T1hkZkU0UEdYbFRpQXVDbnpDNkVKOWxlMThCa0RkaklB</link>
-      <description>DRWKF.PK Reuters</description>
-      <guid isPermaLink="false">e63090c64b9b602d5365506204c9a4c58ddd6d16</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIXM.A - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQRl9KV1EyOGp5Yk5NS2k3TWtjeS0xaDBfR0s4S3RzN2h4c1hjdzhDa0tKWUkwWGdZSHh3MGFfaGZDYnI2R3F3alh6TUh6Y1p6THBVSThaaFp0Qi1FNG5NT1ZZSElUNS1vQV9jbG5QcVgwcllLd2phaTBwRzdGbWlMVW96VQ</link>
-      <description>VIXM.A - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">9ef63107fc66fbfd055564cc420022ee565430d9</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>VETN.S - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9vckl5N21QY3o4RDl6UDAtNXMtbXJyd3VRQnRPZHMwR0steHlrc1plbFJRam0zQ09yV2o2Y2N1QzJuWFpHaUZzOTBEdXlub3Nydk54ZHRUUk9qaW92OFNKMlV3el9ucTVTN1FXdTloVEVQMldic2RPbA</link>
-      <description>VETN.S - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">39e8ebdddee190285e6856b3e32d7110fe985fb2</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>8217.T - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNMHRKSzJzVHRMdW5nTHNCbnBRSmRBUHg0aDRjNEZ4akcyRm52T2dCSGljTmN1dFlUaXphbDVVQURwTkFpTHZnVWpxb3I2OGdOR1ZVRXNkMGRUd1dydUJWVV9lZDFDSHBueHVsY2VxMkJYZEp2eEJoWl82YmZoS0dRcjctRQ</link>
-      <description>8217.T - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">987d74f59bac99a08e873c46a5ac1ecbd797eed3</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBDSF.PK - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzJHU08tb2c5ZzdhYm5YV1dRUFVGQlg3UVlFbzlDS25NUGJXVldpWS12bzY3dVZoNzNWZGVUMWNTSHFEaU4yNmJwMjFBV3dLS0hfNjhOaXJKZDd3MkVtZWFjZElNWFhWaWQyY3AyWm5maDlDaWttUVhRZF9nOE9uOUd3</link>
-      <description>IBDSF.PK - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">ea82900d65612fcdcafd1e8e18c154403f9f167b</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>300402.SZ - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFRUVFJVZVlIM3Q0ZUJkc2dWMDhPZUgwUFU0Tl9WZjdSZUdHNmYwY2VlcmdVRnVqYXRuMUFGNU5DNUt0Skk4RTBZZ051eUZsV20tXzVHOFZwUVdCRTV3NU4wa1ZKYVdrRlZQS3Q2Y3lHdDNBUGdSUFZFRGtuZ0NBVTJhRFI5b1c4</link>
-      <description>300402.SZ - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">11bb9aed7d55d2b7cb9fc3ef3c53262051eea3bb</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPAC.OQ</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1neFNmcWtmcVZlZ2hyQmVPYWNRSmphNHJMMksyRUtnWXZlWWV3RUtLX3ZleENvT2o0SjZGR0FQT1loNTdNYzJfWEYxeEwzbDA0SHk5YmhBbGppcXU0X25KME9KWkE1c09JWWotMUpRdG41Q0RRcDFfazNR</link>
-      <description>GPAC.OQ Reuters</description>
-      <guid isPermaLink="false">39f182bf3849d366787465b5f4124bdf0c8ca938</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>IVR.Z - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOSkk3T3RSSEhYaDNhNE5Fam1LTTdtS1JaaFQyTW5LOXRhdm9HUWZJQkpLR2JQZzUwR1cxMW9nVjNQOGNpbm1jR1pyZWdLS01Vekx5N2J6QXlnVmd3UF8tcERRNEl6eFYtOXVzaUFsamZoM2Q2cmJDNUJNXzVrN1N6Ty1R</link>
-      <description>IVR.Z - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">a27477a42634ab13377079fbd3c5af7bcf359062</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>COV.V - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmJIQ2JsZm5XMXNCOUlCOFk3RFhKTUtqeUdNdmI2YVhyT1JiSzZMamVSMGl5dXlCTmt0a0c0cFBMRHJYdTU2ZENLN3UyVUFmZzF5cmVfTnVSMlVCd2lNMmV1ODhHUkk4ZUk2X0l5Rk94WGZLZXpWRmRXRTBIMExJT2dzTHQwcUw5dnp0V01xdHN1V19LR0o1RW9sb2VjU28zY1pfemhB</link>
-      <description>COV.V - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">874240f802f600588320eb417a2834c16aeba73d</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIB.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBFZVZWdU82ajM1Q3FZb21yRWlWVVc2SUl0UG5QTW9oWlA3T2Vocm9rUjczYnBDMHFmeS13eXRZbmZIM0stcGpnOW1VWGlnSjNDbDdVbDM4V0tmS3FpVVlEcUlZd1lZbmxVeVRDNWxBZG1zM0x0UlRGelVrR1RiblE</link>
-      <description>NVIB.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">d378a54368db07ef759e0d34d7d57759c76c0ead</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>LAMOSA.MX - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5IOG5fTVU5MUlRODJSZ3pLUFdrWGNvS0dWR05WTkxHOTNfSW1KVnRCM1dMNGI1LTZrS0dOUS1hSHpKaUZOXzAtTEozYWRNUzM0LTA3ZUZYT1Q0Z1VvQUlhck1zX3RrM1ljY2NBSzZqUlhTOEFUdEwxMkNNSQ</link>
-      <description>LAMOSA.MX - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">02f7d74639c3804a5f4561b199594ad3b68a67dc</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>HZR.AX - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEliakFWanZkOUtoVTZoNC1PdHRkMGJYcnZTNWllSDRHaEZRNVgwV3FvSWFWV2VCX0p1SHd6aFJEa0M1MlgtVWZHZmwyaEtIYlU1dG5pMzBXU2I3VEZFaFd6aDV4VnB4LWZzSzR0WW56cm8zb0FvZEgxMzVWYTVQU1ZYZw</link>
-      <description>HZR.AX - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">49701a29cfc6e860bb3896c4340ccdb7ef2d97e9</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>DEEJ.NS - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPREh1ZXJQcnZVeEtLSEp0b3gzbUdqc0dxcXR0cTNmZGpyeENKalVpNTAtME9qSzNZa1pwMHZfeGJUSUZ5aWpWWGRlempGX09qZWJfYU1GM0FWdkhndTRVeUVMVTQ5dm1USXBQeTBubjhxU2hheTZ4b3MydHNuMUY1RXRTLURWZw</link>
-      <description>DEEJ.NS - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">b1d2fcaa13e6ca163781b2fdceaf089e7ae3a1cd</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 16:22:59 +0000</lastBuildDate>
     <item>
       <title>(TASVX.O) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1MMGxNa0J5S3UyMG1jRFVtMHZZZV9HdjVnRTVSX2FLUnRmeEp3M1FxcU1hT3RNcDd5a3pZYWhfckMtVzNXOTdFdlJmcndncm9USkxrSUhCUllNYS1JZU5wNGJPSGd2bWp0MGdycmJR</link>
@@ -353,11 +17,347 @@
       <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
     </item>
     <item>
-      <title>European shares edge higher as traders await ECB decision</title>
+      <title>European stocks tread water as ECB decision looms</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzVPR1RxVzdqb0FKVHRJTW1SSXpyME5FTzRoV2JJVUt0SFBqZDlwdWgxb0JQaDl0MGJkcWlVOU5Pa2hVTWF2cEtuQUctZ0ZDeGJYMkNWb3hsMEVFRF95cVBXOS1sR1p3YllPQ0lQT3I5bzV2MnpHMG4yVWdGSk5ldXVLcVFpdTZsU2F3YkJkNmtsWjhEWVM0NGpyUUFWOGtxNW9zejVaZE8</link>
-      <description>European shares edge higher as traders await ECB decision Reuters</description>
+      <description>European stocks tread water as ECB decision looms Reuters</description>
       <guid isPermaLink="false">fca50b1e593cfb3a7ea8d9d5ce174469ffce5c3c</guid>
       <pubDate>Thu, 10 Sep 2026 11:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASST.O - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkw4eEJXU0tydnVETHliWDJnc29tZk04Z1RmdVpiWVpOa0xzSVpiWWYxYUVwLTNMR1F3Qi1wS01pOG9xLVlSOXVhcmVERkVITWRVUjNZSy1JSFNYM29adGlnZm92eGdJUGFvY05STERZZUFFclpmWXNETnVsN3VqanRtTzI</link>
+      <description>ASST.O - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">819f4f766fce6bb2ed17daf11a6a6328900dbc02</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVNA.K - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXVJNjNlMTRxUGgydTBhX1NSTXhqZXVxZ2dnV1pxZF92SmdTTjRpRlF4a0dQQ0M5WG5WOGZDNDMyYUNMaTA2a3IwQlViQWRTVnlIMWJkTkRBdllnZzB3dGFqdmE0UWJxeWttQmdhOVpkR2RLVXpkaFN5UXdJbWRZMkNDWkU</link>
+      <description>CVNA.K - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">f35690552d2147cd812f19e7fffad2c5a4461acc</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CNCK.OQ</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBGOFZ1elRSdHR6a1BnNUFXTG9GNkVXR1BITWZlTUpHTGg4TUpKUWtWN21FVW1hTG1OVkJZQXpmNVB1T2JWbnI1eHp6MmcycjdIZExXZFIxR3pnV1BIVlpZalYzeURiYXdURVgwdWxHcUphOVpRUlozZlFR</link>
+      <description>CNCK.OQ Reuters</description>
+      <guid isPermaLink="false">fe64463d4e649b415fb495c104b08eabd24c0f45</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>DMRC.OQ - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHMxcER2NWxZU0ZaWjRweWc1bVg1RjlFM0UxUnZ2VG5YbjhGc2hwR3Nvek5BZ2tzemRYX0xaaGJ0XzBRa1VGRjVfeFFnMWtqV0pDWm1KNWJoblpOMGp2NzdRdTVOSUVDVkVPUXBVRUJXc2dkRnd5N1JQSEtqTmJfX0M1clh4QQ</link>
+      <description>DMRC.OQ - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">48aba8a35a66da7177319ccda841ef30f5140eee</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBTA.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFB4X0R0ZzhpODU0ZExsLUJTblV5Skt0OUtiR0RPZHYzS3A0NWhROFlENlZWbGFvUkVBX0M2ZmxVQWRjX3N1blVRZ3piYWpVQktYNVpBZXhIaklpSHcwWXZVX1NmcGJUZ2xCTG10ZWhiNG9PM1ZYWENjdQ</link>
+      <description>IBTA.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">9ab2174ec2518717f8453630a24d5ad5ff70322e</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>6981.F - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjJnOEpJM19TZEIwSlo3MmFCaWppRDBwMWZuQTVnNklob2Z6NXIybmZsWHlUWG9YV3hXR1NESXFuQ2g0ZFpORzk5d2M4b0ZxXzZWcDNCcGxOWHBuR2JXeWg4RmRGZHA5T1NXQk5TS2Y0NDNqajNyZ3lRdF94TDNmY0hmYU0</link>
+      <description>6981.F - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">a10391a9abd6f2b09ef09e8cad732880b8331c78</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAYF.NS - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNekpDTU02T3lrRWd0dTdMdDF3YWtUVFpMcVQtWkN5YWM4OXRkYWFDOHlmUGRwa1V1U2h6c1M1ZFhwb04yaGlJdXY3Z0swbTktcWxvWjB3eDlMWEc5NFlqeXlGcTh2VzlZblhPQlVHUEdyaWgxaDdqcHgyUlZyTzhpaw</link>
+      <description>RAYF.NS - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">4bc0a9c2433d21922f803d56ff2718d0dc2d6976</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ETHQ.TO - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkxOTUlhdlJjalhfX3dNQUtDaG1wUk9yQ0xKZVB5N2tfTEVpeVBOSnFxbXhwTm5CNEZ3NmhTNkZaaGZ0cU1mS0toMUkwLVZvdWl2WjdOcGZLNTNlYk1Cbjh1TDg5TE9qS3VHM1QtaEY3MTNRY2xyU2w4am1wc2tSWg</link>
+      <description>ETHQ.TO - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">ff9d7bb99e6e870f3236f1dbd192520a221aa820</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEWSLETTER: Playing the game</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1Kb0hhdTlrZkpERzB2Zkw3U19xQWJfT2VNeG1uRkpXQjRwRVh6Sm1kZXQ1TmlYbGxPdTFOT0dna0E1d0JBb2JiZHhRdE5CZG5lUFJ3RU5qYTNoNzIyNGdqNkM5Y1lqdnJqcUp1VllPc1dvVkJPNlE</link>
+      <description>NEWSLETTER: Playing the game Reuters</description>
+      <guid isPermaLink="false">05ca791bd7c4859d9f23a0f2686361ed4f3b1c0d</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>WBQNL.PK - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWN1dTBBbXNrNVVKOThoMGxpLU5pV1UtTG9nZjBXdHBkZTIxS29TUWQzSjlwdmtScDlhLTVEN1pDWmRfQkNONi1PRkFkajU1WnFtdVhsaWVjN053SVY4LUJDRmtkUlpYUzRYblZkSzlqMkZDVS1UNDkwaGZmemY4NXloNFNvZw</link>
+      <description>WBQNL.PK - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">8b8341d49ad9c80c93f610f84ae665ecc66becf7</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>PGW.NZ - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNbEJhNjFJSDJ4WjVFTjZQeUY4MTB6N0lsaHp2NkRGdVRlY19nQnN3WXpsS0w0djltNHlPWXM2Q2tobWlyWnRuZFJLMGlrQVFhQlp2Z2kxZU01S3VVTFI1ZVhQR0p1UHV2TzBKNTh1dV9kQU83bTZ5WWpTN2JtR0otQ01R</link>
+      <description>PGW.NZ - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">7a4ddc9883f8df9a49e72764dc973ed92a4954ab</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CBOT.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFpVRk5udWY2RjVkMUE1V0RFTXZ4LTg2bmtBNURPLTg3NktkQy0xSlI5djNIRGdmM3luUU5BN2VLSTVDVGtuNkFtdm5jV1c1X0NrdGhjeDBubF9QMmxmcWQ4UGxaMjkzM2c4eXlwaFppZjZfQzBVR1l6WXFBYlJBcnRHaw</link>
+      <description>CBOT.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">b9d64f444d5fd9e87e79b974932a1fefd874cedf</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>BMCS.PK - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWU4bWRhUlRZeWhBdnhQZ1FHWFJsSmNfSHRDVGNTUlB0bEdlelZMVVVHMTJFZGN5Z1FhRkxmRU9CaUxrSHo3YUZxbEJnMFQxWW05bk5vZlJmNEdaa3ZiTUNKcGlvR1p1OFVPeWFBRGhiWVFqMUR4WUliYmQyS1gyYnpDMFZzRjFKcGpWTUpGRlhTdHc</link>
+      <description>BMCS.PK - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">84fe968f3ad3728cac63bc50eef47dfcf64100a4</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>O2C.F - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBka3BpdHd2T2FhNVRRMnhaVVhsVVgwS0NHSndkNDNzOXA1czVtZlpOeWRwRDdRam1WYThLSldVZU5zRHBlckx4SFVFTXRnN2ROODhmQWZ3bVY3bkFwWk85em9GVjB6czVJc29aZkZXRTZ3SXpCQllr</link>
+      <description>O2C.F - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">fe019de3a62e7701ca9e56c09b56285a387ea4d6</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>TITI.KL - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGc3bjNsc1lSQ2UxbEZXXzFNZHg2TTA4RVFyZDZpV1F4ZXo0SWQ0azdvakhKajludTFwaDhrb3lyb2lYWk45cURwS0xzNmhYV0daVm1VSzhHR1Vad05wU1R4YWZvRFNMRFJCZWhDdE1WbzZZXzU0WUw3TGF5dnJHbmRLQldHWnc4Vkx5NVVrcFdiaERDd3JVRTk1ckVWOG5MTGtj</link>
+      <description>TITI.KL - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">933fbaccd193532b21dcb9614a4c32ba0d0d5d4f</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ALUAV.PA - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBDYnR0UF9jeHVPTTUzdDhkcnp1M2V1cWNvZnprTnFPb1E1ejdFa2ZCc3ozbEk4U05XV0dKTEtHVXNKY2tib3A3a0c2WHRwR2F0M2RGdHJubG1qaE94UFRCQUNmWkRZN3R6R21TMFRKWQ</link>
+      <description>ALUAV.PA - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">cd6ef26d287f42700e4d0dfcde6dc0f1e4b70532</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>KGC.F - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9xU2dzaEIzMEhpRzlkUHVUNXVYbEQwY3NUbUltSlUzVUNzVUxaNDR5eFhLMHhDMTdwaFdTMV82N2ppRlYtNzlYZnZXNjR3LUJpRmIxRjBJSGxGbkdBcW5EdzVaX2NMaXY2NThNUVI5NUN4N00yZm1CZ3dyWnc1UQ</link>
+      <description>KGC.F - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">7a70cf68a9baf49dda809db3b7f295bad29b70b3</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSTP.L - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5HclItWjMwQXVPZjdkS1V6TUdaWHh5OE9vYy05a19zNXp3aDNZMVJFX1ZEeUFOeDI1M19VOWtkNGVHS2dyU3ZGU2kzN0xWVEljNmhtS0gzMUhNNi1qal9Ndk9WLUx3SGZyWFZKaThnWkZWdHE3NlRhaw</link>
+      <description>RSTP.L - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">945ae469ff6413b6527a895cdb489e14c93f322d</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>3032.NG - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE8tUnZNSzB1aV82V3BHdXJlS252SW5oTDVGeGJSZTIwR2hJNDNrOXk0WEZUSm1YZUJBa3ZEdC1kQkpmUG1ad2JhN0lPRUsyQU1RYlo4Z292OTNxSmp0Uk9hNEt4cWpRSzR1UF9heURWcG1kTmZxWTlDanVR</link>
+      <description>3032.NG - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">a1b9db84b541ed93167d37b15bc25470605d1134</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>PATC.PA - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1lxeTJKdUM4eUxHLUVnT1diWWFYVjE3YTM1MjdDUFd3VW9YcDA1ay1yZmxTUnF6ZkEzWXRuSGMzejMtVm4xbXAtTThmRXVYOGpOcmdXOGlLQXdwUzNlZVZ0QmR6RnRuNzd0T1NWampVaWsyNHhXaEdIMExLYjNsVWMwcERjdEtocm9ocHJCQXJpOGI3b1NRdlZpeDlpcGc</link>
+      <description>PATC.PA - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">65e44e421e86d24b84eb6b8e8844a5009c13d672</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPHT.D</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5VS0Y2V1hHSm85cUdtOUJuX2xDNnVFd1J3MzEzOHhiZWNydHQ4SFROQWk0am82NkE2OHVYYlZmOGwwNENiOVM5N1J5WkszQTN6SU1nU2xHbnowd2R5OEZyTmdyYTd6Z242MTctMG9yM25mUEJxWURqSExaaGwxbm8</link>
+      <description>HPHT.D Reuters</description>
+      <guid isPermaLink="false">e7f485e59f39ddbfd7d13c4f21b7780d840e7755</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>For some young buyers, renting and investing beats buying a home</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFptTHlqamFHQ2lLSnZ3dFRmVzFDQ1NZTExtVEphS3ZjeXpCMHAzd1RUWHlUdzYzQktXM2tLdkpWajNHVTQteHEtYVREeU1ndWpGaHZXMW9TSERxd0dQazduY1JJRGNjQTJGUzBoOUtGMU9VQmR3aTRpUXhiQno1NW1hTzg5dFFYdWQ1WU1oMEZnSHR4ZjltYjY2MnZRa1kyNlhnczlUTHFDc2lEZW5z</link>
+      <description>For some young buyers, renting and investing beats buying a home Reuters</description>
+      <guid isPermaLink="false">977dbc32e92b8c00b7528d4bba3de5728718acf7</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAYF.NS</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5oNDAyN21zVzFVdm1hT3dRTDdNWWZnaXVOcDR0aUgySkRyRkxPdXp6bmpDZVVTZkJBRGxhbmtkLVBhTHVGUzdLeUpDMW04bTVJejc0QzRnb0x0UGlaNXIzWHZyaFB6R3BpMktlRmFPNkNCNUV6dEpoR3NR</link>
+      <description>RAYF.NS Reuters</description>
+      <guid isPermaLink="false">695584a28ec23590fb5bfadd980cd62083033ee9</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIB.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjM2ajFraDFIdE5PbURVeW1tYzM3aElsa0tod3hVdmlYLUtRd2NGbjlnUnRIVnpMMkUybWswZnhDOG1nejBYZEFwdWthenRaTVVselg5QkFubTZtMjNlZHJtSWRUSUlIWWpEXy1mc3BiNDJKellSZEQ2WkVvODFsdmpkN1A3cFE</link>
+      <description>NVIB.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">c34e7519e478a1ab6bdd853c122c885b5329d9b8</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSAI.OQ - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGc5Zk9IcFlxWGdDOUI1bzQxWTZsb2F1VjdWSVlCeWUzNE1HdWJXdS04T3M3TnVVSVI2NG5KMFNxRXdLdENRTEtvUDdqY2VTSm5jMVY2WFByV0xnOTNPcWYxOWFQQUxlWmdOREJJNkNGNElGeG5RUW9UZmJKUXpkSFhTVQ</link>
+      <description>NSAI.OQ - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">9b87c398c8648c34aae4dd6d85b97db2eef99258</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLNCX.O - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWlsWFRrcnYzSzFzMzk1TWdWS2lKamtHZWYwWlBfX3JjUGg3TlRqVkM5aVI0SXR0Rjh2dFU3R3FPRW9RTUo5UlpSeUNQXzBzWFVfYlpmU0F6anY1LXR0OVl0Y2g4MXA5VHluZ3o5NmZYYUJ1V2o3TWp6YkdXeGR0TzkwTkg1TW1vZEE</link>
+      <description>FLNCX.O - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">db18d7ce6726844f57815c52ded2009f637c08cd</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RHYH.DE - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOR0sxel82Q0F5STR5SVFwQVExQm54RDdDYlVvbks3R1FLTGx4eWNtb3BRTU5XblZZY0xMUjB3R2tKYk9tZG5haTc2aXlFU2NESEh3TDJuVy1mQy1vVTdyNUdqT3FVa0dmb2pCdjdIVTVLRjZjVklOYmljdVJia1BSUQ</link>
+      <description>RHYH.DE - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">dadc7773ba95927ca1c6fc4792729c2b540ce4f4</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>9983.HK - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFd5em5UR0JCcDRsYXNxNHQxSWQ2VzhsY0hLLU1MdU9oNHdrbDdjSGJ2dG5RVTQ3bHY1cGpvU291VWU3dGpfUUgxQkdTeEhaTHg4WXNXMkd0UTZydGU2emYxTW1hLWtVRXMwaVdjRm5jLURrYnVoNGFlR3RmcHlxelFHZzVuUQ</link>
+      <description>9983.HK - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">2b367739594e175c7563428249b4200e3273a588</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>002072.SZ - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnZCRnZESHNvWFRTVDA3WDBldTVVc0MtSkxyTkxXcUprYXBmVWVCZzRpdjk0aE83SE94YW5oSHhxM3MxZXp0QTFhbWxGdHdzVEJEbVp2RzVnaktaUkRCdlJ3dlZ1WjI2djE4cnFKUl9rd2k0WjBjWDRDUlRScE53bkFzNVFpMlplbVl1X2pyOWgxVEU</link>
+      <description>002072.SZ - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">f622347880f70c4685a5d6b13546fec7474bc1e6</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>6525.T - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5ycWdUVW9iZ05aYXVyckJScVdEbG4teEVxY1pkNUJ0LVBvS09BeU5TWVdaTlBNaHF5M0NPeTY3RWtCVnVpX2E3WERoVkJ5d0hhcnFnNGgyeVRIR3NiWjBnUHRqUnFDcGNualdvNm9FcjZQWU9oc0J4LWxMdw</link>
+      <description>6525.T - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">b374edd16c051c6b14b05fb69361990bb3eaa664</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AEONTS_n.BK - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQdTBuMUplcHBtS25vYzdDNHdxZDBuamNuYmxFejIya0FYUThQWGFsdkZqRWozbzVTN0QxSzhncGFPZzlGTGk4eDlSNjhoNkpvRkNXVWM4eUJUY0thTXNZblZuT0FIa0Z2dHRNcjFUVUtzX0RSZXVZV0VlekZQY3l0YUJQanlLdw</link>
+      <description>AEONTS_n.BK - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">040c3d4dc056b3bcd519f2e1b027f8ce5d3695c6</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVAV.OQ - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBYSUN3WldUa3FNQ3FBc19vdExCdWM3REdjaExjbjAycHd2OVFIeTUzWnplV2JfV0J0QWMwd3BVb2oxVGJrNERyeE9xdmNhR2hmUXpjWHBvN2tVem1TSlVsUlZndnlCUmstNnhWRVhCdGtPNnRWNnpVSw</link>
+      <description>AVAV.OQ - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">875b69555cde411e8f1a03eeed85b1d59987de43</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>VSEE.PK - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWl2V0Q1RTVVSXZuejUxWXh2XzVyeW5TU1dsT3Z1bHhZVExZTWZQbWZpem51Y2FRWHlpUU03V0Uxck1xVVNmNzNNMEtYRVVjc21ocHppOXF0eWdhek1ZVEpHM0RiQXhVMmpqRXFKR0lBYTdqS0RqSlh2N09iaUthVTJTenE</link>
+      <description>VSEE.PK - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">0bc540abbf7d570f9d6460abde1e347b5411dd0f</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>LU7.AX</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOalprRVpNYXZ5YnEybU9vcmFHMktIUEVQUWxSLXczT3BNSEl2QXQ4bEtRM1FFT2NFSUg3ck1aUzRCcUhaR1dNNklSZGxNSldQQ19fV1VFcWxQdWZKajhoQldIcjdXOXV0TEZjXzFTdWdhejF0dm5oaUJyUlRkeEhEUE9IblhQUFBTNzY3Y21ES1Y5djdNQjRWSUFSZWlxb3pCU3RCMVUtWnBaZFhEYXZSZw</link>
+      <description>LU7.AX Reuters</description>
+      <guid isPermaLink="false">9f12f986320ca185c1f6ce74326b8d090c481141</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>605196.SS - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNUzBuSjNYTEtHaTdrSm1FTEFwY09MRUFMMW5QZE9EeTZrNWRsUWt2NjhsUk9KU3lmRVRGdzJheFlmU3dzN0dTdjZrR01STXFPRlRRcnBXbEpHMXA5aXV5MElJcVlnVmhDeS1tQmdsd3dZVlNxdVFkVnk2V2trd0J6QVctMlpxUQ</link>
+      <description>605196.SS - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">a365c4dbf74c6147eb99ae955cd3c608bc6b01ea</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>YICC.O</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPSFNyMnRzbkFteHlsRGpDZ3c4U2VSMXcxb3cyOEdsS3dUaE53cE9PSFpmT0p2N1l0UVBfVzhIWnpZRHMwQkVQeTdsOVN0amR2OFd0dXBNaUd2bWZXd1FxSTllamhCd1hfZjNoLUxNMVVDNTN0U3plY1JrUUVHX2Y2UnVhVDQ</link>
+      <description>YICC.O Reuters</description>
+      <guid isPermaLink="false">99b11f70e8d55343c7e8d09e594f9c2be170a9ab</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>NAN.AX - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0pucEpqbXowMjRlVl8yS1Q1YWJqc0U1NmNaYngwZjdMRW9ORGRNVGFmVGNlc19HQWd2OUwwYXplTDF2Wk9KcUhIaXk5a3lwUmdnVnJWWGtNMWd0LTJ0bGlVQmxLSHA1bDFwN0twQkd0b1Zmd2ZtNmQzT2tMUXVzbGhJNkQ</link>
+      <description>NAN.AX - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">ca79bf341993d669f33bca5cc0450ecb04989d86</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>YICC.O</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1NTUm9aVmI3MkthMXI2U3UycWxiS2gyOFY5R3p4dEpKVFFiOTBlNERyeTR4VnJ4WG5DNTV5bnE3S0Q5eWVvU1JQREo0RThPWGpOZ3FvSDBfMmVyeWlfT2RIX2ZDQUVJaDQ1RkpMV09nVjhLM2g1T0xZTHRrWHpsS1ZySXVMc2M</link>
+      <description>YICC.O Reuters</description>
+      <guid isPermaLink="false">24d4b109ebb84115ac2120519c2b51c143622d77</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ALUAV.PA</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkhLTi1LRmNNc2pjZl9sblVKYWRfR0FNT1FrTTJKMXBaNF9LUzhhZTlPeENDZjBPbjE3V0tyWERQdGZmMHZGUmtyV3NZYjJiZjBQVEdWOTNZMlRqRi1fZmVRdU1ucDA3aWs5QldCSnJ0c3pKVHp3SFF0dUdQZzBPWlVZNXhtdw</link>
+      <description>ALUAV.PA Reuters</description>
+      <guid isPermaLink="false">7168ebf911d5f99622f730e96b8959eb158803ea</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>601225.SS - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWZPOHZGRWZ3VzNiSXNzYmFyYVBta09EX0tUN2E3VHNTamVFN0FkRXh6S2RlZHpJS24xSW5WOVZRLVdlWnBHYlN2REFuT09VNGxZdXpicDA5YVBaUkdmU21UUXVua1hSV0VZZFZEeVBZZ2tzRXRZQVdfWGJYZ1lfeTByTzA1dHpBVERHN2g0ZTdDUHhMcjFhTGFyZlRrZnFTMkx1aEMyemduaTA</link>
+      <description>601225.SS - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">92b7f56a7c40212d64203df43df60cfdb265c7fd</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMI.F - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBsa19EM0JRcTJPUzhKSElLT21MZDlnZGZhYkdwWHl2SDZQVHVMVUFGOHhOeXBEVlBlQmlsOEtCeHp6N3JFdDl4aGk4RXd0TEVIUUZDc1pOQmhvckdRaVZ5cS1MdklydkdRWHFQQVlXaWJhRk93R0lZ</link>
+      <description>VMI.F - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">cfe3b2f714a51d41b70a593b63e88c1a71fb91e6</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>(TRXS.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE90M3BOYWJhMlY5bTlDVm8tUGNHa3ZfUjNWWk1jUTV1bHBSMkR2TDIyZnVmWG5mZ1Jab2JtLVJNOTl2ZUEyeFVPMHdqbXRNQjRUX1RfbV9NQmhmR252anc</link>
+      <description>(TRXS.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">433e2bbfd5e6c5e0e6d51e27c7165a0010497019</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATP30m.BK - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOSjBYclJyclBGdnV3cG01RUFQdEhpV1dOSy1ic3JFV1FxNWdWSkl5MElpdS1iTHAtdkZSZVBmQlg5eUpYXzNwb3pKTEZKV0NhaWFMREFwbi1TTFlyQVhYS1lyb0xUOGpBVVphUkFYSFpvNW16Y3ZWR29Gclk2T1BmTEZWWQ</link>
+      <description>ATP30m.BK - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">3ca583d47c4c02c675da3b091686868a22a30f72</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>MMTC.BO - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDFiQjByWm4wMlg4SmV1ZFBGZWhpbTZmbXdKVzl5bTlhVnh2b2FYNmRIdUphY0VCcUdzMTFYMlVjMTNlRENZZHV6RmtHZ0hPRVRqbTMybGlaSFNKZzhNTWNsV0YyWTFRd3J0ck5xQ3F1XzRPNXZOMmI2M2dWTW5VOXRod19HQQ</link>
+      <description>MMTC.BO - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">191e6f250e0b59829489c8c91f8ad39a2debf0d4</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>YICC.O</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jTFVrRm5HNUJZSnJfM1lnLWxuT05mWkRUaWNWdUtPeDdtWXoxU3VMU2dwOElpQWw0amYtVVVIUmwwQ0Y0eVdZUy1ZQnNSRzRDaHBOZUtmWHNkSXZEeTJmQ3pTT1k0UVNF</link>
+      <description>YICC.O Reuters</description>
+      <guid isPermaLink="false">dbff2e22f0966386edaaea484e0c8bce966f8aad</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>DEEJ.NS - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQRGRoN3pnOGpSbEV3VEttTW5CZHI5VUpQYXp5QkpnZ1dESEptdUxvbzBQd3g1cUhabTlHcy1UMDIyZW1uYy16d1VTZE0xY3FBZnBxa1VHUTVGNHVDdFJ3eS1HSml5blVjSlRMV0dxMXgxb0lPSTc2ZnV6MWJxY3RHbUVZY18</link>
+      <description>DEEJ.NS - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">646daf068f48baa85e7a67ba2b49cffb9e96857b</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFd2cmN4RXVNQzhuX3RreE45dWxtQUhnSDRrUHN6bzZpWE9rQ0tnVXUzQmgwekRnY1o0ZVdjcFpFdkFEUVBXcEJoV093WDI4cE5MTnVfZHhfNVZlOFZySkVSU29acE5JZ3EyTEk2a0owLURRX0V2MmFXNkR2TGtvbVJvTUlVbFdUNzhEN2hXbTdoR0k0aW1Lei13QUt2X00xbDBseGpvaGswaXgtcDdNSGFBbzlQSHd4eVA5QlZ4V20</link>
+      <description>India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record Reuters</description>
+      <guid isPermaLink="false">2befc1ce1f9beb13d243fb9f78c48a169450e94a</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lagarde comments at ECB press conference</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXpTVnllTXpGQU5QaWxJdnVicjV3MnV2VGVFU2IwXzJiWXBrdDdyc0F3a0NRVkl2ZUNxbWdjLXB0YU41QlRvcmFfUW5lSmhWNTJEX2M1Qjc3bVVfN3p5S1RZSFcyU2dRcTNPdU9GeVYwRl9kdHpYZHZ5aUFoY1dScGlpRUJYRGt5SzlOMQ</link>
+      <description>Lagarde comments at ECB press conference Reuters</description>
+      <guid isPermaLink="false">b7fa1c3c46eec35d6e22c0c7971aad4c0d7ed940</guid>
+      <pubDate>Thu, 10 Sep 2026 16:22:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
