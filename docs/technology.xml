@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:22:43 +0000</lastBuildDate>
-    <item>
-      <title>Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr</link>
-      <description>Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock Reuters</description>
-      <guid isPermaLink="false">545d0ee28a00f461b655bbdbb0d9c27aa795279a</guid>
-      <pubDate>Tue, 08 Sep 2026 16:37:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>US accuses Chinese AI firms of 'malicious' copying of AI technology</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ</link>
-      <description>US accuses Chinese AI firms of 'malicious' copying of AI technology Reuters</description>
-      <guid isPermaLink="false">1ce7aa70529fb6e8bea75f7e38ef4024cd49a9aa</guid>
-      <pubDate>Tue, 08 Sep 2026 21:07:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 20:50:37 +0000</lastBuildDate>
     <item>
       <title>Cognition AI raises $2 billion at $48 billion valuation</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPc3hsV1U1MTdYTkgwaHJhanppVTU1cUZVLW94amhlM3liQjE1SUVFdnJtRFlvcExWRkI5RURMMllzd1djSlhUT09VTGotRHhFZm1NTmdDTXpEYmdNaVhITU1STXdTSVE3NlhQVVAySTE1WUVhXzZSZzdSUl9DRVlmVWVpaEl0cXR5ZzBjYUZlaDRzbkVfSFllNVJEOWlHQQ</link>
@@ -59,6 +45,13 @@
       <pubDate>Thu, 10 Sep 2026 04:39:07 +0000</pubDate>
     </item>
     <item>
+      <title>German military evaluating 30 AI tools for introduction from 2027</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDBEMmRZeW16bDFuMlZWUWxOVmV3NUllTlMwMEx5Y0ZWR1hNMkZ3NTM4WGp0YjFrcVJUdVNCR05pZTdKV0pIN1ZqS1pJdHR0MXRGMlVScGg3Z2tveUxTazJEenlhWlZ2S2dLQkY3QWVaalJHdHoyNVZWTzk4WDFyQkNNTlVINzJ0RWtjSnp0cUtyVTlVeU5Da3RCXzBVQjV3Q1BnRzlB</link>
+      <description>German military evaluating 30 AI tools for introduction from 2027 Reuters</description>
+      <guid isPermaLink="false">3990ceb56532849bf0ae13c621c457c5ac9b1e7f</guid>
+      <pubDate>Thu, 10 Sep 2026 11:16:29 +0000</pubDate>
+    </item>
+    <item>
       <title>EU's cybersecurity agency granted access to Mythos 5 AI model, Commission says</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWVkQ1I1dzB2Wm10ZmloY0d5bW9PNEpSSnVTT0V5bHU0SXNsMnEyY1c0V2NmVnhzSm1qZ0JXZ1dsaHBDNkJmRXdzaWVaeks5ekhROVF0SjU3cGQ5VWRPc1NPRFd2UmtYRTJPZWVLamFvRjV0WmRnWk04UW13UUcwZnlGNFlORzd2cFUxZ056UkRJcEJaekZSMFM3MjREMHpzcWQybWVpTGZkSGZGOGNCQnV3bFowZ3dxeXl2bw</link>
       <description>EU's cybersecurity agency granted access to Mythos 5 AI model, Commission says Reuters</description>
@@ -66,11 +59,18 @@
       <pubDate>Thu, 10 Sep 2026 11:16:29 +0000</pubDate>
     </item>
     <item>
-      <title>German military evaluating 30 AI tools for introduction from 2027</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDBEMmRZeW16bDFuMlZWUWxOVmV3NUllTlMwMEx5Y0ZWR1hNMkZ3NTM4WGp0YjFrcVJUdVNCR05pZTdKV0pIN1ZqS1pJdHR0MXRGMlVScGg3Z2tveUxTazJEenlhWlZ2S2dLQkY3QWVaalJHdHoyNVZWTzk4WDFyQkNNTlVINzJ0RWtjSnp0cUtyVTlVeU5Da3RCXzBVQjV3Q1BnRzlB</link>
-      <description>German military evaluating 30 AI tools for introduction from 2027 Reuters</description>
-      <guid isPermaLink="false">3990ceb56532849bf0ae13c621c457c5ac9b1e7f</guid>
-      <pubDate>Thu, 10 Sep 2026 11:16:29 +0000</pubDate>
+      <title>Oracle's quarterly revenue beats estimates as AI boom drives cloud demand</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs</link>
+      <description>Oracle's quarterly revenue beats estimates as AI boom drives cloud demand Reuters</description>
+      <guid isPermaLink="false">4f2f7436d23c0a8dddd823d8cb21c4e3ccedfdd6</guid>
+      <pubDate>Thu, 10 Sep 2026 20:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1VIZHRHblVCWGZUV0RaXzNjSEVDSjllRTlBcnVnQm91bUNKakVPYkhyM3BBc05vU3JRR1lGRUVmSENxcHhETVFWMDlPVUxUcTZoQ0RVWURuZVZtelFBUlNIcUlYek1nLVJ1MFNMam1JTkt0UmNJRlh5UUV0SHVNT2NseTJQcnlJZ2VFbU9QRTZMMzJMYUl1bzAzREFsanFZV0pvcGF3Q1BkOXd5X2hB</link>
+      <description>Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports Reuters</description>
+      <guid isPermaLink="false">80cc0022e48b071a0ba3af2892ae3df4a5db64ad</guid>
+      <pubDate>Thu, 10 Sep 2026 20:50:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
