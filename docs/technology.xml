@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:26:44 +0000</lastBuildDate>
-    <item>
-      <title>Five takeaways from Apple’s biggest product showcase of the year</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2NHUUdXa0Z4cWZtOFdfWkdQLXcxZWcxMkJIblZpVkNwVnBJUENZdjNQWXprQnM5SkFXTFY1a3hqUUJFY2FCZk5TZFJhaWFtQVlqZ2F1ckhkTXlaRHl4TzFKazNTT2VYS0JPT2VROHFVNXZTV0d5TEE4N2ptR28teEdEMlp3aTNzVm5CYjZyTnRaSUdwbVd6Y0FLUlNRdERsa0JpMnh3RUJBcFY2Umt0Vm8wczBVRk51NkE</link>
-      <description>Five takeaways from Apple’s biggest product showcase of the year Reuters</description>
-      <guid isPermaLink="false">af18c3db1b2b470e6c41b78a1d0f73ad7ae510d9</guid>
-      <pubDate>Wed, 09 Sep 2026 20:55:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 20:56:47 +0000</lastBuildDate>
     <item>
       <title>NEWSLETTER: Some researchers want AI to slow down. The labs can’t afford to</title>
       <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcnJuNjkzMXZOd21xYXZRQ0pKRXUxSFNzQ1pWTFlUX18yOEpXZWx3LUtJX2xqYzlvWk1aMHBVZ0dRbE45LXl4UThnSDdFMElmQkVNNV9HcV9TS3dpQzFNSDkyYlZIT2praGZNcVV5WW9GcjE1N3FrSGVMSm55Xzh2Qk1ETXNidUQtVF84a282OFU3TFpoNklGejZpZndmeGtYVGVXcjZ5dVhxODNiTlE3Ym5sNkM0UjB4bl9nWlo4dko3c0NxM09Lag</link>
@@ -64,6 +57,13 @@
       <description>Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports Reuters</description>
       <guid isPermaLink="false">d30470740fcaca9f8baddac075a4be4539f0efa2</guid>
       <pubDate>Thu, 10 Sep 2026 23:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roblox expands tools to help creators build, distribute games</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTZCOHZjRXhtY2sxV3p2ZlB1MU1USlh5TWNfSVA5NU9qaVNZNFdPZWtfbjNqa1hOS2NtT3RrVlY5dkt0dE1jTW1xTmcxaUkwOWQ0Mm1odjBKb2hOTVQzaVZiaFZMQmNxQ0x6ZWE1SmF5YzNmM2s4OW9GZWxfbDFxQkptOHphUDRQRWtZa2FzLTF4TDRSWF95Wk5iTEdIZldzWlplcXFJbw</link>
+      <description>Roblox expands tools to help creators build, distribute games Reuters</description>
+      <guid isPermaLink="false">f88a3f92ace79d56fc9aa20f43fb0fdbf2041f1e</guid>
+      <pubDate>Fri, 11 Sep 2026 20:56:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
