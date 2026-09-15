@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:57:16 +0000</lastBuildDate>
     <item>
       <title>Viasat, Space42 commit up to $1 billion to direct-to-device venture</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVZOODdtRWRYYVNyei05LW9kU284X1Q2QTY0NWRKay1rZ25PRGplaU5QaGluNk0zVnl2RElVajFIbS1Kald5dkNuR3dpRTM2Ml9RMjFiaFlWaUMyTThVU3pNaFBuUFlVQ0FMLWNIWnBDcDlDWGFmcjMzTXZjN2wwY0dvekV1VlFYeW9WV1RqNDBhcDBTVmpXOVZ3TnYyQ0lkd0ZVbGZRTk5jUzhRd0RiSHNJMl9rd1lX</link>
@@ -22,6 +22,13 @@
       <description>Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' Reuters</description>
       <guid isPermaLink="false">6b11a4510021148547299679409f13c8d3436f9f</guid>
       <pubDate>Tue, 15 Sep 2026 11:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ</link>
+      <description>OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports Reuters</description>
+      <guid isPermaLink="false">64aae354fb569ba100cbc1d319ab3c6acafbe48b</guid>
+      <pubDate>Tue, 15 Sep 2026 16:57:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
