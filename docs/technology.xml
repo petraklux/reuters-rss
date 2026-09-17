@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:50:12 +0000</lastBuildDate>
-    <item>
-      <title>Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg</link>
-      <description>Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' Reuters</description>
-      <guid isPermaLink="false">6b11a4510021148547299679409f13c8d3436f9f</guid>
-      <pubDate>Tue, 15 Sep 2026 11:41:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 11:38:31 +0000</lastBuildDate>
     <item>
       <title>OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ</link>
@@ -50,6 +43,13 @@
       <description>OpenAI to regularly disclose AI misbehavior, warns safety challenges remain Reuters</description>
       <guid isPermaLink="false">026bab99d8767a02d67127222d848d66f6afe712</guid>
       <pubDate>Wed, 16 Sep 2026 23:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>France's CEA, Alice &amp; Bob partner on quantum-supercomputing software</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnpUcWU3U2NvdTlvRm1JdDZ4TEVhOXA3ZDQ4c0xnWnhGQ3QtYjlzeUg1SExBcGM1U2c3WE9RVjVMSmd1OE1OV01yRTAxVEVQWi0xVE5KWVVWMm55SFp0Zlh2VzI2STlWS0xoMDRsVXhtckxzSWJfRV9jZWhTTnJMNi1ia3hzS3M0MG1JOWREYWdITDF3a1FUeVM0ZXV5dlVPUU9EZ2hPRjJKV2tP</link>
+      <description>France's CEA, Alice &amp; Bob partner on quantum-supercomputing software Reuters</description>
+      <guid isPermaLink="false">6360da78be0033a2e609033bc0c7efdbcaf2c231</guid>
+      <pubDate>Thu, 17 Sep 2026 11:38:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
