@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:55:52 +0000</lastBuildDate>
     <item>
       <title>Pope Leo calls for AI systems that don't foster divisions</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNQko2S2pCaHVfSGdyZHFfQ3pJWDAzMmJVdmxRTlhpOVh2RzVQN1hQMlhYS1QzX3pyOFNtN3ZoVWZIcVJpcmZNZWFpTmZHa0VVcm0tTGcxc2VxNmFuQXA2dmFmT2ZUbW5RVDhtUmF2TWNwTDVORm1VUlRLWUtLSnpFSFVSTVQ5elQ1bzNmaGl2RlI5R1BuQVRjeDVPcTQ2Rzk5</link>
@@ -38,11 +38,18 @@
       <pubDate>Mon, 21 Sep 2026 19:59:51 +0000</pubDate>
     </item>
     <item>
-      <title>Accelevation targets up to $5.4 billion valuation in US IPO</title>
+      <title>Data center firm Accelevation targets up to $5.4 billion valuation in US IPO</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWRwZS1feHZJdllyNHhVSlFtb0FpTjdSaEpSMUJCdXVhOE9WVk5xX2NpWHJmWFV1cHk2eDVLbHdPSUhVQnVUdmhtMG1RbGU1dk9qN3FRNE5va01YRHNocHZEaGRhdzVXbHY5eEVaZGFWd3Z1Y2hxYmxXRWtQYy1rd3A0NExUc2prS3BBWENxV1V0ZnFFckhEdXhBbk8</link>
-      <description>Accelevation targets up to $5.4 billion valuation in US IPO Reuters</description>
+      <description>Data center firm Accelevation targets up to $5.4 billion valuation in US IPO Reuters</description>
       <guid isPermaLink="false">140ddbf92d34470511f359b8ae422a5d38beb526</guid>
       <pubDate>Tue, 22 Sep 2026 11:34:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo</link>
+      <description>Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models Reuters</description>
+      <guid isPermaLink="false">f2f01768ac8559757b7a99f8c7c4a72f330a178d</guid>
+      <pubDate>Tue, 22 Sep 2026 16:55:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
