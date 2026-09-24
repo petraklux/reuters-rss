@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:46:32 +0000</lastBuildDate>
     <item>
       <title>AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWRwZS1feHZJdllyNHhVSlFtb0FpTjdSaEpSMUJCdXVhOE9WVk5xX2NpWHJmWFV1cHk2eDVLbHdPSUhVQnVUdmhtMG1RbGU1dk9qN3FRNE5va01YRHNocHZEaGRhdzVXbHY5eEVaZGFWd3Z1Y2hxYmxXRWtQYy1rd3A0NExUc2prS3BBWENxV1V0ZnFFckhEdXhBbk8</link>
@@ -38,9 +38,9 @@
       <pubDate>Wed, 23 Sep 2026 16:55:40 +0000</pubDate>
     </item>
     <item>
-      <title>US probes Comma.AI over crashes tied to aftermarket driver assistance devices</title>
+      <title>US probes Comma.ai over crashes tied to aftermarket driver assistance devices</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQdV9sbnNaNlhvXzhiYTBkVm1keTJZMkRBVU15OUhuQkxZeFNWX3JENGFRX3RLNlI5d2x0SlAzVm5qb1YwbFEyNDJHLTM4VGFVMlNQSnVMZFRJSkY1VWZTTnROdHIxVERUV3IzRmxTbmw1TXBQbGJVU2VpSUl3U3F6RTdscWJNMkxiODJyUXlaT3RlNjhFS1hZODlxNFFJUzlqdkswRlZTbk1nd3hWc2k1NEJ0R3g4SG1EUHQ2SA</link>
-      <description>US probes Comma.AI over crashes tied to aftermarket driver assistance devices Reuters</description>
+      <description>US probes Comma.ai over crashes tied to aftermarket driver assistance devices Reuters</description>
       <guid isPermaLink="false">89657b60d7830d9250c2faffd4113182925ce678</guid>
       <pubDate>Wed, 23 Sep 2026 16:55:40 +0000</pubDate>
     </item>
@@ -57,6 +57,20 @@
       <description>NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom Reuters</description>
       <guid isPermaLink="false">e49917e8678aa605ebc722e91493f27fd2795a46</guid>
       <pubDate>Wed, 23 Sep 2026 21:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modal Labs in talks to raise funds at $15 billion valuation, Bloomberg News reports</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclhSS3UzUk8zMk1ucFBYVVBBWEhJZ1pab1ZfZVdncGllRWxFNXlpY29fY0E5MzlVTEFsNi1HMExkdmdMSm5sN2duVmZnRjJ1YzRrTWFvYWtUdWNwblRIRkRYRXZLeFpNR3lPMVBjYldBLUxGcFhQbTl0NVJVT3l4dlViVVg5UHFEdFp1eEFUSkxYRGJZM3RVV3JqSnlLc09TM192ZkxOUE4wV2NxTzQ1SWtMZENJbFEyS0J3</link>
+      <description>Modal Labs in talks to raise funds at $15 billion valuation, Bloomberg News reports Reuters</description>
+      <guid isPermaLink="false">23585ab7763d2a352593a9b2c46523da2e906f7c</guid>
+      <pubDate>Thu, 24 Sep 2026 04:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPUVNFdko3aEg5amFUWUpBT2M5a01DZXFvQTF5Q1JfalNYd2lQaW05T3JkQ3ZlUWR4Sm96cURIT2Y0SGZLeTB1RmN3WFJmVEVUTkFRNml6MTVDS0JaUlRvRjQ0X2RSV09zT2M1NGR2MHZfQzN0emlad083OTl4U2ppZ1U5Snh4b3NoT1ktZzNDTGpiX0I2NGNDNURqb1NQUEx3aFlob2VvZGJBSVZWWGN4Y0s1WElxcmI2bWJlUWNld2pEN2oyR1E</link>
+      <description>Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds Reuters</description>
+      <guid isPermaLink="false">caed29ffb80847ed5a5841def140442eebb75484</guid>
+      <pubDate>Thu, 24 Sep 2026 04:46:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
