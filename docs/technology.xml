@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 17:08:22 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI expands GPT-6 lineup with cheaper Sol and Luna models</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB</link>
-      <description>OpenAI expands GPT-6 lineup with cheaper Sol and Luna models Reuters</description>
-      <guid isPermaLink="false">469e8b1bcf5fd696acda7be9c9c1323a5af1798f</guid>
-      <pubDate>Tue, 22 Sep 2026 21:16:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Sep 2026 21:30:19 +0000</lastBuildDate>
     <item>
       <title>Germany to upgrade military data encryption for up to €1.7 billion</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0otaXJ3RzF1VHp6RllZbHJNbnY2TkZ1eFpOekFLSGlTMU5hUVo5SmpfeWgtQS1FNXl5S2hXOVYwUlA3OVpMUENSMHpVcE9tNmdzTzk0ZXk0WFdrbEZsVGNzb1FOX1FQNXZIZnVGQmhNNWdTN1J6bWRrS045em9mS3BPMzdqUmV3Nng1c2s5bTFOa0MybGE3NDNWRDZId1hScnVR</link>
@@ -71,6 +64,13 @@
       <description>Qualcomm secures extension to global patent licensing pact with Apple Reuters</description>
       <guid isPermaLink="false">0e0682201a5fbc18a618a20a801b597280b3ceb2</guid>
       <pubDate>Thu, 24 Sep 2026 17:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akamai, Anthropic sign $11.6 billion cloud services deal</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc</link>
+      <description>Akamai, Anthropic sign $11.6 billion cloud services deal Reuters</description>
+      <guid isPermaLink="false">84bbc18234de406205cfbe7ccb97f05c70ddaf64</guid>
+      <pubDate>Thu, 24 Sep 2026 21:30:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
