@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:42:29 +0000</lastBuildDate>
+    <item>
+      <title>AI News | Latest Headlines and Developments</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREhaMTJQNGVEZ3phVG5qZGpic050YnV0cEFIQ29XdmFuVE5Jc3pHMHVLVHVKRFhRakFlbzdzazN0d2lidzlvNE81aVRReTVuYi1EWGhCbURkaTdiWnozdkFHV2RCVldNbllJ</link>
+      <description>AI News | Latest Headlines and Developments Reuters</description>
+      <guid isPermaLink="false">e33ff06c9aaec5cd6456138d0c2ad3805261e13b</guid>
+      <pubDate>Tue, 11 Aug 2026 08:12:07 +0000</pubDate>
+    </item>
     <item>
       <title>AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWRwZS1feHZJdllyNHhVSlFtb0FpTjdSaEpSMUJCdXVhOE9WVk5xX2NpWHJmWFV1cHk2eDVLbHdPSUhVQnVUdmhtMG1RbGU1dk9qN3FRNE5va01YRHNocHZEaGRhdzVXbHY5eEVaZGFWd3Z1Y2hxYmxXRWtQYy1rd3A0NExUc2prS3BBWENxV1V0ZnFFckhEdXhBbk8</link>
@@ -71,6 +78,13 @@
       <description>Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds Reuters</description>
       <guid isPermaLink="false">caed29ffb80847ed5a5841def140442eebb75484</guid>
       <pubDate>Thu, 24 Sep 2026 04:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI startup Island valued at $6.4 billion in latest funding round</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1puRmlKdUNRcnUzb2hocUxkZmdland2NVEzY0V3T0g3akFuM2M0dzF4T3dxWEZVYlBMN1NxSTQ4cUR3VndWRV94eThxV3dzRjhzNzNIdnpKeUZJQ2JmZjBFSXZuU0E0LVh6cVp3dGc4RE9RVF9JWXVhbXZTQXJWREtrVkIzbzh2akFkUVJwNE8wcVlWLXd4UzFqWmM2c0p0bkk4dDZR</link>
+      <description>AI startup Island valued at $6.4 billion in latest funding round Reuters</description>
+      <guid isPermaLink="false">50871cfe92b3959d57a956de2b22473f486e65a9</guid>
+      <pubDate>Thu, 24 Sep 2026 11:42:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
