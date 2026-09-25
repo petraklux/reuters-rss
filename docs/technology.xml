@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:54:47 +0000</lastBuildDate>
     <item>
       <title>Germany to upgrade military data encryption for up to €1.7 billion</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0otaXJ3RzF1VHp6RllZbHJNbnY2TkZ1eFpOekFLSGlTMU5hUVo5SmpfeWgtQS1FNXl5S2hXOVYwUlA3OVpMUENSMHpVcE9tNmdzTzk0ZXk0WFdrbEZsVGNzb1FOX1FQNXZIZnVGQmhNNWdTN1J6bWRrS045em9mS3BPMzdqUmV3Nng1c2s5bTFOa0MybGE3NDNWRDZId1hScnVR</link>
@@ -66,11 +66,25 @@
       <pubDate>Thu, 24 Sep 2026 17:08:22 +0000</pubDate>
     </item>
     <item>
-      <title>Akamai, Anthropic sign $11.6 billion cloud services deal</title>
+      <title>Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc</link>
-      <description>Akamai, Anthropic sign $11.6 billion cloud services deal Reuters</description>
+      <description>Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake Reuters</description>
       <guid isPermaLink="false">84bbc18234de406205cfbe7ccb97f05c70ddaf64</guid>
       <pubDate>Thu, 24 Sep 2026 21:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK media regulator investigates Pornhub over age checks</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ1JEaUUzd1oweFhUUGVNZWNkTlg1ZHUyRzhBZXpTRWJDdGxvSjhkd2pPQTNkdmd0OVoydUJOcWxwck5JNngwUk1IdU00U1JEUk5IcnpWWlE5SkR3MVZKTTk5NENjbUh2dExvM25GR2YyR2xvbEVpUTRweC1BY3ltdURsX1ByQkxJemF6bXNxd09SV1BxQWtFel9VM2luWGwtSjY0Mw</link>
+      <description>UK media regulator investigates Pornhub over age checks Reuters</description>
+      <guid isPermaLink="false">b4a81c1ec2009cfad9a4589eba0f8161d031b6f8</guid>
+      <pubDate>Fri, 25 Sep 2026 04:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI to preview GPT-6 Cyber within days, Fortune reports</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW1NWU1LbHpzMTdIQUQ4R1ZabjVjYURuMVd5Rnd4S0RNNVNKMXpIVUJ4NnlTWnpOWG92TkVoUzhOZDNodW1kQVg1X2kwamF0MFFUSl9JQnJzeWMyQ0l2M1JRSy12SWxSMldLYUVqTzhkaDVxWHFCeVpzZzZnNjIzbFpkcHJtRHNBS3lhenFOZXFESmRsWHduai1nYWcwcWJUVC1n</link>
+      <description>OpenAI to preview GPT-6 Cyber within days, Fortune reports Reuters</description>
+      <guid isPermaLink="false">d88e6b6af29f32205508ac8dedbbd357677bd370</guid>
+      <pubDate>Fri, 25 Sep 2026 04:54:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
