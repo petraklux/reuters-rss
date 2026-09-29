@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 18:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:13:32 +0000</lastBuildDate>
     <item>
       <title>(C002.DE) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ibXVNQ0o5b1VPNEVtTWlsOUVsQWZPbkFoVk5UWWh4WFNQYlpUYlNRZUp5VXVpVXBNd21GS0RqVk1EV0FTODhIYXgzVkNLa0tzekJhZkYwNnBkc0Z6Y2JxNGdNUmI</link>
@@ -38,13 +38,6 @@
       <pubDate>Tue, 29 Sep 2026 00:59:49 +0000</pubDate>
     </item>
     <item>
-      <title>STEL.F - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMGpoaUxnRVgxeUZ1UXJDa1dobnN2bXhoVDBTeUY5YTFwdXFXaExPQnp2dHhJLVVac2VIODdpekRNelN0SmdWN3doTldhbk5mLXBGd0V6bXNyblg4QnpEMy0yNDZnVHcyWmVfQlJJQ2Y0MmdGSVNnNl9aMVlidEE</link>
-      <description>STEL.F - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">afd6b094a02d7af7d899be168e53f153a4727e49</guid>
-      <pubDate>Tue, 29 Sep 2026 00:59:49 +0000</pubDate>
-    </item>
-    <item>
       <title>About Future of Defence Screened UCITS ETF USD Acc (ASWG.DE)</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhbXp4T2o1b2ZFcC1GbHJrY1ZtMWlYNzJHd0hRZ3lKNjdIV0J1NmRJdEdGZU91VS1JMDJlb1EzTDdHbGd2aTZwX1BPZXEzVXdmdUo1S2JlSllXVmFqWG5j</link>
       <description>About Future of Defence Screened UCITS ETF USD Acc (ASWG.DE) Reuters</description>
@@ -63,13 +56,6 @@
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tQVlybUh2U3Jic2tKSHV0OXhLOFY0ZjVGcDBDczdjMjhWbHlETEhWVDYzazFlWUVDUG1yOEJlS2doc3U2dHRGRG16NWxTN1VRUmFvUjJXaV9iWEU3U1E</link>
       <description>About BNP PARIBS EASY JPM Glb Governt Bnd IG UCITS ETF CAP EUR (EEAM.DE) Reuters</description>
       <guid isPermaLink="false">3b99f68395981bd5b8f9c2b854666119aef6ef70</guid>
-      <pubDate>Tue, 29 Sep 2026 00:59:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASWG.DE - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQVktNOXVjUGxCa2JyRHliV1lYVmdXYlhHY3llNnk3M2Z4SGZnaWR5dkdvMlVKRWE1WGstdkJWYUN6SG9GRHh3VzBVVXFSSU9hR1d3LUdCWVVhYzM3WW1nWmdYanJ4azFUOUJyNnAwT01NN3FONlZiTDNrckdmWlBOY2NYZw</link>
-      <description>ASWG.DE - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">72e263a97b9dd15a66cc084022965ddabc246b8f</guid>
       <pubDate>Tue, 29 Sep 2026 00:59:49 +0000</pubDate>
     </item>
     <item>
@@ -311,41 +297,6 @@
       <pubDate>Tue, 29 Sep 2026 18:04:52 +0000</pubDate>
     </item>
     <item>
-      <title>(1193.F) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBVVlHZVRZWjZLTzRfeWp0SG5kZnBZMU1fNy1LaTh1X2Y2cUF6cXl5Qi1SNHB0U3M0YVpwUklabVBfblJKd1dFRFQ2WGNKbDhvNnhhVG9ZUFNFanJNOGtUSVFxd3h5MTVY</link>
-      <description>(1193.F) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">04ffa5c5414def64b11d2b064db71c392f89aeb7</guid>
-      <pubDate>Tue, 29 Sep 2026 18:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDIS.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWFNejZUZmVKQlMzVVFJd0d4ZlRnWjJrOXJfNFVlRE9rRFJieWFud1A3RXdUTktrdUVMcThKRGpVQ3hmRnNkTWgzMFIxV1VlVGtMczN3Wnd6OE9WZzBlcXlzYUluckVISTRDQmUyRmZDZ29LQkhXTlpYdTNUVnh6RW53</link>
-      <description>ZDIS.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">54ddc1243e240a4353b02bf8f72e6fdc3a3080f6</guid>
-      <pubDate>Tue, 29 Sep 2026 18:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>XAD5.DE - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWFJLWVzTlhwZUk1UUl5dW9YM1pqQlRXdEdmbW53Y005V0RVbVNGVVVoUTNMNlNrYmxWbjNjX0JvdHVLUXFQdzZwNmE4TFFDa3N1MDNIN2dlMWd5Yjlsd3Y4MEZRZ3FfSnNfOWFLT1dQMHQyb1NfdnBWVEtzQUIzVVQzVQ</link>
-      <description>XAD5.DE - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">7c0d123c9c626d8f8f8771b470adb270cd61757c</guid>
-      <pubDate>Tue, 29 Sep 2026 18:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>About Putnam Focused U S Research ETF (PFRX.N)</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sQnNfOTVIblFKUW40N29UODQzRVBxM1E1QTVqdUtkdjA0SEhheGhCZnBEUmRielJMak9kMXJTenJHWW5mUnZCa1JPdEVxRDEwVmpJZmlHTmtzZkZzRGc</link>
-      <description>About Putnam Focused U S Research ETF (PFRX.N) Reuters</description>
-      <guid isPermaLink="false">7d90435c8d0c864035d6a00e59692474a8eb7ad3</guid>
-      <pubDate>Tue, 29 Sep 2026 18:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUGC.N - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPdWdzX3d4YUpmdUpFbnAwM0VPZGVVZFlnMkxQOHA1QkFtZmdReGlzRDA4ZEV4dndXajFCMG15SXFwR2Rta0RaajFpVXllVGd3V1k2azR1RUdmTGFYalZpUkw5VUtmRm0zcmVyT2pWNmxBREpLZThKT1hSdU1xVGdldF93</link>
-      <description>AUGC.N - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">4994ca95d709f1813775a5c560a8fef645e27393</guid>
-      <pubDate>Tue, 29 Sep 2026 18:04:52 +0000</pubDate>
-    </item>
-    <item>
       <title>(XZSW.DE) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE14LTd0dHpURTR0UTdDZDBldG41cnJpMTh6LTJQWTRGZUFmX012UGdoY3FLN0luSldpc0tGbmp5MFRHZG4zek9iRWd4SXRtTTFZWFJ3XzZDc3ZWWFFxbXFwQ3FLeWk</link>
       <description>(XZSW.DE) | Stock Price &amp; Latest News Reuters</description>
@@ -358,6 +309,55 @@
       <description>European shares edge higher as tech stocks offset oil pressure Reuters</description>
       <guid isPermaLink="false">624fce144eee9c697b65743c949cb87714c682bd</guid>
       <pubDate>Tue, 29 Sep 2026 18:04:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>About Calamos Autocallable Income UCITS ETF USD Dist (CAKD.DE)</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RbkQtcjE5M01oUE84cE5FZWVnUnIwR25IdHdWRUVLRm5xZEU0eE5sUVBuMlp6MHV2SFBsdl8tTFg2amFYRUZ5SnV2bnV4R3VTcXRpaHFaWW5xZ0M2VFE</link>
+      <description>About Calamos Autocallable Income UCITS ETF USD Dist (CAKD.DE) Reuters</description>
+      <guid isPermaLink="false">cc93dc99f35ba582fbea667a6e221bcfe86e11f5</guid>
+      <pubDate>Tue, 29 Sep 2026 22:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>XAD5.DE - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkdKTzk4dVF6bHY3SmdQMnFyQ1RtWUxncWZRaV9HLVNwOXNtOGpLVkpIWldEZlhaRjVJVXI2WEFab0phQ1JOOUxsaFBHSW5hZ25JSnEzS25ZTkZWRlZaaHp0eG80aTc1bHBiakVuaDJIdkdvQmItR0lnUTRMeHcwV085Nl9IZVZDQ0E</link>
+      <description>XAD5.DE - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">38df3d392b79ee1ce2efe64ac3770f2405b175c2</guid>
+      <pubDate>Tue, 29 Sep 2026 22:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>XGVD.DE - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNUDJkZHVHNm44WHhaSDZLQUtuQlBOQ0lDQ0xZakN0aUNJMm9YX2pxZWtkeTJzY1E1QzIwb1A4eG1XOERvUDZLRUJFUGhZTm92MEgwNWlkcF9pR1l5QXVLR2o0N0s0UXRxNmF5N1lRR3ViSDhZa184S3pfMjJlSE1LVjBldw</link>
+      <description>XGVD.DE - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">8f061a515c953c8b50ca5806dd91f0eb8573f3d7</guid>
+      <pubDate>Tue, 29 Sep 2026 22:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICMO.OQ</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xaGNaOFl3cEhyMURrZGpWdnc3eE94ZW9xaDRmX2ZadlhNNUR4cDdVSTM5VTJjU053OUszOFVZNkR1Y2VjTGx1LXl1bEZpVGJ2US01Tk5xWXQ1aFdoTHhBZjhVMWw</link>
+      <description>ICMO.OQ Reuters</description>
+      <guid isPermaLink="false">a1c1df14b3d51972403436aacc8b4ac5f11d0a38</guid>
+      <pubDate>Tue, 29 Sep 2026 22:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUGC.N - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5ISFlmbjVoeHBUNmdRbk5uZjJoTEFxWm1BZEJubVFXd1hxRXY0cG5jbm55MEFrc3ZJYTlPWDVnUlFMX2R3LVFISFlXVEdOTDRZYW9DNFhvU29wbmxvcDhqVlJTeTRLeUR6NTdaMW5lS1VRVHhnemJ6anAzQUZCWFU</link>
+      <description>AUGC.N - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">1fe6578eeb4ecd44b20e54ea983943f9d462b4a3</guid>
+      <pubDate>Tue, 29 Sep 2026 22:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(.HSIDI) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE56STdXaGNZdW96cHRmektUaHAtM2FkTUowVHdxX25XcE1MNjJERllndmRjLW96ZVNJYm5haE0wMGRJOWRGVlUtWWVkTTVYVHZhYmQxRUFVYw</link>
+      <description>(.HSIDI) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">1019a86e9c13b93ef3158ced79d3048cf7e8fe48</guid>
+      <pubDate>Tue, 29 Sep 2026 22:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUROW.OQ - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOcU5YUlZCelh2clh0ZEpFSTVIemNIV3kxVzJqV2ZjdFlGbnJ1YWt1bHdWWDBGMXlkT0c4OFYybmlJd240NE1ieWNhZGNOb3dOaUU5b3gwcUt5a1JCeFd5akJ2bjNFWVVNZVZ1cXh5X2x3VzYybVhaYnZqY0c1b1dQOQ</link>
+      <description>AUROW.OQ - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">2065cfae2f1759f2551400c53aeebc8d6328f902</guid>
+      <pubDate>Tue, 29 Sep 2026 22:13:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
