@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:31:15 +0000</lastBuildDate>
-    <item>
-      <title>Cerebras to supply AI systems to cloud computing startup Gimlet Labs</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDgtbmhLenNVQVdOQXJDbmJmck52THdJR3BYWV8zeXdjRFdieFdIdUNlTTNreWNWSy1obHdabzhtakNsQldBeGF6Y0RwLTQ0ZVRzZy11UkFycEx6azI0dWM1enN5NkdHTEg3N1VhajVFZEFqMmlKblo3Y2Zmam1wUTNLS3ZNYTd2b2MxdWNVQzJtdklpVV92WS1wZllQVGVBak9mUEdkeldoWFZRWFE</link>
-      <description>Cerebras to supply AI systems to cloud computing startup Gimlet Labs Reuters</description>
-      <guid isPermaLink="false">b59daa2030005a1201947e746fed2a8856c0f8b7</guid>
-      <pubDate>Mon, 28 Sep 2026 13:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI agent firm Instinct raises $1 billion in latest funding round</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSng0ZWE1OGdrZ1h0amRIYTBJeFVXd0JpellybmtzcHY5WEM0RWpWY2hkZ1FVVUloZUVSalRkQnAxb3hPS0ljbHViV1NXMnUtcEpfV2hRdUU0YXV3OWFUQnp3a25icW9IbnFUbWs4TG9pYXVfZWt3bkRCOHVJb1AxZEpxbWJOekpRT3o1UElTT1dUR0N0bWRpc2MxTUtRS20wbHhzT203Q0VHdUE</link>
-      <description>AI agent firm Instinct raises $1 billion in latest funding round Reuters</description>
-      <guid isPermaLink="false">778ad7c8fac5bd4d28e0939eee833f84f5553c56</guid>
-      <pubDate>Mon, 28 Sep 2026 13:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta taps MongoDB CEO Desai to drive enterprise AI push</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEtXZ3gxSXRQejgzMEFqZFdudGYwSWdvUDB5cGVmckloeG9OLWR0Ml8xbWVmLTZjSmI0TWw5QnQ4WGY5cVppYjVDbUhZYUpTSVhFUFFtbjExeUEwRTBVSVUxRTRxRFU3M0hvUXdKcWpVRndxSjJuNEZXc0VtRnhfa1ZiLThJSWdIcFlZbjBLTFlJZHc0RE5QVFIzUkE1SkZyQTFXT1RxMWlWZw</link>
-      <description>Meta taps MongoDB CEO Desai to drive enterprise AI push Reuters</description>
-      <guid isPermaLink="false">fec240b6ce3cb08260d661983a6cdb7c93fd1b4b</guid>
-      <pubDate>Mon, 28 Sep 2026 13:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic rolls out second Claude 5.5 model as it builds toward IPO</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr</link>
-      <description>Anthropic rolls out second Claude 5.5 model as it builds toward IPO Reuters</description>
-      <guid isPermaLink="false">acc85e81fc8a681e7647015f962c6afe2aa90232</guid>
-      <pubDate>Mon, 28 Sep 2026 21:14:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 20:00:46 +0000</lastBuildDate>
     <item>
       <title>Tether USDT aids Iran funding, Senate report says</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTFWcFFUbzgwQjJVWElLM051dkpBTS0tcFBQdHNOb1V0VFh0XzROWjJWOXFxRjRfcUpmSnhNRFU3TDhnWDlSaDNlWDQxNUY2ZUFPeDZJZ0RmUVVPSURrdGRLaUM2VTFIYmtvV1NfTGhaU1BSakF5dFFTMEpTUUVtazVuOUtlYjRYc2ExZUZZQ1YwdkgxVGlFYjdOSQ</link>
@@ -99,6 +71,20 @@
       <description>Ukraine sets its sights on boosting high-tech exports, hails digital resilience Reuters</description>
       <guid isPermaLink="false">fd58893b905ee821aecad9e99c9b1040a505656c</guid>
       <pubDate>Wed, 30 Sep 2026 05:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italy's Eni to cooperate with humanoid robotics company Generative Bionics</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFJRUFd5SzRiTmU0TWRNMmRPbGNLT1JwUExsLTgwRm04bTRmTnB3SVRWTmFxcDFjQUk1U1ZHbUVQT19wVjBJQUxXdmFlcWpFdnlLZ1oyNHBuQnVIcVNnYkNpeGtkeHlwZ1dqbXhCV0RjZF82ZWFlb0syWndYcHRyTWt1OUprdFQzNVZIS0gtRGFEZ1NHdWhJTS1Yd2lVeUwwNU9UaUZzRFZLb3VIRFByVFBPUExXRUpt</link>
+      <description>Italy's Eni to cooperate with humanoid robotics company Generative Bionics Reuters</description>
+      <guid isPermaLink="false">bd2c18f872c884bc0a6ccbb7f0253b9f148f6d02</guid>
+      <pubDate>Wed, 30 Sep 2026 20:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI infra firm Accelevation's shares fall in tepid Nasdaq debut</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVhvNW9nTjFFTl9FUnhHNUx2VzlJR0FqalpPaGJhLTFHbm5tSGo5T3p3YnI1MThRdG41WDBnWC1waktzY0pVUi0wR1JYQ1I0NlEyRVBqVXNiSnFiTlFYVXpSQVdiQXQxN1B5bDVqN3NQS2ZjYm45eF9Qb1VaUGtra2RqRTRhVVRtWldQLUJIZFR2X3JmUUhyVTJSekZtTFRxa0dBTS1NeEN1cW5JbVgzZjA2UllQNFk</link>
+      <description>AI infra firm Accelevation's shares fall in tepid Nasdaq debut Reuters</description>
+      <guid isPermaLink="false">e14c6bdfe78942389c5b63c0c596a45b91a96e29</guid>
+      <pubDate>Wed, 30 Sep 2026 20:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
