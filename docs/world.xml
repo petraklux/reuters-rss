@@ -8,61 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 22:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:14:50 +0000</lastBuildDate>
     <item>
-      <title>Stocks climb after weak US jobs data, but bonds resume selling</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw</link>
-      <description>Stocks climb after weak US jobs data, but bonds resume selling Reuters</description>
-      <guid isPermaLink="false">7819f96d7d245475ebe9e773619ff1c37d586899</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foiled flydubai attack clouds regional airline revival</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOckx3VkNRTklaT01xMTdlQW5sXzBSZ0lPNWNBcWpZZmJCWnNCOWxnRWRjLVhnbmZEU28zZ2hNVkExbzNpeUpyazBtT1FQNWswRGRiYUxqY3BEQzVuX2RSZ3pIa1ZyTFQ1NjJaNFlQdnpTMDJVUjNKOUdxVkdHcTVpSm5tVVp6THRWOV80bEt2ZzMtY0hFeTA5Y0xNR2k0eElNT3Z6cVlJRmsxbmZt</link>
-      <description>Foiled flydubai attack clouds regional airline revival Reuters</description>
-      <guid isPermaLink="false">8bc5180a9ca204a7e16d569d7119c61a6aa79f7a</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU0zNk9Vb0hCT2pmbmJmeVE2S0tGa3NIMEdscGhEamlzdUhTUFdfLTVUX3FCTHVWMFdySmktUmdvTFIwQnpsX192VzYxdnUyTTJOWXRETzh1Z2ZFYUJpYjM3MWJJdG1XSG1tQTZCMnhBRlAzaTZEdHJEREY5cEJla2VZU3ZaZGtVOFZQMzljR3JFdUtUUlJUbzk1NzZiRzBna1JIRmdiVng</link>
-      <description>Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh Reuters</description>
-      <guid isPermaLink="false">2a9d6df4b701a6413697dbc431f684cbde45487b</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volvo Cars pulls sales guidance on Chinese outlook and slow US rebound</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkRRenhSd05wTU5RWmgyRGZQYzBiRzl6b1JjZnd3VjJMdGF0Q3FsNUx1bVZWMmVrWW1vQ1h5RnpUTGdNMmxrMUppekZSYzVtWmdwdlRxbW5OOWxZY0hwenBaa3BqaE9JSFZoSUx5dzJEOUlXSm9HRTVSOVo1anVyeGxCSElLQmlXZ3lxTlJBdEY</link>
-      <description>Volvo Cars pulls sales guidance on Chinese outlook and slow US rebound Reuters</description>
-      <guid isPermaLink="false">8c95787920788f90458e01795bcc80fc3009c097</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea's Lee threatens action against Ukraine over transfer of North Koreans</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNM245akM1RlRxVG11VW01T29OZEZfVXA1c1I2dEJoYVp4NkExNlBBLTJ2dG0tVjBBTVV5RzJudkhId3VUNWJyZVp3blVqeU9sWUkxV1ZvZ29mZjVWOFdxYmwtRFhrNjJvNzJxNDFqN0ZNZHRLbTQyd3J2ZWhJN3B0VGNFb2YwT25OdF9tUlFYb2RUT3pWRGItTjJtYkFqYko0VFZncmlHbEZtc3VGbFZGbTVka0lfWTd5RFVrZTJBRUdjU0Nva0hnVlB1RQ</link>
-      <description>South Korea's Lee threatens action against Ukraine over transfer of North Koreans Reuters</description>
-      <guid isPermaLink="false">d813b620be98a0bdc8f8b2c047c0d5c44a63c4c1</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hundreds from India's Gen Z-led 'cockroach' party protest, seek election chief's resignation</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekRpbGVJR0F5ZURMVElTWW96TTg2c05la2hpang1Tkd6VEtXMTRFSVl4ZHd3eExmM1dmSEFzN2hXWVJ0bFhrVHZDZUd0MzZIdkg4NGt3YmJnRVBObm9LZTlMa1lrMU4zSXlZRk1BWW9GQmEydGM5ai1JSkZqa2hvWXB5SzI4TWUtYUQ4QlR6ZmNudlR6VlhjTVBxeHJpT1lRNEJpOU1yMmVkZE1rWlkydlB5a0c0QXJWb1dZ</link>
-      <description>Hundreds from India's Gen Z-led 'cockroach' party protest, seek election chief's resignation Reuters</description>
-      <guid isPermaLink="false">533d2d6336eda79d80716b1226b9948f357dff05</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian airstrikes choke bridges across Dnipro River in Kyiv</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk5TTks5OXBwTG8wMk1WQ0hCaUxRenlXMnBVZlBNVklSZHBDQmg5SmNTRWE5dkFwb1VpM21IUlljMThNTkpveEZlNlJvemhSMDBuOUJRcldyRThMNUoybnE5dW51LThsNW5tODlZWUd0ZlgxcFhTb01ITVRUT05zbVpwaVJ0dnB1VU40cFVLUVlPM2VBMk8zUFpTUXEzVXg1VUdWc1EtY1ZnWlpMWkJJ</link>
-      <description>Russian airstrikes choke bridges across Dnipro River in Kyiv Reuters</description>
-      <guid isPermaLink="false">d7beee89cfffb57cb488c4881372d7560f9c0db5</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>US congressman demands Starbucks close its first stores in China's Xinjiang</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxObmV6NUtNZTNfS2E3ZXQ2VHlxZk1XQ3d3djZTQVVwZ1ZORnlhSWkyY1puamgxLUxyeW44c3ptV2V6ekl2TWhyeGFFclBGaGVrT2stNW9DM3U5eFVZQ1l2cXVJOEFtRDExUWIzWGVtM0UxQmpyMzA2VlVuSDFIY1VqNEQ4dFlxWWhLNW9fdEgzSFlHaThRNzZKc3ZZaHE5RHF3Sk5henhnY3QtQUV6bkxPaUtmZzFweG8</link>
-      <description>US congressman demands Starbucks close its first stores in China's Xinjiang Reuters</description>
-      <guid isPermaLink="false">952458b93702de6325bca7e76be8055c2a139875</guid>
+      <title>EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1pianEyaEVGbWJVZVgtcFZPX21QM3F3VnVnbEJmMC1rVkxRQWJGN0pUSUhmVzJ4RU5zQTNVZmZJNEVOY085c1hiOGtUMXY3OG9SdHd3TUVTc2U1RTZGYWItUjNTU2pxNG5LZlQ4VFVmT2gzTTRBY0VneldaNUpFMWo2YlJFejlJM1BhdHJiNmtSTTdhMkRKS19TV0VXcWdPSVNOZno0RzhBdWVsVHFVb1NJQ2FhNk9CWmNuRHk5Yw</link>
+      <description>EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show Reuters</description>
+      <guid isPermaLink="false">a113a24b79e7cc1254745ae022d4b37cac603254</guid>
       <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
     </item>
     <item>
@@ -70,13 +21,6 @@
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFQyTU1FaVBENkY3X1RkbTlmMkE5LVBkTjF3X1lMMExZb1M5anM2THFGOHVTYmJzdWFCQ0VUNU0zN2xYNUI3ZDF6aEl4WXNUcnd1MkJsQmhLako0c2NqNW5Yb3JIbjkyVHN6MWFQNjBQMm15QjA0WDlheUVnSDAxdDRGd2NKQVRyX1lxSlhSa2FuMk55RUp3QUV4RFlfLXdXU1pEQXBLU0Y0OFdG</link>
       <description>Students and police clash as France struggles to quell school protests Reuters</description>
       <guid isPermaLink="false">453e4abb14bc7860834a8e252b75b6e690d53dc5</guid>
-      <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1pianEyaEVGbWJVZVgtcFZPX21QM3F3VnVnbEJmMC1rVkxRQWJGN0pUSUhmVzJ4RU5zQTNVZmZJNEVOY085c1hiOGtUMXY3OG9SdHd3TUVTc2U1RTZGYWItUjNTU2pxNG5LZlQ4VFVmT2gzTTRBY0VneldaNUpFMWo2YlJFejlJM1BhdHJiNmtSTTdhMkRKS19TV0VXcWdPSVNOZno0RzhBdWVsVHFVb1NJQ2FhNk9CWmNuRHk5Yw</link>
-      <description>EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show Reuters</description>
-      <guid isPermaLink="false">a113a24b79e7cc1254745ae022d4b37cac603254</guid>
       <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
     </item>
     <item>
@@ -94,17 +38,17 @@
       <pubDate>Fri, 02 Oct 2026 09:42:40 +0000</pubDate>
     </item>
     <item>
-      <title>Finland police investigate suspected intrusions into parliament members' homes</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1JhNnpPbzFpVVJRS1FIdk1GWXQwSzNhZ3oyLS1nVENqcmxWbmdfbFA0bnROTElvV0pIN0NjdTl3bTFIV3JNcnVyU3pMd2pxNjh4bFNZV21adzcwRlNfSzF1VjhwRV9DUm91WE45bTBLcGI1RXMwTDFXdXUwbjBicFlIS3cxbGhwS01NUVdPWnFoQy1PTWJOMDg2d2xoN2k4b2doZ2pjSVhuYmFBZzBxUWFHa05HbllNTWxhUlg2R0xuVGFD</link>
-      <description>Finland police investigate suspected intrusions into parliament members' homes Reuters</description>
-      <guid isPermaLink="false">ebdd994cd15fee515ab63b3c4ed8751b6cc12a6e</guid>
-      <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Global equity funds draw inflows for second week as AI optimism holds</title>
       <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQRjRIMU5PMXJxMGJsd1dZbHgtWUYxQWtGS0h2ZHBteW1wOTNoVWZoUDlEOURpQmIwTUh1TEZsMi0tM1V1OGxUQXN3RmpIN1pqYUJnNnNlT3paU0J4MlBkcUdNRkR0Q1lhWFVUcUFJSFZSR2F6bmJIaWdJYjkwQ05ZdHhR</link>
       <description>Global equity funds draw inflows for second week as AI optimism holds Reuters</description>
       <guid isPermaLink="false">ba3f7148f41a2cf62199f4cd2dc6c9799017815c</guid>
+      <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finland police investigate suspected intrusions into parliament members' homes</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1JhNnpPbzFpVVJRS1FIdk1GWXQwSzNhZ3oyLS1nVENqcmxWbmdfbFA0bnROTElvV0pIN0NjdTl3bTFIV3JNcnVyU3pMd2pxNjh4bFNZV21adzcwRlNfSzF1VjhwRV9DUm91WE45bTBLcGI1RXMwTDFXdXUwbjBicFlIS3cxbGhwS01NUVdPWnFoQy1PTWJOMDg2d2xoN2k4b2doZ2pjSVhuYmFBZzBxUWFHa05HbllNTWxhUlg2R0xuVGFD</link>
+      <description>Finland police investigate suspected intrusions into parliament members' homes Reuters</description>
+      <guid isPermaLink="false">ebdd994cd15fee515ab63b3c4ed8751b6cc12a6e</guid>
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
@@ -115,10 +59,10 @@
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
-      <title>AFRICA-FX-Uganda's currency seen extending losses after hitting record low</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGJNVlRxbW1wcDRhTU80aXBsY19TMExHNDk2VUpzekptN0FDNnpycjhybXFvUjBZMDJtVFROang4Q3ZhVW16dWpXUVJhNFVRLWdjaGZua0VvWC1iZ2NLWG5yQUhIWTI3MG1yMzNBMjgxMi1SNHBwUnV4Q1FxZURRdGt2OXpBVUVpZktuT3dzNHhpdXZtNWNMN2tUZnNnSHVscGRaRm1vYkxBUXUyZ1ZOQnBBd3k1QjFYUHRUTmdHWQ</link>
-      <description>AFRICA-FX-Uganda's currency seen extending losses after hitting record low Reuters</description>
-      <guid isPermaLink="false">b8b661a2a5681352510fe0d83c4242e3e29691c0</guid>
+      <title>Italy hikes growth outlook but budget deficit to rise from next year</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOQk9FMWR2VUFlZnNHVHBWUVJ6VVYxc29ZbTdtNWNUUEx1UkwzY2c2MjhvUGVwSEM5THZKV3R5RF82VHJfRGJHSF9BT0RFalJFZ3NDeVVmT3Z3V0ZDQ183YngzN3A3R2diamNBU1RBZ1BKbldoMEVRSFRoT1M5M19mVTZxNm9VN2ZEMmkxdUszYklqNmNhVlZQdW45UXV4clZYLTRKRGpGRQ</link>
+      <description>Italy hikes growth outlook but budget deficit to rise from next year Reuters</description>
+      <guid isPermaLink="false">cbc10c54fd9d568a488bd827ea91130d0739dacf</guid>
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
@@ -129,17 +73,10 @@
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
-      <title>Italy hikes growth outlook but budget deficit to rise from next year</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOQk9FMWR2VUFlZnNHVHBWUVJ6VVYxc29ZbTdtNWNUUEx1UkwzY2c2MjhvUGVwSEM5THZKV3R5RF82VHJfRGJHSF9BT0RFalJFZ3NDeVVmT3Z3V0ZDQ183YngzN3A3R2diamNBU1RBZ1BKbldoMEVRSFRoT1M5M19mVTZxNm9VN2ZEMmkxdUszYklqNmNhVlZQdW45UXV4clZYLTRKRGpGRQ</link>
-      <description>Italy hikes growth outlook but budget deficit to rise from next year Reuters</description>
-      <guid isPermaLink="false">cbc10c54fd9d568a488bd827ea91130d0739dacf</guid>
-      <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suzuki asks India suppliers to shorten production week in push for quality, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmdWREZBV2R2QTVlZ1M3OVZFQm51UURISVY0N2tVeHRadzF1Y21nLXBKUk50aTV3Szl2UlgxaExQNjI2c3ZxQzB6QVZCVThPNGFudnBmX28xUWtJVVlGVXMyZGtWbGdKUEVHRVMwd0lNWFY5SEhqSWExdEV3dkk3ZUlKWnBmR2MtMTZTa1JHWlN4bERfSVFJUDVmeXV0RWZYZTFXUFlMWTh6OUd4ck1uN0VObVBCMmtnd1I3MzZ1a3ZnZHBFQkhMZ1RkNA</link>
-      <description>Suzuki asks India suppliers to shorten production week in push for quality, sources say Reuters</description>
-      <guid isPermaLink="false">cd60e827bab960a301cfa3a0a3ddfe8e718e630c</guid>
+      <title>AFRICA-FX-Uganda's currency seen extending losses after hitting record low</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGJNVlRxbW1wcDRhTU80aXBsY19TMExHNDk2VUpzekptN0FDNnpycjhybXFvUjBZMDJtVFROang4Q3ZhVW16dWpXUVJhNFVRLWdjaGZua0VvWC1iZ2NLWG5yQUhIWTI3MG1yMzNBMjgxMi1SNHBwUnV4Q1FxZURRdGt2OXpBVUVpZktuT3dzNHhpdXZtNWNMN2tUZnNnSHVscGRaRm1vYkxBUXUyZ1ZOQnBBd3k1QjFYUHRUTmdHWQ</link>
+      <description>AFRICA-FX-Uganda's currency seen extending losses after hitting record low Reuters</description>
+      <guid isPermaLink="false">b8b661a2a5681352510fe0d83c4242e3e29691c0</guid>
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
@@ -147,6 +84,13 @@
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1YtcTVTVVkxcjFJU2xzeXBjNlBrbDBveDJKa0taREVldjdkTWlVeFJXRHEzbE5lM1ZEaFVoTVRKMWNKQjRwRlZ5OTc2anRMNkhPMGVtSk5MdUR5ZWxNVzgyUXNNbTMtSDZtR0NWRkVBZlNDOUR1a0txd0wzLXJ0Mm1Gb0pVQk5qeU1jdE1nakdUQmw3c2REOGtaM3k</link>
       <description>Trump expected to name Jay Clayton as AI czar Reuters</description>
       <guid isPermaLink="false">47506e21dac8d2f0527f37bda557e2c3967f72db</guid>
+      <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suzuki asks India suppliers to shorten production week in push for quality, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmdWREZBV2R2QTVlZ1M3OVZFQm51UURISVY0N2tVeHRadzF1Y21nLXBKUk50aTV3Szl2UlgxaExQNjI2c3ZxQzB6QVZCVThPNGFudnBmX28xUWtJVVlGVXMyZGtWbGdKUEVHRVMwd0lNWFY5SEhqSWExdEV3dkk3ZUlKWnBmR2MtMTZTa1JHWlN4bERfSVFJUDVmeXV0RWZYZTFXUFlMWTh6OUd4ck1uN0VObVBCMmtnd1I3MzZ1a3ZnZHBFQkhMZ1RkNA</link>
+      <description>Suzuki asks India suppliers to shorten production week in push for quality, sources say Reuters</description>
+      <guid isPermaLink="false">cd60e827bab960a301cfa3a0a3ddfe8e718e630c</guid>
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
@@ -178,17 +122,17 @@
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
-      <title>Argentina announces citizenship-by-investment program</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQb243dkFXUFRfeDBROHdUbVdxNTJranlUNUdoRkhwNlI5WWFPSG11dzlvWm55cnl5TW5Gay10bVptbUhSWWxQcThfMTBkMWtFdGliUTlZTkpQN2RKSDFNeVdrblc0cjdOWmFOOEZxYkpYd2g5Qy1DQ2owU1lCME1scS1ldWUyekhLdEFTQU9pTmozamE3YVJTTFdZM1NLUGpTNzFGVGUzYw</link>
-      <description>Argentina announces citizenship-by-investment program Reuters</description>
-      <guid isPermaLink="false">e4856be1981a293d2c0e37cb54f5a8960781bd4b</guid>
-      <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Pakistan says Mecca pact members to hold emergency talks on engaging Houthis</title>
       <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWExYaGpkaTdfbjMzM1pEc1EzVFA4emhFbVFYbEpteVNRMU94cG1lOG9WclVRQjdiaHJoSjlwcFU1M2Qxcnl1VndaM0h0c3pvZDdtOHEzQjNvLWhOYVM2a2tSZUw1MzRTV01Wb0hRVWMyVnNIbHdTY282MGFsWURpSGJfcUhuRDJHRjBpMU5xVzVOT1F6UFkwTnN1NFo4ckxNc3hWbzllUFZBYWItNGJRZEdITnFZV3A4aHh6RllfR0NXZw</link>
       <description>Pakistan says Mecca pact members to hold emergency talks on engaging Houthis Reuters</description>
       <guid isPermaLink="false">e62e24534a1d901e53557865611a0a6cea76b457</guid>
+      <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Argentina announces citizenship-by-investment program</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQb243dkFXUFRfeDBROHdUbVdxNTJranlUNUdoRkhwNlI5WWFPSG11dzlvWm55cnl5TW5Gay10bVptbUhSWWxQcThfMTBkMWtFdGliUTlZTkpQN2RKSDFNeVdrblc0cjdOWmFOOEZxYkpYd2g5Qy1DQ2owU1lCME1scS1ldWUyekhLdEFTQU9pTmozamE3YVJTTFdZM1NLUGpTNzFGVGUzYw</link>
+      <description>Argentina announces citizenship-by-investment program Reuters</description>
+      <guid isPermaLink="false">e4856be1981a293d2c0e37cb54f5a8960781bd4b</guid>
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
@@ -213,17 +157,10 @@
       <pubDate>Fri, 02 Oct 2026 17:51:37 +0000</pubDate>
     </item>
     <item>
-      <title>Americas diplomats back joint call for Nicaragua to restore civil liberties</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUZYUXRwa1NLazUxQ2NPVzhpcVc4S1QxY1QxREh0eHFXYXloYlQxbEo3akRUMlZCWXZFMWtWSl9HWFRiV3U1MzM2Q0RfTlJucHY1aTltd2dibDlFOGYyYkcwS2tnaFhzV1VKZWZOZmJ2LVE2M1RXYmE5ekMyUXkyV0ppZTFoaHJvaDdnbUJBSWdYXzRaRDFNb0ctd250bTUzTGlVWUFBME1tUU1XemFRdnpfM3JMMjR2UXZPZG5OREk</link>
-      <description>Americas diplomats back joint call for Nicaragua to restore civil liberties Reuters</description>
-      <guid isPermaLink="false">ead55b4bca017009cf29a045473ca2093e0e981e</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palestinians from Gaza rebuild in Mexico City through food</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjNyTENYTUw0YlhtVFNsLXF4b1UtZGdpYTRMalpxd1VObnA5Sm54bkM4U0xFRkx4SVRRMGJ4UDcwQ05UWmRGWXNJWm1KWW85cTdMOThFX3h3SE1Qb3Vac083cW5QMlZmV0FxS2swTGxBR0kwZG9QTGdyenJ3elZKeUlLNG1aaUowM2dwQWJ2R1Myd00ybVIwNDRVOA</link>
-      <description>Palestinians from Gaza rebuild in Mexico City through food Reuters</description>
-      <guid isPermaLink="false">8f665a933afc8413b0d6244de377a166c270bdbf</guid>
+      <title>Top cases on the US Supreme Court's docket</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWRQaFdpMzJjZW1lRW1lMDg1SXQxcEl6M2RBOE9XMVFTWndJdEdJcWd3MGpfcEVrdVhJSUxVeWR3aGN2a2k5WjliVE81R3V0Vk8xcTBaT3haQ0lRMHc4dllJNWItZ3UzUWRnbWw4U3hTMXFrNm1VNDNQdkJ5WlZCMDVZZGVMUQ</link>
+      <description>Top cases on the US Supreme Court's docket Reuters</description>
+      <guid isPermaLink="false">d9187c825b544ff0d4800cc77426aef25b722463</guid>
       <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
@@ -234,17 +171,24 @@
       <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
+      <title>Ex-UN director who protested Gaza famine challenges his dismissal</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmoxZjMyUmd4NngtcUFYbnhPQXQzT1FVWEFURGMyRjJyejQ1dmd5U2RjTVZBU29pZ2NScG1wUXlRYjRKOTRTVmJtS281c3BnQzhWYnpkamVCY0hvd3N4QzNBekdzWlVJNzJMU0pLRzY1OFdPWllIQkJoVE43SU9FQ1Z4RDZtdmc3YjZZRlkwVUFFUU5hUXVubzJJa2UxZmJudEI4T21mLUVuYmZEbXc4eGVmZw</link>
+      <description>Ex-UN director who protested Gaza famine challenges his dismissal Reuters</description>
+      <guid isPermaLink="false">b8c6ae024387b4492b0b17acf5ae4d22baac1477</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italy says EU naval mission in Red Sea still insufficient</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWRiOHhGTEtYWUUyOVJ2WHlzZDNzdVJpdTFycHk4aDJwSm9lWFF3VEV4VkFUbmpYbjl1UG1zUTVaMkFyMHgzMm9oTlFxNjA1dDNnYnY4Qjd2S3dWNFBOeFpSMWtxYXVJMEIyeUFxZjdNQnRQV215UkhnMm5TRFlSVHZJYV9jZnRwLWk3UTF5SEJyTjh3V3NtNDlVam8</link>
+      <description>Italy says EU naval mission in Red Sea still insufficient Reuters</description>
+      <guid isPermaLink="false">f541cd973c28c72f89dcfeee72f6e8c2c4d2a504</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
       <title>US issues sanctions against Hamas financing network, Treasury says</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkdRRkxGNHBqcFM5b0RNbjRMU2NXeXFWUXdselk3QVNzVkNqSWw1aWdJTjQyc0VWeFNqSjB3dGtjaWdpdHZuYzVxaVdKQmM4X0lMRC10UnlzRWFndmFWUVlrU2l4NG5nR2QyNnJ0Z3AwNE91QXlVV2IzNG5RcENFVTViWEw4ek5xank2YU80OGVGRWV5RGVOcXVwZi1xSXhzaElHMWxndFFqQXQ0Q01YeHFoSllfeTJ1TWJv</link>
       <description>US issues sanctions against Hamas financing network, Treasury says Reuters</description>
       <guid isPermaLink="false">cf6eaaf2f1692d36079653a004640c36229939d7</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top cases on the US Supreme Court's docket</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWRQaFdpMzJjZW1lRW1lMDg1SXQxcEl6M2RBOE9XMVFTWndJdEdJcWd3MGpfcEVrdVhJSUxVeWR3aGN2a2k5WjliVE81R3V0Vk8xcTBaT3haQ0lRMHc4dllJNWItZ3UzUWRnbWw4U3hTMXFrNm1VNDNQdkJ5WlZCMDVZZGVMUQ</link>
-      <description>Top cases on the US Supreme Court's docket Reuters</description>
-      <guid isPermaLink="false">d9187c825b544ff0d4800cc77426aef25b722463</guid>
       <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
@@ -255,10 +199,59 @@
       <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
-      <title>Italy says EU naval mission in Red Sea still insufficient</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWRiOHhGTEtYWUUyOVJ2WHlzZDNzdVJpdTFycHk4aDJwSm9lWFF3VEV4VkFUbmpYbjl1UG1zUTVaMkFyMHgzMm9oTlFxNjA1dDNnYnY4Qjd2S3dWNFBOeFpSMWtxYXVJMEIyeUFxZjdNQnRQV215UkhnMm5TRFlSVHZJYV9jZnRwLWk3UTF5SEJyTjh3V3NtNDlVam8</link>
-      <description>Italy says EU naval mission in Red Sea still insufficient Reuters</description>
-      <guid isPermaLink="false">f541cd973c28c72f89dcfeee72f6e8c2c4d2a504</guid>
+      <title>How Brazil's election winner could reshape its institutions as vacancies mount</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVhHSXMyV3BDSjItenVNWF8wOWI5VVBXMGVzajRtMjd3Vzh4Tl9TcF9NOEdDVWJsOGVFWXA2ckFWeHR2aWk2Ynk0WHRBNzZpb3YtRld2Wk95TDJnd0d6TXhlTEwxNVA4amdYaEVXM19uTWI3SjVWc2x2blZpQkZvMUpGbHZZVFVURXFkSGZabk1GVDF3ME9JcC1oVUVfZWdiQlVIS3d2dEFmMDFZSTdJRU9vci1CblhvMGMyUEk3ZVZfN1E</link>
+      <description>How Brazil's election winner could reshape its institutions as vacancies mount Reuters</description>
+      <guid isPermaLink="false">ec387ec67b2c8631313cf919bd746545829b5978</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dutch royal house was 'wholeheartedly' involved in colonial exploitation, study shows</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWNULWI2SUVDbFZySUtlTkh0QUJMV09UbXN4REJTdUhnWlNVUVBlTGNhUmxvQS1WQlRtRk9yWDV3TDlVOXNPeGpjTlJjcEJPdDlmMzNfY21pU0doZlBEaFFmNk5WUURwOXVCMVZ1eDdZanRzZ1Ezc1Q3bENHa2FSZEVDdnBYY0tkOFdjMXR1S3A4QlI5Y2dLOEEtZXJaU0JJMDg1ajFyV1N6WDViWFVROGhkMG1GNDV4bEVwc0dHaXdJZy0wNkRudHZR</link>
+      <description>Dutch royal house was 'wholeheartedly' involved in colonial exploitation, study shows Reuters</description>
+      <guid isPermaLink="false">c73c9804896839b5a26238d161e448263933a51f</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnpldjJfejdWMksydnpPU1VJZDExQU9uV0hTUkFfRWpOX2tneUtuT2M4UTNxU09obHR3VzZkQVdlc2tQNmZ5dHdxaWJmR2N1OG1tODI5SE5ZRWktMHVPY0ttNmM3U3pJLUlzMEhLaVI0bFQ3dTNkV25ET0g4T0RNcE5XSXA0T1p0R2RBVVZDckdESXdZTzNhX1RjeUNUeFhINmkyTEp1bjl3V3JxQl9vQnJCQQ</link>
+      <description>India's ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO Reuters</description>
+      <guid isPermaLink="false">87911697e7ace6e0059856137ddee9510225f0af</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli Arab leader quits election under pressure from court over October 7 remarks</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWhEcEZzNmhPWTdsdHM1WTBaX0dsWmI0d2t3SGx2dTJPRldRcWstenNRcF9NSXpoSk5kVUpBV1MwRFhzakpWUVR5OVhfU2huek9TY2w5bjFpU2pFeXlXekdBcWpWX09Ldkd6VkRjMThDTFBVUjBaTy1kSzg0Ty1pMHktYzNXeVdhY2N3ajI2bkFCNW1CZ25uakpJOElSVWRVZG9oXzFYN2hNeWFYSEF3NnJCalNuNHBXZEo1UGo1MA</link>
+      <description>Israeli Arab leader quits election under pressure from court over October 7 remarks Reuters</description>
+      <guid isPermaLink="false">f953cf7df69ae287ba3a08ea611cbe78867bba9f</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>States, cities sue US agencies over weaker vehicle fuel economy rules</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzFoSDVMWVRwb2x6N2wzZ0xKVnZhZ05vR0pGWFM3ckY1OFpIQjRtdmxESG1EMlQ3Z1R1REpUZVQ0VU96dnE0dkRYRDlrTmlPNW9abnB4aWhObXJGS2Vhd0Mxd0FUbGRWaXFPdEV0eE5aYlNORk01OW9qSFhFX0U0bW5VUmhYRkZDZER0VmNxSm5jOEgxUG1TdFFMR0ZHVndlazRNY3AwUVN5cHM3TTBJ</link>
+      <description>States, cities sue US agencies over weaker vehicle fuel economy rules Reuters</description>
+      <guid isPermaLink="false">147242c9a390a321ad2830c24dbef50929f4ecf4</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>US senators expect vote after midterms on Trump's nuclear power pact with Saudi Arabia</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzRTNFR3cXdZcnJ1NTZWcTl0RXZRZFpRS09tQW5lQ0lDZDdoSGdtcXdGRGJyaV9QR1VnZnJJNFlRZzU5R25MTUl5Z1IzRU5abFZHQlRlWGREQ1YtMDNrR0F6NzNiQUlXUVVpMHRkWDI0TkNZTld2WmVfY0ptQjF0cGJzclBFV3hTMVhqQTRMRmNuZTJfOEg1Y0kxSEVPb2xacXM2dHZnQmhLdkUyT29ETGlFeTBqSDBTdUtxdlktU19UTW9pcUpvMGRhazZGdw</link>
+      <description>US senators expect vote after midterms on Trump's nuclear power pact with Saudi Arabia Reuters</description>
+      <guid isPermaLink="false">22ccfd361f21154c9fd81b2412f4e4d7c88a0db2</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>EXCLUSIVE: Carney plans to visit Turkey this month, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUJ4TXFqX3MxYnVxcDNXUXhic1BubnFDLVFlX2t5aWFVbTVSMXhNNUhWUWpyMHN2c1hINVVOaEhnUnk5NkFKM2U3bkJSOWZNcDltc1YxRXZkdHo3VkpXTzU1UF9yT21lVXlRUGZnUTZTd1k3TGlXXzhBX3hJWVpsS21YX1F2NHI1eUFwcTZFSEszT3Q4am04dVlMU05Fdnkx</link>
+      <description>EXCLUSIVE: Carney plans to visit Turkey this month, sources say Reuters</description>
+      <guid isPermaLink="false">7923df9cb8a39aa42f5a640d35bf3be85937b4bd</guid>
+      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNKbTZJNmdRWUVFcHpiWWVYWVdNQXhTc2VUd0lyZElUS1dDWGVzcmdmVlpkRU9EaDNETFdqZ3J6Y2pmZXZtVEoyTmV5dUxRdm44UUZ3UDFKemIxUEZkR0FFcC1fSl9IRWd5V3JlRFhkejEyMTVPOE82elNydUc1SDVlc0oxV0hMdkFGOGdmeHZJT0lfWkxiTDJfRTdGVXl1RlkySVdCQmpXNWluODVHLTZ1WEgtNW1VSGNHVDhlTEphZ2FhLWo2V0tQbEppZw</link>
+      <description>Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say Reuters</description>
+      <guid isPermaLink="false">5144fdf0b129207c272a9a8ca1e8ed818ae95323</guid>
       <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
@@ -273,69 +266,6 @@
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3M1NUpPd3A1WnBjS3FSeDhuQ3d6aC1BdUZNNml4U1JLX1RaWkJ3Y0xhRHhwb01TNUhOTjlxZlhWWXN2MG5EbkpZbXNZR2haU0F1MVJXR0o4cnhHNnpiOUNnY296aXRUOHI5a3l5MXIyYXMxb2RZOENNdTdveVJTRldXYUw3Um5kTGswMl9XNFFMTzNRMGZzaDE3dDlvdkNuYnc</link>
       <description>Community banks sue US regulator over crypto firm charters Reuters</description>
       <guid isPermaLink="false">8e2e8bb91d75dad7dd93b22bc11a7d12a33b04d3</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Brazil's election winner could reshape its institutions as vacancies mount</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVhHSXMyV3BDSjItenVNWF8wOWI5VVBXMGVzajRtMjd3Vzh4Tl9TcF9NOEdDVWJsOGVFWXA2ckFWeHR2aWk2Ynk0WHRBNzZpb3YtRld2Wk95TDJnd0d6TXhlTEwxNVA4amdYaEVXM19uTWI3SjVWc2x2blZpQkZvMUpGbHZZVFVURXFkSGZabk1GVDF3ME9JcC1oVUVfZWdiQlVIS3d2dEFmMDFZSTdJRU9vci1CblhvMGMyUEk3ZVZfN1E</link>
-      <description>How Brazil's election winner could reshape its institutions as vacancies mount Reuters</description>
-      <guid isPermaLink="false">ec387ec67b2c8631313cf919bd746545829b5978</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>India's ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnpldjJfejdWMksydnpPU1VJZDExQU9uV0hTUkFfRWpOX2tneUtuT2M4UTNxU09obHR3VzZkQVdlc2tQNmZ5dHdxaWJmR2N1OG1tODI5SE5ZRWktMHVPY0ttNmM3U3pJLUlzMEhLaVI0bFQ3dTNkV25ET0g4T0RNcE5XSXA0T1p0R2RBVVZDckdESXdZTzNhX1RjeUNUeFhINmkyTEp1bjl3V3JxQl9vQnJCQQ</link>
-      <description>India's ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO Reuters</description>
-      <guid isPermaLink="false">87911697e7ace6e0059856137ddee9510225f0af</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-UN director who protested Gaza famine challenges his dismissal</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmoxZjMyUmd4NngtcUFYbnhPQXQzT1FVWEFURGMyRjJyejQ1dmd5U2RjTVZBU29pZ2NScG1wUXlRYjRKOTRTVmJtS281c3BnQzhWYnpkamVCY0hvd3N4QzNBekdzWlVJNzJMU0pLRzY1OFdPWllIQkJoVE43SU9FQ1Z4RDZtdmc3YjZZRlkwVUFFUU5hUXVubzJJa2UxZmJudEI4T21mLUVuYmZEbXc4eGVmZw</link>
-      <description>Ex-UN director who protested Gaza famine challenges his dismissal Reuters</description>
-      <guid isPermaLink="false">b8c6ae024387b4492b0b17acf5ae4d22baac1477</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch royal house was 'wholeheartedly' involved in colonial exploitation, study shows</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWNULWI2SUVDbFZySUtlTkh0QUJMV09UbXN4REJTdUhnWlNVUVBlTGNhUmxvQS1WQlRtRk9yWDV3TDlVOXNPeGpjTlJjcEJPdDlmMzNfY21pU0doZlBEaFFmNk5WUURwOXVCMVZ1eDdZanRzZ1Ezc1Q3bENHa2FSZEVDdnBYY0tkOFdjMXR1S3A4QlI5Y2dLOEEtZXJaU0JJMDg1ajFyV1N6WDViWFVROGhkMG1GNDV4bEVwc0dHaXdJZy0wNkRudHZR</link>
-      <description>Dutch royal house was 'wholeheartedly' involved in colonial exploitation, study shows Reuters</description>
-      <guid isPermaLink="false">c73c9804896839b5a26238d161e448263933a51f</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli Arab leader quits election under pressure from court over October 7 remarks</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWhEcEZzNmhPWTdsdHM1WTBaX0dsWmI0d2t3SGx2dTJPRldRcWstenNRcF9NSXpoSk5kVUpBV1MwRFhzakpWUVR5OVhfU2huek9TY2w5bjFpU2pFeXlXekdBcWpWX09Ldkd6VkRjMThDTFBVUjBaTy1kSzg0Ty1pMHktYzNXeVdhY2N3ajI2bkFCNW1CZ25uakpJOElSVWRVZG9oXzFYN2hNeWFYSEF3NnJCalNuNHBXZEo1UGo1MA</link>
-      <description>Israeli Arab leader quits election under pressure from court over October 7 remarks Reuters</description>
-      <guid isPermaLink="false">f953cf7df69ae287ba3a08ea611cbe78867bba9f</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>US senators expect vote after midterms on Trump's nuclear power pact with Saudi Arabia</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzRTNFR3cXdZcnJ1NTZWcTl0RXZRZFpRS09tQW5lQ0lDZDdoSGdtcXdGRGJyaV9QR1VnZnJJNFlRZzU5R25MTUl5Z1IzRU5abFZHQlRlWGREQ1YtMDNrR0F6NzNiQUlXUVVpMHRkWDI0TkNZTld2WmVfY0ptQjF0cGJzclBFV3hTMVhqQTRMRmNuZTJfOEg1Y0kxSEVPb2xacXM2dHZnQmhLdkUyT29ETGlFeTBqSDBTdUtxdlktU19UTW9pcUpvMGRhazZGdw</link>
-      <description>US senators expect vote after midterms on Trump's nuclear power pact with Saudi Arabia Reuters</description>
-      <guid isPermaLink="false">22ccfd361f21154c9fd81b2412f4e4d7c88a0db2</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNKbTZJNmdRWUVFcHpiWWVYWVdNQXhTc2VUd0lyZElUS1dDWGVzcmdmVlpkRU9EaDNETFdqZ3J6Y2pmZXZtVEoyTmV5dUxRdm44UUZ3UDFKemIxUEZkR0FFcC1fSl9IRWd5V3JlRFhkejEyMTVPOE82elNydUc1SDVlc0oxV0hMdkFGOGdmeHZJT0lfWkxiTDJfRTdGVXl1RlkySVdCQmpXNWluODVHLTZ1WEgtNW1VSGNHVDhlTEphZ2FhLWo2V0tQbEppZw</link>
-      <description>Indian border forces kill two Pakistani civilians, wound one, Pakistani security sources say Reuters</description>
-      <guid isPermaLink="false">5144fdf0b129207c272a9a8ca1e8ed818ae95323</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>States, cities sue US agencies over weaker vehicle fuel economy rules</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzFoSDVMWVRwb2x6N2wzZ0xKVnZhZ05vR0pGWFM3ckY1OFpIQjRtdmxESG1EMlQ3Z1R1REpUZVQ0VU96dnE0dkRYRDlrTmlPNW9abnB4aWhObXJGS2Vhd0Mxd0FUbGRWaXFPdEV0eE5aYlNORk01OW9qSFhFX0U0bW5VUmhYRkZDZER0VmNxSm5jOEgxUG1TdFFMR0ZHVndlazRNY3AwUVN5cHM3TTBJ</link>
-      <description>States, cities sue US agencies over weaker vehicle fuel economy rules Reuters</description>
-      <guid isPermaLink="false">147242c9a390a321ad2830c24dbef50929f4ecf4</guid>
-      <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Carney plans to visit Turkey this month, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUJ4TXFqX3MxYnVxcDNXUXhic1BubnFDLVFlX2t5aWFVbTVSMXhNNUhWUWpyMHN2c1hINVVOaEhnUnk5NkFKM2U3bkJSOWZNcDltc1YxRXZkdHo3VkpXTzU1UF9yT21lVXlRUGZnUTZTd1k3TGlXXzhBX3hJWVpsS21YX1F2NHI1eUFwcTZFSEszT3Q4am04dVlMU05Fdnkx</link>
-      <description>EXCLUSIVE: Carney plans to visit Turkey this month, sources say Reuters</description>
-      <guid isPermaLink="false">7923df9cb8a39aa42f5a640d35bf3be85937b4bd</guid>
       <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
@@ -358,6 +288,76 @@
       <description>What do we know about flydubai flight 1073? Reuters</description>
       <guid isPermaLink="false">b0ce3d39e5788f885d88b875e264aa64bb84641e</guid>
       <pubDate>Fri, 02 Oct 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embraer, Mahindra choose Nagpur for potential C-390 assembly line in India</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2ViLVNucFNrbm1SZHhsYmpuR3F2bXZoNUNyOXl1Q3pjNXpxb00zRjc5c1FiUTJCbEJDVFFjaElxVWFUWWFlaWZjWGZhS2JGRmFLd2kycDNZX3kzUTFHZGcyVmZLSE5RbW1HRXNSdVM2V1ZIV291dEg0Mm8xcll2emJnQlktX2FVOS15QUJBZFY1VTRzNTd0NlBGRGpERWxDU1RzNjhUcmdLSFZrVTRDaEt3aUM</link>
+      <description>Embraer, Mahindra choose Nagpur for potential C-390 assembly line in India Reuters</description>
+      <guid isPermaLink="false">f22bd4bac3958c86746cb184f31243e51e05e566</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOJ will not reopen criminal probe into Fed's Powell, spokesperson says</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTFod2Yxc3haVjNvbVQ2dnVLalpLV3hJUjZld1lLSHBtaUNBbDRwQXVqVVFCLWRCNVFVVzYtbVpFYnhOYnJ0cC13a0Z5S3FpeTFKbHFUcFNhNjNQOWF5dXptMF9nLUkwU2JNeHZLYzkxQUJPcVdGdUVIb0FyczNyM09jcUhwaWlRMHB4Sm81N093NmdIR3Q2YmdfcmpZdmxOdGtYNUhJT2xFeVFOZS1WODNvSFlzQldqVy0zMmdzVQ</link>
+      <description>DOJ will not reopen criminal probe into Fed's Powell, spokesperson says Reuters</description>
+      <guid isPermaLink="false">c36830d7a2f380b0a2b8f98c8dba52447e4723f7</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli strike kills five in Gaza, health officials say</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTRBdWs0UERVMW05RGtXdHdNWGJKajVmSkFZQVdpamVzQ0VqMkNqdjBmWHp6ZGUtZkozbXpnbEREeXBSeDZ6dXJJWC05UXc4UDBGTk1iOWZ6Y0hUR0NBWDZETkxCNGJOTURYUGhpRG9TVzRJTndvX3hieVczbzZHLU9aN21CV2J5cXYxLU4xVHVvcEIyTVVTbmlYem1QRGszQ1Ztbg</link>
+      <description>Israeli strike kills five in Gaza, health officials say Reuters</description>
+      <guid isPermaLink="false">9001af25abe43620b760b8110cf30c5a74747f0c</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>No apology but King Charles will not shy away from slavery issue during Caribbean tour, Buckingham Palace says</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWF5U004N2hsRl82b19qa0tGWDdmalZuLUxoc09vYUpFN2h3TUlnQXpyTzJpZXdhWHRKSDNZM2duNG8tMlJ0c01kSG5VRGd1RFBjbUVYRFhHclFnbEpPV0RRS2Y2eGFFRHFyeWJXSXFYSk9YNlc4TTc5YllyVDJHYVFzeWJuY1hITHhxOUVHNnNrSXpMOWtCQ01abUtiVXM3QXdOMzJMYmw1YXZKNlVraER2UGxFWFNWVU1ENGNCQQ</link>
+      <description>No apology but King Charles will not shy away from slavery issue during Caribbean tour, Buckingham Palace says Reuters</description>
+      <guid isPermaLink="false">439e8d844fbc3714d736f47fff161f7d4e094cca</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazil police serve warrants over alleged threat to US diplomatic sites</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmRRYTlTTkxSZzd1N0FwTFFxSFJJYXFHajZNT1laV01hUVVfQjEwYnJ2blh0ZmdhbVFqZEh4WlFhTHpvVGxaeUJwdkQtX2l2Z0VSOEdZbDcxZWQ2bHZGd1M4SDZaUkpuUmdtMkJFYzQ3VzZaNjVDYzAtQ0RCVFhBSXM2SkliTU1WVUN5TG56NDltemxDNDh1a1dTS091MnNVRjQtdEZrVGc4cUZVZ0xoVFV4RWF6aEVBbi00</link>
+      <description>Brazil police serve warrants over alleged threat to US diplomatic sites Reuters</description>
+      <guid isPermaLink="false">2be8824203ba0b21ef67c987242dc2e9afae85e0</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzlIVmhvVUZ0aG1rRENIVUd4TEpFZTVQZkVrRkRpNEtQUVBJbUJWOHdyQ1VRcjkxUGtTb2prWC1JX1A5OFhWZU90XzJKd3VEM2RFc0dkM3ZwcVAtZ0RYN1BFenF4LTNLYTNtSG45b1J6S283R1pIS3ZpSGlwa1pOeVVKejd0U3FCZmZWUzBDaEhhOVQ0QU1QNnc1SUFwQnlscFZVck5JVml0aHhqTk53amFGWUwxQQ</link>
+      <description>EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause Reuters</description>
+      <guid isPermaLink="false">8157c3aa8cac87a790c77eac5b6e26fbf8d66e7f</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nine injured in Australia as car crashes into crowd north of Sydney</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHM2dkk0THRHLXppRXc3eS1mMUJCdzZZWlY0NDR2MXdzNW5SdC02eG9hd0JBR2R5OFhtZ05wcmRRVEVrdHpwSjFRRGplY0ZmZjJuOUxRWVgzMVJNUWdZYWJ5eEk2MXYxUGZ2bXg4Mi1USl9aZFhqLWFvWHRWOEJrOFFKQ1BVbnRqaVFMU205elJqZFlmcGZiakhBa3JEdEVOZjczZDBtSXNLZkJGRmU3czQtY0hkcGM</link>
+      <description>Nine injured in Australia as car crashes into crowd north of Sydney Reuters</description>
+      <guid isPermaLink="false">2762c60ca7c99cafc632dff77a6f6316db9492f1</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA</link>
+      <description>Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement Reuters</description>
+      <guid isPermaLink="false">2d48b2c94fb93c4a2d208b8232371dffa0bd29c8</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQNms5cTdHRjlXODJ0MXpMNUZXM3lmUzl5YlNmNHBRaTcwcXRjeEg5bXB0VFZhcktpaGFBcXpfNFhxVnp0MXEzLUVITzItc2NtSC1qLWhxUjN1ajJzWEFYczhmb1E5a2E3dFF3YjlWVDFocjdEelFxcENUR3Ftd29lejNvbWpsY3NsZU5zNk9feXhVdXFxcGotV1BUVVlJN0t5YUVkZzJiekpvM0t3Mk9DWlFR</link>
+      <description>US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit Reuters</description>
+      <guid isPermaLink="false">e9c145702f3100fb492588354b4812dbf57839a1</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea fires ballistic missile toward sea, South Korea and Japan say</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ</link>
+      <description>North Korea fires ballistic missile toward sea, South Korea and Japan say Reuters</description>
+      <guid isPermaLink="false">7563d25bb3d600faa54cefce06b8bea6c1a86434</guid>
+      <pubDate>Sat, 03 Oct 2026 05:14:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
