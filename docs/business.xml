@@ -8,56 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:32:07 +0000</lastBuildDate>
-    <item>
-      <title>BP has no plans to shy away from the Middle East, CEO says</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQWm9UdE1ocTl0RmtSQVRBbHFOcWhJRWFlMFh1QXV6cXMxVlk0M0FqREFnQmZIbWgxNVpQUktpZE5ZVHlqbE5xM2F6elZGSk1SYWN2enJQenRwWnJJaGstVXVNNnZOSFlfQ2poaUxfRlhvMEtUUVFLWkhYb2REUW1FcE1WcmRmTFNuOWJWYnhIMzEtT3BDbEJoWHBVbWxyQQ</link>
-      <description>BP has no plans to shy away from the Middle East, CEO says Reuters</description>
-      <guid isPermaLink="false">54cbaab0b053a8cc63068b6d4710f5274c638533</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSX futures flat as investors cut rate hike expectations</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlcxTU1vYUVJVXZrSHdzTDJ3TnIwYnk3SGplTDBwTnN5aTVXLWt5Q0dQTjNiZXQwbmF3bXdKbzNyTDdiaHRXYTFTRXpkRU85dkVOTTAwelFnbFI5T0Q1WnQ3dDhkYTBaMkEwekZnTjd0emptLXRkZnVUU3BkQXlJM1NQbVZIdHZQWm9kUjZCYlVnM2VlaFByMFpXLW9SOUU</link>
-      <description>TSX futures flat as investors cut rate hike expectations Reuters</description>
-      <guid isPermaLink="false">fbbe9bf7142319722b54e6023e0d9f2cdc590fc3</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skydance says CNN's Thompson, CBS News' Weiss will stay on</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPTE9tY3YydnZveDVZVngtOXpCVmpaSThENnBYQkNVcDRzY1dObkIwb0QtaTQ1aERXUGJDSVQyeXVCWU9uTUJpREttNlVfWENlbWhaWDBjOS13UTN4cjBTZXBuNElaTGRxQy1MS0tFTGhabEpnQTl4X3FfWHl0aFdKNUprSlFUVEQtYlFDLTZwNnZEVkdabWhfbDZnQXFpN1hya210YndzbTJXekkzZHFSNA</link>
-      <description>Skydance says CNN's Thompson, CBS News' Weiss will stay on Reuters</description>
-      <guid isPermaLink="false">b0087fe2c60058797a8bfdaa7c70cc8c4e1150e2</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>German services sector grows in September on strong demand, PMI shows</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbTF4WFBQNTBXMTVvSG5HOFdaQkNDSVNLZmpVeEpBOXQtT01fb3FuNnVZY0U2VFZfN2pUTHlZS1BHUEVjbHJ1V2tIVzMzOGJjUlN1bEZXazU3cFJwNnRONkVhRnJnUkZGM244ck1lNl9TLUxKbTZJaTk3X09aa3J2MVYzVVB3dnhiNlRQdzBrQVljWHBtNFBoM3FKZFZMclZvcGZPajA5aWl3bVE</link>
-      <description>German services sector grows in September on strong demand, PMI shows Reuters</description>
-      <guid isPermaLink="false">99b3babc70d361c006af591b9493e206eec0c578</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK's National Grid lifts annual profit view on strong first-half</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGt6eUJFTlMyeTVLXzgtazFLRnJZbldYUVFfNTZIeURZWUJRcnMwVW5TNHJMTXlKeTZHVVFza0lRZzVZbUtvX0FueXJBWEdVaHZXS3REUTM4b1c4UmZqTnpnWWVETER6bzVNaHRnUWxmZkhiazFGUEFCdkZrWmtqSnBOaHMtbEpudndlNW8xYlh3YWNrNEY0NVNOWDBtc3BmbUM3Q3AzcmlUOXo5OW43Y2xROA</link>
-      <description>UK's National Grid lifts annual profit view on strong first-half Reuters</description>
-      <guid isPermaLink="false">baa90d6ebd534f5bbc5785879103df1d921de5cc</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>French services sector returned to growth for first time since December, PMI shows</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclA3Tms0LXZuZWV6cGY3TjBYT21kMmxlNzh1Qms0M0pZanJlaXpRbm1HWFZHbkZvNHlPb3JRdm8xTUcyMDQzNkozUEt2Um82X0xydUI3TkJsTVJPZDVURUJQaURZdjBlZFR1YkZvSnlWeF90MVhLNkpZM3REREdFOGVMNkxOdnBrRjdfaGVtZGhiaGliRjAxUGxfb1hWampmWXN6YmRXYVJMWTVGdjg1cEk4NkJkRzN6WjV3</link>
-      <description>French services sector returned to growth for first time since December, PMI shows Reuters</description>
-      <guid isPermaLink="false">b6fe5e176e4877ef6aa61c34123b56cc1389cfb5</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>30% chance of cyclone formation near southwestern Gulf of America, NHC says</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWNtRGRiaks5RVJoVFktRFM2SzBOM0N4SmJZazhEWEtWQzFGay1oTXBvMDFPUHFLR0NWWVBqOUpFX3hBVGY0cUVwUHo4NzcwdVIxaEt4b2cwbDhTWFRqWmk4WVpYU0RzNHlOZHliSmFiQ0hsVlNkV2IzX3ZJZ2RFRWZNbmZzMG9EekFQYURaOEhkY212dHRPYWVtMF95Tm1lQ3ZLNkxaRV93eHNPS1NUanlfWkoxNUR1alRTajlTcS1EQQ</link>
-      <description>30% chance of cyclone formation near southwestern Gulf of America, NHC says Reuters</description>
-      <guid isPermaLink="false">239418033b6059d3c30d7cac6dc379a9ad6810da</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 22:00:25 +0000</lastBuildDate>
     <item>
       <title>RBI sees no signs of expropriation of Russian business, CEO says</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjRwUVBFOXZIbFZYRXhzaWxTSm5EZ0NTMzhGTWxKWHIzeFIzdmV5X0RDWjlLeWJCWl81SGp6S3h5MmRDa2xUbmFidlNPZXVCSURPSnFkWDhqbkVILTBLek9fSFZsM0NBakVVLVJJX3hkVGNkRGtfM2txWmJMYlE0OXpPalVpdzBUa0pKRS1rSk0wcGdQdDNXRTduMGlrTjF2S2t1alZFczE0Z2NSMTZV</link>
@@ -66,185 +17,10 @@
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>Indonesia must keep its guard up against wildfire despite drop in hotspots, environment groups warn</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQbm50YjkzbVM2VENRRXJYQy1zVEVOMlBmM0dMTDNLV3lheG9mTjR3eF9EbnU0VTE5NFhkY2t3Vl91d0JjUWFCUVpYa1paNHlXNEh3MUlYakFrd2FHbnVoeGpwaXZEYjB2U0NQamRJMFh6UmhFTFhGTEhVUXpaZ3BXLVRCckFlVkllZllkeGlzMmUxajU4eWU0S3IwVmZIT19HY1FiUnFkT3R3RkYwcm9kRkVGanVPQzdXRVhUQmsxdE1qaEFhSlM4</link>
-      <description>Indonesia must keep its guard up against wildfire despite drop in hotspots, environment groups warn Reuters</description>
-      <guid isPermaLink="false">31018129e9ef6410b149f1d10d2b9a6ccd45989a</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cast of Netflix's 'Below' credit Newfoundland community for show's charm</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzVqdThWaGd4bFA0ZFlrYmgwdHJMekcxX0t4NWJJbm9MekdRTHczNExlMkVEejNvV0RqN1c2eElFT0RuRHk2ZGJrUFVLdnl6bmJ4Z1FNNnhSc2RUUDJ0bVJKZ2tKdlR2ZEdsSU1walk4LUoycmhfRlpaMGFIRnZtMEdyN0JVZzJ3VUlCSFZacHh1TGxnam4zUlRCNFlTNVdBc3hyV0N3dEM3UlI2aUZiZE5xQVd0dHhRRU80eA</link>
-      <description>Cast of Netflix's 'Below' credit Newfoundland community for show's charm Reuters</description>
-      <guid isPermaLink="false">f7aa94a17cd60f8d18204497ab073b0186007ee2</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>German engineering orders fall 5% in August amid absence of big contracts</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDZUbUowX2NiSmlReVF5OWdZY083d0pMYncyRnhLSTFVeFVuMXZ3LWJkN2FISXV1THNGTzRRWk00ZVh2MFY4TWdRMW93YjlnTllJazdrTDRLVWM5NWV1LU51ZzBGWEs3VWt0Vmhnc2lHQzZRS3NmY09TMXJCVWU3T2RsMzdrU3BmT0IwNGozM0hiSHNLajNTZ0pCSUNtZlZWRVhWZWFTOWhraTA5OWpXVURleEVCTFNFeThjdWlHQWh5dTNkUUE</link>
-      <description>German engineering orders fall 5% in August amid absence of big contracts Reuters</description>
-      <guid isPermaLink="false">53b6db3f61c4245a6eca111b9890c61fd22123b3</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Freeport LNG in Texas to take more natgas on Monday after unit shut on Friday, LSEG data shows</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkljVTJEZnZGTFJkczRROHk3TGk2OWtSTldWQjVCWEdoRHhVRWFfRlR3WDBEYi1saEFTV3cyUmMzRUE2NFhUa29WUmtrZjhmQXZheGZPVFM0WlpwSlk3RFoyY200NU8ycFZmSWhhUjBkWkRHeFRkYlh2VklxTl91MWN1R3RUd0h0dm51d25GaGVvOXY1a2dab2ZMLTh2Vm5LLWZtNV9KZjZHU1lPaG9UTENUWFdiQUxhM0o0UXlIdFhOUmZTcXc</link>
-      <description>Freeport LNG in Texas to take more natgas on Monday after unit shut on Friday, LSEG data shows Reuters</description>
-      <guid isPermaLink="false">2e53181467e6612aee8c64c4d484f973c993aee7</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzdLQTZMb0ozQzgwUDRobE5wREZlV0ZiY0o5WG1uWk1qdWZ0d0RvbWh1UEZpdnBjT2RpR1pmSVo0dXpuY2dpdmQtMHpIZFViS0doUVZCZjY2NDNTSDd6bF9kTmxHSDVXRk93aG5RSS03LUc1NkMwenlXTDlJRlkyV2lJOUY0YlBPUTdhWjl2UVpiT0ZNVkhoNTdIbEJ6NXEwNENFUGlDdWxXYVFfdVp6Z2Z5eTBKODZBRF9DWThuT0gwMGlKanpYOWZydjBYQTZtSEE</link>
-      <description>Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial Reuters</description>
-      <guid isPermaLink="false">57f21c1a7345dc9013fc1c5021bdc464e1f4a48f</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>US services sector activity slows in September; price pressures mount</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR</link>
-      <description>US services sector activity slows in September; price pressures mount Reuters</description>
-      <guid isPermaLink="false">be95b4e33b744eff438567be206aa65d36267c1d</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK's BT Group acquires TalkTalk out of administration</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOSFBOb3ZzRFRkZUg5M3BZY1luOW5FLVh1UXcxcU1neVh3cm9XN2xLRmZMY1dValdkSF9KSmJ4RTZaS2J5SnBqcFF3b0pFY3Z6T3lNZmdMdzZQcEJ6YzhBdDVfSzNRUHdKVWZvQllaOXpHYmtHWkVPMWUzeEltbUxCMEJzeHJhaV93T2xqckx1MlI4VHJnTnZ2Ny13</link>
-      <description>UK's BT Group acquires TalkTalk out of administration Reuters</description>
-      <guid isPermaLink="false">e2adbbeac8086f0ec03afd7b473eb2458786f43f</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slovenian glacier could disappear in days, researchers say</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOaVJTMVNQWkE1TTNwWDlQdU9HcWtfaXVVNFQ5TGREVEpWZ0FfNlZYU0tYTHoyYklqNDlrMkoxcFBLVGxNa0hTdTdmdVFWRkhQSVRwbVpmc0owZWZTUzBhYkZTbG5aMkQ5WGpmQW8wWl9sNWVpUDZrc2JrWXZ6aFJXZEVOUm41a0J2OFNjaGtPeXRtZnNpYU4yU19EbmE4MUhFaDhuTHpVeXNBaTc0X01MRg</link>
-      <description>Slovenian glacier could disappear in days, researchers say Reuters</description>
-      <guid isPermaLink="false">47190eeb5e12fc3123c2d8819c5876b68f05acc8</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain services growth accelerates despite cost surge, PMI shows</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEpQOG5rMHFZVUlnZ2lTM0hhZjFjcjNyNVRtZ3l1TXZhQ2JiSW14bXJIY25vQ3dORlBvUVJqZm9PLVZfMHlZcmF4NkhQNXJpamhGeDVHMWxTN3RkdHR5bDZvcUlwWjZCZDIwaURBcXI5ZDNTMlJsZFcwS1Vmd0Fob0xzeHE5SDlVRXBoMlA5bWt1a3VsU2U5Qk9UZXJsaEVGcVhDUG1BZ00zZnM</link>
-      <description>Spain services growth accelerates despite cost surge, PMI shows Reuters</description>
-      <guid isPermaLink="false">9350da056f3bf086ecf3c9224108147d8d0d70ec</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Army tests counter-drone tech at Mexican border as cartel drone use rises</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ</link>
-      <description>US Army tests counter-drone tech at Mexican border as cartel drone use rises Reuters</description>
-      <guid isPermaLink="false">5af8004f9cac911d3f9104cf2ab0585b3cd1cb93</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Air Liquide launches €4 billion buyback, targets margin gains under 2030 strategy</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlp6QW5MckE5X3BCLUxJazBYdllVZktCS1p4NmFONDVja2VsTERxQzN1QzNSTTZJTUZWUnFZZmpOTHBLVUNCVm9JSkdfeEwtcHlpS0drOFdLbnJySV9EM2NPYklkaGdNTmFTUTY5M05OSVMzRTNWaWV0cGpRZTJjWVlqbGFaNEdKd0pGNGttdUQ5SFAxcUJlbER2UE4wOC1jSi04NFhGSkZUVUVSMXgzdnZDYk90bFJpekhmMlRxTWI3dw</link>
-      <description>Air Liquide launches €4 billion buyback, targets margin gains under 2030 strategy Reuters</description>
-      <guid isPermaLink="false">4a7c3d861921e286da731a6fb395c4eee4f5019c</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Supreme Court won't hear Zillow's bid to escape investor class action</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUhQZk15YXg1bUlmYkZaakhmX2FYeTI2OHhYWDlJQlRfSUVnbXk4elo5LXB1ZEJWUm9tdWJadVRmLWVrS1hFWGRMZU5YcDQ4OHFyUUM1dEliWkluSklaMHM0LXJVZExnSGk1M3d2NW9NNmRUZDBEcHl3UG1sbHlKMTV1Q2lEaHJQSTRlRVkwSXNndUNyWGR5MGFfcUV6bVg1cFFqWkR1T05pN2FiU0VheWhR</link>
-      <description>US Supreme Court won't hear Zillow's bid to escape investor class action Reuters</description>
-      <guid isPermaLink="false">6928d42213ad8a02306621238b7636294e71127b</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>C.H. Robinson to buy freight broker RXO for $5.8 billion</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHZZVHJoeFF3d0lVTjFqZUVieDhwd2p0NjF3MmhtaUNOZ0hQTFc1RmcxTThkWTN0SEd1ZG93WTZzN2VCQkdBb0Y3QXNNVGlINVBOODU2S3FrdEQwbUFiZTJWb3hJVXl5TGpoZ0N0OHllRjczaDdxVFVaNWpBRjExeXdZUUR6OWFsMVBCWnM2dW5xRmlX</link>
-      <description>C.H. Robinson to buy freight broker RXO for $5.8 billion Reuters</description>
-      <guid isPermaLink="false">80a64ee8a40b90264568c60e6d3bf91bb3ba9582</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany says damages claims over cancelled F126 frigate order unfounded</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPdHhfd1U2U1Yya1d5Wk1ZT2ZBNkctV2JGVHl0VUVqU05SNWhtSUx5N05mQWdxdm5kVmM3RWRBaWw3aWZsc2UxZy04eUpieFJROUVremw2S3lpWUNOVmwwRVEyLXB6T3FrTzI2cVdhdFJxTmcxX2k0VGVUUUhid2k5RVRPMWROdUtrbVZTSXExREFGVXFYZE4zVW9sUlp0WnkxLTBCc3ZLU19OM2pkMVBtQ2tDLWx3Qkk</link>
-      <description>Germany says damages claims over cancelled F126 frigate order unfounded Reuters</description>
-      <guid isPermaLink="false">e927fc7157c6ee9c730ef88c4dc8906ab79cfcc1</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thyssenkrupp targets October 28 for listing of materials trading unit, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUtuQThLc2RWSUt3bGRDNlNTVTZnRHhPYUJ0aUdwTV9iZjlJdzN3RXc5cUNjUVlDVzdZWmhTaTB2NmtpN2N6cmZjUDBidWVqVWJadms0ZXlEc2Y2aDJGLWdYaVFWRFhURDBRT3ZMdVJjZU1XQ3NXTmFwTDNQZGNyel9leGtjYmdJZm9yeURfcmU3aURVOWVxUUREaGVqWWp5eHZvMnpKeXNnak1hY2tiY1ROX0hQcTN4MWpj</link>
-      <description>Thyssenkrupp targets October 28 for listing of materials trading unit, sources say Reuters</description>
-      <guid isPermaLink="false">e641f673357d789c8651eec3db802e76fd2527a5</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>AirBaltic plans to cut up to 700 jobs</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2ZnUXFjaF9FcFg2aFF1NHZJQW53RWtCb0h0UlBaa2hHeDNVaHpLaWJjYjZNQUZFMjZjeWNicmxjeTBxUEZ5Umlmc25UZzY1WndqaHRTQVRWVG9wZXFFV2FVaVVUdjRoY3dkZkF3b2VOZmRyRmp3WHRBbXN2QUhHRTB6UkpmLWxTTnJidDQ0NFBtcVph</link>
-      <description>AirBaltic plans to cut up to 700 jobs Reuters</description>
-      <guid isPermaLink="false">af244f238064f7e34ce0f5f230bf798ad5742cd7</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Supreme Court rejects Nexstar bid to avoid DirecTV lawsuit over fees</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXViZWdheVQ5akpuRzBHUUpGMUZkX0VGdDlFZVZvWDRSbE9uZXRhV0FyczhzTkRlVWxqY2kybzJQbmNYS0dTUEpXVGhYT2RuTkl0N3FXY0JabDNRQkVuQkxQeWFHVy1YdTkteVg5SWRBZWZ2UEdsdTFZZm5LbndmM0cxRUxtV2R5TTFVcmJhUWVBM1lXS3dnZ05hQ1hBWGFhYk9iNmFXNVh0WWpGWkRtMllZSQ</link>
-      <description>US Supreme Court rejects Nexstar bid to avoid DirecTV lawsuit over fees Reuters</description>
-      <guid isPermaLink="false">7e4fd27a07dbb4fa02027a3ca12b1fbff744e41f</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>South African fuel prices to jump this week on Iran war impact</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGN4N0hDeHBrQ016aHFNam5wQk9IRHo2OTJjNUtFWWZKT2h1TE5abndZYXNiSVdjS0R1a2xNRGc0djNYTDRNaTR4UElrOEt3SVloQjMxTm1Yb3F6WnFjc2lLTC1oTENXMmVXeTQyUGxPMXc2d0pER3BCQjRMZkVhcmMybHZVNVJuZDM1RzNxVlA3VHdMeHYydFFsV3RjZnZBZ09wenpfWG9MbEFGZ2c</link>
-      <description>South African fuel prices to jump this week on Iran war impact Reuters</description>
-      <guid isPermaLink="false">07f5e0724f13236f1f9a74789fe7e9af2f0e661b</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sterling on track for biggest daily rise vs euro in months</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNYW1lT0pyclVMdS0wdEk3djRBUUo3TVFkSDUxalVMdFNPd3lFdFJLdXNrMlpoTWt3Zm1YS0ZadlVmeWlMeGNyZEoxUDNITDNqNkt4M2hHZEtEUl8tQmE1YWkxUFczRi16N1U2TkhHdFdsMmRidk5lVHgydlV1bGcxcmNUZ0dMWEZqZWZYTk0wWk13NHpIanpZMA</link>
-      <description>Sterling on track for biggest daily rise vs euro in months Reuters</description>
-      <guid isPermaLink="false">a937a755c3bb2104832ac9fa327b9b18622fbec1</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ConocoPhillips sees oil price floor rising to $70 a barrel, chairman says</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNdElzWnJPYVRNeTc4QzA0NUVpNFo2NjBtY0VfZU54X2M4U0ZURUwyU2hjWFgya3Z5b01SUkdUeGQwQWtXT19KMll3d05QY1pndWkzdnV1bVZWcU5vcWNmTWxEVE5ROElsbUYxeUNLeVpzaEpHaFAxNlFEcHBJSUpzNDFZcHUzT3EwTXlYQ0xKNTBpZ0JiUWozQkw2MG01RWF5TmcyMVFETTctWTF3andCSTlMcW54eC1aTnc</link>
-      <description>ConocoPhillips sees oil price floor rising to $70 a barrel, chairman says Reuters</description>
-      <guid isPermaLink="false">a24903e8c6281c7061923e101f0bc258548afc3c</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ECB's Nagel: high inflation not yet setting off second-round effects</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1RoaVJ0YkJBdGY3WkRPbURSVEVOLXhxbEE3S2xXRl9iN3BLRUFSSDNQS2V2US1vX204eUhvNmVVX19OSXdWNG8yVV9ubjVObGlNc05vSWpTOU9ESU9ZcTBJbHFLRG5ZRS13aU5FeEhvMEhKMF9ETm9QZkJ6OW5iam50STVnRjFSUmZJM1g3dS12eU1DUzA2MlRjREkzN3FuRnViNUMyUDFCTjlQVTZ6dkI3Vm55dTNBWVE</link>
-      <description>ECB's Nagel: high inflation not yet setting off second-round effects Reuters</description>
-      <guid isPermaLink="false">2aa9d371a8b9600c49f640111e339f983a73b607</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bain Capital bets on demand growth for sustainable aviation fuel</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNaERFcThlTlQ0cjd6RndJcGptZXZlbU5kTURhSVF4RlFNc01KV3FZZUNJX2ZieWdqUDJ5STVmYnJNVjVNaXktY3JvTUQ3UWVUNVl0RGVtVDRYVThfMDlJWVA3SUk0dDY2cVJuam04emVvT01ScEZ5SlNhdVVqUlZYZW1Odmw2SjFjN1NLcVhhMzlTS1VDeDVLOXI5U0tOYVpqOHlPMHBKU1FsNEZMTEE</link>
-      <description>Bain Capital bets on demand growth for sustainable aviation fuel Reuters</description>
-      <guid isPermaLink="false">a2bca77aa896234493fa99430017fcc11dad1532</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cenovus strikes $4 billion deal for Athabasca to expand in Canada's oil sands</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2tmcUdIbFdVNWs0TWo1aHlpMU9FRW44OHVDTUx1NEM4LTV4bWZ4Z2MxcDRmRkNPaXVfMFZNTDFaNVJPM21BcEJNb1VyWnY5cEM0Q0gwNC1ZeUxnUTRucThjVmJkZlRMUWs3WDQxc09uOXg2TWg1RndlRjhKNW12NUJOYmZ2ZUxhV2VIYW9iX2VNUmh4eFk0ZDRVWk5vSUFFbGRsQld5bnVmMDBW</link>
-      <description>Cenovus strikes $4 billion deal for Athabasca to expand in Canada's oil sands Reuters</description>
-      <guid isPermaLink="false">113a6e5f791f486d52dc5befc632d1539b93fc13</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Ukraine's Naftogaz considers buying gas-turbine compressors from Siemens</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOeThMZ3M3SklzTmlXaU5XUmc1WWlBeDc2bURVcFhzWUJkS1BnRFExOExqa3JLaTlYQTZ0SGpLU2NMVlVWTTd5TzRXQjB2WGxWbVFRQVJKZlh3VnpseTUwM0tnb2JJajR5blJzcTVVZXRZUklYa0FzZkctZDB4WWFoWkpVaWJyWHJUUVZhcjBhalRvS2VZSnFUcHktb0V4Vk5kMmd1b0NzZmpfM3U0Y2d6aFVaWC05MEVYOVE</link>
       <description>Ukraine's Naftogaz considers buying gas-turbine compressors from Siemens Reuters</description>
       <guid isPermaLink="false">a14cfbcd88c4c1bbe63e63a031caee0c5b94b777</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>For freed Israeli hostages, every moment is now precious</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDFILUdGVUttOEdrS05jT2lrUmNPR2o5SmpaYmtMWXItMTRlSUd5aFRhUDAwNjY2ODdPT01Hb3FxLWJfaVQ2TWdkWk1hUml5ZTZQUkZreFZabkVsX1BzaVY2Q3JIVmpucmNCQVR4RnoxbVl2SmRVVHdnYkdtdm9xS0NCNmF5akRiUnhNZ2xtc0FCM3ZzVXFEd2VJTXZOcm5ZS0tkak5HanY5TVBqMnZF</link>
-      <description>For freed Israeli hostages, every moment is now precious Reuters</description>
-      <guid isPermaLink="false">fa980690c24f8545aa96c85218a9047dcb7a5fb2</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxONm1aN3JiNld4ZkM1VTI1TFdCNFRiTmF5TlBFNk5QMmdnaWEwZjJXaTQ5eFBhb29wRnVWM01vWmtiZkVoRG5qSmJnTXY1V0dsTTFtYjZSN1JYRHFodzEwV0NVQVJVYlBaWEVkakQ0WEJXa1hBbUFsRmNJNEotTkd6aHBxYzR4M0NOczhpM00xVkZHQ2t2bV96YjhNSFlaa19McEpwU3ZNMENoQTg3cDhxb0R1YVA5QUprM2d5cVlB</link>
-      <description>Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 Reuters</description>
-      <guid isPermaLink="false">3c0aa20fac38932810694366b2c4588e96e51e9b</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
@@ -262,17 +38,24 @@
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>What will Washington do next if US bond yields keep rising?</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnNOaEpMX1dfS3ZXNUV1SFZZcDY5MWI0UW9udWNkN3dJc0wtZU4wc1JFX1laSjlTY1N1MTdkdjRtMVlIMXFRMkhuUmwtcFcwYlQ2UUEyZnBJSEY3VGo5azVGUXJYU1BuZU9aSmRlZEVsQzNGN3FJeTctRUdlR0ItcFJKbkVYODktX2dWRzE4MjY3aFp3RV9KR3BsYlM5RGpTLS03YW9R</link>
-      <description>What will Washington do next if US bond yields keep rising? Reuters</description>
-      <guid isPermaLink="false">fb7c6330c8ba45b14b8170f1baca0b3bd37a53c2</guid>
+      <title>Kremlin declines comment on report that Ukraine talks are linked to multi-billion dollar oil deal</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEZFNVotSlh0T2JDa1J6bXR6czRZZ1I5dkN2X1puS1FEMWdCbThQN0VwOU1JRWM5WmN4SHNOdEF3LUtjZXZkQUh3cXZ2VXdGbjJpcWxITlRId0pQcFZVUXE0M18xV1Q0WHkxT1ZISV9BZEg3VTRiaHRxMnJBajFkUnF0VzBfTER6Z0tzT2s1QjBuN3hqem15YzNxQU12c2ozdVRDQ0pkdVMxYlZHQ21SaGlhYTZNcC1SemxmejRzSUlMVEFpWUE</link>
+      <description>Kremlin declines comment on report that Ukraine talks are linked to multi-billion dollar oil deal Reuters</description>
+      <guid isPermaLink="false">5651db9e4a520d55e39c3aba15c01898dc444188</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>Goldman sees US data center growth intact despite opposition</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2ZTZDMzaGJJT2o2dGpLNE4xbzZXOFRJdzVVVm9OanBHT2tJdUhfOU1FWGdoNl9RRUpXa1pOWFo4QWJFbThDclBKTmlHVHFaQ3FFbUtHUW15bnNrRC1LTHNzcEE0djhsQmpkNUhjOENzWVdhLTZ0S3l5cUxoUHNlWHZJZlZXaEdsSmJxaEgwRFJjQ2tiRjkybE1IdFNnQzhHb09qR0ZnSFg</link>
-      <description>Goldman sees US data center growth intact despite opposition Reuters</description>
-      <guid isPermaLink="false">6b4d19a0e3b43928a941da9edad0e3a2b537bc5e</guid>
+      <title>AirBaltic plans to cut up to 700 jobs</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2ZnUXFjaF9FcFg2aFF1NHZJQW53RWtCb0h0UlBaa2hHeDNVaHpLaWJjYjZNQUZFMjZjeWNicmxjeTBxUEZ5Umlmc25UZzY1WndqaHRTQVRWVG9wZXFFV2FVaVVUdjRoY3dkZkF3b2VOZmRyRmp3WHRBbXN2QUhHRTB6UkpmLWxTTnJidDQ0NFBtcVph</link>
+      <description>AirBaltic plans to cut up to 700 jobs Reuters</description>
+      <guid isPermaLink="false">af244f238064f7e34ce0f5f230bf798ad5742cd7</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIS chief warns soaring debt, market changes could complicate future crisis response</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOTUJhUmpoYkNKaUt0cXZwcXMtOG1hRlB1SWdGSjlpa3VWYjRmRXVUNXgxWnJ4Q25JSzFtdGJ6Y0hKSWh2VTdqaW91OEh6aXZIZ2ktaFZ1ODJoR0Iyd0FCNkJnVFotcG9HUWJ5UUhCZlU2WmxnaVhEel9ISVZjMmdPZHdWaFVzM0M4VVd1eWdVTzZOUU9iUDM5RkEwR3JfYUZyNUdpVnB6ZUU0S0ZrU18xYWFCUHZTU0t5dUcwY1NMVGFiaXhCSnc</link>
+      <description>BIS chief warns soaring debt, market changes could complicate future crisis response Reuters</description>
+      <guid isPermaLink="false">32f063a77dd474ec91dff6520f02ef01a727b38e</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
@@ -283,17 +66,10 @@
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>Baker Hughes signs agreements to expand Venezuela gas infrastructure</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODZwRnlLSm5GQ3dRbmFhUVozQUJvbWxRek5Xc2R1WlVyWmp2ZGZlNVpxeGRvZUNoVFRmeWlESnFUWlB3N2dfQ01wdFJyb1pFNGRveHJmZm9UWDYxUFBpOFdzV3oxMXRqdmZTOFl0Y3NPVGV6ZFBxd0tRLWFqNGZyYk5aU0FfeXdQa2FRTjRkVHgwUzk2VjFmRE1Ob0FhMlFkdFFERXBLRDFQX05tTnV3UXUxVXVlS1da</link>
-      <description>Baker Hughes signs agreements to expand Venezuela gas infrastructure Reuters</description>
-      <guid isPermaLink="false">e1faa0c4b74ef7c3603744b24e2d0b3f3cb1c000</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kremlin declines comment on report that Ukraine talks are linked to multi-billion dollar oil deal</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEZFNVotSlh0T2JDa1J6bXR6czRZZ1I5dkN2X1puS1FEMWdCbThQN0VwOU1JRWM5WmN4SHNOdEF3LUtjZXZkQUh3cXZ2VXdGbjJpcWxITlRId0pQcFZVUXE0M18xV1Q0WHkxT1ZISV9BZEg3VTRiaHRxMnJBajFkUnF0VzBfTER6Z0tzT2s1QjBuN3hqem15YzNxQU12c2ozdVRDQ0pkdVMxYlZHQ21SaGlhYTZNcC1SemxmejRzSUlMVEFpWUE</link>
-      <description>Kremlin declines comment on report that Ukraine talks are linked to multi-billion dollar oil deal Reuters</description>
-      <guid isPermaLink="false">5651db9e4a520d55e39c3aba15c01898dc444188</guid>
+      <title>Goldman sees US data center growth intact despite opposition</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2ZTZDMzaGJJT2o2dGpLNE4xbzZXOFRJdzVVVm9OanBHT2tJdUhfOU1FWGdoNl9RRUpXa1pOWFo4QWJFbThDclBKTmlHVHFaQ3FFbUtHUW15bnNrRC1LTHNzcEE0djhsQmpkNUhjOENzWVdhLTZ0S3l5cUxoUHNlWHZJZlZXaEdsSmJxaEgwRFJjQ2tiRjkybE1IdFNnQzhHb09qR0ZnSFg</link>
+      <description>Goldman sees US data center growth intact despite opposition Reuters</description>
+      <guid isPermaLink="false">6b4d19a0e3b43928a941da9edad0e3a2b537bc5e</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
@@ -304,17 +80,17 @@
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>Replenishing crude and fuel stocks could take two years, Saudi Aramco CEO says</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFBWUXdRbEpSdW95M2JsWlZMNF9VRXhZdUp2eVBoSXJYYllUbmZ2anNWMFFrQ3lGWFU2cnNxUW1zWTk2alRMS2VhVUtqdndlVi0xc21BT3Fwa2hnd0tjZWxQZDJtaGNvQk41c2lfSWZQR0FaampUcHpFQXdvbG1vUElBZmhuU3FRbC1fNW9MZ2c3eS12dHM5a05QeHVtR3VCYXhmcTZ3TW9CYjdZa1JhdlZWLWVMOHNGM1dQVUhHNTVCQi1fNkE</link>
-      <description>Replenishing crude and fuel stocks could take two years, Saudi Aramco CEO says Reuters</description>
-      <guid isPermaLink="false">034135eb53b081894ee407fb84cedab7ea823847</guid>
+      <title>South African fuel prices to jump this week on Iran war impact</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGN4N0hDeHBrQ016aHFNam5wQk9IRHo2OTJjNUtFWWZKT2h1TE5abndZYXNiSVdjS0R1a2xNRGc0djNYTDRNaTR4UElrOEt3SVloQjMxTm1Yb3F6WnFjc2lLTC1oTENXMmVXeTQyUGxPMXc2d0pER3BCQjRMZkVhcmMybHZVNVJuZDM1RzNxVlA3VHdMeHYydFFsV3RjZnZBZ09wenpfWG9MbEFGZ2c</link>
+      <description>South African fuel prices to jump this week on Iran war impact Reuters</description>
+      <guid isPermaLink="false">07f5e0724f13236f1f9a74789fe7e9af2f0e661b</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>Qualcomm and Arm head to trial again, potential for huge damages in focus</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj</link>
-      <description>Qualcomm and Arm head to trial again, potential for huge damages in focus Reuters</description>
-      <guid isPermaLink="false">38a52141b77e6872909efbe9e22ee7d7eaac8217</guid>
+      <title>Oil market turmoil could last for years, executives say</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFBWUXdRbEpSdW95M2JsWlZMNF9VRXhZdUp2eVBoSXJYYllUbmZ2anNWMFFrQ3lGWFU2cnNxUW1zWTk2alRMS2VhVUtqdndlVi0xc21BT3Fwa2hnd0tjZWxQZDJtaGNvQk41c2lfSWZQR0FaampUcHpFQXdvbG1vUElBZmhuU3FRbC1fNW9MZ2c3eS12dHM5a05QeHVtR3VCYXhmcTZ3TW9CYjdZa1JhdlZWLWVMOHNGM1dQVUhHNTVCQi1fNkE</link>
+      <description>Oil market turmoil could last for years, executives say Reuters</description>
+      <guid isPermaLink="false">034135eb53b081894ee407fb84cedab7ea823847</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
@@ -325,10 +101,10 @@
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>Germany's AfD weighs shift from anti-EU roots, strategy paper shows</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjdNdF90SDNFZ1RseHZqWTh4QW1oeGd2Nnk3ZXI3bnl5UjhRQkpBeHI3Vi1HY0Jramo5MjVQWHFoTExveVpuWEdvbGdWbjJwVnFFNXI3dHp2ZkZKdXptV3lvSHZXS1hHcFYyeW16VGNyYVRmNWFxWWlyU09KQTZtZkZlYlBYbjNObi1LdEFqNC1EYXAxZ2lUYnRTUjVpWGVhdkpFOWhhb29tRUNjaXlSVHNMVlVlbEQ5OUNj</link>
-      <description>Germany's AfD weighs shift from anti-EU roots, strategy paper shows Reuters</description>
-      <guid isPermaLink="false">7b3ae66626638cafe096df1828a6b76c0cc55b93</guid>
+      <title>Qualcomm and Arm kick off trial, potential for huge damages in focus</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj</link>
+      <description>Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters</description>
+      <guid isPermaLink="false">38a52141b77e6872909efbe9e22ee7d7eaac8217</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
@@ -339,6 +115,27 @@
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
+      <title>Russia's oil earnings fall despite price jump as output drops, rouble rises</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXVBVEdSV0VCSHNQZ0lMMkpoWV9ZQzVKZ1h4TXNUUWJDWldiWXU0cWt5NWNGYTZJZnM1SERHTTdyU1RFekV5Y3NNQmo4czFaUWZWRk8xVlNZUnBpWGFNYlh5VVB1M1pCMER3czZzUVZCS1J1WG5meldjTy1FTTdVLXdtN1FsZDFtcy1FSDFwd0RhbEV1X01wVlZial9xaUlkRFR2VVR0dmotcElabjExUko5bW5VbjgxUGZlYkZKUQ</link>
+      <description>Russia's oil earnings fall despite price jump as output drops, rouble rises Reuters</description>
+      <guid isPermaLink="false">23888fafe2c93f3f54640ecb8b4e687be7a974f6</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>What will Washington do next if US bond yields keep rising?</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnNOaEpMX1dfS3ZXNUV1SFZZcDY5MWI0UW9udWNkN3dJc0wtZU4wc1JFX1laSjlTY1N1MTdkdjRtMVlIMXFRMkhuUmwtcFcwYlQ2UUEyZnBJSEY3VGo5azVGUXJYU1BuZU9aSmRlZEVsQzNGN3FJeTctRUdlR0ItcFJKbkVYODktX2dWRzE4MjY3aFp3RV9KR3BsYlM5RGpTLS03YW9R</link>
+      <description>What will Washington do next if US bond yields keep rising? Reuters</description>
+      <guid isPermaLink="false">fb7c6330c8ba45b14b8170f1baca0b3bd37a53c2</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Army tests counter-drone tech at Mexican border as cartel drone use rises</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ</link>
+      <description>US Army tests counter-drone tech at Mexican border as cartel drone use rises Reuters</description>
+      <guid isPermaLink="false">5af8004f9cac911d3f9104cf2ab0585b3cd1cb93</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
       <title>The US said China was priming a trade superweapon. Then it vanished.</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNk53NVpHdGRlQmhXNmdsVE1zTXcxOWpUSU82S3FZVm83M0g3RWx6R0JJV3QxNS1PZkNTNXVoam1sd1dUVFl4dm9fSlpXQ1N3WkJNa0FuSjRwd19KRWdqbDhDLWRwMEUyUmlva19hblVDLTBrTk9DSV8wNXdhaDB3eEpiTGRUSmgzYTRpRksyd3F5YnpKeGJxYjc0dzlYNXNHU0ZkRGZYX1hVTGZJNktKYTBIQUdZTXpWdl9Z</link>
       <description>The US said China was priming a trade superweapon. Then it vanished. Reuters</description>
@@ -346,10 +143,38 @@
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
-      <title>Russia's oil earnings fall despite price jump as output drops, rouble rises</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXVBVEdSV0VCSHNQZ0lMMkpoWV9ZQzVKZ1h4TXNUUWJDWldiWXU0cWt5NWNGYTZJZnM1SERHTTdyU1RFekV5Y3NNQmo4czFaUWZWRk8xVlNZUnBpWGFNYlh5VVB1M1pCMER3czZzUVZCS1J1WG5meldjTy1FTTdVLXdtN1FsZDFtcy1FSDFwd0RhbEV1X01wVlZial9xaUlkRFR2VVR0dmotcElabjExUko5bW5VbjgxUGZlYkZKUQ</link>
-      <description>Russia's oil earnings fall despite price jump as output drops, rouble rises Reuters</description>
-      <guid isPermaLink="false">23888fafe2c93f3f54640ecb8b4e687be7a974f6</guid>
+      <title>Slovenian glacier could disappear in days, researchers say</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOaVJTMVNQWkE1TTNwWDlQdU9HcWtfaXVVNFQ5TGREVEpWZ0FfNlZYU0tYTHoyYklqNDlrMkoxcFBLVGxNa0hTdTdmdVFWRkhQSVRwbVpmc0owZWZTUzBhYkZTbG5aMkQ5WGpmQW8wWl9sNWVpUDZrc2JrWXZ6aFJXZEVOUm41a0J2OFNjaGtPeXRtZnNpYU4yU19EbmE4MUhFaDhuTHpVeXNBaTc0X01MRg</link>
+      <description>Slovenian glacier could disappear in days, researchers say Reuters</description>
+      <guid isPermaLink="false">47190eeb5e12fc3123c2d8819c5876b68f05acc8</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germany's AfD weighs shift from anti-EU roots, strategy paper shows</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjdNdF90SDNFZ1RseHZqWTh4QW1oeGd2Nnk3ZXI3bnl5UjhRQkpBeHI3Vi1HY0Jramo5MjVQWHFoTExveVpuWEdvbGdWbjJwVnFFNXI3dHp2ZkZKdXptV3lvSHZXS1hHcFYyeW16VGNyYVRmNWFxWWlyU09KQTZtZkZlYlBYbjNObi1LdEFqNC1EYXAxZ2lUYnRTUjVpWGVhdkpFOWhhb29tRUNjaXlSVHNMVlVlbEQ5OUNj</link>
+      <description>Germany's AfD weighs shift from anti-EU roots, strategy paper shows Reuters</description>
+      <guid isPermaLink="false">7b3ae66626638cafe096df1828a6b76c0cc55b93</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baker Hughes signs agreements to expand Venezuela gas infrastructure</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODZwRnlLSm5GQ3dRbmFhUVozQUJvbWxRek5Xc2R1WlVyWmp2ZGZlNVpxeGRvZUNoVFRmeWlESnFUWlB3N2dfQ01wdFJyb1pFNGRveHJmZm9UWDYxUFBpOFdzV3oxMXRqdmZTOFl0Y3NPVGV6ZFBxd0tRLWFqNGZyYk5aU0FfeXdQa2FRTjRkVHgwUzk2VjFmRE1Ob0FhMlFkdFFERXBLRDFQX05tTnV3UXUxVXVlS1da</link>
+      <description>Baker Hughes signs agreements to expand Venezuela gas infrastructure Reuters</description>
+      <guid isPermaLink="false">e1faa0c4b74ef7c3603744b24e2d0b3f3cb1c000</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOMF9lcTkxVU5OWUp5THhibUJWc3U0MWo5c2dreS02dFk3TGt4SlBXLVdpX0htOV85SnVsc3RUZjZJZDJac3p3bFgzS05uU2hjVXh5N0RjcFVtQml0TnBRSllwREVDdUVFOTBoTTRMT01RMnVUNGQtZk1ZY0ZIdUZHWHNBbjlaMk10dEpJZ3J5eTZHYjlDQW9JdEg4STBBLVNYNlFRb1J1aUJudHJkS2lmT0otSUJHdE5wVnJaXw</link>
+      <description>Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley Reuters</description>
+      <guid isPermaLink="false">490535aa187d22ee33d25c41c963b5179585a5d9</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>US services sector cools in September, price pressures building</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR</link>
+      <description>US services sector cools in September, price pressures building Reuters</description>
+      <guid isPermaLink="false">be95b4e33b744eff438567be206aa65d36267c1d</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
     </item>
     <item>
@@ -358,6 +183,181 @@
       <description>Dozens quarantined in Siberia after plague institute lab worker dies Reuters</description>
       <guid isPermaLink="false">3150869bd5e8c44d1658e8e9f456c3e405b2d879</guid>
       <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ellison retains Thompson as CNN chief, unveils Skydance leadership team</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPTE9tY3YydnZveDVZVngtOXpCVmpaSThENnBYQkNVcDRzY1dObkIwb0QtaTQ1aERXUGJDSVQyeXVCWU9uTUJpREttNlVfWENlbWhaWDBjOS13UTN4cjBTZXBuNElaTGRxQy1MS0tFTGhabEpnQTl4X3FfWHl0aFdKNUprSlFUVEQtYlFDLTZwNnZEVkdabWhfbDZnQXFpN1hya210YndzbTJXekkzZHFSNA</link>
+      <description>Ellison retains Thompson as CNN chief, unveils Skydance leadership team Reuters</description>
+      <guid isPermaLink="false">b0087fe2c60058797a8bfdaa7c70cc8c4e1150e2</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pennsylvania measles cases rise to 1,004 as outbreak spreads</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGpyUm5ta3BaZnY5UU1kZUdySVQ5SGt0TldPMG5hcVNteDhDbm13VGJZN2hDNENWa05PWDhLTVBTMUxLU2lvOEd4WWpDRnNLSUl0X0pMWnhnZFhjWU52Ql8wVnU1bl9oR3J6NmkweG55Y1czN3Z6OXlmcnhaRmxLa01CNThVci1fTERRMlhYU3FVb1RhTHJjTFNWdU50dGZKU0hDTUtlRnlrWVQwUmppbjRZbks0ODMtSFdmUTNUeGFGZFU</link>
+      <description>Pennsylvania measles cases rise to 1,004 as outbreak spreads Reuters</description>
+      <guid isPermaLink="false">cdf26e4e6335dc567e05dc71db346ab86b3ac485</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electrolux reduces planned job cuts in Italy, with no compulsory redundancies - unions</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRk41Q2I5N1NpWXRDRDFTaUhEVEhXMEJUR1MxSUFfWTI5bV9CUjZVOGRwNHRyekRXWURqamtzaUJoRnhSYTM4aEtlcTd2Z3pQVG1rbVliSVRzU29DZVd4SENYTmlDRU4xeUZUVGI4SFAyYjIxMFlQbVY4MmpSVU5OQ1NDMktnbmZ4Q25HM2pjZ0NZTF9KczdIZzRtRTJaZlFGSzQ3dXhtUVdNUVAzLUZsQzhlLWlVRDFScXdUTmsyTVR3S0haa3ROVjFpSHJPQmZ6cy11Mm53</link>
+      <description>Electrolux reduces planned job cuts in Italy, with no compulsory redundancies - unions Reuters</description>
+      <guid isPermaLink="false">10f0951b43cc24bbcfeec0c9933a90d08412cb11</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's Haldia to revamp feedstock mix after Mideast war hit supplies, executive says</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOZWNMel93THF1am84dTd0Ykx5aGVUb0RUc2JqRnBEai1VNEFaZGs4bUFXRm80a3Q2WnRtRDFJcnR5WFp0WWl0UkdvdjM4WVd2X2YtckQxcHh2eDBLLTlUSWs0TTgtYzFfT1VOZ0pnMXRBMU9DbmhzSDNJeVF3MUd3N2VqZkNDeE5ldkhsS1M5d3VEejNCcHgxWTVXSjdCbkZMUkJob3BkMHJSU3R5TjVyckdLbWFpVEEyRXFxbVZ3eG5jejNmRGlhdXBMVmQ</link>
+      <description>India's Haldia to revamp feedstock mix after Mideast war hit supplies, executive says Reuters</description>
+      <guid isPermaLink="false">f951f360784ca5248bb0a0cd36813b58d6abce3f</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivorian cocoa farmers worry main crop could finish early due to poor rains</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQbGw0YUdTNXRBamU4dFNWT04yWFRnZ2l6Yk96UGU0YUVNQXVlM2YtR0ZMVlVaSUFhLUcxTVJJaVZuYWpIN0tWNHp1clVpSjkzdjRTcm9NWHFYZ1RUMlk0NWFUcFpEUEN4b18wOVBxZWpEQnQ0UDhHWUhQNUxIUUV2X3ZLc0czMFB5UzdZdTVlTnlEdWYyWjVranQxY0FqZy1jWXBCQ1NpYnJZY0hGSmUtb1l4amlVYUdhZFdSNEtuYUVTYjNXUU53</link>
+      <description>Ivorian cocoa farmers worry main crop could finish early due to poor rains Reuters</description>
+      <guid isPermaLink="false">3c8dbf0e6d74306fcc99d5b3c8ac881eb6621fee</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU rejects €26 million state aid to MAN truck manufacturer</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWE0UWNBUWJqc0pGNUo4cUVPYkVzZHRvbVFMSGJDU0V3aHFnUTM5R2RaMFBFNkh2bGM5TUVKcVAzY1dka0tGRC1rbW84ckxKRlBLS2NOVVBWVk9sdi04M2VCLWxDM1phS3VCb3ZpenN0ODVFVjhzVmJNLS1vakFRYmxrdUt4d0JtdEdFenlhNzZvOWZYYmpRd1VXcjB1a2xn</link>
+      <description>EU rejects €26 million state aid to MAN truck manufacturer Reuters</description>
+      <guid isPermaLink="false">52796b41abc29a4df8c27066efb5571a306f13e2</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renault appoints Michelin's Carine Damois as CFO after Minto departs</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0daTGFpVXJueURjX2FYTHU0bXc2MjMtd29raDI4ZE0wRy1aUUhsdjFzUmZOdVV1R1o1WFdNNUxuaGVnVkstNk1WWVVXZVp1VTFTYmtJemZYRlBCdTVzRUJCRTlPU1ZMNFF6cHlGWllGY2RzZzZLb0xzbHhqZE4xNjBseGd0X3p5dk5FNU1vdUV6RzZEWk5DNmdISGRPN3FqR1hTX2c3WGEtSzBPVmc</link>
+      <description>Renault appoints Michelin's Carine Damois as CFO after Minto departs Reuters</description>
+      <guid isPermaLink="false">d0c898b8daf2bebd4cb6e7ff1e3eb7e41f3ea7d9</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>World of disruption creates opportunities, TotalEnergies CEO says</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2Q2UnhYTTRYR1lFbVdyamV1cUJKaUtsUk4wcllfYlBKdmIyMWVYcTR5dGsxRVdNNmtKVVd2dTBzSklac1RMVmZBU1hoX0tReWdCMWstZEVGcmdjYXBJMFF2UFd6U011MjQ2ZDhETVdSV2RTRVY0YTZJNmp4MXc1QXI1QlBXZmd2U1BMMzZmM19ZNGR5ZHB2QWRRQkh0UWpjLUR3ckx0ak1vT2dlZUdnMko4dw</link>
+      <description>World of disruption creates opportunities, TotalEnergies CEO says Reuters</description>
+      <guid isPermaLink="false">c0c2432b494a44430503cbd6c2558931498b1b46</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mattel faces growing shareholder pressure to consider a sale, WSJ reports</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkRDM0ZoYUVYZWFBem10cnJrTmZNRW1FS2FIVjAzVUIxVjhpR0RhN3VrTU5fRVFwVEFsTmNfdHRtWkI3ZWRkRmx2N3dfUi1OLUZ0VkxSY0xIbnFJTkJadnpZaWZEQTJ6Z3RMbTREMkZMeTJYZjhVN1hjT1ZTNk5RRmtpSFU0Wi1UUEgyRG92VE9EbUZlVjFiUnh2OHZncGc2TDBidFREVkoxRzUyd19VbHE3bkg4T3RtZDAtUjBuNy1kanozX0VR</link>
+      <description>Mattel faces growing shareholder pressure to consider a sale, WSJ reports Reuters</description>
+      <guid isPermaLink="false">3138bd68f3edf4fab6efa1dd99176da9f0f2464c</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boeing receives Lockheed PAC-3 MSE contract worth up to $14.7 billion</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXJFR1hVRXJmenBYd1VGOWxRZDFCWm5xbXNHMTExZTBmT0ZSczNuc29tZ0NZVmpKZVp2OV82Tm00Rlk4Y2xJMnJITGFycjVfZXpvWGFSQUhKYmJ2MWdsT1BYdkhjX3hsZUZtN1U2Vnd3R1lOdTc0dnp6MUY0YnhLRVFlMFVoSGRTTnByNWh5eTRaSy1pZzhES2Rkc2RDYkJfQjU2NVowT051bC1oa2V3NVJyN2ItaTRsYV9NNzI0bkxYbkdDS2c</link>
+      <description>Boeing receives Lockheed PAC-3 MSE contract worth up to $14.7 billion Reuters</description>
+      <guid isPermaLink="false">86a13b31dc919d3a9d18e0f79dedd248ac989240</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York declares disaster emergency over measles outbreak</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQTF9Lb3Q1aHczRXRwVDlSaVFxUk5LUWFWb2t2RXlVd0hrUHNjdVg0RDRtXzRvbGQ0bUJ4LTAteHdBVE9JZXppTXU0TTg1NTFidHdsby0tS0luVVFsU2J6WlE5N3AtLVp6YkRSQmotXzUxNnZYaXpBYnotVnJyTExKSzlwN2JNSjB2UGx6RTZHZm9mazR4MllfRHNSaG1IVmN3UHZ4Y1JpYzFUdWYwZm1fRWh6V01MY216R2QzLWRuTThxMlJNNW8xOXN3</link>
+      <description>New York declares disaster emergency over measles outbreak Reuters</description>
+      <guid isPermaLink="false">fef7765afaac7a02ba6d6736d6073d1b63bf3612</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amundi Asset Management takes a more positive view on British pound</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDNqMU5zNy1wODVWenM3bTVWOEdtYW1PVHdOdkZ6M0ljYlRhOHJKQ09CdmNnSGMyVE0tTVhjbzZ5ZVBDa3F6STN1Ukg0bk1Va1VLcU05TW9UOHUzVWpVS0V1TGxwSHViZXUzQ21ObnFuaTJyajBRREJoVFp5RkdmOVJfQUt0OWNSSFAzSDVlZklUaFVCeWdMcFF0dVZmQmlwZkRLSUk4VG0wVm8</link>
+      <description>Amundi Asset Management takes a more positive view on British pound Reuters</description>
+      <guid isPermaLink="false">ee1364590847114689494f09f03cbf3cdcd78283</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX seeks approval for Florida gas pipeline to support Cape Canaveral launches</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGwzd2VIRlNtS2N4Vk5SbUh2NG1abk1uMU5YUTlZWEJlamRxcXFFMlJWNW9MWVZTQnlVdllrSldCeVhqV0xZblJwV05hQzl3c2F0MjVwRU15WWpVYWpnaWNuUjliQnpzeF8wS1ZnRzlSTzNUeThPMDRxQncyZ1Jmc1RUb3NFcjRndXVJSTU2NVVTcFRTUHVZN0hDS3dTaFA1WFJHTzBjMzgyRWVsa3FOWEhWWFBsdjlvWEJwVV9hNWNCbGFE</link>
+      <description>SpaceX seeks approval for Florida gas pipeline to support Cape Canaveral launches Reuters</description>
+      <guid isPermaLink="false">f3b1d423c3aa274cb3b8a62bdf023759d922b4bc</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>German state says Evonik jobs, independence must not be called into question</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRET2N2ZlAxTkNMU0dGaF9aeUpQZ05PN3NYN3VjZXVFMDQ0WGxoZ3FVYlRvSjV5Y0d0T2l4WVFvWmJXRVRjNGZLSG5yTUw2Z05vNTNCbHFhVmhPNl9rTjhSRmFCTVBSbUV2RVFpa0dJdTlQckhvLUMxQ01sYTFFSG1iRzRUWHlTaEFCb1pCaGxWbUpzTkhaTDl2WmY0b3V1LWlYVVVvQ0pJNmE2U1AzVm5uUk5Cb1pGT3p0TA</link>
+      <description>German state says Evonik jobs, independence must not be called into question Reuters</description>
+      <guid isPermaLink="false">2682e251888dd89950be713541e7960bce4d9018</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'Oreal taps advisers to explore unloading chemical-related liabilities, WSJ reports</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVlZwM3RhWGl5c1V3SWlXSXdBenVQbUh6Tkpsbnk2R09hcnNfcjUwWU1GMWNPcFhkZWNFeGVZOHFXcFdjcjJ6T2NTY01Gano1Z3MxTVJNcjI0aHhEdG5OVUphZ19FZG80UnlzYmhFMGlBUnRTbUlpV3d2YzBWb1hQUnUxdEVYVHpfSUh2cld0TzhmSmRxYmpHQXlLWWVsVlFFcExXcG5HbVZDWFhJdGxwellSd3pVYVktSDVqTFBQOUNtb0toUEZnTW9qNFBfcVpVbFZSNjJfZw</link>
+      <description>L'Oreal taps advisers to explore unloading chemical-related liabilities, WSJ reports Reuters</description>
+      <guid isPermaLink="false">66f5bff7b7edf9f791faffe83869b0e0c456c2b2</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next Artemis mission on track for 2027, but anything can happen, astronaut says</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0diNE9YZ0FGTkRqc0dtcWRzSXVJWnljbDF1Nl9nN29HaEItb2NRRm4yeHliNmQyZmlZNm0zTEFTZGJrc2FySFRIMTNxT3laemVxbE5yQWs4LWp4YTEtdEpSUG5xV3lJejdrTUtqRUh4bmtTUm1wSWxSQzV1dTRtd09lUDJIUFI2VVBBaVNKVzB5eHNhbTQ3R1JfMmkyVkdOeDB4eFhfQjBSaDdWV0J0eEN3Qk9HOVcwcENJODVNVlJVQ2M</link>
+      <description>Next Artemis mission on track for 2027, but anything can happen, astronaut says Reuters</description>
+      <guid isPermaLink="false">007583750e56991cd156d79b297abf748a6f5e26</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pinterest taps Amazon veteran James Dibbo as CFO</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXU0QWtuTWN2Zi1BRlhZODdlMVQ1cE91STZXdWNTOFpPNGJrMGdKNVFKaUIwT2xBVUloNkFJSEl6N1dYXzFNTlRaNGdJeUhqQkh1LVB2X3Zzc3BEdlVWaVpXYWpQTWRHb1VPeHplOHFJRjk0aC1ZQWVGcHMyMGhkWWM2T2V0RzktVEMycFZjMFhSeW1JeWZUVTRjUUdHVjY2WEZPdVBuZ0hDQQ</link>
+      <description>Pinterest taps Amazon veteran James Dibbo as CFO Reuters</description>
+      <guid isPermaLink="false">9df8c7acaa1e9210de3c8d5a5d750c1032f3addc</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intesa's MPS bid set to redraw Italian banking landscape</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVVFUjJFaXdxNldGM3BrVEFIb1I0SG90Rk54T0MyUU1iTnJpeTdBV3RFY0h5dXFwcUd5Q1liaThHdjdLZzJYSGdyU002QXBJRGF0Sm5LaHFQbUZxZDJkYk12MUE0dnFrM3dUZTZrbXMyQ1Q3Z1dTUEgwMHpmYnk3VlZjV3owOUxablNCRk5NbDgxYkItVTdPTVEzQk1ac0x4TmpqN2dudnI</link>
+      <description>Intesa's MPS bid set to redraw Italian banking landscape Reuters</description>
+      <guid isPermaLink="false">c3f95b9fed1249bba38fbe8e0dadc48590dfa72e</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vance says details of proposed Alaska LNG pipeline need to be worked out</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEcwdEtDWVU0a1VuTkR1WFlvYUd3WnJtSWY2Zko2RHExQ2I2R0RTM1Nia25lQkZsSnZXaU1yNEl5ZkpEbmtpaFp0SEhiX1pxc01abTZiRlVWNHNIX1FPRE1FNGpYcTcyZkdQMEhzMjVpdVJRM1l2ZDlTSkZyeDZVSTU5cG9pU1Y3Z2VXZW40YUhfaTJRMVJhLTVDRXZYR1dlT3BzNnVmbmV2aUxMb1lFb1BUYnNMOG1yNEE</link>
+      <description>Vance says details of proposed Alaska LNG pipeline need to be worked out Reuters</description>
+      <guid isPermaLink="false">78350b16f0293c496da3735c0643a4515cc3e7ac</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heavy rains lead to Senegal floods, government reports several deaths</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMThYYlZGYjluZGV2elp3ZjMzbktva2tVZm03YmNoTU16cFJRNUw0OVZPY0I3ekNzVFl1TXpPaHNSdHRkOTNoWU8taGVYMWJiUFlvMFZtLUV6Smp3NmlaYng3NTBMdXJlVXNkaXJUU2k0N1ltQVNVM2F6RE5wUVlGOGFMRzlMc3A2RldsUC1sZjlJdkFRbnpxUVVrTEtnNnF2SXEwOE54c2w3c2RIelZGSW9sUDJZVGQ0OTFnQjFuZ05lMDA</link>
+      <description>Heavy rains lead to Senegal floods, government reports several deaths Reuters</description>
+      <guid isPermaLink="false">950920af1f3df011d74e06517b65dc2950889d5b</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>After notching two jet fighter contracts, Boeing could be turning the page</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFRNVmoxSVNJaVN3bm9aSHAtWFcyMkR3aGs5UlZucTVYR2VRR3oydkF4Q3A3Y0dpMEZRRElhY0VRQ3NBcDhLNDBTVzNJV3l2b0NEeE5iSklMOHZVYnpRMWFaVHY3NFljOFBmSm1nVlI3dWR0bERZcXZ3VVVUbUh6Skt0MG1odmdmNWdiM1dESWRtQ3dENkdJamFhVU42QUl2WGpncDhoNmRKRUcxYTYxMUFLS1VqWXBpUWNVQ3JHOXBLUTJDMmV4alBpNE5mZmVwbHZxUw</link>
+      <description>After notching two jet fighter contracts, Boeing could be turning the page Reuters</description>
+      <guid isPermaLink="false">9d25f0d4e1521be8f0829aba1bbbf91e07cc840a</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca to invest over $1 billion in Massachusetts, boost workforce</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSF9YbjhTWXpyMThsQkFTb2Jjb3JrTzJtOU9GMjRKekRZMHBnbllCT1FObm5uRDBzY1p2NWs1N1hkSGd3ZXgzVXVfd2tEX0UyOTZ3RldFQW0xbFlRWkFrc1NRTDJLUXgyMWRjcnlOb19pSm13Tk9WSUxfUmNDcVRHbi1Gak51ME9ySHRjRUxDWDV4UnNPVFlpM3ZkSHkwcHFQOW5laXFXbmFaSHh5cUV6c09UOVRZVmp3M3ZXWmtPdjl3Mk1TWFdXQ3hzUWZnQUpzWHZrUGQ4VGF3d0U</link>
+      <description>AstraZeneca to invest over $1 billion in Massachusetts, boost workforce Reuters</description>
+      <guid isPermaLink="false">07d91ae68c009056081d2192f55d69cf62af71df</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Putin grants approval for UniCredit Russia unit's reorganisation and sale</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWZYOWI0MlRvSzJOYVpNNjlLRWg4Z3o0WlVWZ3Y2MVhRM2lTbzRhQjVYWDBXeHZvR3dBcE5NVUtCeTFuMDdvUF9ZdFF0RWtvTzNvaDZoY1d2VUtaRW5DaExLbnliUUcwSU9CSzNvbV9pUm9Nc0xoRzZzRUpnakE2akdWc3hDRjF1OXNEWE43XzUzaFE4RUFMeFFvZDhBdW9Wa0pJUElXSkhpckNSSWdQUEVoek9GR0hp</link>
+      <description>Putin grants approval for UniCredit Russia unit's reorganisation and sale Reuters</description>
+      <guid isPermaLink="false">54201b7585d6e38bba8d89e042bace7a85ab50dd</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump to issue order expanding access to tax-exempt diesel fuel, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjd3MW84djFPbF9ldmFnS0JEVVJjZEFSOElGa0RzZFlxNXVvWGRMRkFOdjFSTXpYQUhzZ0ZrTndlcFVsaGY1LUN1SkFWS3N2N05YbmViMWNzMDZsckpPdDctcjROUGx1cXc5dFFzNGFla0RaTGZQTU9mRlRGTGxRWXBJeW40dW1ZMFFERGNJY1BNUzRVSlo5SDNXSjVvcWFhc1VkLW42WXlBN3ZyeXcxUGZsN09EMEVXd3U5VmFkSQ</link>
+      <description>Trump to issue order expanding access to tax-exempt diesel fuel, sources say Reuters</description>
+      <guid isPermaLink="false">49837941cfa0f5b14b20edd2e4f24dce19f55805</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkFydDJJNnFHa29fNkJZdjJPNzB5WU13Q2Y1a3NuMEZsTjF2MTZMY3JMZE5ZMHJzMU1DMWxJd19yMGdTX2dGQjVtSU1aVmI2cndhd3p3N04xRWhrREtFTTF4akUyNHU1NXdQdUVCQ0dWVEY2Z3lySmotUEhhbGE5UktrVVNvM0xkVHRPVWVGeDk3bG0wN29rNTBibmhKTDM4TE5xZ0dBcEd2V2VyQ1VyRDl3TjZtUTlqR1kwQQ</link>
+      <description>As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats Reuters</description>
+      <guid isPermaLink="false">fb0beff2ad32527d93a03de00be991e2b79a8d32</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:00:44 +0000</lastBuildDate>
     <item>
       <title>BOJ says AI boom may have eased financial conditions, warns of market risks</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNQjlSUWhaVUxCOVpMNGw0STBMaTh4cjV6TDNzeE1lZ2pXZTBoZ3ozVWxWYkxEWDlScVp6RWZjRC1TVWdzSUVURVFRQllQSmRBLU41XzVsRVBVVG4xdEl1S2hZZUZnblZ6c2V6Wk1sR0N3VnJ6aVdLMUJ2UHA2Q3MxZ3dsV0VhakJYdDBXdUV4WTV6OXRITUhEdDhIYzJZajhwQXladTRpNzExd3otSzJweUdZWXk4dkNWWXc</link>
@@ -24,6 +24,13 @@
       <pubDate>Mon, 05 Oct 2026 14:32:24 +0000</pubDate>
     </item>
     <item>
+      <title>Norway to propose temporary ban on AI glasses in some public places</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk</link>
+      <description>Norway to propose temporary ban on AI glasses in some public places Reuters</description>
+      <guid isPermaLink="false">331cb6e6eeba0df3ceb7825dc0e355e8755796e8</guid>
+      <pubDate>Mon, 05 Oct 2026 14:32:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Italy PM Meloni seeks EU trademark for her voice amid AI deepfake risks</title>
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2xRcUZHLUJybUdWU0hwNHo4emp6NmhObVNRMlFoVE1oaXJCdXFIZEFYY1MxQ0U2dVNOVkV2b0o3dUpzQVYzSEwySFpHOGRmVnZlaVZxdHY3a256Q2gxcW93UHVNT2lSUUVfVmxZdEtHVk91UFh5MXlXWG54Qm5SaFZVcHF5OWJfSVRYSGs5dzh3TE5ybkVxdUJpM0ZVeU51UlRQYmdLTVVDakl6bXBZM3Jrc18</link>
       <description>Italy PM Meloni seeks EU trademark for her voice amid AI deepfake risks Reuters</description>
@@ -31,11 +38,18 @@
       <pubDate>Mon, 05 Oct 2026 14:32:24 +0000</pubDate>
     </item>
     <item>
-      <title>Norway to propose temporary ban on AI glasses in some public places</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk</link>
-      <description>Norway to propose temporary ban on AI glasses in some public places Reuters</description>
-      <guid isPermaLink="false">331cb6e6eeba0df3ceb7825dc0e355e8755796e8</guid>
-      <pubDate>Mon, 05 Oct 2026 14:32:24 +0000</pubDate>
+      <title>Nvidia-backed Reflection unveils first AI model to take on Chinese open models</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4</link>
+      <description>Nvidia-backed Reflection unveils first AI model to take on Chinese open models Reuters</description>
+      <guid isPermaLink="false">3a031cb9f869a54a27746efbf7980db5a3c6de02</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW51ZFBsNXhuaDZnTUxzNzc5M280OVE1VmZEUGdXaFVJeGJITWRJbEpCWXV1UjlGaGZIZXQ2ZXVybU85UWZaRWx4UjZRRU1rZzV3MVB0cXo4R1JFcW4zQWpIa0tmU2FGRW16LUF5U0JPWGgybDZCZnZFckNubFRmbXBwYlV0WVM1dDZkVndtTmNCaG9oRVQ4THI4V0VtRFA2UFl0eFZrRm1nN2N1MVF0VjdGVHgwUmlRWWc</link>
+      <description>Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May Reuters</description>
+      <guid isPermaLink="false">3463d6b63363cdd7fcd9f2d3f3b076890f9716aa</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
