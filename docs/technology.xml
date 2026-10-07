@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:40:52 +0000</lastBuildDate>
     <item>
       <title>BOJ says AI boom may have eased financial conditions, warns of market risks</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNQjlSUWhaVUxCOVpMNGw0STBMaTh4cjV6TDNzeE1lZ2pXZTBoZ3ozVWxWYkxEWDlScVp6RWZjRC1TVWdzSUVURVFRQllQSmRBLU41XzVsRVBVVG4xdEl1S2hZZUZnblZ6c2V6Wk1sR0N3VnJ6aVdLMUJ2UHA2Q3MxZ3dsV0VhakJYdDBXdUV4WTV6OXRITUhEdDhIYzJZajhwQXladTRpNzExd3otSzJweUdZWXk4dkNWWXc</link>
@@ -59,17 +59,17 @@
       <pubDate>Tue, 06 Oct 2026 06:17:11 +0000</pubDate>
     </item>
     <item>
-      <title>Software startup Vinci raises $250 million at a $1.5 billion valuation</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXlBT2t6Yl9MeFBjVC1VV2pGSVhwOUF6VDlJeEJZUG5wTHNLYUQtVlp4RXZvNFFPRko0ejUxaGtnaXA5T2F2cjBhVngxZWtWNHp2TnJDVXlnUVBXMzFWM3lwdUpDeGYyY3FuZ2xBQ3lxaHB3c0F5OWZzMlExWUN0OVhlZGJfVEFOa1JVY3RnS2tOM0ZwLUxuTHJDaV9uRmRmY25HRmpKVDRZSGF6b0E</link>
-      <description>Software startup Vinci raises $250 million at a $1.5 billion valuation Reuters</description>
-      <guid isPermaLink="false">1af93610230b0a2162bdbda0bcdfedfc82b8195e</guid>
-      <pubDate>Tue, 06 Oct 2026 13:22:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Fast-track permits turn Spain's Aragon into a $70 billion data centre magnet. At what cost?</title>
       <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVNCTWtQRkQ1cEFETTRrTzhjMWtFdGkyb2twbkpLMU1rblBVaUF6MHB4U0hXN2Y2TlAxRGZFTm91eGJsekxQWDhIYnJiZmZwOEU0Nk40SDM3aENZUm45ZFBPR0Z1U3RHLXo2S1piZ0VfNVR2Tm43WTdHOS10ZllyaDh1SThsakhaMnFobmlFeF9DQ0JxX0JqT3hWTUNGZ1FvNkIxLUhrMVRTclE1TS02TDVadko0Q25pZ2hwck9Nd0dnUQ</link>
       <description>Fast-track permits turn Spain's Aragon into a $70 billion data centre magnet. At what cost? Reuters</description>
       <guid isPermaLink="false">02c6fe7919c6b5036891d36e45e95f672c0b6d0e</guid>
+      <pubDate>Tue, 06 Oct 2026 13:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software startup Vinci raises $250 million at a $1.5 billion valuation</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXlBT2t6Yl9MeFBjVC1VV2pGSVhwOUF6VDlJeEJZUG5wTHNLYUQtVlp4RXZvNFFPRko0ejUxaGtnaXA5T2F2cjBhVngxZWtWNHp2TnJDVXlnUVBXMzFWM3lwdUpDeGYyY3FuZ2xBQ3lxaHB3c0F5OWZzMlExWUN0OVhlZGJfVEFOa1JVY3RnS2tOM0ZwLUxuTHJDaV9uRmRmY25HRmpKVDRZSGF6b0E</link>
+      <description>Software startup Vinci raises $250 million at a $1.5 billion valuation Reuters</description>
+      <guid isPermaLink="false">1af93610230b0a2162bdbda0bcdfedfc82b8195e</guid>
       <pubDate>Tue, 06 Oct 2026 13:22:18 +0000</pubDate>
     </item>
     <item>
@@ -99,6 +99,13 @@
       <description>Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports Reuters</description>
       <guid isPermaLink="false">eb7c3c3c803f0a185bf62cd318eba1181f9c601f</guid>
       <pubDate>Tue, 06 Oct 2026 20:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia's privacy watchdog probes maker of smart glasses app used by Kmart products</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXNlTks5RURvU0E5MmlhRV9JQTFVNG4tQUZNb3BZTlh5VVRELU1rcTN1UzhVY3IyRWVPQzBZZl8telAtWnk1TDlGX2p1aGIwakdXcUk5RWx1NFluajdkZENOczlPMW94SF80M29vWDNmUXFhamRYS29wazA5VENHbGxicFhBbnVOeEZTa091U2g3Tms4a3Qtel9oMDBvSG84bi1lT1pfMnNJcDZWTEt6ZGYtUnNLOFlCT1ZR</link>
+      <description>Australia's privacy watchdog probes maker of smart glasses app used by Kmart products Reuters</description>
+      <guid isPermaLink="false">251b8d574f915cc838cd071305becd81234bec8d</guid>
+      <pubDate>Wed, 07 Oct 2026 00:40:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
