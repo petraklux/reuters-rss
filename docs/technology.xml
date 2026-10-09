@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:30:01 +0000</lastBuildDate>
     <item>
       <title>Aaron Sorkin on why he made another movie about Facebook, and how real life translates to film</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lzNXN6LTl2Y1NnWFN0b2Z0VGNmSjlXXzFBX19tWkF0OXRzTVpiR3lELXI4TC1DNjF5d0xZTEdNMklZNm9tclZwYkRzZVdQMFQ5aXpzRlRfOFcxNC1QVzdkRDBtRHlVcHpUNHVfTWhvVGROOExDZEVnSkFuYnlMZFI3NDdVX3dXdzZRd0dYdFIwY3dJcEljZ2lZM0h3WGNRa0wyOGlncVFSdkp5WlJLTEctSTA5MGhwUURqRzh1LVhEa0E</link>
@@ -57,6 +57,13 @@
       <description>Anthropic launches dashboard, animation tools for Claude Reuters</description>
       <guid isPermaLink="false">65c36d00e58ee0379d82cd99e530a6e767b55b6c</guid>
       <pubDate>Fri, 09 Oct 2026 01:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>US announces effort to disrupt hacking infrastructure run by China's Integrity Tech Group</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZxanZsNXJaMTdsaVdNZ1FnS2hGdXVOU0FIWFdUSHN0N2hNNW5CNUlYRHlnX0Fpc2Z4WUF4Uk5kMXZsYm1kN0pYemtYYW0wOUZQNTAyQzd0SFpFcHI1bFcyd3loUVJHUEVIaWtHVjhicWtQNHl5N1BmRENzQ3dzRjdvTnJXQWdlZk1jT3hPTDBCUEV2cFFvNUUtczhTMFRoUUVUMGFNdzBMMks2NmFCWlVIVEpDUkdwRHc3SlhFRno1WnpQ</link>
+      <description>US announces effort to disrupt hacking infrastructure run by China's Integrity Tech Group Reuters</description>
+      <guid isPermaLink="false">7f1676baf10f02778acb19d7b1b4555ab6bd55fa</guid>
+      <pubDate>Fri, 09 Oct 2026 10:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
