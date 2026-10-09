@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:50:25 +0000</lastBuildDate>
-    <item>
-      <title>Thousands of European wind and solar power systems exposed online, Dutch researchers say</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWxWNTRLdzc2eUgzMExZQzBtWkR5c25zT2s1Y0J0dFBONWlSeXRlbU9LRnNZM2JxSGhxdUJCSm1FTUtrLV9ZelF3aUFkWDN2YWJHbW01VVZKeGpSTUtuZURTUHZUX3JpZWw5Qm9EMVdpeFNnWVFJZ2hnbGEzUVFwMTF6bHpQUWtZV1BTUlFRRW1ib1MzbTlJVUlYREc3UXhuTXVFR25qLVNobnVJcW1McjlSblFjQlpaaWtSb3lQU1FXMWhoZkE</link>
-      <description>Thousands of European wind and solar power systems exposed online, Dutch researchers say Reuters</description>
-      <guid isPermaLink="false">b8ca272afb928317e13e28b2d1508b8e6fd3f3de</guid>
-      <pubDate>Tue, 06 Oct 2026 20:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3dfcjJxclVWTV9faDZyaUpIZ3F3cl95X2dFdzRaN0IxTWFuX0VwdWFBeEFtdjdqNVlKRHVCNVUzZF9paU9Cb0F3Y1NLR1l1UnNMVXNudDVYTEg4SVlVSHl2b1QwWjR6WV92ZV92MEUzRnozaEx4cHF6ZURxdUY2VDNlWWZSaGIxX3hsWEsxalhvZjhpSk85dWEwNWN6U0ZKeUNPdklHYnZpQjlORGpKemZOY0NfWkZFWHdvUkd3</link>
-      <description>Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports Reuters</description>
-      <guid isPermaLink="false">eb7c3c3c803f0a185bf62cd318eba1181f9c601f</guid>
-      <pubDate>Tue, 06 Oct 2026 20:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia's privacy watchdog probes maker of smart glasses app used by Kmart products</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXNlTks5RURvU0E5MmlhRV9JQTFVNG4tQUZNb3BZTlh5VVRELU1rcTN1UzhVY3IyRWVPQzBZZl8telAtWnk1TDlGX2p1aGIwakdXcUk5RWx1NFluajdkZENOczlPMW94SF80M29vWDNmUXFhamRYS29wazA5VENHbGxicFhBbnVOeEZTa091U2g3Tms4a3Qtel9oMDBvSG84bi1lT1pfMnNJcDZWTEt6ZGYtUnNLOFlCT1ZR</link>
-      <description>Australia's privacy watchdog probes maker of smart glasses app used by Kmart products Reuters</description>
-      <guid isPermaLink="false">251b8d574f915cc838cd071305becd81234bec8d</guid>
-      <pubDate>Wed, 07 Oct 2026 00:40:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 01:12:52 +0000</lastBuildDate>
     <item>
       <title>Aaron Sorkin on why he made another movie about Facebook, and how real life translates to film</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0lzNXN6LTl2Y1NnWFN0b2Z0VGNmSjlXXzFBX19tWkF0OXRzTVpiR3lELXI4TC1DNjF5d0xZTEdNMklZNm9tclZwYkRzZVdQMFQ5aXpzRlRfOFcxNC1QVzdkRDBtRHlVcHpUNHVfTWhvVGROOExDZEVnSkFuYnlMZFI3NDdVX3dXdzZRd0dYdFIwY3dJcEljZ2lZM0h3WGNRa0wyOGlncVFSdkp5WlJLTEctSTA5MGhwUURqRzh1LVhEa0E</link>
@@ -71,6 +50,13 @@
       <description>Italy foreign ministry says it has come under cyber attack Reuters</description>
       <guid isPermaLink="false">75a2f6274eea89546301b674ed11ca6f13638d8f</guid>
       <pubDate>Thu, 08 Oct 2026 18:50:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic launches dashboard, animation tools for Claude</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k</link>
+      <description>Anthropic launches dashboard, animation tools for Claude Reuters</description>
+      <guid isPermaLink="false">65c36d00e58ee0379d82cd99e530a6e767b55b6c</guid>
+      <pubDate>Fri, 09 Oct 2026 01:12:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
