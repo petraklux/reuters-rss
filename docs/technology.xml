@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:21:01 +0000</lastBuildDate>
-    <item>
-      <title>NEWSLETTER: AI wants to cure disease. It needs data first</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPZko5Um03SjcyYlRWRTh2c2xJYnlVOHNIQVNxa3BKU08tZndRa183Z1RtQ0lKcHdtZk1RRU9yZU9MQ1IwdHFWb2Q2cldVM3Zhekx2b25fVjFNWGtzMjN0YlZ0UGRiWUxBTlEzci01ZnlVbWMwOUh3UnAydzQ3LTdYczU5Ujdsdno4eDl2ck02UjhsLUtCR0RYY3UxTVB2U2h5cjJVcWYwMHdSZ1ZBWDlKX0V3</link>
-      <description>NEWSLETTER: AI wants to cure disease. It needs data first Reuters</description>
-      <guid isPermaLink="false">bac86d7549b66bb856351aec0873fa0529d341d0</guid>
-      <pubDate>Thu, 08 Oct 2026 00:58:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Applied Digital's revenue soars, loss widens on growing AI investments</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOc19PRW81TDRCMmtzUUoyR0kzQlBmVkJQUWpOY3hCdXp3dnQwMGl3RDFGZ0lQdGxVbmN6MUJUVVB6MFE4N25WT3hud3FiaGExQVJYa1VlXzR4Q2xjWHJuclN5YzNBdTZ0NElZZ1R1cjBNQVF2YVp0M0JGZEp0ekVPQnBEQ1VJVlptUEc2d2xtdkt6SDR1RlR6VGhCUHVUYnVXVWllbG5SN0IwT3I4YTE2bzBB</link>
-      <description>Applied Digital's revenue soars, loss widens on growing AI investments Reuters</description>
-      <guid isPermaLink="false">98560d3549d9930ec9429effb3896221885bea40</guid>
-      <pubDate>Thu, 08 Oct 2026 00:58:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Oct 2026 00:48:18 +0000</lastBuildDate>
     <item>
       <title>Swiss pension fund hit by data leak after cyber attack on software provider</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTJUaVNZYVlaTXpfSlQxdE1Gc1JnQ216RGs1WUg0TUpmRlJQcGp1NGJEaXV0RTBVREZQeTJMV3FQbm4yUnVCR3EyMlJGUjNNWnN2dlFBYWhzTWt2NnhOME90am1WRnZfbTZwWXpwR2F0NmtVamZxQ2NhdDhJNVhPdUZweFRIZDVfMDZ2UmpVMHV5UXhLUGk2Tks1QkpZR3JWMExmTmRITnJuU2I3ZHdGcjg2SWFmenpjdW9J</link>
@@ -57,6 +43,20 @@
       <description>US announces effort to disrupt hacking infrastructure run by China's Integrity Tech Group Reuters</description>
       <guid isPermaLink="false">7f1676baf10f02778acb19d7b1b4555ab6bd55fa</guid>
       <pubDate>Fri, 09 Oct 2026 10:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Sidus Space directors resign, citing governance disagreements</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmRZT3Vwd0psUDV1QkdpR3M0cXkxa1Z1SFZ0dmxmTEhndEdsTTlYRnliRGdmLW55R2NOaFZHZkY2ZHl5YTRvQm5GZElLS1VySk04MFVtNGM1MTdZalZFUWxIbDB4VWhWZWJDUTAwT3pUNnl3WkRGSlBxTHZ1Xzk2Z3hRYlVUSlNhZFdYZU1oYU5FaXVhY2JjbHA5RkVXUHozQzY3Zm5IVkx2MHVqMEotcQ</link>
+      <description>Two Sidus Space directors resign, citing governance disagreements Reuters</description>
+      <guid isPermaLink="false">e0a61b386ab0a62f23abdfebbc49688dd09ebafb</guid>
+      <pubDate>Sat, 10 Oct 2026 00:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>GTCR, Elliott in advanced talks to acquire CCC Intelligent Solutions, Bloomberg News reports</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUozaGhRdEZ0U3pqenBqSG1pbUgxUTFvN2JfUTNGUlZTcWlvXzVtOEFlNzZEYVEtdnBoU3IwMmN6cnlmNkhkSnhKVnA3Wld0cS02MUdzeS1ZY2Y2UGRfdmF6UHhtMHNqLTBCZ2hqczRaR1YyZXVVdDhpaWc5bUZDMFdJM2Q5N2hIdGh5aW94VGlkZEs4dUswTEwxQk5pTTEwX3F3Z2hQSE1FUUhvQVdrMGcyWTgtcHJjQ0FWRDlLMVU</link>
+      <description>GTCR, Elliott in advanced talks to acquire CCC Intelligent Solutions, Bloomberg News reports Reuters</description>
+      <guid isPermaLink="false">1c36a2d3e5eb633b259fffba232d9d925d87a7ad</guid>
+      <pubDate>Sat, 10 Oct 2026 00:48:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
