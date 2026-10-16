@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 21:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:28:11 +0000</lastBuildDate>
     <item>
       <title>UK finance minister Healey to target online marketplaces in tax crackdown, The Times reports</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0RTNE5wdEl2azRKZEQ4UkVPczViN2EzZDlaYy1WUVNtcl8tSFBBLXcwaFdrN3NRenBkOUJFcFNISmZxUnBwaHlobmQtbV96anNsYW0zYnF6d2ZSRmFuUUNvcl9DNjBKeTlxN0s4cWtieHU3bUVKVkJZLTlHYU1HZkw0eUZvYnhLR25XbXAtLWRyUS1lZmZzQXA3d0RPeVVnYl9rSWRRQ0hXZTgyaW5vZVF4ZDVNZWF0RWVlSQ</link>
@@ -24,6 +24,13 @@
       <pubDate>Wed, 14 Oct 2026 11:48:17 +0000</pubDate>
     </item>
     <item>
+      <title>ASML CFO says US Match Act limiting DUV sales to China would be counterproductive</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3FUUDFSN0ZoX0xlZ09TamlVeURBQkZtUHV6NlBkNG1Gc1hLODN5SENaclg1UjByalVNemQ2QzVrSTc2WjJUenZMT0IwRTY2dXRZeERhV2owSXVkNjdIZUhiU0VlZkpDZEtRcXp4akJjVlNfUzZzVmFiTmI5ZVcyNkNSY3F2SWxqbm5oWkJ4ZUJpaUt6N3NVMnNVN2Vra0JNS2F4bC1Cd2JNYUp4WjZUOHB0NmRwQ1lQTnU5YkctN3E3T0E</link>
+      <description>ASML CFO says US Match Act limiting DUV sales to China would be counterproductive Reuters</description>
+      <guid isPermaLink="false">c91c98330be2c764401aa38426bf7038ca8b8c4d</guid>
+      <pubDate>Wed, 14 Oct 2026 11:48:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Nvidia pledges $250 million to UK AI safety research</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN</link>
       <description>Nvidia pledges $250 million to UK AI safety research Reuters</description>
@@ -35,13 +42,6 @@
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc</link>
       <description>China's Hesai launches spatial camera to boost AI-powered robotics adoption Reuters</description>
       <guid isPermaLink="false">22d2df7b20c6c57736a28082d1dda540605d8393</guid>
-      <pubDate>Wed, 14 Oct 2026 11:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASML CFO says US Match Act limiting DUV sales to China would be counterproductive</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3FUUDFSN0ZoX0xlZ09TamlVeURBQkZtUHV6NlBkNG1Gc1hLODN5SENaclg1UjByalVNemQ2QzVrSTc2WjJUenZMT0IwRTY2dXRZeERhV2owSXVkNjdIZUhiU0VlZkpDZEtRcXp4akJjVlNfUzZzVmFiTmI5ZVcyNkNSY3F2SWxqbm5oWkJ4ZUJpaUt6N3NVMnNVN2Vra0JNS2F4bC1Cd2JNYUp4WjZUOHB0NmRwQ1lQTnU5YkctN3E3T0E</link>
-      <description>ASML CFO says US Match Act limiting DUV sales to China would be counterproductive Reuters</description>
-      <guid isPermaLink="false">c91c98330be2c764401aa38426bf7038ca8b8c4d</guid>
       <pubDate>Wed, 14 Oct 2026 11:48:17 +0000</pubDate>
     </item>
     <item>
@@ -106,6 +106,13 @@
       <description>Amazon launches two new portable AI listening devices Reuters</description>
       <guid isPermaLink="false">bd234396e79e41ba2fc0bef54ab86418e0b81947</guid>
       <pubDate>Thu, 15 Oct 2026 21:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google warns suspected China-linked hackers could exploit BeyondTrust flaw</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd1ajYtSlJSUlVmUWxyYnZJZTF3M0tsd19yb0NQRDB5NFFIY2tjUnNhNU5ZeW9aQzloNXJhV0RPMy1IekRsYWRUS0twUzc3N2ladk9vOFF6UjJPOHhLR013N0pEbFFycWpIY1NwQWNNUXozSjBKeGJvUkU2a1h3MGZvNi1aT3N0Rmd4NC1BSTA0dmhQM19JYmZiQ0psVDBQRnpLTWdSZjFYS1ZNaXh5bVNzQ0Z5YVlFd3ZfNGpB</link>
+      <description>Google warns suspected China-linked hackers could exploit BeyondTrust flaw Reuters</description>
+      <guid isPermaLink="false">772fca35672d03c40581a72e12697ddffbc19f55</guid>
+      <pubDate>Fri, 16 Oct 2026 04:28:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
