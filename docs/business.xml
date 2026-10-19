@@ -8,27 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:36:17 +0000</lastBuildDate>
+    <item>
+      <title>Explainer: Could hackers get inside my fridge?</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXJ0TlBxOG5iQTZ5RzZwWUE4NHN2RkhQa3pEVHEzSERJcVo1bklxdm8xYXFzVDlaelR0b2w1UWhnQ0xMdkpDUTZWdTNhZHZKdlZBMk9lQjIyRTl0MGtjMGhyZEVmanV1U1RTQkdUTGYxakxUT2Y5VHhRNlBUQ19rbUpieGNnM1FSYlVQZEdZRWRzUDhlUnlqYQ</link>
+      <description>Explainer: Could hackers get inside my fridge? Reuters</description>
+      <guid isPermaLink="false">92c3bb0a509f3418e5d119e9b6ff7315a2b76de3</guid>
+      <pubDate>Tue, 13 Oct 2026 19:14:44 +0000</pubDate>
+    </item>
     <item>
       <title>Tesla's new Roadster turns in air with SpaceX thrusters, won't land until 2028</title>
       <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv</link>
       <description>Tesla's new Roadster turns in air with SpaceX thrusters, won't land until 2028 Reuters</description>
       <guid isPermaLink="false">f23be7aff77c248c7733d87b18cb3cb0a0a1ea89</guid>
       <pubDate>Thu, 15 Oct 2026 16:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Striking unions at Antofagasta's Centinela copper mine reach preliminary deal, ending strike</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0FwZktMaHJHVlo2Q0J3bUpPWHZfMFBHWWRQWTJSLTRIcktQdW9uUU1oUTd3NURsOWVZb1BGUWN5cG5kWk1OZDQ3SXJURFhTZ0pzQkQxSkZLRUdNSVZUeVRabktuOWhFRUFOcnVYUmtBbWNrU0xvUVo0WVRWX1RSOWVEcjhMMXk1ZDl5XzRSeGRpcTVxb1ItZTNRUU5uVlJqVHlmbHJqdEtVblMtbzJ2eHpVWTlfQlZrSHM0RWRsLXIyY3l5QnZyc3VwVWtLM1E5SGFsVUxB</link>
-      <description>Striking unions at Antofagasta's Centinela copper mine reach preliminary deal, ending strike Reuters</description>
-      <guid isPermaLink="false">2bc52e7675fb3e7b0845479a175e0398a480a419</guid>
-      <pubDate>Sat, 17 Oct 2026 10:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia confirms first H5N1 bird flu case on sub-Antarctic Macquarie Island</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOUM1aXFXQ2RZMzE4aUd0UVBxQXExTUVwNWlkU0hkOW1iRGRJZC1ZSTJwMWY5eGFNaGxKOWU2TkRQNHJoLVNrdUQwdndtckF2NkxrT2VYWXdTOTdhSkluREYxbHQzTzhGN1I4ZnJBT0c3dW1aLXNrYXJjQmZNRHB5SHZ6bzRrOWZPRnViVi1KNGJIbkxHOGdTUEtsRDFleGZqVVAxamlTU2pESmFBU1JCNUg2REU0Mm9YS2hER0JDM0wtSG9RcFhWVzU3Sk1LWlBKWFF1MTZRTzRfd3Y5VVZN</link>
-      <description>Australia confirms first H5N1 bird flu case on sub-Antarctic Macquarie Island Reuters</description>
-      <guid isPermaLink="false">e328b5bf945168d596aff65d206afd6037bf0bbd</guid>
-      <pubDate>Sat, 17 Oct 2026 10:39:19 +0000</pubDate>
     </item>
     <item>
       <title>Greenpeace activists occupy Woodside gas project unit off Western Australia</title>
@@ -42,13 +35,6 @@
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw</link>
       <description>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says Reuters</description>
       <guid isPermaLink="false">a23b3f0d7e5fea414fc5b89a981d41695368b966</guid>
-      <pubDate>Sat, 17 Oct 2026 10:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw</link>
-      <description>Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports Reuters</description>
-      <guid isPermaLink="false">71c887e9b8264a73a040f856787fca8fa5d87b30</guid>
       <pubDate>Sat, 17 Oct 2026 10:39:19 +0000</pubDate>
     </item>
     <item>
@@ -94,13 +80,6 @@
       <pubDate>Sun, 18 Oct 2026 04:27:37 +0000</pubDate>
     </item>
     <item>
-      <title>Insight: Bangladesh is battling measles. It's a 'real warning' to other nations</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWdNQTlzakhJQ2pXNXpadlc5b3d5akZOMVZQOUFMVWtSU1J1YzdLN3JZTGxKeWFDT2xNdHVEc1BrVUZaaWNRa0VVZGhlWjFFLU9CbjhINlBLcnBOUUtSRG1LWHFmN2N1WnRvR0RHM2FfT3h6NGVsbEh5NWY0VV9oQXVOQnpGRUZsem84cHlyWVpGSTc0VGtDanNFdGlvdUl3MWJtOTRvSTJnQkRyOWcyOGdld2RPV080amdfTmF2NUx2UGlVMTlRdm9NbWhrZw</link>
-      <description>Insight: Bangladesh is battling measles. It's a 'real warning' to other nations Reuters</description>
-      <guid isPermaLink="false">c17020c3aacbc145535642e2d5e830c3eb985511</guid>
-      <pubDate>Sun, 18 Oct 2026 11:00:17 +0000</pubDate>
-    </item>
-    <item>
       <title>Magnitude 5.6 earthquake strikes Pakistan's Balochistan province, GFZ says</title>
       <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmJXWGVmVm41T3lVRV9xZ21adHZxRG13NnZ3cENlell5U2tjNVA5bkI4NFVtUFdsYUNhaWpjWmV0LUYxV1RMU3lublBpRUpkMUpjR1drY01saWp4dHpEWUZQbl91dXNnSU05emVNRkNYN1V1VVBGdUtuRzE4QUtMa0RnRHV4V3NQd2drUVVsQ2E3djA3SXFYdnJRcUEzN05XYXJHOXpjTWdrbEZiU2UzV2ZOMUROWFZPcW41dktma1UyVE9kbmZz</link>
       <description>Magnitude 5.6 earthquake strikes Pakistan's Balochistan province, GFZ says Reuters</description>
@@ -115,17 +94,17 @@
       <pubDate>Sun, 18 Oct 2026 11:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>China's solar panel exports extend slump in September</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0xzblQxU1RxMjQyV01pNjdwS2VISzBsR3VjbDN6OXliSzQzWmQ5Si1NLWtSZWQ0N0xFNnVzMjBiM253OUVYWnhMaThFWVVDRDh2andJOTVfd3FIR1hVS2pXZEl0cTVZbHNHeFpxVVdPUWdoa2RhbURMZ1hpXzFBU1htQ3Z4dFphVnRSVVFpM082UU8xbGRGOERsQndJNWYzTXZJ</link>
-      <description>China's solar panel exports extend slump in September Reuters</description>
-      <guid isPermaLink="false">2175d16ec93db76ae90a6dca1daae750b48284fd</guid>
-      <pubDate>Sun, 18 Oct 2026 11:00:17 +0000</pubDate>
-    </item>
-    <item>
       <title>Polish airports in Lublin, Rzeszow resume operations after temporary closure</title>
       <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXphbXpOcENfUVd1eFByZTlQYzloaGxuTF9Mb2F6M1pwQlZMSlVNVTlYRWE0MFhkaWI4ckh5QTVLaDJoOGFiQ0pQck9TUkhCckNBby00bjFiRDl6dmNwMWpPbG9wX3lZZ3FKZUc0RVFyb1JKam4xSkdsTGNQcWR4RXViWVN0bW52SmI4NzcxNkxQV2hsMFY1MDliVTlUNkQ3bTVkRnVRNHRWbkZnMGxtOHgxY2lkendZWFVqU2pMREQ3cGN5V1VqUHZTRUZaSWpxWEczbWpJdWw</link>
       <description>Polish airports in Lublin, Rzeszow resume operations after temporary closure Reuters</description>
       <guid isPermaLink="false">42d0ad966d60ab137cc707be4dd3e3b7c36f7543</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>China's solar panel exports extend slump in September</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0xzblQxU1RxMjQyV01pNjdwS2VISzBsR3VjbDN6OXliSzQzWmQ5Si1NLWtSZWQ0N0xFNnVzMjBiM253OUVYWnhMaThFWVVDRDh2andJOTVfd3FIR1hVS2pXZEl0cTVZbHNHeFpxVVdPUWdoa2RhbURMZ1hpXzFBU1htQ3Z4dFphVnRSVVFpM082UU8xbGRGOERsQndJNWYzTXZJ</link>
+      <description>China's solar panel exports extend slump in September Reuters</description>
+      <guid isPermaLink="false">2175d16ec93db76ae90a6dca1daae750b48284fd</guid>
       <pubDate>Sun, 18 Oct 2026 11:00:17 +0000</pubDate>
     </item>
     <item>
@@ -171,17 +150,17 @@
       <pubDate>Sun, 18 Oct 2026 15:49:50 +0000</pubDate>
     </item>
     <item>
+      <title>Hurricane Trudy weakens off Mexico's Pacific coast as cleanup effort begins</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemk4X2xPTVdPcGIyVGlJTjhxOVE2b1o1Q293MldnX1NPQTdQVzJJc3hqYmVWT0xkMkhaMFF4LTJZY1RNSFZaRmlEMGQtX3d0TmZYdWU1NnMxeWZXZmp6WjByX0xDZEt6Z0dRRjE5eVBLWlByZGgyNHVCMGR0d3FuS2NOWHJodjJJZGYzcXVGaENKc01HaUd0VjlZeENPWjV2bHZBWFA3a1FITGFaMWtXdWNNRmpERmZ1ZFEyOTBEZHE</link>
+      <description>Hurricane Trudy weakens off Mexico's Pacific coast as cleanup effort begins Reuters</description>
+      <guid isPermaLink="false">200769b6d0579622dad4cf459b0ed9619dfac3ab</guid>
+      <pubDate>Sun, 18 Oct 2026 15:49:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Turkey will get some diesel from US-Russia supply deal, energy minister says</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw</link>
       <description>Turkey will get some diesel from US-Russia supply deal, energy minister says Reuters</description>
       <guid isPermaLink="false">4460d3466aee81007bc55f7526a5eddeb248b690</guid>
-      <pubDate>Sun, 18 Oct 2026 15:49:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hurricane Trudy lashes Mexico's Pacific coast, but is set to weaken tonight</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemk4X2xPTVdPcGIyVGlJTjhxOVE2b1o1Q293MldnX1NPQTdQVzJJc3hqYmVWT0xkMkhaMFF4LTJZY1RNSFZaRmlEMGQtX3d0TmZYdWU1NnMxeWZXZmp6WjByX0xDZEt6Z0dRRjE5eVBLWlByZGgyNHVCMGR0d3FuS2NOWHJodjJJZGYzcXVGaENKc01HaUd0VjlZeENPWjV2bHZBWFA3a1FITGFaMWtXdWNNRmpERmZ1ZFEyOTBEZHE</link>
-      <description>Hurricane Trudy lashes Mexico's Pacific coast, but is set to weaken tonight Reuters</description>
-      <guid isPermaLink="false">200769b6d0579622dad4cf459b0ed9619dfac3ab</guid>
       <pubDate>Sun, 18 Oct 2026 15:49:50 +0000</pubDate>
     </item>
     <item>
@@ -206,9 +185,9 @@
       <pubDate>Sun, 18 Oct 2026 20:38:41 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic to commit 5% stake to new public benefit fund</title>
+      <title>Anthropic to commit 5% stake to new 'public benefit fund'</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg</link>
-      <description>Anthropic to commit 5% stake to new public benefit fund Reuters</description>
+      <description>Anthropic to commit 5% stake to new 'public benefit fund' Reuters</description>
       <guid isPermaLink="false">b24c15eb16c72e0ec757bd4c1199736e4514b02d</guid>
       <pubDate>Sun, 18 Oct 2026 20:38:41 +0000</pubDate>
     </item>
@@ -220,11 +199,39 @@
       <pubDate>Sun, 18 Oct 2026 20:38:41 +0000</pubDate>
     </item>
     <item>
-      <title>Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies</title>
+      <title>Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw</link>
-      <description>Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies Reuters</description>
+      <description>Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Reuters</description>
       <guid isPermaLink="false">14e1de0d91d04bf0a832871381ce199ef3fbd36f</guid>
       <pubDate>Sun, 18 Oct 2026 23:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jesse Eisenberg, Julianne Moore bring curtain down on London Film Festival with 'The Debut'</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFZzc1dkU1NoWVZRU1k0NzJXZ2lIN3dNbDlvOE5iVERFNWNCQmJ0SWlBVDFoV19Ielo4Wm1uR1FfM2hvdTZXOFIzR2xHSkJKWlVCbmFNNFpnVlYxTUkxU21Wc0FKQVF4MkhLdXNQejNXYnRqTi11VzUtWkVlb2o5VFZpS2ltN0p6MHRNcFNUY0pOUXJLSDBwUjQtRWZJUFBvMmVDbHVsS2JkOWNlQ0pmb2Mza0M3aWhjOXQwRUJTRDJaTmpYa1Y1bWtwSDF6MWpEQjlMVQ</link>
+      <description>Jesse Eisenberg, Julianne Moore bring curtain down on London Film Festival with 'The Debut' Reuters</description>
+      <guid isPermaLink="false">291cdf27e4ab404cb2139c9b0d7b39bee49e9a55</guid>
+      <pubDate>Mon, 19 Oct 2026 04:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>World faces nature reality check at UN biodiversity conference</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVFsNmEyREF5VEFrLW5Oa3JZNGdMc1gtY0ZCQXBYWi1wdGJURWRDUzY5VXpsbG5ldjBRM3prNnF3WDhERnNwLWJMR0JuWkQtb2lweUVfX01SQk94eDFZS2JPZ3JaN203aFU5MFM0QWV5VVVfYnNIeGFkcDFvZThMUlY1TkNoLVh2STBpdTY2a0kzX0d1azVxNllFU2ZkcEFPQ3FfZ2U4cXpVQ1czek9QcHdDYXZiOUE</link>
+      <description>World faces nature reality check at UN biodiversity conference Reuters</description>
+      <guid isPermaLink="false">5f53d04fa717e6f37d935ca5ed6b14826319449e</guid>
+      <pubDate>Mon, 19 Oct 2026 04:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ampol shares slump as maintenance work overshadows strong refining margins</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0Rpb0dacldSOUZ3TG11d3VadnByc1JiamhHd1RwOUFNSTd6V29yN1FSVWtnaF9DT0V6VTFFOUFYQ2ZhZ0VsamgzVUZpQnZmbGlWWWdCc09lb1RDZ0stRU1VQzZuS3QzZjlGd3ducF9WclB0cndFYzBKcTdnRVZkYU5aZHBVZExDSmtQVEVXSWJ3N3hjNGNvT1NYR0N3VDAwWjVjaTdTS0NUaWt3WERoQ19NWTMxSlZnTFNFekVXeE0</link>
+      <description>Ampol shares slump as maintenance work overshadows strong refining margins Reuters</description>
+      <guid isPermaLink="false">8c6bdc87fe8ca739a4903a4ce99224275f510c9a</guid>
+      <pubDate>Mon, 19 Oct 2026 04:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Niño-powered drought leaves Indonesian palm farmers high and dry as river recedes</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPVENrZjN1bWNpcm9wV3FwOUdWOEF4TU9zd09hSURoY0MtQmZGcW9Db0hHUjhtOGZhTGE5ejVGUE90ak53Y013Z3FPRW10YVJvcGo2V18xZDdsU05XUXhKamZTdWc3VEF2ZlpjaGMtczNVRXRTQWFpczdUR0swOURaU1F4V3IyX2hlYm1hc0VMUFFYRWxBcnZfaU44cUhEWFZvSGlpTjB3bmdtSkxnQjM3QVlicXV1VV82YnJXcVpUOFhsZ2dhQWVIOWFGeG9Ddw</link>
+      <description>El Niño-powered drought leaves Indonesian palm farmers high and dry as river recedes Reuters</description>
+      <guid isPermaLink="false">989a1b5bf89c0e578c5892b0c616eb340daa5647</guid>
+      <pubDate>Mon, 19 Oct 2026 04:36:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
