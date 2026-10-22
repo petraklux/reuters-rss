@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:08:18 +0000</lastBuildDate>
     <item>
       <title>AI worries weigh on ABB shares despite record orders</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkFHUzZvYlhRNk11cUJiYnJwbEpidDYtWGduV1FBM2dsdG5yRU42TzExRHJ0V2dHNHlzSGJad2w3MmxIakpPR2tZZFM0M1NsRHRYQ0d0WmdWVjVHNk13YzdzQ3dSaDN1cjJKN0VIQm83WEFKblpDVlFqUmRTYl9janBtVmswM0x0czMyMnRQZjRmdG5HQ25XODFWcGRiWE9JNWR4UHNzVUZmQTVXVHhzUmZMQ3ZPZw</link>
       <description>AI worries weigh on ABB shares despite record orders Reuters</description>
       <guid isPermaLink="false">bc904a9352bc938d5329b8d9aeeb27edc98b0d70</guid>
       <pubDate>Tue, 20 Oct 2026 08:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hasbro raises annual revenue forecast on strong demand for digital games</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeDFwZng4a2VTbWRjdDJZc05DZGwyYXhBWnFGdkVyZXpZcFZ5cjJIaDh2QThldmFuUFlodW5WQVkwZEdqa2htdDVHc2dfMTRyV3FQTWwzaTMxb3UyOHF1UVBrTm1xcUZYbkQzYVowV1prX0RiOW5BT2R4cmVFOG9OS0RDRWJaaWh4ZHJKcG1TMlZMbGYyR1dHbDA0c0xLb2RodlBtN0NHQmlLV2FLTHZTcTdZTWlNTGx1</link>
-      <description>Hasbro raises annual revenue forecast on strong demand for digital games Reuters</description>
-      <guid isPermaLink="false">4ee9a8da3605c3fac4b29186e5e2ea58d3fea4ea</guid>
-      <pubDate>Tue, 20 Oct 2026 14:17:52 +0000</pubDate>
     </item>
     <item>
       <title>Super Micro sees quarterly revenue soaring on AI server boom</title>
@@ -45,9 +38,9 @@
       <pubDate>Wed, 21 Oct 2026 11:44:48 +0000</pubDate>
     </item>
     <item>
-      <title>Websites taken offline over PHP risks</title>
+      <title>Governments, companies take websites offline over PHP flaws</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2NPSkJQaVJBS0ZaZDYzTWR0Z1F6Y1VoUnBmWFpzMEtpSnFiWkdkQk1yT2RKaWJFbFpaRkZFUmJPUERFS0U0dUdHZjNseDFkTkt4Y3ZhT19aZjFGY0RlOUpjU1EwMVp1dy1ZMDNZellhdTZmQnRvZ21HQ2JhN1EwZ1dJZ1ZoUXJrMk5Qeg</link>
-      <description>Websites taken offline over PHP risks Reuters</description>
+      <description>Governments, companies take websites offline over PHP flaws Reuters</description>
       <guid isPermaLink="false">a86ada5209d091f9109036eac05de2ff79f2de20</guid>
       <pubDate>Wed, 21 Oct 2026 17:09:38 +0000</pubDate>
     </item>
@@ -87,11 +80,32 @@
       <pubDate>Thu, 22 Oct 2026 04:39:56 +0000</pubDate>
     </item>
     <item>
-      <title>Micron introduces quarterly employee bonus tied to profits</title>
+      <title>Micron unveils global profit-linked bonus plan after Taiwan union pressure</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlEycHNab0phSmxYTXY3VWgzbTZFSUF3akxUTlNGVVZMWWYtVW0tRG5KM0t2cVpTSDZUYWZIVldBUFF1dUVEZjZZRHl0YWQ4eTd0Y0t5Y2Z3azN2c0hJQURsRW9Ha0kyVTUya1VHXzhUdFlZbjBZd1lacWJWaWhKWWZrRVBROWt5OG9hSWZXZ2NwNTRUMzBINDJHVXFaSnNlRFlNZw</link>
-      <description>Micron introduces quarterly employee bonus tied to profits Reuters</description>
+      <description>Micron unveils global profit-linked bonus plan after Taiwan union pressure Reuters</description>
       <guid isPermaLink="false">1b1a9788a62ae62c4dc047cbe01fef6c5ef4ac19</guid>
       <pubDate>Thu, 22 Oct 2026 11:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cable capacity emerges as bottleneck for AI data centres, Nexans says</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVRlTk43TXA0bVkzdF80RjNTY05JWGZhVGxiTndIMWREQzctcEhNZVUxbVQ0OTJ5bjByX19yMnItRHI5WFJRVzhJSlFmczJSNWpMZjNweHhfZmRRc1NuUjhxeEJyZnhLRW9zT3NCTmVtOTI5T09UTUJDV0IzVWNHUko1cDExaTBNNnpUNUlMMjNiMUVLcGlyaDZDNmx2S1B6dnRpUVRsaWlqWkdH</link>
+      <description>Cable capacity emerges as bottleneck for AI data centres, Nexans says Reuters</description>
+      <guid isPermaLink="false">d55c92418f7e8aa2341a4a1a6bb826de8966dac5</guid>
+      <pubDate>Thu, 22 Oct 2026 17:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebius gets $3.5 billion Citi facility for data center growth</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVEMW1MRy1WVS1lMXhwMmxPV0ZieGVlUXlsaW9hUEczbDlsOUliSktHT1ZVTEdsR2k4YldJWS1ZejJaVDZPRTgxd3NGdUE4TlZ6Rng3WHJwUEVvTDN0NVFXTlJPalhlUTN2T1V5V0ZKMDhEMUhLS2JISkJLbEFXd29ZZldpNHNQV0NqV0U2NmZJYlFCYldqZ29XUy1STnNmWVVhRw</link>
+      <description>Nebius gets $3.5 billion Citi facility for data center growth Reuters</description>
+      <guid isPermaLink="false">e731a34143f0dded99fd9d10ae81a85b54931c5b</guid>
+      <pubDate>Thu, 22 Oct 2026 17:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>US to award $389 million in R&amp;D funds for power semiconductors, critical materials</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHQ5cE1SRTVJQVJTRFl1bFhjWDR2ZUZ1elVOY2QwWDEtZzhBNVFfbk5NcC1UUG0tNFp5SGpMa1UyeG1mbXJtSzVmZnd5RGpWTlhQZnRPZks5SHZSUWIwSGhRRlJ3T3FpZkpNaFdSUmlObHdvWGlGREh0NTk2YWozaU8zWFVXRjRpdFNaSlVmQ0lwT0JNb3VIbkRoQnZHRzJrTGV1bWQtNlpXU1lsQ3o4amxCVmtQbW8</link>
+      <description>US to award $389 million in R&amp;D funds for power semiconductors, critical materials Reuters</description>
+      <guid isPermaLink="false">40110abe70e1e29bf72df81812885705083688c1</guid>
+      <pubDate>Thu, 22 Oct 2026 17:08:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
