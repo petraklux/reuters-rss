@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:34:47 +0000</lastBuildDate>
-    <item>
-      <title>What is PHP and why did it take government websites offline?</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0lJS1lzVTBUNTJULVVJZGpTR0NwcXN3SkpEQVgzQ19CaGZxNlFGWEFGU1lRTjhyYjE2RDZDTUJqMGNyQXpnaWhMbGlhLV9qZU1HSmt4WGJlMXlJLWVRNDIwY3FPdjNMSUc3UzhLWWM0N19ubjROa3pjWHJraVNJa05EeUR2WHRSbDVhN3EzWHE3UkVPUVlPN3AxMjdMSkJXdnZfRQ</link>
-      <description>What is PHP and why did it take government websites offline? Reuters</description>
-      <guid isPermaLink="false">cdb83468a84d6a4749938afd2eab94d3680f326c</guid>
-      <pubDate>Wed, 21 Oct 2026 17:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Governments, companies take websites offline over PHP flaws</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2NPSkJQaVJBS0ZaZDYzTWR0Z1F6Y1VoUnBmWFpzMEtpSnFiWkdkQk1yT2RKaWJFbFpaRkZFUmJPUERFS0U0dUdHZjNseDFkTkt4Y3ZhT19aZjFGY0RlOUpjU1EwMVp1dy1ZMDNZellhdTZmQnRvZ21HQ2JhN1EwZ1dJZ1ZoUXJrMk5Qeg</link>
-      <description>Governments, companies take websites offline over PHP flaws Reuters</description>
-      <guid isPermaLink="false">a86ada5209d091f9109036eac05de2ff79f2de20</guid>
-      <pubDate>Wed, 21 Oct 2026 17:09:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 17:04:06 +0000</lastBuildDate>
     <item>
       <title>EA to shutter BioWare studio, cut jobs as it narrows game slate</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWZsdG5YZXBLSU1NVDZ4c3dmbFBNZW9kbjhEbmJvdXRQYXlsMzIxTE0yWDBmUWtnZ1hXSmEzSnQtZW5pUE9kM28yX3daSWlwRHRUQmlnZmM5T0hzczJGc1lkb0cxNFZTbXB0aTNlMldQRUY3aGdUenNlN0hCd1M0U3JQM0pOSDk2TEI4UDdWa3pOSFNOc1h1Qi1ad0oyZ3A2aWptbE9n</link>
@@ -99,6 +85,13 @@
       <description>Five ways to keep safe online in the wake of AI-supercharged hacking Reuters</description>
       <guid isPermaLink="false">ba616f5a8faa904444f11b9bf17a0bea584429ba</guid>
       <pubDate>Fri, 23 Oct 2026 11:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denmark's digital reliance leaves it exposed to cyberattacks, minister says</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2FuTlBENWt4Qk43Q0NBejhiZmNyZFhYTExNNlVIX2dCSERDWG13R0RVbUZoeUJOVS1GY081VzNtNTBrTFlaenZmZXlMbklYaFlRU2dCdi1NRmhHX2I5d0RtWWltTHlHLWpqLXVqMG1NYXgxemdDdll1TGI1RWhzWWFyM25NQjZwcmp6LWYtT2FiMENBdF9kMUtmSnZuU1hJNmNVWE5DNGZiVlhrSTR3QTNaSVpCVVg0</link>
+      <description>Denmark's digital reliance leaves it exposed to cyberattacks, minister says Reuters</description>
+      <guid isPermaLink="false">42af2a812f414ca370542d95b780a0075e8b4f7a</guid>
+      <pubDate>Fri, 23 Oct 2026 17:04:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
