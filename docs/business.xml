@@ -8,82 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:54:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:54:51 +0000</lastBuildDate>
     <item>
-      <title>Wall Street closes lower to end rocky week</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw</link>
-      <description>Wall Street closes lower to end rocky week Reuters</description>
-      <guid isPermaLink="false">e355dc57eef4fa5b60151e18f51130980b29e4c3</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>AmEx lifts 2026 profit forecast, plans to cut 5% of workforce</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPeldMNkpFRVBpTW1jQjdoSVBaMFg3VzVvUkZ3X2hqNmp0VjZwamlOQkxGLTlOTFQxUFVOc01wU0NhRFJESDBYTTlTZXFNUFNpQ0NVd0lSQXJEcmpoVlVLNkZnMWRhSmRrak5uajBkbFpmOUV2bnQ2V1NEdWdEdmJORDFySVlodDYtTFdVbjR0S3IzVjQyVUN3Z0Y1NEh6U3otM2c0QmZ5RlNQYkt0c1JLVkpkVGVNZnR2RkpJZGpZZw</link>
-      <description>AmEx lifts 2026 profit forecast, plans to cut 5% of workforce Reuters</description>
-      <guid isPermaLink="false">a56581a372e40c39385c2a5cc39b8538fc1ab6cc</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK tells public to keep three days' emergency supplies at home</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmRBVlhXaFdmTFBac29hb2o0NWNXRlJsYWRNYUJKeWtPLWN1c3FqcVh6RWhsemJPeFFzZThhM0dUWnNRTVFoWlNxemgtcGVfTnNBYy1vNlF1aEc0QU44Zy1KdVhiNGstRFFOU0JqVk1XMzFrQ1RTcUJvNmcwYVo5RUI1bkZBTFFDUERMYlRLdXh0VFU1Z0p0UlRySjk2QkxhX2Mya3NPaEw5TFR2b0o0T0VpWlRJRjJZTUE</link>
-      <description>UK tells public to keep three days' emergency supplies at home Reuters</description>
-      <guid isPermaLink="false">02c601d5d870ffe58571b40a6a8666ba186e08fc</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump says Canada 'working very hard' to make a deal with US</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPenQzX1RTQzFjT2J4XzZYSGRzcXRHN2Rsb0ZGcTQ2TVhNZGMtbDhuV09RclE5elRwdGFKSjJKamJDNDUwWkxDbnprM3lKcExDd3R4MmlMZE5pbTdnQ3BLRUM1TkkybDJCV251WWk3ek10Nkpma3BMajR6SzRfWVlfQmFVNVdmMXFjRUFLSVo5WjJpUTZPNWdRMHFnUXp3akk</link>
-      <description>Trump says Canada 'working very hard' to make a deal with US Reuters</description>
-      <guid isPermaLink="false">bf92930ffb3e7878540c14aff305de8c4bcc99cb</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>AmEx CEO says company to cut 5% of total workforce</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEo0VXNiLUxvQTk0Um44UlJFQmZrYWxtTnNHQ3NCRGJXOFRyd1F6aGlaOHJsdTRBMUY0MVZ1WkEyTFBPMjRpcXRMcUhhQ21IcnZLUVZZaks2OTFQVk5OUzRIa01EVzRZWnlRWF8tUnBlcDE1OFhkemRqWE5XenNQRGhkbmNCYmIwQWM4M1owaEYxZw</link>
-      <description>AmEx CEO says company to cut 5% of total workforce Reuters</description>
-      <guid isPermaLink="false">3e5baa4b7ec2154c3de1dcd102fcd1dc157c68bf</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Storm causes power outages and traffic disruptions in France and Britain</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXJWdmhrbzhRV0ptdXBNUXNuSThoX19sYUpyanBOcUw1U2YxcTd0eS1abmxyelUyWmhfSVBkU2lpTjBrOXZYb2ZqRGRSMTJMX05yd3IyM3c5bV9XRUtzRDZFSmRMQ2RVREY3QWxnblh5NUxFZDJGMVl5U1lKdmpnOHloUmtEUjZYRzBoekxZODJXdVFsWFF0UFd2OUthN1V0RmJCQ251ZU14Tl85cm1RUkRkOA</link>
-      <description>Storm causes power outages and traffic disruptions in France and Britain Reuters</description>
-      <guid isPermaLink="false">b41a5b2b78409691827ad518f4ba9e87b84c36c1</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNckp2UlFlZU55ZWd2WS1QR3NMSklGSUMwOThxSl9CX1ZrT1FobWZLYm83TXR6enIwMHpHY1BVd3R5akIzTkk4QjVFQ3F3cmhyQnlucFVCM1ZhejByT25sU0JpYUpsSDR3YjlMRnZXQ1I5eVhGSjRLY3pkLTNVdEt4OWxGQksxR2ROYVYzMFRmbmg0bmd3WUVBYldmUmFvQTFPcS1yeWFIbmhBeUhENmpRWlNvTDJUNTk1RGh0MDJEZlUwUnYyaFJB</link>
-      <description>EXCLUSIVE: Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe Reuters</description>
-      <guid isPermaLink="false">9e6b16bba487a5a082a5187fb1d3551335d656af</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>US consumer sentiment near record low ahead of midterm elections</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR05CVGk5UUlBVHZBTDJObFp0eHJZUlpOdGdnSkxWZUtQWWR5V1BvRkZIQTQwSGtoa21PTFNNUHFPbGpkSm05QXc5MXB0Q3VNWTBxd21hQmpSdDlhc1pHNkhMeWhLd2xpR21nQ2Rxa0d4Ym0yQ0Jtb2I1dWlMYlUzenFWVkVlNG9xbmxKUENEQjFzWnhFTFZLQkhCR2Fucmd0ZUhCU0ttQ2xXUQ</link>
-      <description>US consumer sentiment near record low ahead of midterm elections Reuters</description>
-      <guid isPermaLink="false">8f2ddbf06917a25672e8ca19446184aea01cc693</guid>
-      <pubDate>Fri, 23 Oct 2026 17:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prince William, wannabe DJ and film-lover, appears on UK chat show</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlM0Y0xmdFE2Y1FBUzZLbjFiX2xpaF9QOEp3RkJaOXhfTXdZR3dlcS1fbGsxTDh2WDlQLVV4Szd5eXozVElmVDU2WEVUSFZ5d2hWSzJzYm1DM1hPcllSeHJURDdtSmlEaU9VQk8xM01BSUwxcHdzWlpYTmw3TWpqQVZ1YnEweU5QbTJPUkVmdUVrejZpSnhTOUVFUHRyUzItSURsV1JOWFVnSkx4WDhwQUU5S01SSmM</link>
-      <description>Prince William, wannabe DJ and film-lover, appears on UK chat show Reuters</description>
-      <guid isPermaLink="false">f787cc55682fdbe3858bf870ddbb6b243f60c72a</guid>
-      <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>China calls on oil, gas firms to boost output, build strategic supply bases</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0RFYzFuVnNTcWFqV3k0V2R3NVJjN3VLcmwyMk9WZnlKWTNxTVdwTEdOMUlYZmFMNGUydHYyYUdKd1ZUSzU1b2dfdDZFN3BGLWVfbkJyNmlQLVh5RmE1MEY0SXlzdVB2d2UwcHhPSUpIZmVxMEhCVXRFSGZCZEtHVV84X3FhbDVodmV4SHJlS1Axa3VHd0NUZ0RqQXNLRlczMEQzNmE5VjdtMXFza2MyTThOSmw2bzFVMV9z</link>
-      <description>China calls on oil, gas firms to boost output, build strategic supply bases Reuters</description>
-      <guid isPermaLink="false">82dd59b4c00bfd479d1148fee02a5b45affd797d</guid>
-      <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hugo Boss set to become Frasers subsidiary as stake crosses 50%</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmhVc3FoMmFkYUhLNGhtUXZlVGM2NzBnX0ZwaV9oRFF3MVlDQlAzQUdfMDlQUHAtNnc3S2IyU3A3eW93bzlyUzFSMm5hVFgtS3FDSDNuZVFnbEZHd1Y3MG44ZUYtMllNbWh5SGdnLXYzUk9JUUJRRkpRU1dvVXNZT1BZWW5IeEJjNURVZ2RWYzU4QnFUSWYzaS10TjJ3T0VIZEVkM2IwS0ppZU1QdEM4SGE0VmVwa00</link>
-      <description>Hugo Boss set to become Frasers subsidiary as stake crosses 50% Reuters</description>
-      <guid isPermaLink="false">fbb2456faa4fdd64f8cd033f31476a3ba5f9f6ca</guid>
+      <title>Germany secures extra winter gas supplies as storage levels lag</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPcU5wNWhZZFdPM1dQUUNFSmt0WDd2WDIyTmlvN3dueERMelY5V3VTNDVabnBjRmVEUG5ycDg0aWN2aFFKRTg3bmVQTXUxSmxfMUlDYXhQZTFRUUdNMXBMSWdkek0zcGpZcWhTN09XTVdNNGJRcHZBTHpUaFgyRzg4NFY3S0xSaldOTkZ1d1h5eXQzeUJFUEVYc1Q3UGE2MWw2M3RDSmluUVRsTkl5U2JtR1B3</link>
+      <description>Germany secures extra winter gas supplies as storage levels lag Reuters</description>
+      <guid isPermaLink="false">31914dc52b4ed2aeb3d6b1ab7a9239ef712f9be0</guid>
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
@@ -94,17 +24,17 @@
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
-      <title>Germany secures extra winter gas supplies as storage levels lag</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPcU5wNWhZZFdPM1dQUUNFSmt0WDd2WDIyTmlvN3dueERMelY5V3VTNDVabnBjRmVEUG5ycDg0aWN2aFFKRTg3bmVQTXUxSmxfMUlDYXhQZTFRUUdNMXBMSWdkek0zcGpZcWhTN09XTVdNNGJRcHZBTHpUaFgyRzg4NFY3S0xSaldOTkZ1d1h5eXQzeUJFUEVYc1Q3UGE2MWw2M3RDSmluUVRsTkl5U2JtR1B3</link>
-      <description>Germany secures extra winter gas supplies as storage levels lag Reuters</description>
-      <guid isPermaLink="false">31914dc52b4ed2aeb3d6b1ab7a9239ef712f9be0</guid>
-      <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Trump and Burnham discuss North Sea oil, Ukraine and Falklands</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUNKODFrR1F2TUlucF9FcWd0TV8xUHFzc0RKOHdfUk4tcEtaa1ZCUGZLNV80NXFUQlJLajRxOHRZSTZ5NUJnSllzWDZJMFNFbnBkd3NTaTNkNWV0NTFrZnF2THNmd3U4S1E4cU5hN0VJRFdUR1FHeEJLcFBhUTUtMHRjaEQycVN5Zkx2SThGaVZKMzNQdnVGaUtuaFBmaTVLZ1pmN0g0T09vZDVZWmc</link>
       <description>Trump and Burnham discuss North Sea oil, Ukraine and Falklands Reuters</description>
       <guid isPermaLink="false">d8d8a35a0d9bd371c84bde98fb67d69b40af9e12</guid>
+      <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hugo Boss set to become Frasers subsidiary as stake crosses 50%</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmhVc3FoMmFkYUhLNGhtUXZlVGM2NzBnX0ZwaV9oRFF3MVlDQlAzQUdfMDlQUHAtNnc3S2IyU3A3eW93bzlyUzFSMm5hVFgtS3FDSDNuZVFnbEZHd1Y3MG44ZUYtMllNbWh5SGdnLXYzUk9JUUJRRkpRU1dvVXNZT1BZWW5IeEJjNURVZ2RWYzU4QnFUSWYzaS10TjJ3T0VIZEVkM2IwS0ppZU1QdEM4SGE0VmVwa00</link>
+      <description>Hugo Boss set to become Frasers subsidiary as stake crosses 50% Reuters</description>
+      <guid isPermaLink="false">fbb2456faa4fdd64f8cd033f31476a3ba5f9f6ca</guid>
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
@@ -129,10 +59,10 @@
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
-      <title>LVHM-owned watchmaker Zenith to cut jobs, shift upmarket, source says</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUE9WYm1qY2hqOFFhMlZyY0dsX05GNHFpN0g2Tjd0NjA2b0ZKQVZwY241VEVCQ2xzQ1RWUEVQM1dkSVVCTXE4RGJDMXFnclFZcUZoR0JrUld6SFg4OE9JVlpIN093SW5vaUlELUZMQld0d2JuOFd0VlhjWjNPS1FZMXhoUnNuQnBzQS1JcDZ6bnlNbUV4SUVvS3dMS2JhLXU0Z1FPMDZFcEZ6S3FwVGxxOUMxaGNRay13SmlKMmt1cFJlTTA</link>
-      <description>LVHM-owned watchmaker Zenith to cut jobs, shift upmarket, source says Reuters</description>
-      <guid isPermaLink="false">f726c314471902f561de890462a6df8351a82463</guid>
+      <title>BP, Louisiana agree to Deepwater Horizon settlement payout, resolve coastal cases</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlp0Rzc5a0JEcktsY3huOHU1M182QkV6QzgxYmZHblNpZDh3NzFHakpOUkVhblc3bDAxZURpeFNkaV9vUC1VN2cxMjBtR3RfZFl0Tml3NDkzVV9DYmdsVEthYnExcVF6QV9tdThaTGNfU01JY0ZTVXN0bFJFQnNUa2NQa1B3VFRXWWV4TlJ4emRKaXJQMmhLZUlhTERVVEtRME5YcGtOaUQ</link>
+      <description>BP, Louisiana agree to Deepwater Horizon settlement payout, resolve coastal cases Reuters</description>
+      <guid isPermaLink="false">0a26527fa6190ee4edce8f83b51bf7fc90be2840</guid>
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
@@ -143,10 +73,10 @@
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
-      <title>US authorizes emergency release of up to 400,000 oil barrels from strategic reserve</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN09NY3ROanZFXzE0MUt5cTZmYkozTFNRNng5X0tUUkhHeENpY3oxTlBYVG5HWmdVdnhYcFhmZnhaRTlxWlZMRXZmczNqZTRUbzlJWnJ3WFVURmJORklmeVd0WG03VzY1VVl3THUwT0pxTUNXQVRiLWFFSUU4ZnFKZXdjZHhzNXItQ0NWb1Y3N3NERW1IUHkyMjRoclBqRXZyN1dMVTZRblB6TGFXZTZuQ1hmb1lCeUtOQkhKY0RjdEE</link>
-      <description>US authorizes emergency release of up to 400,000 oil barrels from strategic reserve Reuters</description>
-      <guid isPermaLink="false">e88efc271ecc2ac189f0fecf0e1ad4534e5e617c</guid>
+      <title>LVHM-owned watchmaker Zenith to cut jobs, shift upmarket, source says</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUE9WYm1qY2hqOFFhMlZyY0dsX05GNHFpN0g2Tjd0NjA2b0ZKQVZwY241VEVCQ2xzQ1RWUEVQM1dkSVVCTXE4RGJDMXFnclFZcUZoR0JrUld6SFg4OE9JVlpIN093SW5vaUlELUZMQld0d2JuOFd0VlhjWjNPS1FZMXhoUnNuQnBzQS1JcDZ6bnlNbUV4SUVvS3dMS2JhLXU0Z1FPMDZFcEZ6S3FwVGxxOUMxaGNRay13SmlKMmt1cFJlTTA</link>
+      <description>LVHM-owned watchmaker Zenith to cut jobs, shift upmarket, source says Reuters</description>
+      <guid isPermaLink="false">f726c314471902f561de890462a6df8351a82463</guid>
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
@@ -157,10 +87,10 @@
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
-      <title>BP, Louisiana agree to Deepwater Horizon settlement payout, resolve coastal cases</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlp0Rzc5a0JEcktsY3huOHU1M182QkV6QzgxYmZHblNpZDh3NzFHakpOUkVhblc3bDAxZURpeFNkaV9vUC1VN2cxMjBtR3RfZFl0Tml3NDkzVV9DYmdsVEthYnExcVF6QV9tdThaTGNfU01JY0ZTVXN0bFJFQnNUa2NQa1B3VFRXWWV4TlJ4emRKaXJQMmhLZUlhTERVVEtRME5YcGtOaUQ</link>
-      <description>BP, Louisiana agree to Deepwater Horizon settlement payout, resolve coastal cases Reuters</description>
-      <guid isPermaLink="false">0a26527fa6190ee4edce8f83b51bf7fc90be2840</guid>
+      <title>US authorizes emergency release of up to 400,000 oil barrels from strategic reserve</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN09NY3ROanZFXzE0MUt5cTZmYkozTFNRNng5X0tUUkhHeENpY3oxTlBYVG5HWmdVdnhYcFhmZnhaRTlxWlZMRXZmczNqZTRUbzlJWnJ3WFVURmJORklmeVd0WG03VzY1VVl3THUwT0pxTUNXQVRiLWFFSUU4ZnFKZXdjZHhzNXItQ0NWb1Y3N3NERW1IUHkyMjRoclBqRXZyN1dMVTZRblB6TGFXZTZuQ1hmb1lCeUtOQkhKY0RjdEE</link>
+      <description>US authorizes emergency release of up to 400,000 oil barrels from strategic reserve Reuters</description>
+      <guid isPermaLink="false">e88efc271ecc2ac189f0fecf0e1ad4534e5e617c</guid>
       <pubDate>Fri, 23 Oct 2026 21:22:12 +0000</pubDate>
     </item>
     <item>
@@ -206,17 +136,17 @@
       <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>Mark Cuban says AI hack agents are like cockroaches, but can be controlled</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkFmbWpMV3VyOS0wWUNFVjQtOWlqM29COWc3eTVzRlhTWERBNXQ4emJfS1BZNU14NjY5WmxRN3dVLWVoZ3pJeTRDbUR3ZVVTRUpQSDQtTGRFUTA4Y3NGOXhmaEpzd2h0MVh6Z0ZQSFNHZTVFbVdCWVpxaDkyUVBHRFN6Zzc3WWRSd05ETldhZWszR29pT0I1YXhYb01iRU5HWmJkeWdLM1NSdV94Y2stS2hCQ2RpMHJ6bXZzejVCYTgtVVd5S2lUQnc3ODQ4c3NjdjNHQWpDTk8</link>
-      <description>Mark Cuban says AI hack agents are like cockroaches, but can be controlled Reuters</description>
-      <guid isPermaLink="false">13e603476a726e4e44a2dab058e07833603c21dd</guid>
-      <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Chili's workers' lawsuit looks to strike New York state's lower wage for tipped workers</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT0w5VXByZzRQWV93QXBTM1VvR1hiMm1yOU5McW5YTDE0dlhaSWRWT3hFRVJMQzdVQkpMUlZ0NTVyX3ptOE9tV0hYNU51ZmhzQ25VdUVnSVdSYVRfcGktdnJnNHQzUlhOenNxdmZGWDNZSkQ0V1Z1QmNENndSOVBQVFJfRnZIZVZRb0g0T2FLTmViVjlSMzZtQWExaUtOZzJYeFNuaHhRQmExa2VEMzJEQ2JUTjk0cjR6UEp5QlhUY0tWWnoxOUlCZUotMmV4bE4wN0E</link>
       <description>Chili's workers' lawsuit looks to strike New York state's lower wage for tipped workers Reuters</description>
       <guid isPermaLink="false">859810228dd7f77c2f838c977dc87a09524c0e04</guid>
+      <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark Cuban says AI hack agents are like cockroaches, but can be controlled</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkFmbWpMV3VyOS0wWUNFVjQtOWlqM29COWc3eTVzRlhTWERBNXQ4emJfS1BZNU14NjY5WmxRN3dVLWVoZ3pJeTRDbUR3ZVVTRUpQSDQtTGRFUTA4Y3NGOXhmaEpzd2h0MVh6Z0ZQSFNHZTVFbVdCWVpxaDkyUVBHRFN6Zzc3WWRSd05ETldhZWszR29pT0I1YXhYb01iRU5HWmJkeWdLM1NSdV94Y2stS2hCQ2RpMHJ6bXZzejVCYTgtVVd5S2lUQnc3ODQ4c3NjdjNHQWpDTk8</link>
+      <description>Mark Cuban says AI hack agents are like cockroaches, but can be controlled Reuters</description>
+      <guid isPermaLink="false">13e603476a726e4e44a2dab058e07833603c21dd</guid>
       <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
     </item>
     <item>
@@ -234,10 +164,10 @@
       <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>Allegiant exercises options for six Boeing 737 MAX jets worth over $720 million</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNlM2ODEyWTVoOUdVRnJFWDFwX1NQeXI0b1J3bzJoOGFfNkl5ejNNYWJ0N0RDYUpHNTVjektKRzk0dDluR1ZmeWdMcG05ajJoelBrbXYzMXF3R1oyN0gwX3dnanZnVHpjbDFiRTJtNHgxaUVSSDRKZzdaM3dRUnFvVHl6OVprTTFEZHMxek5sTnRzX0VfRHd2S1pLZHNrRFItdTlIaUJjTUFqYy03Tk9oZmc3bHJwbFVuWmZtMWh6VEJLT1ZCODhjODRiNkpMaTJocVFZ</link>
-      <description>Allegiant exercises options for six Boeing 737 MAX jets worth over $720 million Reuters</description>
-      <guid isPermaLink="false">c668dd50f14f0b311ea800f73ca9cfbadc7b3c4b</guid>
+      <title>Kenya reports second death from Ebola</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG9iMUs3d0FBYXoxdkJ4VkhuNEJ0cjRhWFcteHczay1DSnZqclVwSmJ3NFZOMGYyWlBSX3RLd3FXVG1uV3ZjaEw0b1JpTzNTaVpOdlBQeS15bHhJeC1Od2FVSXRDY3MzTVhpSEhGSUFkVXBnQWVNMzBaUDlvSzQwS2dCM1dmUktKMXRmR3VOQ0NBUUJMVXZKemsxNk50YWpjQmtxaUx5UQ</link>
+      <description>Kenya reports second death from Ebola Reuters</description>
+      <guid isPermaLink="false">881a36e72138ecc83c0168de08dd1837d1aaf3e0</guid>
       <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
     </item>
     <item>
@@ -248,10 +178,10 @@
       <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>Kenya reports second death from Ebola</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG9iMUs3d0FBYXoxdkJ4VkhuNEJ0cjRhWFcteHczay1DSnZqclVwSmJ3NFZOMGYyWlBSX3RLd3FXVG1uV3ZjaEw0b1JpTzNTaVpOdlBQeS15bHhJeC1Od2FVSXRDY3MzTVhpSEhGSUFkVXBnQWVNMzBaUDlvSzQwS2dCM1dmUktKMXRmR3VOQ0NBUUJMVXZKemsxNk50YWpjQmtxaUx5UQ</link>
-      <description>Kenya reports second death from Ebola Reuters</description>
-      <guid isPermaLink="false">881a36e72138ecc83c0168de08dd1837d1aaf3e0</guid>
+      <title>Allegiant exercises options for six Boeing 737 MAX jets worth over $720 million</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNlM2ODEyWTVoOUdVRnJFWDFwX1NQeXI0b1J3bzJoOGFfNkl5ejNNYWJ0N0RDYUpHNTVjektKRzk0dDluR1ZmeWdMcG05ajJoelBrbXYzMXF3R1oyN0gwX3dnanZnVHpjbDFiRTJtNHgxaUVSSDRKZzdaM3dRUnFvVHl6OVprTTFEZHMxek5sTnRzX0VfRHd2S1pLZHNrRFItdTlIaUJjTUFqYy03Tk9oZmc3bHJwbFVuWmZtMWh6VEJLT1ZCODhjODRiNkpMaTJocVFZ</link>
+      <description>Allegiant exercises options for six Boeing 737 MAX jets worth over $720 million Reuters</description>
+      <guid isPermaLink="false">c668dd50f14f0b311ea800f73ca9cfbadc7b3c4b</guid>
       <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
     </item>
     <item>
@@ -311,17 +241,17 @@
       <pubDate>Sat, 24 Oct 2026 04:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>EXCLUSIVE: Boeing supplier dispute has halted 777 freighter production for two months, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU0hReUNvSWZZb3JmcDBQVVh2Y1FjZXc3TjRWXzZsSVdmZnFoejRJWDN1a21GLWl6WDFSTDdId3lESVJXVG43Njc1b0ZMVzVfOXMyaU5XNGwxNTc2Z19MTkFiZ0pYY2ZESDNJQ3p3ay0xMHk5MUlKR3ZZRVpfdE9MdFM0YzNrVDR2eTQwd1V2ZERYOVlPc0tvTWxleXdEZ1lMMDJFR3B5d2JuOUViRERrUV8xVEo3ZGtKY1VyMDJQNy1tMzNvSVFzalJlRHJkX3dxd25hRHp1Z1A</link>
-      <description>EXCLUSIVE: Boeing supplier dispute has halted 777 freighter production for two months, sources say Reuters</description>
-      <guid isPermaLink="false">2512ebbd9b4e93e7fdcd77c4de226be25de5e4b7</guid>
-      <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
-    </item>
-    <item>
       <title>UK's Healey to give two state-backed lenders £20 billion capital boost in budget</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlkwNlhJbDZMSlFaZnpESjFQMnk5aS0zaE1ZWm43RnVTbFhENWR5bUk4b0tldXZzU1BHbF9EbXBHaWtGSDZKZ2dMN2syS2p3bVdTallROTZhNFJ1MVpzSmdtZ3JtWC1oNnRBYzN2blp6cU9rR2xiYm1fdUdXWnRzZUZyUm9TQjQzWWp6VXhSV29mZld5WURwV0J2TlJMeG9zTkFaWTJ1VUJaOE4za090Qk1QYlRHa2ZUdnBZemgzU2tVRWs</link>
       <description>UK's Healey to give two state-backed lenders £20 billion capital boost in budget Reuters</description>
       <guid isPermaLink="false">c45028acb557f50b62e1f6b63842f0f1d60d2ca8</guid>
+      <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>EXCLUSIVE: Boeing supplier dispute has halted 777 freighter production for two months, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU0hReUNvSWZZb3JmcDBQVVh2Y1FjZXc3TjRWXzZsSVdmZnFoejRJWDN1a21GLWl6WDFSTDdId3lESVJXVG43Njc1b0ZMVzVfOXMyaU5XNGwxNTc2Z19MTkFiZ0pYY2ZESDNJQ3p3ay0xMHk5MUlKR3ZZRVpfdE9MdFM0YzNrVDR2eTQwd1V2ZERYOVlPc0tvTWxleXdEZ1lMMDJFR3B5d2JuOUViRERrUV8xVEo3ZGtKY1VyMDJQNy1tMzNvSVFzalJlRHJkX3dxd25hRHp1Z1A</link>
+      <description>EXCLUSIVE: Boeing supplier dispute has halted 777 freighter production for two months, sources say Reuters</description>
+      <guid isPermaLink="false">2512ebbd9b4e93e7fdcd77c4de226be25de5e4b7</guid>
       <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
     </item>
     <item>
@@ -339,10 +269,17 @@
       <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
     </item>
     <item>
-      <title>Jordan tightens security after deadly church attack kills eight</title>
+      <title>Jordan king orders 'iron fist' response to deadly church attack</title>
       <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQSldwN2ViWHdOeFFhai1heXdsT0ExOW9GNW1FYlpPQnhad0NzTE53N3p3ckRqSlJUTnE0eGNnOHZOb1dIZGdKbng5d2lxMHp0cHpGb1QyOXVsUjlQamVzOGlHVkJCRlBXSk0zaURFekgtSDA5X1praWRjek14NGlOMmdHZnAxd29LRFRJamRSdTZtV1lCbm1UUEh3V1EwOFFFaFUycTZDZHJucFJHS3BicDdMNWY2N1VHa19feDJoZTRkU1l3T0E</link>
-      <description>Jordan tightens security after deadly church attack kills eight Reuters</description>
+      <description>Jordan king orders 'iron fist' response to deadly church attack Reuters</description>
       <guid isPermaLink="false">db1e388d2ccac38f08708874e95b284d4030a914</guid>
+      <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>France's luxury stores board up windows ahead of fresh protests</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA</link>
+      <description>France's luxury stores board up windows ahead of fresh protests Reuters</description>
+      <guid isPermaLink="false">69ddf510e3aae7bf90806e8cff5ece6dae4b0764</guid>
       <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
     </item>
     <item>
@@ -353,11 +290,74 @@
       <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
     </item>
     <item>
-      <title>France's luxury stores board up windows ahead of fresh protests</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA</link>
-      <description>France's luxury stores board up windows ahead of fresh protests Reuters</description>
-      <guid isPermaLink="false">69ddf510e3aae7bf90806e8cff5ece6dae4b0764</guid>
-      <pubDate>Sat, 24 Oct 2026 10:54:56 +0000</pubDate>
+      <title>China urges government agencies to mitigate AI job displacement</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlVIUEhSdHd1VnZ4dUN2RE1iODlDNUs4YWJyTklNajFoYnhjSzNveTQtcmo3SDNhem5vSi1VNng0Y2YtdzlEM3JhcEZQM3U5elN5RWZHTFBwdFZ4UklWdzZkTEdvdkVhM21DTW1oMUdKYzloVnNiaE1LcEs1Z21rRXVkeHI3aldFM21RbEhmMzdDU3BQRm5HSWRaUkNMNkQ0V0lDZDU4VVVYRm1SSnJLQkhiQ0FkbGJzRmdv</link>
+      <description>China urges government agencies to mitigate AI job displacement Reuters</description>
+      <guid isPermaLink="false">bb565191ad1fd40b74620cc69d5facbeac228abc</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eni advances Venezuelan heavy oil project, eyes year-end approval</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUNJY1VxN2drVnZqVUtkVzAtUXpnSXRkUm85VnYyMV9ESTNKcmt4Q1NNM0xXLTg2cm42ZFBwN1JweDFOME5yQVQ3WHFSUnBsS014VWpEZkFScUsySVljVVRveTBSZ2RTVE1rajkwNDEtZkY1Rm10ZzhKOGlRNTNqc0dvZGV2dWotaG1rc1l2dkNRUmh4WFNkZlp0YnhVa29kUnRTUk1PcWlnSllFc1Q0X01pRkpzMFE</link>
+      <description>Eni advances Venezuelan heavy oil project, eyes year-end approval Reuters</description>
+      <guid isPermaLink="false">c7846df9ca18474c33231a4eb1dd2ffdeb0bcec0</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK approves J&amp;J's oral psoriasis pill</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHlyME9uXzcyT1ZmdVc1VnplT0s5VTZvWnhOanVkYmd5Zi1yTWhQLS1jM1VQaWxIbGVkZ2x5REhGYmhoRzJYRE01Rm5EemhEbW5odk5jQnZITHI0aDVwUWxldnJCYkxVS3MyejFvVWJGMG9wZWI1V2pHSm4tMFRFb25xVWhJUXBJam9nLXY5NldDelh3NzY1Q0hMcjRrb2tSRUo3UFJDWFZJVWc</link>
+      <description>UK approves J&amp;J's oral psoriasis pill Reuters</description>
+      <guid isPermaLink="false">8de036430c497e431225528ef5e3d93d9a8d25e6</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italy's Generali cuts around 800 jobs in Germany</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlVxSUtQZ2pGVUZIa01IejRlRjZKcmVlZ3B1VnNlZFR4VTd0cGNMSkFPVGRZeGdjZE5Ra2VFYVVxOVc4MElwbTk5cWNGMHdXbTlUeVhDdkotYnJuSV9tbWoxMUJ6bnZqT0lvem5OcVJVakd5QTNXdVh0R0RyXzluQzlyWkIwUlhtVEVkWWhTOS14NzBzTEJpQ1Q5UmxST3U5QjVNRVRn</link>
+      <description>Italy's Generali cuts around 800 jobs in Germany Reuters</description>
+      <guid isPermaLink="false">6185edf7757e9c05e652e593fa450dc864146475</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bank of Italy calls for digital asset investments by banks despite uncertainty</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeWJaUzBocHF6S0JJZEEya3l3T25FSjZ5UWNhY1hfZGlIYS15enpoMjFaZFJTMVcxcVBPVEJ2TUpxT2JueEZfUDlSdVBGSUp5NTl4Rnhlay1NWXZFbTNPQXNtamNBcDdFWjE5U0ZhODZBYnBBcnJSZUdaeEJRLUpiMFJFTWVVamV6Sjd6QnJfSElfanl6ZzN6SEZrZ3NBSllOV0VWSWhBWWx0RTVyaHFaV0hBOFpRS1hiZnhsc2tHU0E0dw</link>
+      <description>Bank of Italy calls for digital asset investments by banks despite uncertainty Reuters</description>
+      <guid isPermaLink="false">64a4f96338f9728a9aa76bf568881d41b701752d</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Democrat on US FCC urges broadcast industry to be more aggressive confronting the agency</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDZGUnF6MXJfcXVreTYzWjlRSzQ5VENDN3BCa2RqMGw2QTNFcmJYby1SQTl2aVd5bkFCUEZNdVZSLWo5WUwtYzhvejUtaWJaYWlHNXFlMHBuM1VRemUtbGI4Vjg2U3doM0pRWlF6NFk4U3dDU2ZMOTJLU0RXX3ZfSzdSOHRJS1pRc3d3MkdVMDJlVEhpX05CWGZWbzltZHd5XzhMUDNubDRKUjhfS1RQbHlNVThPdzlsQzFIY3BTaUNlS0M5LTEwS3FfLXotcTUxTm5J</link>
+      <description>Democrat on US FCC urges broadcast industry to be more aggressive confronting the agency Reuters</description>
+      <guid isPermaLink="false">68140ff06a221392f1ad7f98278a873438b2bcbd</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indonesia cuts pipeline gas exports to Singapore by about 9%</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVVkTFlZc0hWcDVneTJjckZnXy1kYjhtX1BYaUlZR1JwTlBJMTRzbU1jWm1yQTVqQUZ5Rl92QndOdk1wTFhoUVZUTHU5NTQ1WjFXd1YwcHJZb21JWEw1MmJVUlZRTDc2VTEzU0VyNlVIeXN2cUNOVWlKV3h3dm9Ud21RQU9ZbmdnU2lFaVU5SDMyUG9pcEI5aGF1NEo1TGZCUkxuUjQ2YjdQX0Vj</link>
+      <description>Indonesia cuts pipeline gas exports to Singapore by about 9% Reuters</description>
+      <guid isPermaLink="false">04fff069ad0a39c2122813562b0e0bc779635097</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czech coalition advances media overhaul in rushed overnight vote</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQRXZxMFpieEY0QlBTdEhzcUs0VnZfUXhnbnJnQXF0M2hmZzVmcXVnVFBUQ0RTZlZaVnc3SjRjSDdITmtyVFBhU0MwdGdZeTlfRWRiYXFFREVxZ2RDZDBVaVliVVBVU3l0S2kzRmRKWEFXU2lmMkZoekJLUjRRc2hiZUt5N08tMzRBMGxzOFJEb2RJWEcxd0lnQUNzX1l5MkNySloxaWU4WmNBV2xBVkNZT0dBNGZnYnlnOVZvTA</link>
+      <description>Czech coalition advances media overhaul in rushed overnight vote Reuters</description>
+      <guid isPermaLink="false">d80da19a190f08e45a079e3e1c8046c1e145d597</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia says drone attack damages Togliatti facilities, Ukraine says petrochemical plant hit</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVlneFRqcVJHMTZlOGpILW51QW1qWXBtVHd3aFpRZGRjT1NDUnVaUW9US2dMTUg2SGp0SGx4YjFENFZQYjVKamhPemJoYlpNQzlHS0E1ZTBHZnlwOXE2OVVJS0NqcFpCaGFuQ3lqUjZxalpSZkVzRUhTOEEzSk9jZTBhSVRuZUZreWtkWkJULXplX2VZMV9KRlN4SklZb0ZlVnhPZVRRMDNoWEdSanlPbEI3SGxSZmI3ZER6X2NneHFwMjNkUS1Dc1lid1ZPa1h1RURSTXFOX0JOSEE</link>
+      <description>Russia says drone attack damages Togliatti facilities, Ukraine says petrochemical plant hit Reuters</description>
+      <guid isPermaLink="false">0e0be889a7d8309dd24a6ab85167b214e815cb84</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump says he may move White House press corps</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0</link>
+      <description>Trump says he may move White House press corps Reuters</description>
+      <guid isPermaLink="false">87fa54dc9f31dc582a1d15112e73e71e13a888ce</guid>
+      <pubDate>Sat, 24 Oct 2026 15:54:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
