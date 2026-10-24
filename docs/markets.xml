@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:33:07 +0000</lastBuildDate>
     <item>
       <title>(AW1I.DE) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsM05ySUlPcVNMNGpWU1g2c29iOHJ1V2JlWHNveS1nWmlvUVQ5SThZbmFUU2lHbk92b29qSW9tcEx2R2dqSExoZWhmQUZSVUZDODZ0VUJvWWxoZw</link>
@@ -192,13 +192,6 @@
       <pubDate>Fri, 23 Oct 2026 11:35:04 +0000</pubDate>
     </item>
     <item>
-      <title>(DEEP.N) | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Y3JDbVF2S2VtejA0cjBXZER5amRQOVcwODZtMGVlbzJZR3htY0NabVJTZ3k1bGo3WnhsaUVBN1lCbHJJSHE2T2ppWjdYak9zcEFBdkhQdW0</link>
-      <description>(DEEP.N) | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">d6df5b73063ac0b258d1223e05d3587d81b8393f</guid>
-      <pubDate>Fri, 23 Oct 2026 17:04:24 +0000</pubDate>
-    </item>
-    <item>
       <title>(USPX.N) | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE9McHRMbXpZdVByVzhzY3VVNGV2SDNQSXBLRGNHOHhOWGF6SHc3RDhMZVZ4d0dVLVI1clQwSzE2T0k1N3k2X1cwczUtSU5QcHpJdm0tZWVxb24</link>
       <description>(USPX.N) | Stock Price &amp; Latest News Reuters</description>
@@ -304,20 +297,6 @@
       <pubDate>Fri, 23 Oct 2026 17:04:24 +0000</pubDate>
     </item>
     <item>
-      <title>GTRKPTEQ.MMV%5EL24 - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFNrLWVOWDQzWHp4em9LWkxqRGpKV25YMTlWcjhDbFpMd3pFRWw3cEhpeTB6d0lJTlVhMC12cjBWV0syYmNpMWFHWUtQcHNvY0s1MXZ6QTZrdkN0UDRkeXcxMnFaTldtc3ZwaVBCOW5GX0RLRVhwd05hRTZ3bi1pVnNWZVh2UGRYTmJiOVM2TjFhZjRv</link>
-      <description>GTRKPTEQ.MMV%5EL24 - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">6f310fdede4c1d57856b48624af971badba7bd31</guid>
-      <pubDate>Fri, 23 Oct 2026 21:22:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>671.SS%5EC94 - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNR1A1ZTl1ejhrdmQ2RG9GUU5qSE5sM0c0Wmd1Z0tsVS1FTUpYbUFVamRIY0RVUVJsWUxQeXlCS1dhRU5FdG95d256SWtibTNjTFNCRHB6czQ2UzZEQ3BVMC03UVdhRzJVbkNVeVhnR0lvS2tjY0JybmJ3Y2xCUDhFVnRB</link>
-      <description>671.SS%5EC94 - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">8ef541f1d321a7e69620761453c9bdd895f81b36</guid>
-      <pubDate>Fri, 23 Oct 2026 21:22:47 +0000</pubDate>
-    </item>
-    <item>
       <title>SHRXF.PK - | Stock Price &amp; Latest News</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2xadTlZc1BsN1ZGeEI5MDZaWWwtZFE4V1hZVWJCSHhITWJlZThGME90V3NadmNfMGVPNVJwQjh1VE4xMjRsbko3ZnFCWHJaS1BZM1dBUkRaRW40M29sNUx2Q1pQTmVOcUJyLWx6aFhQeVRzb3RLU3pXVWY0dS1Qd0xEU1lFZHRYM05r</link>
       <description>SHRXF.PK - | Stock Price &amp; Latest News Reuters</description>
@@ -353,11 +332,32 @@
       <pubDate>Fri, 23 Oct 2026 21:22:47 +0000</pubDate>
     </item>
     <item>
-      <title>4519N.MX - | Stock Price &amp; Latest News</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9xcXFDWTUwV2otLVZHdzlQV3VyZlJBLXRXdHI5cmFISGFUS0dWZEZ3Uk5rU0UyNXV4MXVMNHBmRjMxd01ubjh2RnVKVDJ4Z0Exek53Q1UzRzBmdnMwTTZ5dVUwYkoxZkpGWUpQV2g0Yw</link>
-      <description>4519N.MX - | Stock Price &amp; Latest News Reuters</description>
-      <guid isPermaLink="false">01666f6044c0dd268157a66ffa604fefe77f6d42</guid>
-      <pubDate>Fri, 23 Oct 2026 21:22:47 +0000</pubDate>
+      <title>ACONW.O - | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9nR2U4eFk4Z3dCOFZVWE9LS09iYnRQaHhuSkJ6TkIxX0dtWUt0QllhSDl3SHhmWlFhRHlJYVhTTWZiWW1JeS1ucHY4LUFXcWI2dmptVTB5S3FJS2J4X3hndHNmbVVHcDRpMV9ZRFFn</link>
+      <description>ACONW.O - | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">2829fb5f687a78a94ec48e4ab28d5ddafb1bb398</guid>
+      <pubDate>Sat, 24 Oct 2026 04:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(DEMZ.O) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vanNSM1JDWF92dU5BeXZ0VHdfdXJJd2gyOU1hYlluemtldnNzZFRKTHRVOTd6cUJxel8zczFvcUlOaUF2WmFSd0lqdVh2a0VUcjNLNFJxSFc</link>
+      <description>(DEMZ.O) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">08f587474274753d7d682681c8e32650191efab7</guid>
+      <pubDate>Sat, 24 Oct 2026 04:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(EAGL.N) | Stock Price &amp; Latest News</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SGpHcXB3YzhmTkp0SWpCcTJMazYwMzUzWUJxTkFSUEdhaVZnNXB4VGduam42SGlZRm44aGg5U1FZWExfVXk1UExpVmNqckl5ZTZQS3BUUF8</link>
+      <description>(EAGL.N) | Stock Price &amp; Latest News Reuters</description>
+      <guid isPermaLink="false">d9bc5c7f823e751d32b23fd33b55b3f89022f7c2</guid>
+      <pubDate>Sat, 24 Oct 2026 04:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>European stocks post weekly loss as France turmoil, oil prices dent earnings optimism</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE42eUNJVTNrLXFneFVQa3JlcXBiWHMtWkhrN0RXV1hEekVIU3V1SHZ5dEhHVHBUV0VpUGVNYVE3V0VlYm96bmRDOHpBWkVwQ1J6aWdjeHQxSkJTeW4zeEdwTmNXOFNDYjd2dUNSNVJ6dllMRnZQUEZhTFpJd2tVQ1JhZnNxQklGYU01MUo3YXhyZ2NFa2pFRG1MaFUxQ1E</link>
+      <description>European stocks post weekly loss as France turmoil, oil prices dent earnings optimism Reuters</description>
+      <guid isPermaLink="false">054dd6bf61bacebced80fd677104082e0ae31d08</guid>
+      <pubDate>Sat, 24 Oct 2026 04:33:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
