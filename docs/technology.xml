@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>reuters-rss / feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:32:49 +0000</lastBuildDate>
-    <item>
-      <title>What is PHP and why did it take government websites offline?</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0lJS1lzVTBUNTJULVVJZGpTR0NwcXN3SkpEQVgzQ19CaGZxNlFGWEFGU1lRTjhyYjE2RDZDTUJqMGNyQXpnaWhMbGlhLV9qZU1HSmt4WGJlMXlJLWVRNDIwY3FPdjNMSUc3UzhLWWM0N19ubjROa3pjWHJraVNJa05EeUR2WHRSbDVhN3EzWHE3UkVPUVlPN3AxMjdMSkJXdnZfRQ</link>
-      <description>What is PHP and why did it take government websites offline? Reuters</description>
-      <guid isPermaLink="false">cdb83468a84d6a4749938afd2eab94d3680f326c</guid>
-      <pubDate>Wed, 21 Oct 2026 17:09:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 10:55:13 +0000</lastBuildDate>
     <item>
       <title>Epic's 'Fortnite' to return on Apple's app store in Australia after antitrust ruling</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjdMLUxKVWZSOG53MXRaUklWZUp4Wi0xcEV0WUpIcEhxckh3ZUJfd3FIakdoRElhU2Vpdk9yMWdHWTYyYUcxYzNnbTlsVlJwRHY3S2JEb2Z0RmptY2labDZPQlo1MFlkTk82aVFPOUQ0U244V1QxbGh3d21PbTdSbFlPNlluNFU5d3J2UGxmLVd5ZzFjVU50WFZucHBhQndFNVE</link>
@@ -31,17 +24,17 @@
       <pubDate>Thu, 22 Oct 2026 11:47:39 +0000</pubDate>
     </item>
     <item>
-      <title>Nebius gets $3.5 billion Citi facility for data center growth</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVEMW1MRy1WVS1lMXhwMmxPV0ZieGVlUXlsaW9hUEczbDlsOUliSktHT1ZVTEdsR2k4YldJWS1ZejJaVDZPRTgxd3NGdUE4TlZ6Rng3WHJwUEVvTDN0NVFXTlJPalhlUTN2T1V5V0ZKMDhEMUhLS2JISkJLbEFXd29ZZldpNHNQV0NqV0U2NmZJYlFCYldqZ29XUy1STnNmWVVhRw</link>
-      <description>Nebius gets $3.5 billion Citi facility for data center growth Reuters</description>
-      <guid isPermaLink="false">e731a34143f0dded99fd9d10ae81a85b54931c5b</guid>
-      <pubDate>Thu, 22 Oct 2026 17:08:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Cable capacity emerges as bottleneck for AI data centres, Nexans says</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVRlTk43TXA0bVkzdF80RjNTY05JWGZhVGxiTndIMWREQzctcEhNZVUxbVQ0OTJ5bjByX19yMnItRHI5WFJRVzhJSlFmczJSNWpMZjNweHhfZmRRc1NuUjhxeEJyZnhLRW9zT3NCTmVtOTI5T09UTUJDV0IzVWNHUko1cDExaTBNNnpUNUlMMjNiMUVLcGlyaDZDNmx2S1B6dnRpUVRsaWlqWkdH</link>
       <description>Cable capacity emerges as bottleneck for AI data centres, Nexans says Reuters</description>
       <guid isPermaLink="false">d55c92418f7e8aa2341a4a1a6bb826de8966dac5</guid>
+      <pubDate>Thu, 22 Oct 2026 17:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebius gets $3.5 billion Citi facility for data center growth</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkVEMW1MRy1WVS1lMXhwMmxPV0ZieGVlUXlsaW9hUEczbDlsOUliSktHT1ZVTEdsR2k4YldJWS1ZejJaVDZPRTgxd3NGdUE4TlZ6Rng3WHJwUEVvTDN0NVFXTlJPalhlUTN2T1V5V0ZKMDhEMUhLS2JISkJLbEFXd29ZZldpNHNQV0NqV0U2NmZJYlFCYldqZ29XUy1STnNmWVVhRw</link>
+      <description>Nebius gets $3.5 billion Citi facility for data center growth Reuters</description>
+      <guid isPermaLink="false">e731a34143f0dded99fd9d10ae81a85b54931c5b</guid>
       <pubDate>Thu, 22 Oct 2026 17:08:18 +0000</pubDate>
     </item>
     <item>
@@ -59,17 +52,17 @@
       <pubDate>Thu, 22 Oct 2026 21:33:26 +0000</pubDate>
     </item>
     <item>
-      <title>FCC grants Intel waiver to use existing foreign-made robotic devices</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q</link>
-      <description>FCC grants Intel waiver to use existing foreign-made robotic devices Reuters</description>
-      <guid isPermaLink="false">76b0ec4103061725b4bc5aaeebc8756149ff48f8</guid>
-      <pubDate>Fri, 23 Oct 2026 11:34:47 +0000</pubDate>
-    </item>
-    <item>
       <title>Five ways to keep safe online in the wake of AI-supercharged hacking</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHRlcmF2d1RiRG56QzU3azZ0QnNaU0twQ3luRE90U0hsMUhfbGd1N1B2Y29INEt4SHR4NTltNW5EeHQzUHAwUU93YzhMTEt5Ym1VYl9sR1N3SzFiX3htQkFmMkZrTEx5ZTd6b1ZvZkZOQy1OUDYzenhzaktzVHBsWElFRzZIMlY4MEhubUhHemoxdnN2LVpiQ2ltU0dRSVJfd2hRTw</link>
       <description>Five ways to keep safe online in the wake of AI-supercharged hacking Reuters</description>
       <guid isPermaLink="false">ba616f5a8faa904444f11b9bf17a0bea584429ba</guid>
+      <pubDate>Fri, 23 Oct 2026 11:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>FCC grants Intel waiver to use existing foreign-made robotic devices</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q</link>
+      <description>FCC grants Intel waiver to use existing foreign-made robotic devices Reuters</description>
+      <guid isPermaLink="false">76b0ec4103061725b4bc5aaeebc8756149ff48f8</guid>
       <pubDate>Fri, 23 Oct 2026 11:34:47 +0000</pubDate>
     </item>
     <item>
@@ -80,17 +73,17 @@
       <pubDate>Fri, 23 Oct 2026 17:04:06 +0000</pubDate>
     </item>
     <item>
-      <title>Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF</link>
-      <description>Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks Reuters</description>
-      <guid isPermaLink="false">11066cbb24733d79a4c148267844750dae6d3618</guid>
-      <pubDate>Sat, 24 Oct 2026 04:32:49 +0000</pubDate>
-    </item>
-    <item>
       <title>PHP Foundation 'under-funded' with one full-time staff member, director says</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0F1M2JpV18ycDZBTzdodjMzcDMyQUQ1QmpZZk41emRob2VIbXdkWHN4SThaWGVtQ0R5VkdhUl9LRW5SQktkNENWVG4xVXZJaGtnOElZZ194c2tNSG9sTjVUaG1NYzFSeEdTV2ZsTTlIbmozV1NMYWlQNGNNTTRZM2d2MU1tTTFac1VFU2l0dU1jM05XbTdmSEFjaVlkaDN3UGJINGtXQjNEaVBib0kwM1JlVVc1cUYwckNOVQ</link>
       <description>PHP Foundation 'under-funded' with one full-time staff member, director says Reuters</description>
       <guid isPermaLink="false">477c5501cfe0b1dd2f7bb07ba4b3b3bd10c9cae4</guid>
+      <pubDate>Sat, 24 Oct 2026 04:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF</link>
+      <description>Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks Reuters</description>
+      <guid isPermaLink="false">11066cbb24733d79a4c148267844750dae6d3618</guid>
       <pubDate>Sat, 24 Oct 2026 04:32:49 +0000</pubDate>
     </item>
   </channel>
